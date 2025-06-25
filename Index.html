@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Society of the Cellar | Experimental Theatre</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@300;400;700&display=swap');
+        
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #0a0a0a;
+            color: #f8f8f8;
+            scroll-behavior: smooth;
+        }
+        
+        h1, h2, h3, h4 {
+            font-family: 'Playfair Display', serif;
+        }
+        
+        .nav-link {
+            position: relative;
+        }
+        
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: -2px;
+            left: 0;
+            background-color: #dc2626;
+            transition: width 0.3s ease;
+        }
+        
+        .nav-link:hover::after {
+            width: 100%;
+        }
+        
+        .show-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .show-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(220, 38, 38, 0.3);
+        }
+        
+        .collaborator-card:hover .collaborator-overlay {
+            opacity: 1;
+        }
+        
+        .collaborator-overlay {
+            transition: opacity 0.3s ease;
+        }
+        
+        .join-form input {
+            background-color: rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .join-form input:focus {
+            background-color: rgba(255, 255, 255, 0.2);
+            outline: none;
+            border-color: #dc2626;
+        }
+        
+        .menu-btn {
+            transition: all 0.3s ease;
+        }
+        
+        .menu-btn.active .bar:nth-child(1) {
+            transform: translateY(8px) rotate(45deg);
+        }
+        
+        .menu-btn.active .bar:nth-child(2) {
+            opacity: 0;
+        }
+        
+        .menu-btn.active .bar:nth-child(3) {
+            transform: translateY(-8px) rotate(-45deg);
+        }
+        
+        .bar {
+            transition: all 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="fixed w-full bg-black bg-opacity-90 z-50 border-b border-gray-800">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold tracking-tight" style="font-family: 'Playfair Display', serif;">
+                <span class="text-white">SOCIETY</span>
+                <span class="text-red-600">OF THE</span>
+                <span class="text-white">CELLAR</span>
+            </a>
+            
+            <div class="hidden md:flex space-x-8">
+                <a href="#about" class="nav-link text-white hover:text-red-500">About</a>
+                <a href="#productions" class="nav-link text-white hover:text-red-500">Productions</a>
+                <a href="#collaborators" class="nav-link text-white hover:text-red-500">Collaborators</a>
+                <a href="#join" class="nav-link text-white hover:text-red-500">Join</a>
+                <a href="#contact" class="nav-link text-white hover:text-red-500">Contact</a>
+            </div>
+            
+            <button id="menu-btn" class="md:hidden menu-btn focus:outline-none">
+                <div class="bar w-6 h-0.5 bg-white my-1.5"></div>
+                <div class="bar w-6 h-0.5 bg-white my-1.5"></div>
+                <div class="bar w-6 h-0.5 bg-white my-1.5"></div>
+            </button>
+        </div>
+        
+        <div id="mobile-menu" class="md:hidden hidden bg-black bg-opacity-95 w-full px-4 py-3 border-t border-gray-800">
+            <div class="flex flex-col space-y-3">
+                <a href="#about" class="nav-link text-white hover:text-red-500 block py-2">About</a>
+                <a href="#productions" class="nav-link text-white hover:text-red-500 block py-2">Productions</a>
+                <a href="#collaborators" class="nav-link text-white hover:text-red-500 block py-2">Collaborators</a>
+                <a href="#join" class="nav-link text-white hover:text-red-500 block py-2">Join</a>
+                <a href="#contact" class="nav-link text-white hover:text-red-500 block py-2">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="relative h-screen flex items-center justify-center bg-black overflow-hidden pt-16">
+        <video autoplay muted loop class="absolute w-full h-full object-cover opacity-40">
+            <source src="https://assets.mixkit.co/videos/preview/mixkit-theatre-stage-with-red-curtains-17739-large.mp4" type="video/mp4">
+        </video>
+        
+        <div class="container mx-auto px-4 z-10 text-center">
+            <h1 class="text-5xl md:text-7xl font-bold mb-6" style="font-family: 'Playfair Display', serif;">
+                <span class="text-white">DARE TO</span>
+                <span class="text-red-600">DESCEND</span>
+            </h1>
+            <p class="text-xl md:text-2xl max-w-3xl mx-auto mb-8 text-gray-300">
+                Where experimental theatre meets radical storytelling in the depths of artistic rebellion.
+            </p>
+            <a href="#productions" class="inline-block px-8 py-3 bg-red-600 text-white font-bold uppercase tracking-wider hover:bg-red-700 transition duration-300">
+                Witness Our Work
+            </a>
+        </div>
+        
+        <div class="absolute bottom-10 left-0 right-0 flex justify-center">
+            <a href="#about" class="text-white animate-bounce">
+                <i class="fas fa-chevron-down text-2xl"></i>
+            </a>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="py-20 bg-gradient-to-b from-black to-gray-900">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4" style="font-family: 'Playfair Display', serif;">
+                    <span class="text-white">ABOUT</span>
+                    <span class="text-red-600">THE SOCIETY</span>
+                </h2>
+                <div class="w-24 h-1 bg-red-600 mx-auto"></div>
+            </div>
+            
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <div>
+                    <h3 class="text-2xl font-bold mb-6 text-white">Our Manifesto</h3>
+                    <p class="text-gray-300 mb-6 leading-relaxed">
+                        Founded in the underground spaces where art meets revolution, Society of the Cellar is a collective of theatre makers dedicated to dismantling conventions. We create work that exists in the liminal space between performance and provocation.
+                    </p>
+                    <p class="text-gray-300 mb-6 leading-relaxed">
+                        Our productions excavate forgotten histories, challenge dominant narratives, and reimagine theatrical form. We believe in theatre as a radical act—a space where audiences don't just watch, but participate in collective transformation.
+                    </p>
+                    <div class="flex space-x-4">
+                        <div class="border-l-2 border-red-600 pl-4">
+                            <p class="text-gray-300 italic">"Theatre should disturb the comfortable and comfort the disturbed."</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="relative">
+                    <div class="aspect-w-16 aspect-h-9 overflow-hidden rounded-lg shadow-xl">
+                        <img src="https://images.unsplash.com/photo-1546483875-ad9014c88eba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80" alt="Theatre performance" class="w-full h-full object-cover">
+                    </div>
+                    <div class="absolute -bottom-6 -right-6 bg-red-600 text-white p-4 shadow-lg">
+                        <p class="font-bold">Since 2025</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-20 grid md:grid-cols-3 gap-8">
+                <div class="bg-gray-900 p-8 rounded-lg border border-gray-800 hover:border-red-600 transition duration-300">
+                    <div class="text-red-600 text-4xl mb-4">
+                        <i class="fas fa-theater-masks"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3 text-white">Radical Aesthetic</h3>
+                    <p class="text-gray-400">
+                        We reject traditional staging in favor of immersive, site-specific experiences that blur boundaries between performer and audience.
+                    </p>
+                </div>
+                
+                <div class="bg-gray-900 p-8 rounded-lg border border-gray-800 hover:border-red-600 transition duration-300">
+                    <div class="text-red-600 text-4xl mb-4">
+                        <i class="fas fa-history"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3 text-white">Historical Subversion</h3>
+                    <p class="text-gray-400">
+                        Our work re-examines history through marginalized perspectives, revealing suppressed narratives and challenging official accounts.
+                    </p>
+                </div>
+                
+                <div class="bg-gray-900 p-8 rounded-lg border border-gray-800 hover:border-red-600 transition duration-300">
+                    <div class="text-red-600 text-4xl mb-4">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3 text-white">Collective Practice</h3>
+                    <p class="text-gray-400">
+                        We operate as a non-hierarchical collective where all members contribute to the creative process and decision-making.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Productions Section -->
+    <section id="productions" class="py-20 bg-gray-900">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4" style="font-family: 'Playfair Display', serif;">
+                    <span class="text-white">OUR</span>
+                    <span class="text-red-600">PRODUCTIONS</span>
+                </h2>
+                <div class="w-24 h-1 bg-red-600 mx-auto"></div>
+            </div>
+            
+            <div class="mb-12">
+                <h3 class="text-2xl font-bold mb-6 text-white">Current Show</h3>
+                <div class="show-card bg-black rounded-lg overflow-hidden shadow-xl">
+                    <div class="md:flex">
+                        <div class="md:w-1/2">
+                            <img src="https://images.unsplash.com/photo-1514306193077-45ede1b5b1db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Current production" class="w-full h-full object-cover">
+                        </div>
+                        <div class="md:w-1/2 p-8">
+                            <div class="flex justify-between items-start mb-4">
+                                <h4 class="text-2xl font-bold text-white">THE BLOOD ARCHIVE</h4>
+                                <span class="bg-red-600 text-white px-3 py-1 text-sm font-bold">NOW SHOWING</span>
+                            </div>
+                            <p class="text-gray-400 mb-6">
+                                An immersive excavation of medical violence against women throughout history. Audience members become witnesses in a participatory tribunal that blends performance with archival research.
+                            </p>
+                            <div class="mb-6">
+                                <div class="flex items-center mb-2">
+                                    <i class="fas fa-map-marker-alt text-red-600 mr-2"></i>
+                                    <span class="text-gray-300">The Vaults, Waterloo</span>
+                                </div>
+                                <div class="flex items-center mb-2">
+                                    <i class="fas fa-calendar-alt text-red-600 mr-2"></i>
+                                    <span class="text-gray-300">Through October 31, 2023</span>
+                                </div>
+                                <div class="flex items-center">
+                                    <i class="fas fa-clock text-red-600 mr-2"></i>
+                                    <span class="text-gray-300">90 minutes, no intermission</span>
+                                </div>
+                            </div>
+                            <a href="#contact" class="inline-block px-6 py-2 bg-red-600 text-white font-bold hover:bg-red-700 transition duration-300">
+                                Book Tickets
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <h3 class="text-2xl font-bold mb-6 text-white">Past Productions</h3>
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="show-card bg-black rounded-lg overflow-hidden border border-gray-800">
+                    <img src="https://images.unsplash.com/photo-1543584756-4d394c29a43f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Past production" class="w-full h-48 object-cover">
+                    <div class="p-6">
+                        <h4 class="text-xl font-bold mb-2 text-white">OH CONSTANTINE!</h4>
+                        <p class="text-gray-400 text-sm mb-4">2025</p>
+                        <p class="text-gray-400 mb-4">
+                            Our debut production exploring the life of Constantine the Great through queer lens. Featured at <a href="https://www.hollywoodfringe.org/projects/11553" class="text-red-500 hover:underline">Hollywood Fringe</a> and funded via <a href="https://seedandspark.com/fund/oh-constantine-play" class="text-red-500 hover:underline">Seed & Spark</a>.
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-red-600 text-sm font-bold">CLOSED</span>
+                            <a href="https://www.ohconstantineplay.com" class="text-white text-sm hover:text-red-500 flex items-center">
+                                View Site <i class="fas fa-arrow-right ml-1 text-xs"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="show-card bg-black rounded-lg overflow-hidden border border-gray-800">
+                    <img src="https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Past production" class="w-full h-48 object-cover">
+                    <div class="p-6">
+                        <h4 class="text-xl font-bold mb-2 text-white">THE SILENCE MACHINE</h4>
+                        <p class="text-gray-400 text-sm mb-4">2021</p>
+                        <p class="text-gray-400 mb-4">
+                            An interactive sound installation exploring censorship, performed in complete darkness with binaural audio.
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-red-600 text-sm font-bold">CLOSED</span>
+                            <a href="#" class="text-white text-sm hover:text-red-500 flex items-center">
+                                View Gallery <i class="fas fa-arrow-right ml-1 text-xs"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="show-card bg-black rounded-lg overflow-hidden border border-gray-800">
+                    <img src="https://images.unsplash.com/photo-1511724779930-5d0f56d9c91b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Past production" class="w-full h-48 object-cover">
+                    <div class="p-6">
+                        <h4 class="text-xl font-bold mb-2 text-white">THE BURNING LIBRARY</h4>
+                        <p class="text-gray-400 text-sm mb-4">2020</p>
+                        <p class="text-gray-400 mb-4">
+                            A promenade performance through a labyrinth of books, examining knowledge lost to political purges and cultural destruction.
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-red-600 text-sm font-bold">CLOSED</span>
+                            <a href="#" class="text-white text-sm hover:text-red-500 flex items-center">
+                                View Gallery <i class="fas fa-arrow-right ml-1 text-xs"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-12 text-center">
+                <a href="#" class="inline-block px-6 py-2 border border-white text-white font-bold hover:bg-white hover:text-black transition duration-300">
+                    View All Productions
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Collaborators Section -->
+    <section id="collaborators" class="py-20 bg-black">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4" style="font-family: 'Playfair Display', serif;">
+                    <span class="text-white">OUR</span>
+                    <span class="text-red-600">COLLABORATORS</span>
+                </h2>
+                <div class="w-24 h-1 bg-red-600 mx-auto"></div>
+                <p class="text-gray-400 max-w-2xl mx-auto mt-4">
+                    A rotating collective of theatre makers, visual artists, and radical thinkers who bring our visions to life.
+                </p>
+            </div>
+            
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="collaborator-card relative group">
+                    <div class="aspect-square overflow-hidden rounded-lg">
+                        <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80" alt="Collaborator" class="w-full h-full object-cover">
+                    </div>
+                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
+                        <h3 class="text-2xl font-bold text-white">JAN-DAVID SOUTAR</h3>
+                        <p class="text-red-500 mb-2">Founding Director</p>
+                        <p class="text-gray-300 text-sm">
+                            Creator of our debut production <a href="https://www.ohconstantineplay.com" class="text-red-500 hover:underline">Oh Constantine!</a>. Explore more at <a href="https://jandavidsoutar.com" class="text-red-500 hover:underline">jandavidsoutar.com</a>.
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="collaborator-card relative group">
+                    <div class="aspect-square overflow-hidden rounded-lg">
+                        <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Collaborator" class="w-full h-full object-cover">
+                    </div>
+                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
+                        <h3 class="text-2xl font-bold text-white">DARIUS CHEN</h3>
+                        <p class="text-red-500 mb-2">Sound Designer</p>
+                        <p class="text-gray-300 text-sm">
+                            Darius creates immersive soundscapes that blend field recordings with electronic composition. His work has been featured at the Berliner Festspiele.
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="collaborator-card relative group">
+                    <div class="aspect-square overflow-hidden rounded-lg">
+                        <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Collaborator" class="w-full h-full object-cover">
+                    </div>
+                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
+                        <h3 class="text-2xl font-bold text-white">ELENA PETROVA</h3>
+                        <p class="text-red-500 mb-2">Movement Director</p>
+                        <p class="text-gray-300 text-sm">
+                            Elena's choreography explores the politics of the body under surveillance. Former member of Pina Bausch's Tanztheater Wuppertal.
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="collaborator-card relative group">
+                    <div class="aspect-square overflow-hidden rounded-lg">
+                        <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Collaborator" class="w-full h-full object-cover">
+                    </div>
+                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
+                        <h3 class="text-2xl font-bold text-white">MARCUS ABEL</h3>
+                        <p class="text-red-500 mb-2">Dramaturg</p>
+                        <p class="text-gray-300 text-sm">
+                            Marcus specializes in historical research and radical reinterpretations of classical texts. Author of "Theatre of the Oppressed: A New Grammar."
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="collaborator-card relative group">
+                    <div class="aspect-square overflow-hidden rounded-lg">
+                        <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80" alt="Collaborator" class="w-full h-full object-cover">
+                    </div>
+                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
+                        <h3 class="text-2xl font-bold text-white">SOFIA MARTINEZ</h3>
+                        <p class="text-red-500 mb-2">Lighting Designer</p>
+                        <p class="text-gray-300 text-sm">
+                            Sofia creates lighting environments that transform architectural spaces. Her work has been described as "painting with darkness."
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="collaborator-card relative group">
+                    <div class="aspect-square overflow-hidden rounded-lg">
+                        <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Collaborator" class="w-full h-full object-cover">
+                    </div>
+                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
+                        <h3 class="text-2xl font-bold text-white">THE COLLECTIVE</h3>
+                        <p class="text-red-500 mb-2">Performers & Creators</p>
+                        <p class="text-gray-300 text-sm">
+                            Our rotating ensemble of performers, writers, and designers who contribute to each production. We welcome new collaborators for every project.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-12 text-center">
+                <a href="#" class="inline-block px-6 py-2 border border-white text-white font-bold hover:bg-white hover:text-black transition duration-300">
+                    Meet All Collaborators
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Join Section -->
+    <section id="join" class="py-20 bg-gradient-to-b from-gray-900 to-black">
+        <div class="container mx-auto px-4">
+            <div class="max-w-4xl mx-auto bg-black rounded-lg overflow-hidden border border-gray-800">
+                <div class="md:flex">
+                    <div class="md:w-1/2 bg-red-600 p-12 flex flex-col justify-center">
+                        <h2 class="text-3xl font-bold mb-4 text-white" style="font-family: 'Playfair Display', serif;">
+                            JOIN THE CELLAR
+                        </h2>
+                        <p class="text-white mb-6">
+                            Become part of our underground network. Subscribers receive exclusive content, early ticket access, and invitations to secret performances.
+                        </p>
+                        <ul class="space-y-3 text-white">
+                            <li class="flex items-center">
+                                <i class="fas fa-check-circle mr-2"></i>
+                                <span>Monthly digital zine with behind-the-scenes content</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="fas fa-check-circle mr-2"></i>
+                                <span>24-hour presale for all productions</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="fas fa-check-circle mr-2"></i>
+                                <span>Invitations to members-only readings and workshops</span>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                    <div class="md:w-1/2 p-12">
+                        <h3 class="text-2xl font-bold mb-6 text-white">Enter the Cellar</h3>
+                        <form class="join-form space-y-4">
+                            <div>
+                                <label for="name" class="block text-gray-400 mb-1">Name</label>
+                                <input type="text" id="name" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 text-white">
+                            </div>
+                            <div>
+                                <label for="email" class="block text-gray-400 mb-1">Email</label>
+                                <input type="email" id="email" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 text-white">
+                            </div>
+                            <div>
+                                <label for="interest" class="block text-gray-400 mb-1">Primary Interest</label>
+                                <select id="interest" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white">
+                                    <option value="">Select...</option>
+                                    <option value="audience">Audience Member</option>
+                                    <option value="collaborator">Potential Collaborator</option>
+                                    <option value="press">Press/Media</option>
+                                    <option value="venue">Venue/Programming</option>
+                                </select>
+                            </div>
+                            <div class="pt-2">
+                                <button type="submit" class="w-full px-6 py-3 bg-red-600 text-white font-bold hover:bg-red-700 transition duration-300">
+                                    Submit
+                                </button>
+                            </div>
+                            <p class="text-gray-500 text-xs">
+                                By joining, you agree to our <a href="#" class="text-red-500 hover:underline">privacy policy</a>. We'll never share your information without your consent.
+                            </p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-20 bg-black">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4" style="font-family: 'Playfair Display', serif;">
+                    <span class="text-white">CONTACT</span>
+                    <span class="text-red-600">/ BOOKING</span>
+                </h2>
+                <div class="w-24 h-1 bg-red-600 mx-auto"></div>
+                <p class="text-gray-400 max-w-2xl mx-auto mt-4">
+                    For press inquiries, booking information, or to discuss potential collaborations.
+                </p>
+            </div>
+            
+            <div class="max-w-4xl mx-auto grid md:grid-cols-2 gap-12">
+                <div>
+                    <h3 class="text-2xl font-bold mb-6 text-white">Get In Touch</h3>
+                    <form class="space-y-4">
+                        <div>
+                            <label for="contact-name" class="block text-gray-400 mb-1">Name</label>
+                            <input type="text" id="contact-name" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white">
+                        </div>
+                        <div>
+                            <label for="contact-email" class="block text-gray-400 mb-1">Email</label>
+                            <input type="email" id="contact-email" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white">
+                        </div>
+                        <div>
+                            <label for="contact-subject" class="block text-gray-400 mb-1">Subject</label>
+                            <select id="contact-subject" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white">
+                                <option value="">Select...</option>
+                                <option value="booking">Booking Inquiry</option>
+                                <option value="press">Press Inquiry</option>
+                                <option value="collaboration">Collaboration Proposal</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label for="contact-message" class="block text-gray-400 mb-1">Message</label>
+                            <textarea id="contact-message" rows="4" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white"></textarea>
+                        </div>
+                        <div class="pt-2">
+                            <button type="submit" class="w-full px-6 py-3 bg-red-600 text-white font-bold hover:bg-red-700 transition duration-300">
+                                Send Message
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                
+                <div>
+                    <h3 class="text-2xl font-bold mb-6 text-white">Other Ways to Connect</h3>
+                    <div class="space-y-6">
+                        <div class="flex items-start">
+                            <div class="text-red-600 text-xl mt-1 mr-4">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-white font-bold mb-1">Email</h4>
+                                <a href="mailto:contact@societyofthecellar.com" class="text-gray-400 hover:text-red-500">contact@societyofthecellar.com</a>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-start">
+                            <div class="text-red-600 text-xl mt-1 mr-4">
+                                <i class="fas fa-phone-alt"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-white font-bold mb-1">Phone</h4>
+                                <a href="tel:+442079460000" class="text-gray-400 hover:text-red-500">+44 20 7946 0000</a>
+                                <p class="text-gray-500 text-sm mt-1">Mon-Fri, 10am-6pm GMT</p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-start">
+                            <div class="text-red-600 text-xl mt-1 mr-4">
+                                <i class="fas fa-map-marker-alt"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-white font-bold mb-1">Mailing Address</h4>
+                                <p class="text-gray-400">The Vaults, Leake Street, London SE1 7NN</p>
+                                <p class="text-gray-500 text-sm mt-1">(By appointment only)</p>
+                            </div>
+                        </div>
+                        
+                        <div class="pt-4">
+                            <h4 class="text-white font-bold mb-3">Follow Us</h4>
+                            <div class="flex space-x-4">
+                                <a href="#" class="text-gray-400 hover:text-red-500 text-xl">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="#" class="text-gray-400 hover:text-red-500 text-xl">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="#" class="text-gray-400 hover:text-red-500 text-xl">
+                                    <i class="fab fa-vimeo-v"></i>
+                                </a>
+                                <a href="#" class="text-gray-400 hover:text-red-500 text-xl">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-black border-t border-gray-800 py-12">
+        <div class="container mx-auto px-4">
+            <div class="grid md:grid-cols-4 gap-8">
+                <div>
+                    <h3 class="text-xl font-bold mb-4 text-white" style="font-family: 'Playfair Display', serif;">
+                        <span>SOCIETY</span>
+                        <span class="text-red-600">OF THE</span>
+                        <span>CELLAR</span>
+                    </h3>
+                    <p class="text-gray-400">
+                        Experimental theatre collective creating radical, immersive performances since 2015.
+                    </p>
+                </div>
+                
+                <div>
+                    <h4 class="text-white font-bold mb-4">Navigation</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#about" class="text-gray-400 hover:text-red-500">About</a></li>
+                        <li><a href="#productions" class="text-gray-400 hover:text-red-500">Productions</a></li>
+                        <li><a href="#collaborators" class="text-gray-400 hover:text-red-500">Collaborators</a></li>
+                        <li><a href="#join" class="text-gray-400 hover:text-red-500">Join</a></li>
+                        <li><a href="#contact" class="text-gray-400 hover:text-red-500">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h4 class="text-white font-bold mb-4">Legal</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-gray-400 hover:text-red-500">Privacy Policy</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-red-500">Terms of Service</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-red-500">Accessibility</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-red-500">Code of Conduct</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h4 class="text-white font-bold mb-4">Newsletter</h4>
+                    <p class="text-gray-400 mb-4">
+                        Subscribe for clandestine updates and underground happenings.
+                    </p>
+                    <form class="flex">
+                        <input type="email" placeholder="Your email" class="px-4 py-2 bg-gray-900 text-white border border-gray-700 rounded-l focus:outline-none focus:border-red-600 w-full">
+                        <button type="submit" class="px-4 py-2 bg-red-600 text-white rounded-r hover:bg-red-700">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+            
+            <div class="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
+                <p class="text-gray-500 text-sm">
+                    © 2025 Society of the Cellar. All rights reserved.
+                </p>
+                <p class="text-gray-500 text-sm mt-4 md:mt-0">
+                    Designed with <i class="fas fa-heart text-red-600"></i> in London
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu toggle
+        const menuBtn = document.getElementById('menu-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+        
+        menuBtn.addEventListener('click', () => {
+            menuBtn.classList.toggle('active');
+            mobileMenu.classList.toggle('hidden');
+        });
+        
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                
+                const targetId = this.getAttribute('href');
+                const targetElement = document.querySelector(targetId);
+                
+                if (targetElement) {
+                    window.scrollTo({
+                        top: targetElement.offsetTop - 80,
+                        behavior: 'smooth'
+                    });
+                    
+                    // Close mobile menu if open
+                    if (!mobileMenu.classList.contains('hidden')) {
+                        menuBtn.classList.remove('active');
+                        mobileMenu.classList.add('hidden');
+                    }
+                }
+            });
+        });
+        
+        // Form submission handling (prevent default for demo)
+        document.querySelectorAll('form').forEach(form => {
+            form.addEventListener('submit', (e) => {
+                e.preventDefault();
+                alert('Form submission would be handled here in a live implementation.');
+            });
+        });
+    </script>
+</body>
+</html>
