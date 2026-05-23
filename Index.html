@@ -3,684 +3,1294 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Society of the Cellar | Experimental Theatre</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Society of the Cellar | Revolutionary Theatre</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@300;400;700&display=swap');
-        
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --black: #080808;
+            --white: #f4f0e8;
+            --red: #8b0000;
+            --red-bright: #c41e1e;
+            --gray-dark: #111111;
+            --gray-mid: #1a1a1a;
+            --gray-line: rgba(244,240,232,0.1);
+            --font-impact: 'Bebas Neue', sans-serif;
+            --font-display: 'Playfair Display', serif;
+            --font-body: 'EB Garamond', serif;
+        }
+
+        html { scroll-behavior: smooth; }
+
         body {
-            font-family: 'Roboto', sans-serif;
-            background-color: #0a0a0a;
-            color: #f8f8f8;
-            scroll-behavior: smooth;
+            font-family: var(--font-body);
+            background-color: var(--black);
+            color: var(--white);
+            overflow-x: hidden;
         }
-        
-        h1, h2, h3, h4 {
-            font-family: 'Playfair Display', serif;
+
+        ::-webkit-scrollbar { width: 2px; }
+        ::-webkit-scrollbar-track { background: var(--black); }
+        ::-webkit-scrollbar-thumb { background: var(--red); }
+
+        /* ── HAMBURGER ── */
+        .hamburger {
+            position: fixed;
+            top: 36px;
+            right: 40px;
+            z-index: 200;
+            cursor: pointer;
+            width: 36px;
+            height: 22px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
         }
-        
-        .nav-link {
+        .hamburger span {
+            display: block;
+            width: 100%;
+            height: 1px;
+            background: var(--white);
+            transition: all 0.45s cubic-bezier(0.76, 0, 0.24, 1);
+            transform-origin: left center;
+        }
+        .hamburger.open span:nth-child(1) { transform: rotate(38deg) translateY(-1px); }
+        .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+        .hamburger.open span:nth-child(3) { transform: rotate(-38deg) translateY(1px); }
+
+        /* ── NAV OVERLAY ── */
+        .nav-overlay {
+            position: fixed;
+            inset: 0;
+            background: var(--black);
+            z-index: 180;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.5s cubic-bezier(0.76, 0, 0.24, 1);
+        }
+        .nav-overlay.open { opacity: 1; pointer-events: all; }
+
+        .nav-links { text-align: center; list-style: none; }
+        .nav-links li { overflow: hidden; margin: 0.3rem 0; }
+        .nav-links a {
+            display: block;
+            font-family: var(--font-display);
+            font-size: clamp(2.2rem, 6vw, 4.5rem);
+            font-weight: 400;
+            color: var(--white);
+            text-decoration: none;
+            letter-spacing: -0.02em;
+            transform: translateY(110%);
+            transition: transform 0.6s cubic-bezier(0.76, 0, 0.24, 1), color 0.3s;
+        }
+        .nav-overlay.open .nav-links a { transform: translateY(0); }
+        .nav-overlay.open .nav-links li:nth-child(1) a { transition-delay: 0.05s; }
+        .nav-overlay.open .nav-links li:nth-child(2) a { transition-delay: 0.1s; }
+        .nav-overlay.open .nav-links li:nth-child(3) a { transition-delay: 0.15s; }
+        .nav-overlay.open .nav-links li:nth-child(4) a { transition-delay: 0.2s; }
+        .nav-overlay.open .nav-links li:nth-child(5) a { transition-delay: 0.25s; }
+        .nav-links a:hover { color: var(--red-bright); }
+
+        .nav-footer {
+            position: absolute;
+            bottom: 48px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-family: var(--font-body);
+            font-size: 0.82rem;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            opacity: 0.28;
+            white-space: nowrap;
+        }
+
+        /* ── WORDMARK ── */
+        .wordmark {
+            position: fixed;
+            top: 32px;
+            left: 40px;
+            z-index: 200;
+            font-family: var(--font-display);
+            font-size: 0.82rem;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--white);
+            text-decoration: none;
+        }
+        .wordmark em { font-style: normal; color: var(--red-bright); }
+
+        /* ── HERO ── */
+        .hero {
+            height: 100vh;
+            min-height: 600px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            align-items: flex-start;
+            padding: 0 8vw 12vh;
+            position: relative;
+            overflow: hidden;
+            background: var(--black);
+        }
+
+        .hero-eyebrow {
+            font-family: var(--font-body);
+            font-size: 0.82rem;
+            letter-spacing: 0.28em;
+            text-transform: uppercase;
+            color: var(--red-bright);
+            margin-bottom: 1rem;
+            opacity: 0;
+            transform: translateY(18px);
+            animation: fadeUp 0.9s cubic-bezier(0.76,0,0.24,1) 0.2s forwards;
+        }
+
+        .hero h1 {
+            font-family: var(--font-impact);
+            font-size: clamp(4.5rem, 13vw, 11rem);
+            font-weight: 400;
+            line-height: 0.88;
+            letter-spacing: 0.03em;
+            margin-bottom: 2rem;
+            opacity: 0;
+            transform: translateY(30px);
+            animation: fadeUp 1s cubic-bezier(0.76,0,0.24,1) 0.32s forwards;
+        }
+        .hero h1 .accent { color: var(--red-bright); display: block; }
+
+        .hero-sub {
+            font-family: var(--font-body);
+            font-size: 1.1rem;
+            line-height: 1.75;
+            max-width: 400px;
+            color: rgba(244,240,232,0.55);
+            opacity: 0;
+            animation: fadeUp 1s cubic-bezier(0.76,0,0.24,1) 0.48s forwards;
+        }
+
+        .hero-scroll {
+            position: absolute;
+            bottom: 40px;
+            left: 8vw;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            font-family: var(--font-body);
+            font-size: 0.75rem;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: rgba(244,240,232,0.3);
+            opacity: 0;
+            animation: fadeUp 0.8s ease 1.1s forwards;
+        }
+        .hero-scroll-line {
+            width: 48px;
+            height: 1px;
+            background: var(--red);
+        }
+
+        @keyframes fadeUp {
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* ── SECTION LABELS ── */
+        .section-label {
+            font-family: var(--font-body);
+            font-size: 0.72rem;
+            letter-spacing: 0.28em;
+            text-transform: uppercase;
+            color: var(--red-bright);
+            margin-bottom: 0.8rem;
+            display: block;
+        }
+
+        /* ── HORIZONTAL SCROLL: PRODUCTIONS ── */
+        .h-scroll-outer {
             position: relative;
         }
-        
-        .nav-link::after {
+
+        .h-scroll-sticky {
+            position: sticky;
+            top: 0;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .h-scroll-track {
+            display: flex;
+            height: 100vh;
+            width: max-content;
+        }
+
+        /* Section header panel — first panel before production cards */
+        .h-panel-header {
+            width: 40vw;
+            height: 100vh;
+            flex-shrink: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            padding: 0 6vw 80px 8vw;
+            background: var(--black);
+            border-right: 1px solid var(--gray-line);
+        }
+
+        .h-panel-header h2 {
+            font-family: var(--font-display);
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            line-height: 1.05;
+            margin-bottom: 1rem;
+        }
+        .h-panel-header p {
+            font-family: var(--font-body);
+            font-size: 1rem;
+            color: rgba(244,240,232,0.45);
+            line-height: 1.7;
+        }
+
+        /* Production panel */
+        .production-panel {
+            width: 55vw;
+            height: 100vh;
+            flex-shrink: 0;
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+            border-right: 1px solid var(--gray-line);
+        }
+
+        .production-panel img {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0.35;
+            filter: grayscale(40%);
+            transition: opacity 0.9s ease, transform 0.9s ease, filter 0.9s ease;
+        }
+        .production-panel:hover img {
+            opacity: 0.55;
+            transform: scale(1.04);
+            filter: grayscale(0%);
+        }
+
+        /* Dark overlay always present, deepens on hover */
+        .production-panel::before {
             content: '';
             position: absolute;
-            width: 0;
-            height: 2px;
-            bottom: -2px;
+            inset: 0;
+            background: linear-gradient(
+                to top,
+                rgba(8,8,8,0.92) 0%,
+                rgba(8,8,8,0.5) 40%,
+                rgba(8,8,8,0.15) 100%
+            );
+            z-index: 1;
+            transition: background 0.5s;
+        }
+
+        .panel-content {
+            position: absolute;
+            bottom: 0;
             left: 0;
-            background-color: #dc2626;
-            transition: width 0.3s ease;
+            right: 0;
+            padding: 56px 56px 64px;
+            z-index: 2;
         }
-        
-        .nav-link:hover::after {
-            width: 100%;
+
+        .panel-status {
+            font-family: var(--font-body);
+            font-size: 0.7rem;
+            letter-spacing: 0.25em;
+            text-transform: uppercase;
+            color: var(--red-bright);
+            margin-bottom: 0.8rem;
+            display: block;
         }
-        
-        .show-card {
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+        .panel-title {
+            font-family: var(--font-impact);
+            font-size: clamp(3rem, 6vw, 5.5rem);
+            line-height: 0.9;
+            letter-spacing: 0.04em;
+            color: var(--white);
+            margin-bottom: 0.6rem;
         }
-        
-        .show-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(220, 38, 38, 0.3);
+
+        .panel-subtitle {
+            font-family: var(--font-display);
+            font-style: italic;
+            font-size: 1.1rem;
+            color: rgba(244,240,232,0.55);
+            margin-bottom: 1.2rem;
         }
-        
-        .collaborator-card:hover .collaborator-overlay {
-            opacity: 1;
-        }
-        
-        .collaborator-overlay {
-            transition: opacity 0.3s ease;
-        }
-        
-        .join-form input {
-            background-color: rgba(255, 255, 255, 0.1);
-            transition: all 0.3s ease;
-        }
-        
-        .join-form input:focus {
-            background-color: rgba(255, 255, 255, 0.2);
-            outline: none;
-            border-color: #dc2626;
-        }
-        
-        .menu-btn {
-            transition: all 0.3s ease;
-        }
-        
-        .menu-btn.active .bar:nth-child(1) {
-            transform: translateY(8px) rotate(45deg);
-        }
-        
-        .menu-btn.active .bar:nth-child(2) {
+
+        .panel-desc {
+            font-family: var(--font-body);
+            font-size: 0.95rem;
+            line-height: 1.7;
+            color: rgba(244,240,232,0.5);
+            max-width: 420px;
+            margin-bottom: 2rem;
             opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.4s ease 0.1s, transform 0.4s ease 0.1s;
         }
-        
-        .menu-btn.active .bar:nth-child(3) {
-            transform: translateY(-8px) rotate(-45deg);
+        .production-panel:hover .panel-desc {
+            opacity: 1;
+            transform: translateY(0);
         }
-        
-        .bar {
-            transition: all 0.3s ease;
+
+        .panel-link {
+            display: inline-block;
+            font-family: var(--font-body);
+            font-size: 0.78rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--white);
+            text-decoration: none;
+            border-bottom: 1px solid var(--red);
+            padding-bottom: 3px;
+            opacity: 0;
+            transform: translateY(8px);
+            transition: opacity 0.4s ease 0.15s, transform 0.4s ease 0.15s, color 0.3s;
+        }
+        .production-panel:hover .panel-link {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .panel-link:hover { color: var(--red-bright); }
+
+        /* In-development panel */
+        .panel-dev { opacity: 0.6; }
+        .panel-dev img { opacity: 0.15 !important; filter: grayscale(80%) !important; }
+
+        /* Scroll progress dots */
+        .scroll-dots {
+            position: absolute;
+            bottom: 36px;
+            right: 48px;
+            display: flex;
+            gap: 8px;
+            z-index: 20;
+        }
+        .dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: rgba(244,240,232,0.2);
+            transition: all 0.35s;
+        }
+        .dot.active {
+            background: var(--red-bright);
+            transform: scale(1.4);
+        }
+
+        /* Drag hint */
+        .drag-hint {
+            position: absolute;
+            top: 50%;
+            right: 5vw;
+            transform: translateY(-50%);
+            font-family: var(--font-body);
+            font-size: 0.7rem;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: rgba(244,240,232,0.2);
+            writing-mode: vertical-rl;
+            z-index: 20;
+        }
+
+        /* ── ABOUT ── */
+        #about {
+            padding: 140px 8vw;
+            background: var(--gray-dark);
+            border-top: 1px solid var(--gray-line);
+        }
+
+        .about-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10vw;
+            align-items: start;
+        }
+
+        .about-left h2 {
+            font-family: var(--font-display);
+            font-size: clamp(2rem, 4.5vw, 3.8rem);
+            font-weight: 400;
+            line-height: 1.08;
+            letter-spacing: -0.02em;
+            margin-bottom: 2.5rem;
+        }
+        .about-left h2 em { font-style: italic; color: var(--red-bright); }
+
+        .about-body {
+            font-family: var(--font-body);
+            font-size: 1.15rem;
+            line-height: 1.82;
+            color: rgba(244,240,232,0.65);
+        }
+        .about-body p + p { margin-top: 1.5rem; }
+
+        .about-right { padding-top: 3.5rem; }
+
+        .manifesto-block {
+            border-left: 1px solid var(--red);
+            padding-left: 2rem;
+            margin-bottom: 3rem;
+        }
+        .manifesto-block p {
+            font-family: var(--font-display);
+            font-style: italic;
+            font-size: 1.35rem;
+            line-height: 1.55;
+            color: rgba(244,240,232,0.82);
+        }
+
+        .pillars { border-top: 1px solid var(--gray-line); }
+        .pillar {
+            padding: 1.4rem 0;
+            border-bottom: 1px solid var(--gray-line);
+        }
+        .pillar-title {
+            font-family: var(--font-body);
+            font-size: 0.7rem;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: var(--red-bright);
+            margin-bottom: 0.5rem;
+        }
+        .pillar p {
+            font-family: var(--font-body);
+            font-size: 1rem;
+            line-height: 1.68;
+            color: rgba(244,240,232,0.5);
+        }
+
+        /* ── COLLABORATORS ── */
+        #collaborators {
+            padding: 140px 8vw;
+            background: var(--black);
+            border-top: 1px solid var(--gray-line);
+        }
+
+        #collaborators h2 {
+            font-family: var(--font-display);
+            font-size: clamp(2rem, 4.5vw, 3.8rem);
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            margin-bottom: 80px;
+        }
+
+        .collaborators-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2px;
+        }
+
+        .collaborator-card {
+            position: relative;
+            overflow: hidden;
+            aspect-ratio: 3 / 4;
+            background: var(--gray-mid);
+        }
+
+        .collaborator-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.7s cubic-bezier(0.25,0.46,0.45,0.94), filter 0.7s;
+            filter: grayscale(50%);
+        }
+        .collaborator-card:hover img { transform: scale(1.05); filter: grayscale(0%); }
+
+        .collab-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .collab-placeholder span {
+            font-family: var(--font-impact);
+            font-size: 5rem;
+            letter-spacing: 0.08em;
+            color: rgba(244,240,232,0.06);
+        }
+
+        .collab-info {
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            padding: 2rem 1.8rem;
+            background: linear-gradient(to top, rgba(8,8,8,0.96) 0%, rgba(8,8,8,0.6) 55%, transparent 100%);
+        }
+
+        .collab-name {
+            font-family: var(--font-display);
+            font-size: 1.35rem;
+            font-weight: 400;
+            margin-bottom: 0.2rem;
+        }
+        .collab-role {
+            font-family: var(--font-body);
+            font-size: 0.72rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--red-bright);
+            margin-bottom: 0.6rem;
+        }
+        .collab-bio {
+            font-family: var(--font-body);
+            font-size: 0.92rem;
+            line-height: 1.62;
+            color: rgba(244,240,232,0.55);
+            opacity: 0;
+            transform: translateY(6px);
+            transition: opacity 0.38s ease 0.08s, transform 0.38s ease 0.08s;
+        }
+        .collaborator-card:hover .collab-bio { opacity: 1; transform: translateY(0); }
+
+        /* ── JOIN ── */
+        #join {
+            padding: 140px 8vw;
+            background: var(--gray-dark);
+            border-top: 1px solid var(--gray-line);
+        }
+
+        .join-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10vw;
+            align-items: start;
+        }
+
+        .join-left h2 {
+            font-family: var(--font-display);
+            font-size: clamp(2rem, 4.5vw, 3.8rem);
+            font-weight: 400;
+            line-height: 1.05;
+            letter-spacing: -0.02em;
+            margin-bottom: 1.5rem;
+        }
+
+        .join-left p {
+            font-family: var(--font-body);
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: rgba(244,240,232,0.6);
+            margin-bottom: 2.5rem;
+        }
+
+        .join-perks { list-style: none; display: flex; flex-direction: column; gap: 1rem; }
+        .join-perks li {
+            display: flex;
+            gap: 14px;
+            align-items: flex-start;
+            font-family: var(--font-body);
+            font-size: 1rem;
+            line-height: 1.65;
+            color: rgba(244,240,232,0.55);
+        }
+        .join-perks li::before {
+            content: '✦';
+            color: var(--red-bright);
+            flex-shrink: 0;
+            font-size: 0.65rem;
+            margin-top: 4px;
+        }
+
+        .mailerlite-wrapper { margin-top: 0; }
+        .mailerlite-placeholder {
+            border: 1px dashed rgba(139,0,0,0.4);
+            padding: 32px 24px;
+            text-align: center;
+            font-family: var(--font-body);
+            font-size: 0.88rem;
+            color: rgba(244,240,232,0.25);
+            letter-spacing: 0.1em;
+            line-height: 1.8;
+        }
+        .form-note {
+            font-family: var(--font-body);
+            font-size: 0.82rem;
+            color: rgba(244,240,232,0.28);
+            line-height: 1.6;
+            margin-top: 1rem;
+        }
+
+        /* ── CONTACT ── */
+        #contact {
+            padding: 140px 8vw;
+            background: var(--black);
+            border-top: 1px solid var(--gray-line);
+        }
+
+        .contact-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10vw;
+        }
+
+        .contact-left h2 {
+            font-family: var(--font-display);
+            font-size: clamp(2rem, 4.5vw, 3.8rem);
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            margin-bottom: 1.5rem;
+            line-height: 1.05;
+        }
+        .contact-left > p {
+            font-family: var(--font-body);
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: rgba(244,240,232,0.55);
+            max-width: 360px;
+        }
+
+        .contact-direct {
+            margin-top: 2.5rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--gray-line);
+        }
+        .contact-direct p {
+            font-family: var(--font-body);
+            font-size: 0.7rem;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: rgba(244,240,232,0.3);
+            margin-bottom: 0.6rem;
+        }
+        .contact-direct a {
+            font-family: var(--font-body);
+            font-size: 1.05rem;
+            color: var(--white);
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        .contact-direct a:hover { color: var(--red-bright); }
+
+        .social-links {
+            margin-top: 2rem;
+            display: flex;
+            gap: 24px;
+        }
+        .social-links a {
+            font-family: var(--font-body);
+            font-size: 0.7rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: rgba(244,240,232,0.35);
+            text-decoration: none;
+            transition: color 0.3s;
+            position: relative;
+        }
+        .social-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -2px; left: 0;
+            width: 0; height: 1px;
+            background: var(--red-bright);
+            transition: width 0.3s;
+        }
+        .social-links a:hover { color: var(--white); }
+        .social-links a:hover::after { width: 100%; }
+
+        /* ── FORM STYLES ── */
+        .contact-form { display: flex; flex-direction: column; gap: 1.2rem; }
+
+        .form-group { display: flex; flex-direction: column; gap: 7px; }
+
+        .form-group label {
+            font-family: var(--font-body);
+            font-size: 0.7rem;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: rgba(244,240,232,0.38);
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            background: rgba(244,240,232,0.04);
+            border: 1px solid var(--gray-line);
+            border-radius: 0;
+            color: var(--white);
+            padding: 13px 16px;
+            font-family: var(--font-body);
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.3s;
+            width: 100%;
+            appearance: none;
+        }
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus { border-color: rgba(196,30,30,0.6); }
+        .form-group select option { background: #111; }
+        .form-group textarea { resize: vertical; min-height: 130px; }
+
+        /* ── BUTTONS ── */
+        .btn-primary {
+            display: inline-block;
+            padding: 14px 32px;
+            background: var(--red);
+            color: var(--white);
+            font-family: var(--font-body);
+            font-size: 0.82rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+            transition: background 0.3s, transform 0.2s;
+            width: 100%;
+            text-align: center;
+        }
+        .btn-primary:hover { background: var(--red-bright); transform: translateY(-1px); }
+
+        /* ── FOOTER ── */
+        footer {
+            padding: 44px 8vw;
+            border-top: 1px solid var(--gray-line);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .footer-brand {
+            font-family: var(--font-display);
+            font-size: 0.88rem;
+            letter-spacing: 0.12em;
+        }
+        .footer-brand em { font-style: normal; color: var(--red-bright); }
+
+        .footer-copy {
+            font-family: var(--font-body);
+            font-size: 0.78rem;
+            letter-spacing: 0.1em;
+            color: rgba(244,240,232,0.28);
+        }
+
+        .footer-nav {
+            display: flex;
+            gap: 24px;
+            list-style: none;
+        }
+        .footer-nav a {
+            font-family: var(--font-body);
+            font-size: 0.72rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: rgba(244,240,232,0.28);
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        .footer-nav a:hover { color: var(--red-bright); }
+
+        /* ── MOBILE ── */
+        @media (max-width: 900px) {
+            .wordmark { display: none; }
+            .hamburger { top: 24px; right: 24px; }
+            #about, #collaborators, #join, #contact { padding: 80px 6vw; }
+            .about-grid, .join-grid, .contact-grid { grid-template-columns: 1fr; gap: 3rem; }
+            .about-right { padding-top: 0; }
+            .collaborators-grid { grid-template-columns: 1fr 1fr; }
+            .production-panel { width: 85vw; }
+            .h-panel-header { width: 60vw; padding: 0 5vw 60px 6vw; }
+            footer { flex-direction: column; text-align: center; }
+        }
+
+        @media (max-width: 580px) {
+            .collaborators-grid { grid-template-columns: 1fr; }
+            .production-panel { width: 92vw; }
+            .h-panel-header { width: 80vw; }
         }
     </style>
 </head>
 <body>
-    <!-- Navigation -->
-    <nav class="fixed w-full bg-black bg-opacity-90 z-50 border-b border-gray-800">
-        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-            <a href="#" class="text-2xl font-bold tracking-tight" style="font-family: 'Playfair Display', serif;">
-                <span class="text-white">SOCIETY</span>
-                <span class="text-red-600">OF THE</span>
-                <span class="text-white">CELLAR</span>
-            </a>
-            
-            <div class="hidden md:flex space-x-8">
-                <a href="#about" class="nav-link text-white hover:text-red-500">About</a>
-                <a href="#productions" class="nav-link text-white hover:text-red-500">Productions</a>
-                <a href="#collaborators" class="nav-link text-white hover:text-red-500">Collaborators</a>
-                <a href="#join" class="nav-link text-white hover:text-red-500">Join</a>
-                <a href="#contact" class="nav-link text-white hover:text-red-500">Contact</a>
-            </div>
-            
-            <button id="menu-btn" class="md:hidden menu-btn focus:outline-none">
-                <div class="bar w-6 h-0.5 bg-white my-1.5"></div>
-                <div class="bar w-6 h-0.5 bg-white my-1.5"></div>
-                <div class="bar w-6 h-0.5 bg-white my-1.5"></div>
-            </button>
-        </div>
-        
-        <div id="mobile-menu" class="md:hidden hidden bg-black bg-opacity-95 w-full px-4 py-3 border-t border-gray-800">
-            <div class="flex flex-col space-y-3">
-                <a href="#about" class="nav-link text-white hover:text-red-500 block py-2">About</a>
-                <a href="#productions" class="nav-link text-white hover:text-red-500 block py-2">Productions</a>
-                <a href="#collaborators" class="nav-link text-white hover:text-red-500 block py-2">Collaborators</a>
-                <a href="#join" class="nav-link text-white hover:text-red-500 block py-2">Join</a>
-                <a href="#contact" class="nav-link text-white hover:text-red-500 block py-2">Contact</a>
-            </div>
-        </div>
+
+    <a href="#" class="wordmark">Society <em>of the</em> Cellar</a>
+
+    <button class="hamburger" id="hamburger" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+    </button>
+
+    <nav class="nav-overlay" id="navOverlay">
+        <ul class="nav-links">
+            <li><a href="#productions" class="nav-link">Productions</a></li>
+            <li><a href="#about" class="nav-link">About</a></li>
+            <li><a href="#collaborators" class="nav-link">Collaborators</a></li>
+            <li><a href="#join" class="nav-link">Join the Cellar</a></li>
+            <li><a href="#contact" class="nav-link">Contact</a></li>
+        </ul>
+        <p class="nav-footer">Los Angeles, CA — Since 2025</p>
     </nav>
 
-    <!-- Hero Section -->
-    <header class="relative h-screen flex items-center justify-center bg-black overflow-hidden pt-16">
-        <video autoplay muted loop class="absolute w-full h-full object-cover opacity-40">
-            <source src="https://assets.mixkit.co/videos/preview/mixkit-theatre-stage-with-red-curtains-17739-large.mp4" type="video/mp4">
-        </video>
-        
-        <div class="container mx-auto px-4 z-10 text-center">
-            <h1 class="text-5xl md:text-7xl font-bold mb-6" style="font-family: 'Playfair Display', serif;">
-                <span class="text-white">DARE TO</span>
-                <span class="text-red-600">DESCEND</span>
-            </h1>
-            <p class="text-xl md:text-2xl max-w-3xl mx-auto mb-8 text-gray-300">
-                Where experimental theatre meets radical storytelling in the depths of artistic rebellion.
-            </p>
-            <a href="#productions" class="inline-block px-8 py-3 bg-red-600 text-white font-bold uppercase tracking-wider hover:bg-red-700 transition duration-300">
-                Witness Our Work
-            </a>
-        </div>
-        
-        <div class="absolute bottom-10 left-0 right-0 flex justify-center">
-            <a href="#about" class="text-white animate-bounce">
-                <i class="fas fa-chevron-down text-2xl"></i>
-            </a>
+    <!-- HERO -->
+    <header class="hero">
+        <p class="hero-eyebrow">Revolutionary Theatre — Los Angeles</p>
+        <h1>DARE<br>TO <span class="accent">DESCEND</span></h1>
+        <p class="hero-sub">We make theatre in the dark. Work that lives in the liminal space between performance and provocation.</p>
+        <div class="hero-scroll">
+            <div class="hero-scroll-line"></div>
+            Scroll to explore
         </div>
     </header>
 
-    <!-- About Section -->
-    <section id="about" class="py-20 bg-gradient-to-b from-black to-gray-900">
-        <div class="container mx-auto px-4">
-            <div class="text-center mb-16">
-                <h2 class="text-4xl font-bold mb-4" style="font-family: 'Playfair Display', serif;">
-                    <span class="text-white">ABOUT</span>
-                    <span class="text-red-600">THE SOCIETY</span>
-                </h2>
-                <div class="w-24 h-1 bg-red-600 mx-auto"></div>
-            </div>
-            
-            <div class="grid md:grid-cols-2 gap-12 items-center">
-                <div>
-                    <h3 class="text-2xl font-bold mb-6 text-white">Our Manifesto</h3>
-                    <p class="text-gray-300 mb-6 leading-relaxed">
-                        Founded in the underground spaces where art meets revolution, Society of the Cellar is a collective of theatre makers dedicated to dismantling conventions. We create work that exists in the liminal space between performance and provocation.
-                    </p>
-                    <p class="text-gray-300 mb-6 leading-relaxed">
-                        Our productions excavate forgotten histories, challenge dominant narratives, and reimagine theatrical form. We believe in theatre as a radical act—a space where audiences don't just watch, but participate in collective transformation.
-                    </p>
-                    <div class="flex space-x-4">
-                        <div class="border-l-2 border-red-600 pl-4">
-                            <p class="text-gray-300 italic">"Theatre should disturb the comfortable and comfort the disturbed."</p>
+    <!-- PRODUCTIONS: HORIZONTAL SCROLL -->
+    <section id="productions">
+        <!-- The outer container height determines how long you scroll horizontally -->
+        <!-- Each 100vh of height = one panel's worth of horizontal travel -->
+        <div class="h-scroll-outer" id="hScrollOuter">
+            <div class="h-scroll-sticky" id="hScrollSticky">
+                <div class="h-scroll-track" id="hScrollTrack">
+
+                    <!-- Header Panel -->
+                    <div class="h-panel-header">
+                        <div>
+                            <span class="section-label">Productions</span>
+                            <h2>Our Work</h2>
+                            <p>Scroll to move through our productions. Click any panel to learn more.</p>
                         </div>
                     </div>
+
+                    <!-- Panel 1: Oh Constantine! -->
+                    <div class="production-panel" onclick="window.open('https://www.ohconstantineplay.com','_blank')">
+                        <img src="https://i.imgur.com/LhFxaPX.jpeg" alt="Oh Constantine!">
+                        <div class="panel-content">
+                            <span class="panel-status">Now Seeking Its Next Stage · Award Nominated</span>
+                            <div class="panel-title">OH CONSTANTINE!</div>
+                            <div class="panel-subtitle">A Holy Satire, With Music</div>
+                            <p class="panel-desc">Four bishops. One confused emperor. Infinite heresy. Slapstick theology and original music at the Hollywood Fringe Festival 2025.</p>
+                            <a class="panel-link" href="https://www.ohconstantineplay.com" target="_blank" onclick="event.stopPropagation()">Visit Show Site →</a>
+                        </div>
+                    </div>
+
+                    <!-- Panel 2: High Level Affection -->
+                    <div class="production-panel" onclick="window.open('https://shortsweethollywood.stagey.net/projects/12917','_blank')">
+                        <img src="https://raw.githubusercontent.com/phreakwenci/Societyofthecellar/main/images/High%20LEvel%20Affection.png" alt="High Level Affection">
+                        <div class="panel-content">
+                            <span class="panel-status">Past Production · Short+Sweet Hollywood 2025</span>
+                            <div class="panel-title">HIGH LEVEL AFFECTION</div>
+                            <div class="panel-subtitle">Written by Kye Roper · Directed by Jan-David Soutar</div>
+                            <p class="panel-desc">A short play presented as part of Short+Sweet Hollywood 2025, in the "Marx" programme.</p>
+                            <a class="panel-link" href="https://shortsweethollywood.stagey.net/projects/12917" target="_blank" onclick="event.stopPropagation()">View Production →</a>
+                        </div>
+                    </div>
+
+                    <!-- Panel 3: AD 33 -->
+                    <div class="production-panel" onclick="window.open('https://shortsweethollywood.stagey.net/projects/12900','_blank')">
+                        <img src="https://raw.githubusercontent.com/phreakwenci/Societyofthecellar/main/images/AD%2033%20Poster.png" alt="AD 33">
+                        <div class="panel-content">
+                            <span class="panel-status">Past Production · Short+Sweet Hollywood 2025 · Astaire Finalist</span>
+                            <div class="panel-title">AD 33</div>
+                            <div class="panel-subtitle">Directed by Athena Rethis</div>
+                            <p class="panel-desc">In 33 A.D., a well-meaning man rescues a crucified stranger — only to discover he has derailed Jesus Christ's destiny, forcing both men to confront faith, fate, and the absurd cost of second chances.</p>
+                            <a class="panel-link" href="https://shortsweethollywood.stagey.net/projects/12900" target="_blank" onclick="event.stopPropagation()">View Production →</a>
+                        </div>
+                    </div>
+
+                    <!-- Panel 4: Confessions of a Pregnant Stripper -->
+                    <div class="production-panel" onclick="window.open('https://www.hollywoodfringe.org/projects/14450','_blank')">
+                        <img src="https://raw.githubusercontent.com/phreakwenci/Societyofthecellar/main/images/Copy%20of%20HFF26_AdTemplate-EIGHTH%20(Instagram%20Reel).png" alt="Confessions of a Pregnant Stripper">
+                        <div class="panel-content">
+                            <span class="panel-status">Hollywood Fringe Festival 2026</span>
+                            <div class="panel-title">CONFESSIONS OF A PREGNANT STRIPPER</div>
+                            <div class="panel-subtitle">A Solo Performance by Megan "Reagan"</div>
+                            <p class="panel-desc">A solo performance piece by actor, performance artist, and stripper Megan "Reagan" — her hilarious, provocative, and surprisingly wholesome tale of 17 years in the club, a fertility journey, dancing until her fifth month, and everything she's learned as a soon-to-be divine portal in stilettos.</p>
+                            <a class="panel-link" href="https://www.hollywoodfringe.org/projects/14450" target="_blank" onclick="event.stopPropagation()">Tickets & Info →</a>
+                        </div>
+                    </div>
+
+                    <!-- Panel 5: United States of Christ (In Development) -->
+                    <div class="production-panel panel-dev">
+                        <img src="https://images.unsplash.com/photo-1551269901-5c41c5f3e4ee?w=1200&q=80" alt="United States of Christ">
+                        <div class="panel-content">
+                            <span class="panel-status">In Development</span>
+                            <div class="panel-title">UNITED STATES OF CHRIST</div>
+                            <div class="panel-subtitle">A New Play</div>
+                            <p class="panel-desc">A conservative Christian family in Idaho — true believers all — slowly destroyed by the theocracy they helped build.</p>
+                        </div>
+                    </div>
+
                 </div>
-                
-                <div class="relative">
-                    <div class="aspect-w-16 aspect-h-9 overflow-hidden rounded-lg shadow-xl">
-                        <img src="https://images.unsplash.com/photo-1546483875-ad9014c88eba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80" alt="Theatre performance" class="w-full h-full object-cover">
-                    </div>
-                    <div class="absolute -bottom-6 -right-6 bg-red-600 text-white p-4 shadow-lg">
-                        <p class="font-bold">Since 2025</p>
-                    </div>
+
+                <!-- Progress dots: 1 header + 5 panels = 6 total -->
+                <div class="scroll-dots" id="scrollDots">
+                    <div class="dot active"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                </div>
+
+                <div class="drag-hint">Scroll to explore</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about">
+        <div class="about-grid">
+            <div class="about-left">
+                <span class="section-label">About the Society</span>
+                <h2>We make theatre<br><em>in the dark.</em></h2>
+                <div class="about-body">
+                    <p>Founded in Los Angeles, Society of the Cellar is a collective of theatre makers dedicated to dismantling conventions. We create work that exists in the liminal space between performance and provocation.</p>
+                    <p>Our productions excavate forgotten histories, challenge dominant narratives, and reimagine theatrical form. We believe theatre is a radical act — a space where audiences don't simply watch, but participate in collective transformation.</p>
+                    <p>We are drawn to what happens when faith is institutionalized, when power masquerades as righteousness, and when private belief becomes violently public law.</p>
                 </div>
             </div>
-            
-            <div class="mt-20 grid md:grid-cols-3 gap-8">
-                <div class="bg-gray-900 p-8 rounded-lg border border-gray-800 hover:border-red-600 transition duration-300">
-                    <div class="text-red-600 text-4xl mb-4">
-                        <i class="fas fa-theater-masks"></i>
-                    </div>
-                    <h3 class="text-xl font-bold mb-3 text-white">Radical Aesthetic</h3>
-                    <p class="text-gray-400">
-                        We reject traditional staging in favor of immersive, site-specific experiences that blur boundaries between performer and audience.
-                    </p>
+            <div class="about-right">
+                <div class="manifesto-block">
+                    <p>"Theatre should disturb the comfortable and comfort the disturbed."</p>
                 </div>
-                
-                <div class="bg-gray-900 p-8 rounded-lg border border-gray-800 hover:border-red-600 transition duration-300">
-                    <div class="text-red-600 text-4xl mb-4">
-                        <i class="fas fa-history"></i>
+                <div class="pillars">
+                    <div class="pillar">
+                        <p class="pillar-title">Radical Aesthetic</p>
+                        <p>Immersive, site-specific, formally inventive work that refuses the safety of the fourth wall.</p>
                     </div>
-                    <h3 class="text-xl font-bold mb-3 text-white">Historical Subversion</h3>
-                    <p class="text-gray-400">
-                        Our work re-examines history through marginalized perspectives, revealing suppressed narratives and challenging official accounts.
-                    </p>
-                </div>
-                
-                <div class="bg-gray-900 p-8 rounded-lg border border-gray-800 hover:border-red-600 transition duration-300">
-                    <div class="text-red-600 text-4xl mb-4">
-                        <i class="fas fa-users"></i>
+                    <div class="pillar">
+                        <p class="pillar-title">Historical Subversion</p>
+                        <p>We excavate the past not to preserve it but to interrogate it — using anachronism, dark comedy, and the surreal logic of the present.</p>
                     </div>
-                    <h3 class="text-xl font-bold mb-3 text-white">Collective Practice</h3>
-                    <p class="text-gray-400">
-                        We operate as a non-hierarchical collective where all members contribute to the creative process and decision-making.
-                    </p>
+                    <div class="pillar">
+                        <p class="pillar-title">Collective Practice</p>
+                        <p>Every production is built in collaboration. We welcome directors, performers, writers, and the genuinely difficult question.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Productions Section -->
-    <section id="productions" class="py-20 bg-gray-900">
-        <div class="container mx-auto px-4">
-            <div class="text-center mb-16">
-                <h2 class="text-4xl font-bold mb-4" style="font-family: 'Playfair Display', serif;">
-                    <span class="text-white">OUR</span>
-                    <span class="text-red-600">PRODUCTIONS</span>
-                </h2>
-                <div class="w-24 h-1 bg-red-600 mx-auto"></div>
-            </div>
-            
-            <div class="mb-12">
-                <h3 class="text-2xl font-bold mb-6 text-white">Current Show</h3>
-                <div class="show-card bg-black rounded-lg overflow-hidden shadow-xl">
-                    <div class="md:flex">
-                        <div class="md:w-1/2">
-                            <img src="https://i.imgur.com/LhFxaPX.jpeg$0" alt="Oh Constantine! production" class="w-full h-full object-cover">
-                            <div class="absolute bottom-4 left-4 bg-black bg-opacity-70 text-white p-2 text-sm">
-                                <a href="https://www.hollywoodfringe.org/projects/11553" class="text-red-400 hover:underline">Hollywood Fringe Page</a>
-                            </div>
-                        </div>
-                        <div class="md:w-1/2 p-8">
-                            <div class="flex justify-between items-start mb-4">
-                                <h4 class="text-2xl font-bold text-white">Oh Constantine! </h4>
-                                <span class="bg-red-600 text-white px-3 py-1 text-sm font-bold">NOW SHOWING</span>
-                            </div>
-                            <p class="text-gray-400 mb-6">
-                                Our hit debut performance with the Hollywoood Fringe. In 325 A.D., Emperor Constantine assembles the early Church to define Christian orthodoxy. But holy debates spiral into unholy chaos as four unruly bishops and one confused emperor clash over the nature of Christ. Featuring slapstick theology, musical numbers, and a lot of wine. 
-                            </p>
-                            <div class="mb-6">
-                                <div class="flex items-center mb-2">
-                                    <i class="fas fa-map-marker-alt text-red-600 mr-2"></i>
-                                    <span class="text-gray-300">The Zephyr Theatre</span>
-                                </div>
-                                <div class="flex items-center mb-2">
-                                    <i class="fas fa-calendar-alt text-red-600 mr-2"></i>
-                                    <span class="text-gray-300">Through June 28th, 2025</span>
-                                </div>
-                                <div class="flex items-center">
-                                    <i class="fas fa-clock text-red-600 mr-2"></i>
-                                    <span class="text-gray-300">60 minutes, no intermission</span>
-                                </div>
-                            </div>
-                            <div class="flex space-x-4">
-                                <a href="https://www.ohconstantineplay.com" class="inline-block px-6 py-2 bg-red-600 text-white font-bold hover:bg-red-700 transition duration-300">
-                                    Learn More
-                                </a>
-                                <a href="https://www.hollywoodfringe.org/projects/11553?tab=tickets" class="inline-block px-6 py-2 border border-white text-white font-bold hover:bg-white hover:text-black transition duration-300">
-                                    Book Tickets
-                                </a>
-                            </div>
-                        </div>
-                    </div>
+    <!-- COLLABORATORS -->
+    <section id="collaborators">
+        <span class="section-label">The Collective</span>
+        <h2>Our Collaborators</h2>
+        <div class="collaborators-grid">
+            <div class="collaborator-card">
+                <img src="https://raw.githubusercontent.com/phreakwenci/Societyofthecellar/main/images/JDS%20HS-1.jpg" alt="Jan-David Soutar">
+                <div class="collab-info">
+                    <p class="collab-name">Jan-David Soutar</p>
+                    <p class="collab-role">Founding Director & Writer</p>
+                    <p class="collab-bio">Playwright, screenwriter, and director. Writer/director of Oh Constantine! His work draws on history, dark comedy, and the surreal logic of modern America.</p>
                 </div>
             </div>
-            
-            <h3 class="text-2xl font-bold mb-6 text-white">Past Productions</h3>
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <div class="show-card bg-black rounded-lg overflow-hidden border border-gray-800">
-                    <img src="https://i.imgur.com/LhFxaPX.jpeg\$0$0" alt="Past production" class="w-full h-48 object-cover">
-                    <div class="p-6">
-                        <h4 class="text-xl font-bold mb-2 text-white">OH CONSTANTINE!</h4>
-                        <p class="text-gray-400 text-sm mb-4">2025</p>
-                        <p class="text-gray-400 mb-4">
-                            Our debut production exploring the life of Constantine the Great <a href="https://www.hollywoodfringe.org/projects/11553" class="text-red-500 hover:underline">Hollywood Fringe</a> and funded via <a href="https://seedandspark.com/fund/oh-constantine-play" class="text-red-500 hover:underline">Seed & Spark</a>.
-                        </p>
-                        <div class="flex justify-between items-center">
-                            <span class="text-red-600 text-sm font-bold">NOW SHOWING</span>
-                            <a href="https://www.ohconstantineplay.com" class="text-white text-sm hover:text-red-500 flex items-center">
-                                View Site <i class="fas fa-arrow-right ml-1 text-xs"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                
-                <     </div>
-                    </div>
+            <div class="collaborator-card">
+                <img src="https://raw.githubusercontent.com/phreakwenci/Societyofthecellar/main/images/Athena_Rethis_Headshot.png" alt="Athena Rethis">
+                <div class="collab-info">
+                    <p class="collab-name">Athena Rethis</p>
+                    <p class="collab-role">Producer</p>
+                    <p class="collab-bio">Producer of Oh Constantine! at the Hollywood Fringe Festival 2025. A core architect of the Society's productions from development through opening night.</p>
                 </div>
             </div>
-            
-            <div class="mt-12 text-center">
-                <a href="#" class="inline-block px-6 py-2 border border-white text-white font-bold hover:bg-white hover:text-black transition duration-300">
-                    View All Productions
-                </a>
+            <div class="collaborator-card">
+                <!-- Replace with: <img src="PATH_TO_MR_PHOTO" alt="Megan Rippey"> -->
+                <div class="collab-placeholder"><span>MR</span></div>
+                <div class="collab-info">
+                    <p class="collab-name">Megan Rippey</p>
+                    <p class="collab-role">Executive Producer</p>
+                    <p class="collab-bio">Executive Producer and founding force behind the Society. Brings strategic vision and deep creative partnership to every project the collective undertakes.</p>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- Collaborators Section -->
-    <section id="collaborators" class="py-20 bg-black">
-        <div class="container mx-auto px-4">
-            <div class="text-center mb-16">
-                <h2 class="text-4xl font-bold mb-4" style="font-family: 'Playfair Display', serif;">
-                    <span class="text-white">OUR</span>
-                    <span class="text-red-600">COLLABORATORS</span>
-                </h2>
-                <div class="w-24 h-1 bg-red-600 mx-auto"></div>
-                <p class="text-gray-400 max-w-2xl mx-auto mt-4">
-                    A rotating collective of theatre makers, visual artists, and radical thinkers who bring our visions to life.
-                </p>
+    <!-- JOIN -->
+    <section id="join">
+        <div class="join-grid">
+            <div class="join-left">
+                <span class="section-label">Membership</span>
+                <h2>Join<br>the Cellar</h2>
+                <p>Become part of our underground network. Subscribers receive exclusive content, early ticket access, and invitations to secret performances and readings.</p>
+                <ul class="join-perks">
+                    <li>Monthly dispatches with behind-the-scenes content and in-development writing</li>
+                    <li>24-hour presale access to all productions</li>
+                    <li>Invitations to members-only readings, workshops, and secret performances</li>
+                    <li>First to know about the Society's next project</li>
+                </ul>
             </div>
-            
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <div class="collaborator-card relative group">
-                    <div class="aspect-square overflow-hidden rounded-lg">
-                        <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80" alt="Collaborator" class="w-full h-full object-cover">
-                    </div>
-                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
-                        <h3 class="text-2xl font-bold text-white">JAN-DAVID SOUTAR</h3>
-                        <p class="text-red-500 mb-2">Founding Director</p>
-                        <p class="text-gray-300 text-sm">
-                            Creator of our debut production <a href="https://www.ohconstantineplay.com" class="text-red-500 hover:underline">Oh Constantine!</a>. Explore more at <a href="https://jandavidsoutar.com" class="text-red-500 hover:underline">jandavidsoutar.com</a>.
-                        </p>
-                    </div>
-                </div>
-                
-                <div class="collaborator-card relative group">
-                    <div class="aspect-square overflow-hidden rounded-lg">
-                        <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Collaborator" class="w-full h-full object-cover">
-                    </div>
-                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
-                        <h3 class="text-2xl font-bold text-white">DARIUS CHEN</h3>
-                        <p class="text-red-500 mb-2">Sound Designer</p>
-                        <p class="text-gray-300 text-sm">
-                            Darius creates immersive soundscapes that blend field recordings with electronic composition. His work has been featured at the Berliner Festspiele.
-                        </p>
-                    </div>
-                </div>
-                
-                <div class="collaborator-card relative group">
-                    <div class="aspect-square overflow-hidden rounded-lg">
-                        <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Collaborator" class="w-full h-full object-cover">
-                    </div>
-                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
-                        <h3 class="text-2xl font-bold text-white">ELENA PETROVA</h3>
-                        <p class="text-red-500 mb-2">Movement Director</p>
-                        <p class="text-gray-300 text-sm">
-                            Elena's choreography explores the politics of the body under surveillance. Former member of Pina Bausch's Tanztheater Wuppertal.
-                        </p>
-                    </div>
-                </div>
-                
-                <div class="collaborator-card relative group">
-                    <div class="aspect-square overflow-hidden rounded-lg">
-                        <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Collaborator" class="w-full h-full object-cover">
-                    </div>
-                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
-                        <h3 class="text-2xl font-bold text-white">MARCUS ABEL</h3>
-                        <p class="text-red-500 mb-2">Dramaturg</p>
-                        <p class="text-gray-300 text-sm">
-                            Marcus specializes in historical research and radical reinterpretations of classical texts. Author of "Theatre of the Oppressed: A New Grammar."
-                        </p>
-                    </div>
-                </div>
-                
-                <div class="collaborator-card relative group">
-                    <div class="aspect-square overflow-hidden rounded-lg">
-                        <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80" alt="Collaborator" class="w-full h-full object-cover">
-                    </div>
-                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
-                        <h3 class="text-2xl font-bold text-white">SOFIA MARTINEZ</h3>
-                        <p class="text-red-500 mb-2">Lighting Designer</p>
-                        <p class="text-gray-300 text-sm">
-                            Sofia creates lighting environments that transform architectural spaces. Her work has been described as "painting with darkness."
-                        </p>
-                    </div>
-                </div>
-                
-                <div class="collaborator-card relative group">
-                    <div class="aspect-square overflow-hidden rounded-lg">
-                        <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="Collaborator" class="w-full h-full object-cover">
-                    </div>
-                    <div class="collaborator-overlay absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-end p-6 opacity-0">
-                        <h3 class="text-2xl font-bold text-white">THE COLLECTIVE</h3>
-                        <p class="text-red-500 mb-2">Performers & Creators</p>
-                        <p class="text-gray-300 text-sm">
-                            Our rotating ensemble of performers, writers, and designers who contribute to each production. We welcome new collaborators for every project.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="mt-12 text-center">
-                <a href="#" class="inline-block px-6 py-2 border border-white text-white font-bold hover:bg-white hover:text-black transition duration-300">
-                    Meet All Collaborators
-                </a>
-            </div>
-        </div>
-    </section>
+            <div class="join-right">
+                <!--
+                    MAILERLITE EMBED:
+                    1. Go to MailerLite > Forms > Embedded forms
+                    2. Create or select your signup form
+                    3. Copy the embed code
+                    4. Delete the .mailerlite-placeholder div below
+                    5. Paste your MailerLite embed code in its place
+                -->
+                <div class="mailerlite-wrapper">
+                    <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1778769");</style>
+                    <style type="text/css">
+                    .ml-form-embedSubmitLoad{display:inline-block;width:20px;height:20px}.g-recaptcha{transform:scale(1);-webkit-transform:scale(1);transform-origin:0 0;-webkit-transform-origin:0 0}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}.ml-form-embedSubmitLoad:after{content:" ";display:block;width:11px;height:11px;margin:1px;border-radius:50%;border:4px solid #fff;border-color:#f4f0e8 #f4f0e8 #f4f0e8 transparent;animation:ml-form-embedSubmitLoad 1.2s linear infinite}@keyframes ml-form-embedSubmitLoad{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+                    #mlb2-41674600.ml-form-embedContainer{box-sizing:border-box;display:table;margin:0 auto;position:static;width:100%!important}
+                    #mlb2-41674600.ml-form-embedContainer h4,#mlb2-41674600.ml-form-embedContainer p,#mlb2-41674600.ml-form-embedContainer span,#mlb2-41674600.ml-form-embedContainer button{text-transform:none!important;letter-spacing:normal!important}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper{background-color:transparent;border-width:0;border-color:transparent;border-radius:0;border-style:solid;box-sizing:border-box;display:inline-block!important;margin:0;padding:0;position:relative;width:100%!important}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper.embedForm{max-width:100%;width:100%}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody,#mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody{padding:0}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent,#mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent{text-align:left;margin:0 0 20px 0}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent h4,#mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent h4{color:#f4f0e8;font-family:'Playfair Display',serif;font-size:1.8rem;font-weight:400;margin:0 0 10px 0;text-align:left;word-break:break-word}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p,#mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent p{color:rgba(244,240,232,0.6);font-family:'EB Garamond',serif;font-size:1rem;font-weight:400;line-height:1.7;margin:0 0 10px 0;text-align:left}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-block-form .ml-field-group label{margin-bottom:5px;color:rgba(244,240,232,0.38);font-size:0.7rem;font-family:'EB Garamond',serif;letter-spacing:0.22em;text-transform:uppercase;font-weight:400;display:inline-block;line-height:20px}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody form{margin:0;width:100%}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent,#mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow{margin:0 0 16px 0;width:100%}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow{margin:0 0 10px 0;width:100%}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow.ml-last-item{margin:0}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input{background-color:#1a1a1a!important;color:#f4f0e8!important;border-color:#3d3a37;border-radius:0!important;border-style:solid!important;border-width:1px!important;font-family:'EB Garamond',serif;font-size:1rem!important;height:auto;line-height:1.6!important;margin:0;padding:12px 16px!important;width:100%!important;box-sizing:border-box!important}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input::-webkit-input-placeholder{color:rgba(244,240,232,0.35)}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input::-moz-placeholder{color:rgba(244,240,232,0.35)}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input:-ms-input-placeholder{color:rgba(244,240,232,0.35)}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit{margin:0 0 16px 0;float:left;width:100%}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button{background-color:#8b0000!important;border:none!important;border-radius:0!important;box-shadow:none!important;color:#f4f0e8!important;cursor:pointer;font-family:'EB Garamond',serif!important;font-size:0.82rem!important;font-weight:400!important;letter-spacing:0.2em!important;text-transform:uppercase!important;line-height:1.5!important;height:auto;padding:14px 32px!important;width:100%!important;box-sizing:border-box!important;transition:background 0.3s}
+                    #mlb2-41674600.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button:hover{background-color:#c41e1e!important}
+                    .ml-form-recaptcha{margin-bottom:16px}
+                    .ml-error input{border-color:red!important}
+                    .ml-error .label-description,.ml-error label:first-child{color:#ff0000!important}
+                    @media only screen and (max-width:400px){.ml-form-embedWrapper.embedDefault,.ml-form-embedWrapper.embedPopup{width:100%!important}}
+                    </style>
 
-    <!-- Join Section -->
-    <section id="join" class="py-20 bg-gradient-to-b from-gray-900 to-black">
-        <div class="container mx-auto px-4">
-            <div class="max-w-4xl mx-auto bg-black rounded-lg overflow-hidden border border-gray-800">
-                <div class="md:flex">
-                    <div class="md:w-1/2 bg-red-600 p-12 flex flex-col justify-center">
-                        <h2 class="text-3xl font-bold mb-4 text-white" style="font-family: 'Playfair Display', serif;">
-                            JOIN THE CELLAR
-                        </h2>
-                        <p class="text-white mb-6">
-                            Become part of our underground network. Subscribers receive exclusive content, early ticket access, and invitations to secret performances.
-                        </p>
-                        <ul class="space-y-3 text-white">
-                            <li class="flex items-center">
-                                <i class="fas fa-check-circle mr-2"></i>
-                                <span>Monthly digital zine with behind-the-scenes content</span>
-                            </li>
-                            <li class="flex items-center">
-                                <i class="fas fa-check-circle mr-2"></i>
-                                <span>24-hour presale for all productions</span>
-                            </li>
-                            <li class="flex items-center">
-                                <i class="fas fa-check-circle mr-2"></i>
-                                <span>Invitations to members-only readings and workshops</span>
-                            </li>
-                        </ul>
-                    </div>
-                    
-                    <div class="md:w-1/2 p-12">
-                        <h3 class="text-2xl font-bold mb-6 text-white">Enter the Cellar</h3>
-                        <form class="join-form space-y-4">
-                            <div>
-                                <label for="name" class="block text-gray-400 mb-1">Name</label>
-                                <input type="text" id="name" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 text-white">
+                    <div id="mlb2-41674600" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-41674600">
+                      <div class="ml-form-align-left">
+                        <div class="ml-form-embedWrapper embedForm">
+                          <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+                            <div class="ml-form-embedContent">
+                              <h4>Join the Society</h4>
+                              <p>Underground dispatches, presale access, and invitations to secret performances.</p>
                             </div>
-                            <div>
-                                <label for="email" class="block text-gray-400 mb-1">Email</label>
-                                <input type="email" id="email" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 text-white">
-                            </div>
-                            <div>
-                                <label for="interest" class="block text-gray-400 mb-1">Primary Interest</label>
-                                <select id="interest" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white">
-                                    <option value="">Select...</option>
-                                    <option value="audience">Audience Member</option>
-                                    <option value="collaborator">Potential Collaborator</option>
-                                    <option value="press">Press/Media</option>
-                                    <option value="venue">Venue/Programming</option>
-                                </select>
-                            </div>
-                            <div class="pt-2">
-                                <button type="submit" class="w-full px-6 py-3 bg-red-600 text-white font-bold hover:bg-red-700 transition duration-300">
-                                    Submit
+                            <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/1481067/forms/188213405793912062/subscribe" data-code="" method="post" target="_blank">
+                              <div class="ml-form-formContent">
+                                <div class="ml-form-fieldRow">
+                                  <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                                    <input aria-label="email" aria-required="true" type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Email" autocomplete="email">
+                                  </div>
+                                </div>
+                                <div class="ml-form-fieldRow ml-last-item">
+                                  <div class="ml-field-group ml-field-name">
+                                    <input aria-label="name" type="text" class="form-control" data-inputmask="" name="fields[name]" placeholder="Name" autocomplete="given-name">
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ml-form-recaptcha ml-validate-required" style="float:left;">
+                                <style>.ml-form-recaptcha.ml-error iframe{border:solid 1px #ff0000}@media screen and (max-width:480px){.ml-form-recaptcha{width:220px!important}.g-recaptcha{transform:scale(0.78);-webkit-transform:scale(0.78);transform-origin:0 0;-webkit-transform-origin:0 0}}</style>
+                                <script src="https://www.google.com/recaptcha/api.js"></script>
+                                <div class="g-recaptcha" data-sitekey="6Lf1KHQUAAAAAFNKEX1hdSWCS3mRMv4FlFaNslaD"></div>
+                              </div>
+                              <input type="hidden" name="ml-submit" value="1">
+                              <div class="ml-form-embedSubmit">
+                                <button type="submit" class="primary">Enter the Cellar</button>
+                                <button disabled="disabled" style="display:none;" type="button" class="loading">
+                                  <div class="ml-form-embedSubmitLoad"></div>
+                                  <span class="sr-only">Loading...</span>
                                 </button>
+                              </div>
+                              <input type="hidden" name="anticsrf" value="true">
+                            </form>
+                          </div>
+                          <div class="ml-form-successBody row-success" style="display:none">
+                            <div class="ml-form-successContent">
+                              <h4>Thank you.</h4>
+                              <p>You're in. Watch for dispatches from the Cellar.</p>
                             </div>
-                            <p class="text-gray-500 text-xs">
-                                By joining, you agree to our <a href="#" class="text-red-500 hover:underline">privacy policy</a>. We'll never share your information without your consent.
-                            </p>
-                        </form>
+                          </div>
+                        </div>
+                      </div>
                     </div>
+                    <script>
+                      function ml_webform_success_41674600(){var $=ml_jQuery||jQuery;$('.ml-subscribe-form-41674600 .row-success').show();$('.ml-subscribe-form-41674600 .row-form').hide();}
+                    </script>
+                    <script src="https://groot.mailerlite.com/js/w/webforms.min.js?vb397d78ebaa8a0f631d35384c46d781b" type="text/javascript"></script>
+                    <script>fetch("https://assets.mailerlite.com/jsonp/1481067/forms/188213405793912062/takel")</script>
                 </div>
+                <p class="form-note">We will never share your information. Unsubscribe at any time.</p>
             </div>
         </div>
     </section>
 
-    <!-- Contact Section -->
-    <section id="contact" class="py-20 bg-black">
-        <div class="container mx-auto px-4">
-            <div class="text-center mb-16">
-                <h2 class="text-4xl font-bold mb-4" style="font-family: 'Playfair Display', serif;">
-                    <span class="text-white">CONTACT</span>
-                    <span class="text-red-600">/ BOOKING</span>
-                </h2>
-                <div class="w-24 h-1 bg-red-600 mx-auto"></div>
-                <p class="text-gray-400 max-w-2xl mx-auto mt-4">
-                    For press inquiries, booking information, or to discuss potential collaborations.
-                </p>
+    <!-- CONTACT -->
+    <section id="contact">
+        <div class="contact-grid">
+            <div class="contact-left">
+                <span class="section-label">Contact / Booking</span>
+                <h2>Get<br>in touch</h2>
+                <p>For press inquiries, booking information, or to discuss potential collaborations and new productions.</p>
+                <div class="contact-direct">
+                    <p>Direct</p>
+                    <a href="mailto:societyofthecellar@gmail.com">societyofthecellar@gmail.com</a>
+                </div>
+                <div class="social-links">
+                    <a href="https://www.instagram.com/societyofthecellar" target="_blank" rel="noopener">Instagram</a>
+                    <a href="https://www.ohconstantineplay.com" target="_blank" rel="noopener">Oh Constantine!</a>
+                </div>
             </div>
-            
-            <div class="max-w-4xl mx-auto grid md:grid-cols-2 gap-12">
-                <div>
-                    <h3 class="text-2xl font-bold mb-6 text-white">Get In Touch</h3>
-                    <form class="space-y-4">
-                        <div>
-                            <label for="contact-name" class="block text-gray-400 mb-1">Name</label>
-                            <input type="text" id="contact-name" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white">
-                        </div>
-                        <div>
-                            <label for="contact-email" class="block text-gray-400 mb-1">Email</label>
-                            <input type="email" id="contact-email" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white">
-                        </div>
-                        <div>
-                            <label for="contact-subject" class="block text-gray-400 mb-1">Subject</label>
-                            <select id="contact-subject" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white">
-                                <option value="">Select...</option>
-                                <option value="booking">Booking Inquiry</option>
-                                <option value="press">Press Inquiry</option>
-                                <option value="collaboration">Collaboration Proposal</option>
-                                <option value="other">Other</option>
-                            </select>
-                        </div>
-                        <div>
-                            <label for="contact-message" class="block text-gray-400 mb-1">Message</label>
-                            <textarea id="contact-message" rows="4" class="w-full px-4 py-2 border border-gray-700 rounded focus:border-red-600 bg-black text-white"></textarea>
-                        </div>
-                        <div class="pt-2">
-                            <button type="submit" class="w-full px-6 py-3 bg-red-600 text-white font-bold hover:bg-red-700 transition duration-300">
-                                Send Message
-                            </button>
-                        </div>
-                    </form>
-                </div>
-                
-                <div>
-                    <h3 class="text-2xl font-bold mb-6 text-white">Other Ways to Connect</h3>
-                    <div class="space-y-6">
-                        <div class="flex items-start">
-                            <div class="text-red-600 text-xl mt-1 mr-4">
-                                <i class="fas fa-envelope"></i>
-                            </div>
-                            <div>
-                                <h4 class="text-white font-bold mb-1">Email</h4>
-                                <a href="mailto:contact@societyofthecellar.com" class="text-gray-400 hover:text-red-500">contact@societyofthecellar.com</a>
-                            </div>
-                        </div>
-                        
-                        <div class="flex items-start">
-                            <div class="text-red-600 text-xl mt-1 mr-4">
-                                <i class="fas fa-phone-alt"></i>
-                            </div>
-                            <div>
-                                <h4 class="text-white font-bold mb-1">Phone</h4>
-                                <a href="tel:+442079460000" class="text-gray-400 hover:text-red-500">+44 20 7946 0000</a>
-                                <p class="text-gray-500 text-sm mt-1">Mon-Fri, 10am-6pm GMT</p>
-                            </div>
-                        </div>
-                        
-                        <div class="flex items-start">
-                            <div class="text-red-600 text-xl mt-1 mr-4">
-                                <i class="fas fa-map-marker-alt"></i>
-                            </div>
-                            <div>
-                                <h4 class="text-white font-bold mb-1">Mailing Address</h4>
-                                <p class="text-gray-400">The Vaults, Leake Street, London SE1 7NN</p>
-                                <p class="text-gray-500 text-sm mt-1">(By appointment only)</p>
-                            </div>
-                        </div>
-                        
-                        <div class="pt-4">
-                            <h4 class="text-white font-bold mb-3">Follow Us</h4>
-                            <div class="flex space-x-4">
-                                <a href="#" class="text-gray-400 hover:text-red-500 text-xl">
-                                    <i class="fab fa-instagram"></i>
-                                </a>
-                                <a href="#" class="text-gray-400 hover:text-red-500 text-xl">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
-                                <a href="#" class="text-gray-400 hover:text-red-500 text-xl">
-                                    <i class="fab fa-vimeo-v"></i>
-                                </a>
-                                <a href="#" class="text-gray-400 hover:text-red-500 text-xl">
-                                    <i class="fab fa-youtube"></i>
-                                </a>
-                            </div>
-                        </div>
+            <div class="contact-right">
+                <form class="contact-form" id="contactForm"
+                      action="https://formspree.io/f/mdajzvqn"
+                      method="POST">
+
+                    <!-- Tells Formspree what email subject to use -->
+                    <input type="hidden" name="_subject" value="New enquiry — Society of the Cellar">
+                    <!-- Redirect back to the page after submit (optional, remove if you want Formspree's default thank-you page) -->
+                    <input type="hidden" name="_next" value="">
+
+                    <div class="form-group">
+                        <label for="c-name">Name</label>
+                        <input type="text" id="c-name" name="name" placeholder="Your name" required>
                     </div>
-                </div>
+                    <div class="form-group">
+                        <label for="c-email">Email</label>
+                        <input type="email" id="c-email" name="email" placeholder="your@email.com" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="c-subject">Subject</label>
+                        <select id="c-subject" name="subject">
+                            <option value="">Select a subject...</option>
+                            <option value="booking">Booking Inquiry</option>
+                            <option value="press">Press / Media</option>
+                            <option value="collaboration">Collaboration Proposal</option>
+                            <option value="touring">Touring / Programming</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="c-message">Message</label>
+                        <textarea id="c-message" name="message" placeholder="Tell us what you're thinking..." required></textarea>
+                    </div>
+                    <button type="submit" class="btn-primary" id="contactSubmitBtn">Send Message</button>
+                    <p class="form-note" id="contactSuccess" style="display:none; color: rgba(244,240,232,0.6); margin-top: 1rem;">
+                        Message sent. We'll be in touch.
+                    </p>
+                </form>
             </div>
         </div>
     </section>
 
-    <!-- Footer -->
-    <footer class="bg-black border-t border-gray-800 py-12">
-        <div class="container mx-auto px-4">
-            <div class="grid md:grid-cols-4 gap-8">
-                <div>
-                    <h3 class="text-xl font-bold mb-4 text-white" style="font-family: 'Playfair Display', serif;">
-                        <span>SOCIETY</span>
-                        <span class="text-red-600">OF THE</span>
-                        <span>CELLAR</span>
-                    </h3>
-                    <p class="text-gray-400">
-                        Experimental theatre collective creating radical, immersive performances since 2015.
-                    </p>
-                </div>
-                
-                <div>
-                    <h4 class="text-white font-bold mb-4">Navigation</h4>
-                    <ul class="space-y-2">
-                        <li><a href="#about" class="text-gray-400 hover:text-red-500">About</a></li>
-                        <li><a href="#productions" class="text-gray-400 hover:text-red-500">Productions</a></li>
-                        <li><a href="#collaborators" class="text-gray-400 hover:text-red-500">Collaborators</a></li>
-                        <li><a href="#join" class="text-gray-400 hover:text-red-500">Join</a></li>
-                        <li><a href="#contact" class="text-gray-400 hover:text-red-500">Contact</a></li>
-                    </ul>
-                </div>
-                
-                <div>
-                    <h4 class="text-white font-bold mb-4">Legal</h4>
-                    <ul class="space-y-2">
-                        <li><a href="#" class="text-gray-400 hover:text-red-500">Privacy Policy</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-red-500">Terms of Service</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-red-500">Accessibility</a></li>
-                        <li><a href="#" class="text-gray-400 hover:text-red-500">Code of Conduct</a></li>
-                    </ul>
-                </div>
-                
-                <div>
-                    <h4 class="text-white font-bold mb-4">Newsletter</h4>
-                    <p class="text-gray-400 mb-4">
-                        Subscribe for clandestine updates and underground happenings.
-                    </p>
-                    <form class="flex">
-                        <input type="email" placeholder="Your email" class="px-4 py-2 bg-gray-900 text-white border border-gray-700 rounded-l focus:outline-none focus:border-red-600 w-full">
-                        <button type="submit" class="px-4 py-2 bg-red-600 text-white rounded-r hover:bg-red-700">
-                            <i class="fas fa-paper-plane"></i>
-                        </button>
-                    </form>
-                </div>
-            </div>
-            
-            <div class="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-                <p class="text-gray-500 text-sm">
-                    © 2025 Society of the Cellar. All rights reserved.
-                </p>
-                <p class="text-gray-500 text-sm mt-4 md:mt-0">
-                    Designed with <i class="fas fa-heart text-red-600"></i> in London
-                </p>
-            </div>
-        </div>
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-brand">Society <em>of the</em> Cellar</div>
+        <p class="footer-copy">© 2025 Society of the Cellar. Los Angeles.</p>
+        <ul class="footer-nav">
+            <li><a href="#about">About</a></li>
+            <li><a href="#productions">Productions</a></li>
+            <li><a href="#join">Join</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
     </footer>
 
     <script>
-        // Mobile menu toggle
-        const menuBtn = document.getElementById('menu-btn');
-        const mobileMenu = document.getElementById('mobile-menu');
-        
-        menuBtn.addEventListener('click', () => {
-            menuBtn.classList.toggle('active');
-            mobileMenu.classList.toggle('hidden');
-        });
-        
-        // Smooth scrolling for anchor links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                
-                const targetId = this.getAttribute('href');
-                const targetElement = document.querySelector(targetId);
-                
-                if (targetElement) {
-                    window.scrollTo({
-                        top: targetElement.offsetTop - 80,
-                        behavior: 'smooth'
-                    });
-                    
-                    // Close mobile menu if open
-                    if (!mobileMenu.classList.contains('hidden')) {
-                        menuBtn.classList.remove('active');
-                        mobileMenu.classList.add('hidden');
+        gsap.registerPlugin(ScrollTrigger);
+
+        // ── HORIZONTAL SCROLL ──
+        const track = document.getElementById('hScrollTrack');
+        const outer = document.getElementById('hScrollOuter');
+        const dots  = document.querySelectorAll('.dot');
+        const panels = track.querySelectorAll('.h-panel-header, .production-panel');
+
+        function buildHScroll() {
+            const totalScroll = track.scrollWidth - window.innerWidth;
+            // Set outer height so scroll distance = panel width
+            outer.style.height = (window.innerHeight + totalScroll) + 'px';
+
+            ScrollTrigger.getAll().forEach(t => t.kill());
+
+            gsap.to(track, {
+                x: -totalScroll,
+                ease: 'none',
+                scrollTrigger: {
+                    trigger: outer,
+                    start: 'top top',
+                    end: () => '+=' + totalScroll,
+                    pin: '#hScrollSticky',
+                    scrub: 1.2,
+                    invalidateOnRefresh: true,
+                    onUpdate(self) {
+                        const idx = Math.round(self.progress * (panels.length - 1));
+                        dots.forEach((d, i) => d.classList.toggle('active', i === idx));
                     }
                 }
             });
+        }
+
+        buildHScroll();
+        window.addEventListener('resize', () => {
+            buildHScroll();
+            ScrollTrigger.refresh();
         });
-        
-        // Form submission handling (prevent default for demo)
-        document.querySelectorAll('form').forEach(form => {
-            form.addEventListener('submit', (e) => {
-                e.preventDefault();
-                alert('Form submission would be handled here in a live implementation.');
+
+        // ── ABOUT / SECTION FADE-INS ──
+        gsap.utils.toArray('.pillar, .about-body p, .manifesto-block').forEach((el, i) => {
+            gsap.from(el, {
+                scrollTrigger: { trigger: el, start: 'top 88%', toggleActions: 'play none none reverse' },
+                y: 22,
+                opacity: 0,
+                duration: 0.85,
+                ease: 'power2.out',
+                delay: i * 0.06
             });
+        });
+
+        // ── NAV TOGGLE ──
+        const hamburger = document.getElementById('hamburger');
+        const navOverlay = document.getElementById('navOverlay');
+
+        hamburger.addEventListener('click', () => {
+            hamburger.classList.toggle('open');
+            navOverlay.classList.toggle('open');
+            document.body.style.overflow = navOverlay.classList.contains('open') ? 'hidden' : '';
+        });
+
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', e => {
+                e.preventDefault();
+                const target = document.querySelector(link.getAttribute('href'));
+                hamburger.classList.remove('open');
+                navOverlay.classList.remove('open');
+                document.body.style.overflow = '';
+                setTimeout(() => { if (target) target.scrollIntoView({ behavior: 'smooth' }); }, 320);
+            });
+        });
+
+        // ── CONTACT FORM — Formspree AJAX ──
+        document.getElementById('contactForm').addEventListener('submit', async e => {
+            e.preventDefault();
+            const form = e.target;
+            const btn = document.getElementById('contactSubmitBtn');
+            const success = document.getElementById('contactSuccess');
+            btn.textContent = 'Sending...';
+            btn.disabled = true;
+            try {
+                const res = await fetch('https://formspree.io/f/mdajzvqn', {
+                    method: 'POST',
+                    body: new FormData(form),
+                    headers: { 'Accept': 'application/json' }
+                });
+                if (res.ok) {
+                    form.reset();
+                    btn.style.display = 'none';
+                    success.style.display = 'block';
+                } else {
+                    btn.textContent = 'Something went wrong — try emailing us directly.';
+                    btn.disabled = false;
+                }
+            } catch {
+                btn.textContent = 'Something went wrong — try emailing us directly.';
+                btn.disabled = false;
+            }
         });
     </script>
 </body>
