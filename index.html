@@ -240,7 +240,7 @@
             color: var(--red-bright);
         }
 
-        /* Vertical sidebar — letter cascade */
+        /* Vertical sidebar */
         .wordmark-vertical {
             position: fixed;
             top: 50%;
@@ -257,11 +257,6 @@
             padding: 0 10px;
             pointer-events: none;
             opacity: 0;
-        }
-
-        .wordmark-vertical em {
-            font-style: normal;
-            color: var(--red-bright);
         }
 
         .wordmark-vertical .v-letter {
@@ -296,9 +291,10 @@
             background: var(--black);
         }
 
+        /* FIX: reduced font ceiling from 11rem to 9rem so DARE doesn't clip */
         .hero h1 {
             font-family: var(--font-impact);
-            font-size: clamp(4.5rem, 13vw, 11rem);
+            font-size: clamp(4rem, 11vw, 9rem);
             font-weight: 400;
             line-height: 0.88;
             letter-spacing: 0.03em;
@@ -530,7 +526,6 @@
             filter: grayscale(80%) !important;
         }
 
-        /* More to come panel */
         .panel-more {
             width: 40vw;
             height: 100vh;
@@ -539,7 +534,7 @@
             flex-direction: column;
             justify-content: center;
             align-items: flex-start;
-            padding: 0 6vw 0 6vw;
+            padding: 0 6vw;
             background: var(--black);
             border-right: 1px solid var(--gray-line);
         }
@@ -682,8 +677,9 @@
         }
 
         /* ── COLLABORATORS ── */
+        /* FIX: reduced side padding from 8vw to 4vw so 3 cards fit */
         #collaborators {
-            padding: 140px 8vw;
+            padding: 140px 4vw;
             background: var(--black);
             border-top: 1px solid var(--gray-line);
         }
@@ -694,6 +690,7 @@
             font-weight: 400;
             letter-spacing: -0.02em;
             margin-bottom: 80px;
+            padding: 0 4vw;
         }
 
         .collaborators-grid {
@@ -707,6 +704,8 @@
             overflow: hidden;
             aspect-ratio: 3/4;
             background: var(--gray-mid);
+            /* FIX: ensure card doesn't overflow */
+            min-width: 0;
         }
 
         .collaborator-card img {
@@ -1062,7 +1061,7 @@
             color: var(--red-bright);
         }
 
-        /* ── VOLTAIRE EASTER EGG ── */
+        /* ── VOLTAIRE ── */
         .voltaire-overlay {
             position: fixed;
             inset: 0;
@@ -1120,8 +1119,12 @@
         }
 
         /* ── MOBILE ── */
-        @media (max-width: 900px) {
+        @media (max-width: 600px) {
             .wordmark {
+                display: none;
+            }
+
+            .wordmark-vertical {
                 display: none;
             }
 
@@ -1148,8 +1151,13 @@
                 padding-top: 0;
             }
 
+            /* FIX: single column on mobile */
             .collaborators-grid {
-                grid-template-columns: 1fr 1fr;
+                grid-template-columns: 1fr;
+            }
+
+            #collaborators h2 {
+                padding: 0;
             }
 
             .production-panel {
@@ -1157,8 +1165,12 @@
             }
 
             .h-panel-header {
-                width: 60vw;
+                width: 70vw;
                 padding: 0 5vw 60px 6vw;
+            }
+
+            .panel-more {
+                width: 70vw;
             }
 
             footer {
@@ -1166,33 +1178,28 @@
                 text-align: center;
             }
 
-            .panel-more {
-                width: 70vw;
+            .panel-content {
+                padding: 32px 32px 48px;
             }
         }
 
-        @media (max-width: 580px) {
-            .collaborators-grid {
-                grid-template-columns: 1fr;
-            }
-
+        @media (max-width: 480px) {
             .production-panel {
                 width: 92vw;
             }
 
             .h-panel-header {
-                width: 80vw;
+                width: 85vw;
             }
 
             .panel-more {
                 width: 85vw;
             }
+
+            .panel-title {
+                font-size: clamp(2rem, 8vw, 3.5rem);
+            }
         }
-        @media (max-width: 768px) {
-    .h-scroll-sticky {
-        position: relative;
-    }
-}
     </style>
 </head>
 
@@ -1205,7 +1212,6 @@
         </div>
     </a>
 
-    <!-- Separate vertical sidebar wordmark, letter cascade on entry -->
     <a href="#" class="wordmark-vertical" id="wordmarkVertical"></a>
 
     <button class="hamburger" id="hamburger" aria-label="Toggle navigation">
@@ -1223,8 +1229,7 @@
         <p class="nav-footer">Los Angeles, CA Since 2025</p>
     </nav>
 
-    <!-- HERO -->
-    <header class="hero" id="heroSection" style="position: relative;">
+    <header class="hero" id="heroSection" style="position:relative;">
         <div class="header-bar">
             <span class="header-bar-title">Society of the Cellar &nbsp;&nbsp;·&nbsp;&nbsp; Los Angeles Theatre Company</span>
         </div>
@@ -1237,12 +1242,10 @@
         </div>
     </header>
 
-    <!-- PRODUCTIONS -->
     <section id="productions">
         <div class="h-scroll-outer" id="hScrollOuter">
             <div class="h-scroll-sticky" id="hScrollSticky">
                 <div class="h-scroll-track" id="hScrollTrack">
-
                     <div class="h-panel-header">
                         <div>
                             <span class="section-label">Productions</span>
@@ -1250,8 +1253,6 @@
                             <p>Scroll to move through our productions. Click any panel to learn more.</p>
                         </div>
                     </div>
-
-                    <!-- Panel 1: Oh Constantine! -->
                     <div class="production-panel" onclick="window.open('https://www.ohconstantineplay.com','_blank')">
                         <img src="https://i.imgur.com/LhFxaPX.jpeg" alt="Oh Constantine!">
                         <div class="panel-content">
@@ -1264,8 +1265,6 @@
                                 onclick="event.stopPropagation()">Visit Show Site</a>
                         </div>
                     </div>
-
-                    <!-- Panel 2: High Level Affection -->
                     <div class="production-panel"
                         onclick="window.open('https://shortsweethollywood.stagey.net/projects/12917','_blank')">
                         <img src="https://raw.githubusercontent.com/phreakwenci/Societyofthecellar/main/images/High%20LEvel%20Affection.png" alt="High Level Affection">
@@ -1279,8 +1278,6 @@
                                 target="_blank" onclick="event.stopPropagation()">View Production</a>
                         </div>
                     </div>
-
-                    <!-- Panel 3: AD 33 -->
                     <div class="production-panel"
                         onclick="window.open('https://shortsweethollywood.stagey.net/projects/12900','_blank')">
                         <img src="https://raw.githubusercontent.com/phreakwenci/Societyofthecellar/main/images/AD%2033%20Poster.png" alt="AD 33">
@@ -1295,8 +1292,6 @@
                                 target="_blank" onclick="event.stopPropagation()">View Production</a>
                         </div>
                     </div>
-
-                    <!-- Panel 4: Confessions of a Pregnant Stripper -->
                     <div class="production-panel"
                         onclick="window.open('https://www.hollywoodfringe.org/projects/14450','_blank')">
                         <img src="https://raw.githubusercontent.com/phreakwenci/Societyofthecellar/main/images/Copy%20of%20HFF26_AdTemplate-EIGHTH%20(Instagram%20Reel).png" alt="Confessions of a Pregnant Stripper">
@@ -1312,27 +1307,21 @@
                                 onclick="event.stopPropagation()">Tickets and Info</a>
                         </div>
                     </div>
-
-                    <!-- Panel 5: United States of Christ -->
                     <div class="production-panel panel-dev">
-                        <img src="https://images.unsplash.com/photo-1551269901-5c41c5f3e4ee?w=1200&q=80" alt="United States of Christ">
+                        <img src="https://images.unsplash.com/photo-1551269901-5c41c5f3e4ee?w=1200&q=80" alt="The United States of Christ">
                         <div class="panel-content">
                             <span class="panel-status">In Development</span>
-                            <div class="panel-title">UNITED STATES OF CHRIST</div>
+                            <div class="panel-title">The UNITED STATES OF CHRIST</div>
                             <div class="panel-subtitle">A New Play</div>
                             <p class="panel-desc">A conservative Christian family in Idaho, true believers all, slowly
                                 destroyed by the theocracy they helped build.</p>
                         </div>
                     </div>
-
-                    <!-- Panel 6: More to come -->
                     <div class="panel-more">
                         <h3>More<br>to come.</h3>
                         <p>The Society is always at work.</p>
                     </div>
-
                 </div>
-
                 <div class="scroll-dots" id="scrollDots">
                     <div class="dot active"></div>
                     <div class="dot"></div>
@@ -1342,13 +1331,11 @@
                     <div class="dot"></div>
                     <div class="dot"></div>
                 </div>
-
                 <div class="drag-hint">Scroll to explore</div>
             </div>
         </div>
     </section>
 
-    <!-- ABOUT -->
     <section id="about">
         <div class="about-grid">
             <div class="about-left">
@@ -1390,9 +1377,7 @@
         </div>
     </section>
 
-    <!-- COLLABORATORS -->
     <section id="collaborators">
-        <span class="section-label">The Collective</span>
         <h2>Our Collaborators</h2>
         <div class="collaborators-grid">
             <div class="collaborator-card">
@@ -1409,7 +1394,7 @@
                 <div class="collab-info">
                     <p class="collab-name">Athena Rethis</p>
                     <p class="collab-role">Producer</p>
-                    <p class="collab-bio">Producer of Oh Constantine! at the Hollywood Fringe Festival 2025. A core
+                    <p class="collab-bio">Award Winning Director of A.D. 33 & Producer of Oh Constantine! at the Hollywood Fringe Festival 2025. Athena is a core
                         architect of the Society's productions from development through opening night.</p>
                 </div>
             </div>
@@ -1418,14 +1403,13 @@
                 <div class="collab-info">
                     <p class="collab-name">Megan Rippey</p>
                     <p class="collab-role">Executive Producer</p>
-                    <p class="collab-bio">Executive Producer and founding force behind the Society. Brings strategic
-                        vision and deep creative partnership to every project the collective undertakes.</p>
+                    <p class="collab-bio">Writer/Director of her solo show "Confessions of a Pregnant Stripper" at Hollywood Fringe 2026, Megan is also the Executive Producer and founding force behind the Society of the Cellar. Megan brings strategic
+                        vision, passion and deep creative partnership to every project the collective undertakes.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- JOIN -->
     <section id="join">
         <div class="join-grid">
             <div class="join-left">
@@ -1754,7 +1738,6 @@
         </div>
     </section>
 
-    <!-- CONTACT -->
     <section id="contact">
         <div class="contact-grid">
             <div class="contact-left">
@@ -1808,7 +1791,6 @@
         </div>
     </section>
 
-    <!-- FOOTER -->
     <footer>
         <div class="footer-brand">Society <em>of the</em> Cellar</div>
         <p class="footer-copy">2025 Society of the Cellar. Los Angeles.</p>
@@ -1820,7 +1802,6 @@
         </ul>
     </footer>
 
-    <!-- VOLTAIRE EASTER EGG -->
     <div class="voltaire-overlay" id="voltaireOverlay">
         <p class="voltaire-quote">"It is dangerous to be right in matters on which the established authorities are
             wrong."</p>
@@ -1832,9 +1813,9 @@
         gsap.registerPlugin(ScrollTrigger);
 
         // ── HORIZONTAL SCROLL ──
-        const track = document.getElementById('hScrollTrack');
-        const outer = document.getElementById('hScrollOuter');
-        const dots  = document.querySelectorAll('.dot');
+        const track  = document.getElementById('hScrollTrack');
+        const outer  = document.getElementById('hScrollOuter');
+        const dots   = document.querySelectorAll('.dot');
         const panels = track.querySelectorAll('.h-panel-header, .production-panel, .panel-more');
 
         function buildHScroll() {
@@ -1862,64 +1843,74 @@
         buildHScroll();
         window.addEventListener('resize', () => { buildHScroll(); ScrollTrigger.refresh(); });
 
-        // ── SECTION FADE-INS ──
-        gsap.utils.toArray('.pillar, .about-body p, .manifesto-block').forEach((el, i) => {
-            gsap.from(el, {
-                scrollTrigger: { trigger: el, start: 'top 88%', toggleActions: 'play none none reverse' },
-                y: 22, opacity: 0, duration: 0.85, ease: 'power2.out', delay: i * 0.06
-            });
+        // ── ABOUT SECTION FADE-INS ──
+        // Plain IntersectionObserver — avoids GSAP ScrollTrigger pin calculation bug
+        const fadeEls = document.querySelectorAll('.pillar, .about-body p, .manifesto-block');
+        fadeEls.forEach(el => {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(22px)';
+            el.style.transition = 'opacity 0.85s ease, transform 0.85s ease';
         });
+        const fadeObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                    fadeObserver.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.15, rootMargin: '0px 0px -40px 0px' });
+        fadeEls.forEach(el => fadeObserver.observe(el));
 
         // ── WORDMARK ──
-        const wordmarkInner    = document.getElementById('wordmarkInner');
-        const wordmarkEl       = document.getElementById('wordmark');
-        const wordmarkVertical = document.getElementById('wordmarkVertical');
-        const heroSection      = document.getElementById('heroSection');
+        const wordmarkInner     = document.getElementById('wordmarkInner');
+        const wordmarkEl        = document.getElementById('wordmark');
+        const wordmarkVertical  = document.getElementById('wordmarkVertical');
+        const heroSection       = document.getElementById('heroSection');
         const productionsSection = document.getElementById('productions');
 
-        // Force correct starting state immediately — no observer async quirks
+        // Starting state — always line 1, always visible
         wordmarkInner.classList.remove('scrolled');
         wordmarkEl.style.opacity = '1';
 
-        // Build vertical wordmark letters with staggered cascade
+        // Build vertical letter cascade
         const verticalWords = ['Society', 'of', 'the', 'Cellar'];
         const redWords = ['of', 'the'];
         let vHtml = '';
-        let letterIndex = 0;
+        let li = 0;
         verticalWords.forEach((word, wi) => {
             const isRed = redWords.includes(word.toLowerCase());
             for (let i = 0; i < word.length; i++) {
-                const delay = letterIndex * 0.04;
                 const color = isRed ? 'color:var(--red-bright);' : 'color:var(--white);';
-                vHtml += `<span class="v-letter" style="transition-delay:${delay}s;${color}">${word[i]}</span>`;
-                letterIndex++;
+                vHtml += `<span class="v-letter" style="transition-delay:${li * 0.04}s;${color}">${word[i]}</span>`;
+                li++;
             }
             if (wi < verticalWords.length - 1) {
-                const delay = letterIndex * 0.04;
-                vHtml += `<span class="v-letter" style="transition-delay:${delay}s;color:var(--white);"> </span>`;
-                letterIndex++;
+                vHtml += `<span class="v-letter" style="transition-delay:${li * 0.04}s;color:var(--white);"> </span>`;
+                li++;
             }
         });
         wordmarkVertical.innerHTML = vHtml;
 
-        // Hero text swap: use scroll position directly — totally reliable, no observer async
-        // Swap when we've scrolled more than 40% of the hero height
+        // Text swap — use getBoundingClientRect, not scrollY
         function updateWordmarkSwap() {
-            const heroHeight = heroSection.offsetHeight;
-            const swapAt = heroHeight * 0.9;
-            if (window.scrollY > swapAt) {
+            const heroBottom = heroSection.getBoundingClientRect().bottom;
+            if (heroBottom < window.innerHeight * 0.2) {
                 wordmarkInner.classList.add('scrolled');
             } else {
                 wordmarkInner.classList.remove('scrolled');
             }
         }
-        // Run once immediately on load to set correct state
         setTimeout(updateWordmarkSwap, 500);
         window.addEventListener('scroll', updateWordmarkSwap, { passive: true });
 
-        // Productions observer: fade out horizontal, cascade in vertical
+        // Horizontal to vertical — flag prevents firing on page load
+        let productionsObserverActive = false;
+        setTimeout(() => { productionsObserverActive = true; }, 600);
+
         const productionsObserver = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
+                if (!productionsObserverActive) return;
                 if (entry.isIntersecting) {
                     wordmarkEl.style.opacity = '1';
                     wordmarkEl.style.pointerEvents = 'all';
@@ -1933,8 +1924,8 @@
         }, { threshold: 0.01 });
         productionsObserver.observe(productionsSection);
 
-        // ── NAV TOGGLE ──
-        const hamburger = document.getElementById('hamburger');
+        // ── NAV ──
+        const hamburger  = document.getElementById('hamburger');
         const navOverlay = document.getElementById('navOverlay');
         hamburger.addEventListener('click', () => {
             hamburger.classList.toggle('open');
@@ -1955,8 +1946,8 @@
         // ── CONTACT FORM ──
         document.getElementById('contactForm').addEventListener('submit', async e => {
             e.preventDefault();
-            const form = e.target;
-            const btn = document.getElementById('contactSubmitBtn');
+            const form    = e.target;
+            const btn     = document.getElementById('contactSubmitBtn');
             const success = document.getElementById('contactSuccess');
             btn.textContent = 'Sending...';
             btn.disabled = true;
@@ -1980,13 +1971,11 @@
             }
         });
 
-        // ── VOLTAIRE EASTER EGG ──
-        // Type V-O-L-T-A-I-R-E anywhere on the page to summon him
+        // ── VOLTAIRE ──
         const sequence = 'voltaire';
         let typed = '';
         const overlay = document.getElementById('voltaireOverlay');
         const dismiss = document.getElementById('voltaireDismiss');
-
         document.addEventListener('keydown', e => {
             if (overlay.classList.contains('visible')) {
                 overlay.classList.remove('visible');
@@ -1995,16 +1984,9 @@
             }
             typed += e.key.toLowerCase();
             if (typed.length > sequence.length) typed = typed.slice(-sequence.length);
-            if (typed === sequence) {
-                overlay.classList.add('visible');
-                typed = '';
-            }
+            if (typed === sequence) { overlay.classList.add('visible'); typed = ''; }
         });
-
-        dismiss.addEventListener('click', () => {
-            overlay.classList.remove('visible');
-            typed = '';
-        });
+        dismiss.addEventListener('click', () => { overlay.classList.remove('visible'); typed = ''; });
     </script>
 </body>
 
