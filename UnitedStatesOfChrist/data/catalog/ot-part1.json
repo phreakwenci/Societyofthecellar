@@ -1,0 +1,742 @@
+[
+[
+"P",
+"Believe in God",
+"Exodus 20:2",
+"Religious",
+"II",
+"NDS",
+"enforced",
+"Affirm the existence and sovereignty of God; the USofC makes the affirmation an annual sworn filing."
+],
+[
+"P",
+"Acknowledge divine unity",
+"Deuteronomy 6:4",
+"Religious",
+"II",
+"NDS",
+"enforced",
+"Confess that God is one (the Shema); recited to open every school day and legislative session."
+],
+[
+"P",
+"Love God",
+"Deuteronomy 6:5",
+"Moral",
+"II",
+"NDS",
+"adapted",
+"Love God with all heart, soul, and might; operationalized as measurable devotion metrics."
+],
+[
+"P",
+"Fear God",
+"Deuteronomy 6:13",
+"Moral",
+"II",
+"NDS",
+"enforced",
+"Maintain reverent fear of God; cited in every sentencing colloquy."
+],
+[
+"P",
+"Sanctify God's name",
+"Leviticus 22:32",
+"Religious",
+"II",
+"SSC",
+"enforced",
+"Public conduct must sanctify the Name; the affirmative twin of the blasphemy ban."
+],
+[
+"N",
+"Do not profane God's name",
+"Leviticus 22:32",
+"Religious",
+"II",
+"SSC",
+"enforced",
+"No act or speech that profanes the Name; the blasphemy statute's foundation."
+],
+[
+"N",
+"Do not test God",
+"Deuteronomy 6:16",
+"Religious",
+"II",
+"NDS",
+"adapted",
+"Do not put God to the test as at Massah; construed to ban demanding miracles of state chaplains."
+],
+[
+"P",
+"Imitate God's ways",
+"Deuteronomy 28:9",
+"Moral",
+"II",
+"NDS",
+"adapted",
+"Walk in God's ways; the civic virtue curriculum's charter text."
+],
+[
+"P",
+"Cleave to the wise",
+"Deuteronomy 10:20",
+"Moral",
+"II",
+"NDS",
+"adapted",
+"Attach yourself to God (read: to his scholars); basis of mandatory clergy mentorship."
+],
+[
+"P",
+"Swear by God's name only",
+"Deuteronomy 10:20",
+"Judicial",
+"IX",
+"SSC",
+"enforced",
+"Lawful oaths invoke the Name alone; all court oaths are covenant affirmations."
+],
+[
+"N",
+"Do not take the Name in vain",
+"Exodus 20:7",
+"Religious",
+"II",
+"SSC",
+"enforced",
+"No vain or false invocation of the Name; see deep record exo-020-007."
+],
+[
+"N",
+"Do not swear falsely",
+"Leviticus 19:12",
+"Judicial",
+"IX",
+"SSC",
+"enforced",
+"No false oaths by the Name; perjury prosecuted as blasphemy."
+],
+[
+"N",
+"Do not break a vow",
+"Numbers 30:2",
+"Religious",
+"II",
+"CC",
+"enforced",
+"Whatever proceeds from your mouth you must do; the Vow Registry enforces specific performance."
+],
+[
+"P",
+"Fulfill vows promptly",
+"Deuteronomy 23:21-23",
+"Religious",
+"II",
+"CC",
+"enforced",
+"Delay in paying a vow is sin; vows accrue statutory interest to the Temple fund."
+],
+[
+"P",
+"Pray to God",
+"Exodus 23:25 / Deuteronomy 6:13",
+"Ceremonial",
+"II",
+"DOW",
+"adapted",
+"Serve God (construed as prayer); daily observance logged via congregation attendance."
+],
+[
+"P",
+"Read the Shema morning and evening",
+"Deuteronomy 6:7",
+"Ceremonial",
+"II",
+"NDS",
+"adapted",
+"Recite the words when you lie down and rise up; broadcast at 6am and 9pm on all licensed media."
+],
+[
+"P",
+"Bind the words as a sign (tefillin/frontlets)",
+"Deuteronomy 6:8",
+"Ceremonial",
+"II",
+"DOW",
+"adapted",
+"Bind the law on hand and forehead; survives as the Covenant Lapel Seal, mandatory for officials."
+],
+[
+"P",
+"Write the words on doorposts (mezuzah)",
+"Deuteronomy 6:9",
+"Ceremonial",
+"II",
+"DOW",
+"enforced",
+"Inscribe the law on doorposts and gates; every dwelling carries a certified Doorpost Plaque."
+],
+[
+"P",
+"Wear fringes on garments",
+"Numbers 15:38",
+"Ceremonial",
+"II",
+"DOW",
+"adapted",
+"Tassels on garment corners as reminders; survives in official and clerical dress codes."
+],
+[
+"P",
+"Assemble the people to hear the law",
+"Deuteronomy 31:12",
+"Governmental",
+"I",
+"NDS",
+"enforced",
+"Periodic national assembly to hear the law read; now the televised Septennial Reading."
+],
+[
+"P",
+"Write a copy of the law (the king's copy)",
+"Deuteronomy 17:18",
+"Governmental",
+"I",
+"COO",
+"enforced",
+"The sovereign writes and keeps a personal copy of the law; each President hand-copies Deuteronomy on live broadcast."
+],
+[
+"P",
+"Teach the law to your children",
+"Deuteronomy 6:7",
+"Family",
+"III",
+"NDS",
+"enforced",
+"Diligent instruction of children; homeschool and NDS curricula audited for scripture density."
+],
+[
+"P",
+"Bless God after eating",
+"Deuteronomy 8:10",
+"Ceremonial",
+"II",
+"NDS",
+"adapted",
+"When you have eaten and are full, bless the LORD; restaurant grace is a posted-compliance item."
+],
+[
+"N",
+"Do not add to the commandments",
+"Deuteronomy 4:2",
+"Governmental",
+"I",
+"COO",
+"adapted",
+"Add nothing to the word; the clause every new regulation must recite before adding to the word."
+],
+[
+"N",
+"Do not subtract from the commandments",
+"Deuteronomy 4:2",
+"Governmental",
+"I",
+"COO",
+"adapted",
+"Diminish nothing from the word; the repeal-proofing clause of the whole Code."
+],
+[
+"N",
+"No other gods",
+"Exodus 20:3",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"Exclusive allegiance; see deep record exo-020-003."
+],
+[
+"N",
+"Do not make idols",
+"Exodus 20:4",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"No graven images; see deep record exo-020-004."
+],
+[
+"N",
+"Do not bow to idols",
+"Exodus 20:5",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"No prostration to images; see deep record exo-020-005."
+],
+[
+"N",
+"Do not worship idols by their rites",
+"Exodus 20:5",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"No serving idols in the manner their cults prescribe."
+],
+[
+"N",
+"Do not make gods of metal",
+"Exodus 34:17 / 20:23",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"No molten gods; the Precious Metals Devotional Use Act."
+],
+[
+"N",
+"Do not make idols for others",
+"Leviticus 19:4",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"Manufacturing idols for third parties is equally criminal; the export-model loophole closed."
+],
+[
+"N",
+"Do not turn to idols",
+"Leviticus 19:4",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"Do not so much as turn your attention to idols; the browsing-history statute."
+],
+[
+"N",
+"Do not erect a sacred pillar",
+"Deuteronomy 16:22",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"No standing stones for worship; monument permitting runs through OIP."
+],
+[
+"N",
+"Do not plant a tree as an Asherah",
+"Deuteronomy 16:21",
+"Religious",
+"II",
+"OIP",
+"adapted",
+"No cult trees beside the altar; landscaping near licensed sanctuaries is regulated."
+],
+[
+"N",
+"Do not make figured stones to bow on",
+"Leviticus 26:1",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"No carved kneeling-stones; decorative pavers near altars require certification."
+],
+[
+"P",
+"Destroy idolatry and its appurtenances",
+"Deuteronomy 12:2-3",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"Demolish the places of foreign worship; the Iconoclasm Division's charter."
+],
+[
+"N",
+"Do not covet idol ornaments",
+"Deuteronomy 7:25",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"Do not take the silver or gold on destroyed idols; seized cult assets must be destroyed, not auctioned — the least-obeyed sentence in the Code."
+],
+[
+"N",
+"Do not bring an abomination into your house",
+"Deuteronomy 7:26",
+"Religious",
+"II",
+"OIP",
+"enforced",
+"No idolatrous object in a dwelling; the household contraband schedule."
+],
+[
+"N",
+"Do not follow the statutes of the nations",
+"Leviticus 20:23",
+"Religious",
+"II",
+"NDS",
+"adapted",
+"Do not walk in the customs of the nations; the Foreign Customs Review Board rules on imported holidays."
+],
+[
+"N",
+"Do not imitate pagan dress and custom",
+"Leviticus 18:3",
+"Purity",
+"II",
+"NDS",
+"adapted",
+"Do not do as Egypt and Canaan; enforced as the Modest and Distinct Apparel Guidelines."
+],
+[
+"N",
+"Do not mention the names of other gods",
+"Exodus 23:13",
+"Religious",
+"II",
+"SSC",
+"adapted",
+"Make no mention of other gods' names; weekday names (Thor's day, Woden's day) were officially renumbered — nobody uses the new names."
+],
+[
+"N",
+"Do not entice others to idolatry",
+"Deuteronomy 13:6-11",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"Enticement to foreign worship is capital, even by a brother or spouse; the informant-in-the-family statute."
+],
+[
+"P",
+"Show the enticer no pity; expose him",
+"Deuteronomy 13:8",
+"Judicial",
+"IX",
+"DOR",
+"enforced",
+"Do not spare or shield the enticer; failure to report is itself an offense."
+],
+[
+"N",
+"Do not love or heed the enticer",
+"Deuteronomy 13:8",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"Affection for the enticer is legally aggravating, not mitigating."
+],
+[
+"P",
+"Investigate an accused idolatrous city",
+"Deuteronomy 13:14",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"Inquire diligently before destroying an apostate city; the regime's proudest due-process clause, attached to its worst statute."
+],
+[
+"N",
+"Burn the apostate city; rebuild never",
+"Deuteronomy 13:16",
+"Judicial",
+"IX",
+"MCD",
+"classified",
+"The condemned city is burned entire and never rebuilt; the statute exists, invoked once, records sealed."
+],
+[
+"N",
+"Retain nothing of the condemned city",
+"Deuteronomy 13:17",
+"Judicial",
+"IX",
+"MCD",
+"classified",
+"No spoil may cleave to your hand from the herem city."
+],
+[
+"N",
+"Do not prophesy in the name of other gods",
+"Deuteronomy 18:20",
+"Religious",
+"II",
+"SSC",
+"enforced",
+"Speaking for foreign gods is capital prophecy fraud."
+],
+[
+"N",
+"Do not listen to the false prophet",
+"Deuteronomy 13:3",
+"Religious",
+"II",
+"NDS",
+"enforced",
+"Do not heed signs and wonders offered against the covenant; miracle claims require SSC licensing."
+],
+[
+"P",
+"Execute the false prophet",
+"Deuteronomy 18:20",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"The presumptuous prophet dies; commuted in practice to Prophetic Fraud with asset forfeiture — televangelists' one genuine terror."
+],
+[
+"N",
+"Do not fear the false prophet",
+"Deuteronomy 18:22",
+"Religious",
+"II",
+"NDS",
+"enforced",
+"When the word does not come to pass, be not afraid of him; failed-prediction registries are public."
+],
+[
+"N",
+"Do not practice divination",
+"Deuteronomy 18:10",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"No divination or soothsaying; horoscopes are contraband, weather forecasting required a special carve-out."
+],
+[
+"N",
+"Do not practice sorcery",
+"Exodus 22:18",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"'Thou shalt not suffer a witch to live'; capital in statute, the Witchcraft Docket is the courts' darkest corridor."
+],
+[
+"N",
+"Do not enchant or charm",
+"Deuteronomy 18:10-11",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"No enchanting; stage magic requires an Illusionist's Disclaimer License."
+],
+[
+"N",
+"Do not consult mediums",
+"Leviticus 19:31",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"Do not seek familiar spirits; grief-counseling industry heavily surveilled."
+],
+[
+"N",
+"Do not consult wizards or necromancers",
+"Deuteronomy 18:11",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"No inquiring of the dead; genealogy sites operate under consent decrees."
+],
+[
+"N",
+"Do not practice astrology or read omens",
+"Leviticus 19:26",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"No observing times or auguries; the financial industry's 'technical analysis' exemption is notorious."
+],
+[
+"P",
+"Be wholehearted with God",
+"Deuteronomy 18:13",
+"Moral",
+"II",
+"NDS",
+"adapted",
+"'Thou shalt be perfect with the LORD'; the loyalty-review standard, unfalsifiable by design."
+],
+[
+"N",
+"Do not tattoo the body",
+"Leviticus 19:28",
+"Purity",
+"VII",
+"BRC",
+"enforced",
+"No marks upon you; the Tattoo Removal Subsidy is the BRC's most popular program."
+],
+[
+"N",
+"Do not cut the body for the dead",
+"Leviticus 19:28",
+"Purity",
+"VII",
+"BRC",
+"enforced",
+"No ritual gashing in mourning; funeral-industry conduct codes."
+],
+[
+"N",
+"Do not make a bald spot for the dead",
+"Deuteronomy 14:1",
+"Purity",
+"VII",
+"BRC",
+"adapted",
+"No mourning tonsure; enforced against specific immigrant funeral customs, selectively."
+],
+[
+"N",
+"Do not round the corners of the head",
+"Leviticus 19:27",
+"Purity",
+"VII",
+"BRC",
+"adapted",
+"No rounding the hair's corners; the Barber Licensing Board's strangest inspection item."
+],
+[
+"N",
+"Do not mar the corners of the beard",
+"Leviticus 19:27",
+"Purity",
+"VII",
+"BRC",
+"adapted",
+"No marring the beard's corners; clergy beards are regulated to the millimeter."
+],
+[
+"N",
+"Men shall not wear women's garments",
+"Deuteronomy 22:5",
+"Purity",
+"III",
+"FPA",
+"enforced",
+"Cross-dressing prohibited; the Apparel Conformity statute, enforced with enthusiasm and no definitions."
+],
+[
+"N",
+"Women shall not wear men's garments",
+"Deuteronomy 22:5",
+"Purity",
+"III",
+"FPA",
+"enforced",
+"The mirror clause; trousers litigation reached the Council twice."
+],
+[
+"N",
+"Do not pass children through the fire to Molech",
+"Leviticus 18:21",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"Child sacrifice is capital; the statute every regime speech quotes to prove its own decency."
+],
+[
+"N",
+"Do not practice Molech divination via offspring",
+"Deuteronomy 18:10",
+"Religious",
+"II",
+"DOR",
+"enforced",
+"No dedicating offspring by fire; duplicated for emphasis in the Code as in the canon."
+],
+[
+"P",
+"Stone the blasphemer",
+"Leviticus 24:16",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"Blasphemy is capital by stoning; commuted to Sacred Speech felonies except in 'aggravated public' cases — there have been three."
+],
+[
+"P",
+"Burn the daughter of a priest who plays the harlot",
+"Leviticus 21:9",
+"Judicial",
+"IX",
+"CC",
+"omitted",
+"Priest's daughter's unchastity punished by fire; on the books, never printed in enforcement manuals, cited only by the regime's enemies."
+],
+[
+"N",
+"Do not blaspheme God",
+"Exodus 22:28",
+"Religious",
+"II",
+"SSC",
+"enforced",
+"'Thou shalt not revile the gods'; the SSC's charter verse."
+],
+[
+"N",
+"Do not curse a ruler",
+"Exodus 22:28",
+"Governmental",
+"I",
+"SSC",
+"enforced",
+"'Nor curse the ruler of thy people'; the lese-majesty clause fused to the blasphemy statute — criticism of the President is litigated here."
+],
+[
+"P",
+"Love the stranger",
+"Deuteronomy 10:19",
+"Moral",
+"XI",
+"DFO",
+"deferred",
+"Love the resident alien, for you were strangers; officially affirmed, budgetarily starved, the deferred list's most cited entry."
+],
+[
+"N",
+"Do not wrong the stranger in speech",
+"Exodus 22:21",
+"Moral",
+"XI",
+"CC",
+"deferred",
+"Neither vex a stranger; a civil cause of action no alien has ever won."
+],
+[
+"N",
+"Do not oppress the stranger in commerce",
+"Exodus 23:9",
+"Economic",
+"XI",
+"BWM",
+"deferred",
+"Nor oppress him, for ye know the heart of a stranger; the BWM's one unfunded mandate."
+]
+]

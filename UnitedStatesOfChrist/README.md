@@ -37,11 +37,28 @@ docs/DenominationalNotes.md    how the regime picks and chooses
 
 See `CLAUDE.md` for conventions and `docs/WorldBible.md` for the world.
 
+## The Catalog and the Constitution
+
+`data/catalog/CATALOG.md` enumerates the **complete legal corpus**: all
+**613 commandments of the Torah** (classical enumeration, thematic order)
+plus **109 enforceable New Testament norms** — each with citation,
+category, Federal Code Title, responsible agency, and enforcement status
+(enforced / adapted / deferred / abeyance / classified / omitted /
+counsel). The status distribution is the regime's fingerprint.
+
+`docs/Constitution.md` is the full Constitution of the United States of
+Christ built on that corpus — every clause cites its scriptural warrant,
+with the contradictions deliberately embedded for dramatic use.
+
+Rebuild after editing catalog parts: `python3 tools/build_catalog.py`
+(fails unless the OT count is exactly 613).
+
 ## Status
 
 - [x] Corpus pipeline (66 books converted, 472 contradictions indexed)
 - [x] Schema + skills + agency registry
-- [x] Seed extraction: Exodus 20 (Decalogue) + Exodus 21 (Covenant Code)
-- [ ] Exodus 22–23, Leviticus, Deuteronomy
-- [ ] New Testament norms (household codes, qualifications, Sermon on the Mount)
-- [ ] Federal Code expansion per law
+- [x] Seed deep extraction: Exodus 20 (Decalogue) + Exodus 21 (Covenant Code)
+- [x] Full catalog: 613 Torah commandments + 109 NT norms, all assigned
+- [x] Constitution of the United States of Christ
+- [ ] Deep records for remaining catalog entries (use `/extract-biblical-law`)
+- [ ] Federal Code sections per law (use `/convert-to-federal-law`)

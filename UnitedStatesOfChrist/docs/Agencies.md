@@ -57,6 +57,25 @@ and one telling institutional detail.
   doorpost Perpetual Service Election (Ex 21:6). The USofC insists this
   is not slavery; the paperwork says "covenant labor."
 
+- **Temple Reconstruction Authority (TRA)** — custodian of the ~97 laws
+  "held in abeyance pending Temple reconstruction." Maintains the
+  Suspended Rites Register, the Perpetual Flame, the empty ash vault, and
+  the Red Heifer Breeding Program (four near-misses, each a media event).
+  Groundbreaking has been "imminent" for a generation; the abeyance is
+  the TRA's entire reason to exist, and it knows it.
+- **Ministry of Covenant Defense (MCD)** — the military. Administers
+  Title XII (classified nearly entire), the Deferment Proclamation, the
+  war-priest chaplaincy, and the executive findings that assign the
+  scriptural categories "Amalek" and "the seven nations" to present-day
+  enemies. The assignment is the war power.
+- **Agricultural Holiness Service (AHS)** — species law, kilayim, orlah,
+  slaughter, the CLEAN food seal, and the gleaning corners it keeps
+  fenced "pending rulemaking." USDA with a concordance.
+- **Bureau of Ritual Cleanliness (BRC)** — purity administration: the
+  sundown clock, quarantine (the Dermatological Adjudication Corps),
+  shatnez fiber certification, municipal Purification Baths, and the
+  hyssop-and-scarlet condemnation ribbon mortgage lenders fear.
+
 ## Independent and quasi-official
 
 - **Committee on Scriptural Consistency (CSC)** — reports to the COO;

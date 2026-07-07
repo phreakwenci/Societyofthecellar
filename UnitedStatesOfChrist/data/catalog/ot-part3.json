@@ -1,0 +1,872 @@
+[
+[
+"P",
+"Examine land animals for cloven hoof and cud",
+"Leviticus 11:2-3",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"Only cloven-hoofed cud-chewers are food; the AHS species schedule, printed on every menu."
+],
+[
+"N",
+"Do not eat the camel, coney, hare, or swine",
+"Leviticus 11:4-7",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"The four named exclusions; the Pork Question nearly broke the founding convention — bacon lost, the smugglers' fortune was made."
+],
+[
+"P",
+"Eat only finned and scaled water creatures",
+"Leviticus 11:9",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"Fins and scales required; the shrimp fleet converted to 'export only' in a single fiscal year."
+],
+[
+"N",
+"Do not eat what lacks fins and scales",
+"Leviticus 11:10-12",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"Shellfish are abomination; the Gulf coast's economy is one long asterisk."
+],
+[
+"N",
+"Do not eat the listed birds of prey and carrion birds",
+"Leviticus 11:13-19",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"The unclean bird list; poultry certification descends from it."
+],
+[
+"N",
+"Do not eat winged creeping things",
+"Deuteronomy 14:19",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"Insects forbidden save the exceptions; the protein-bar industry litigated cricket flour to the Council and lost."
+],
+[
+"P",
+"The four leaping insects are permitted",
+"Leviticus 11:21-22",
+"Dietary",
+"VII",
+"AHS",
+"adapted",
+"Locust, bald locust, beetle, grasshopper; permitted, unmarketed, a survivalist novelty."
+],
+[
+"N",
+"Do not eat creeping things of the ground",
+"Leviticus 11:41-42",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"Whatsoever goeth upon the belly; escargot joined shrimp in exile."
+],
+[
+"N",
+"Do not eat any abominable thing",
+"Deuteronomy 14:3",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"The general clause; the catch-all under which novel foods are adjudicated — lab-grown meat's hearing lasted three years."
+],
+[
+"P",
+"Distinguish clean from unclean",
+"Leviticus 11:47",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"The duty of discernment itself; AHS food labels carry a CLEAN seal, counterfeited constantly."
+],
+[
+"N",
+"Do not sow the field with mixed seed (kilayim)",
+"Leviticus 19:19",
+"Civil",
+"VII",
+"AHS",
+"adapted",
+"No mingled seed; monoculture got a divine mandate, seed companies quote Leviticus in annual reports."
+],
+[
+"N",
+"Do not sow the vineyard with mixed seed",
+"Deuteronomy 22:9",
+"Civil",
+"VII",
+"AHS",
+"adapted",
+"Mixed vineyard plantings are forfeit; vineyard interplanting requires an AHS variance."
+],
+[
+"N",
+"Do not plow with ox and ass together",
+"Deuteronomy 22:10",
+"Civil",
+"VII",
+"AHS",
+"adapted",
+"No mixed-species yoking; construed to regulate mixed-power machinery pairings, absurdly."
+],
+[
+"N",
+"Do not wear wool and linen together (shatnez)",
+"Deuteronomy 22:11",
+"Purity",
+"VII",
+"BRC",
+"enforced",
+"No mingled fabric; garment tags carry BRC fiber certification, the fashion industry's compliance arm is enormous."
+],
+[
+"N",
+"Do not crossbreed animals",
+"Leviticus 19:19",
+"Civil",
+"VII",
+"AHS",
+"adapted",
+"No diverse-kind breeding; the mule question was resolved by grandfather clause, literally."
+],
+[
+"N",
+"Do not eat orlah (fruit of the first three years)",
+"Leviticus 19:23",
+"Dietary",
+"VII",
+"AHS",
+"enforced",
+"Young trees' fruit forbidden three years; orchard registries date-stamp every planting."
+],
+[
+"P",
+"The fourth year's fruit is holy",
+"Leviticus 19:24",
+"Ceremonial",
+"X",
+"TFRS",
+"adapted",
+"Fourth-year fruit praised to God; commuted to the Fourth-Year Levy on orchards."
+],
+[
+"N",
+"Do not reap the field's corners",
+"Leviticus 19:9",
+"Economic",
+"X",
+"AHS",
+"deferred",
+"Leave the corners for the poor; codified, mapped, and fenced 'pending gleaning-safety rulemaking' for thirty years."
+],
+[
+"P",
+"Leave the corners (peah) for the poor",
+"Leviticus 19:9-10",
+"Economic",
+"X",
+"AHS",
+"deferred",
+"The affirmative twin; the Gleaner's Card queue is the rulemaking."
+],
+[
+"P",
+"Leave the gleanings of harvest",
+"Leviticus 19:9",
+"Economic",
+"X",
+"AHS",
+"deferred",
+"Dropped stalks belong to the poor; supermarket 'ugly produce' programs claim the mantle, cynically."
+],
+[
+"P",
+"Leave the fallen grapes and vineyard gleanings",
+"Leviticus 19:10",
+"Economic",
+"X",
+"AHS",
+"deferred",
+"The vineyard's leavings for the poor and stranger."
+],
+[
+"P",
+"Leave the forgotten sheaf",
+"Deuteronomy 24:19",
+"Economic",
+"X",
+"AHS",
+"deferred",
+"The forgotten sheaf is the widow's and orphan's; logistics software made forgetting impossible, which the AHS ruled 'constructive compliance.'"
+],
+[
+"N",
+"Do not return for the forgotten sheaf",
+"Deuteronomy 24:19",
+"Economic",
+"X",
+"AHS",
+"deferred",
+"The negative twin; route-optimization patches were mandated, then unfunded."
+],
+[
+"N",
+"Do not glean your own vineyard bare",
+"Leviticus 19:10",
+"Economic",
+"X",
+"AHS",
+"deferred",
+"Total harvest is forbidden; combine-harvester efficiency settings were briefly capped — the lobbying war of the decade."
+],
+[
+"P",
+"The passerby may eat grapes in your vineyard",
+"Deuteronomy 23:24",
+"Economic",
+"VI",
+"RA",
+"deferred",
+"Field-eating rights on the spot; codified, gated behind the Gleaner's Card."
+],
+[
+"N",
+"The passerby shall not carry any away",
+"Deuteronomy 23:24",
+"Economic",
+"VI",
+"RA",
+"enforced",
+"No vessel-filling; THIS half is enforced with cameras — the right starves, the limit thrives."
+],
+[
+"P",
+"The passerby may pluck ears by hand",
+"Deuteronomy 23:25",
+"Economic",
+"VI",
+"RA",
+"deferred",
+"Hand-plucking in standing grain; Jesus's disciples exercised it (Mt 12:1), the card office notes."
+],
+[
+"N",
+"The passerby shall not use a sickle",
+"Deuteronomy 23:25",
+"Economic",
+"VI",
+"RA",
+"enforced",
+"No sickle on a neighbor's grain; the enforced half, again."
+],
+[
+"N",
+"Do not muzzle the ox treading grain",
+"Deuteronomy 25:4",
+"Civil",
+"V",
+"AHS",
+"adapted",
+"Working animals eat as they work; Paul made it clergy pay (1 Cor 9:9) and so did the TFRS."
+],
+[
+"P",
+"Bring the firstfruits to the sanctuary",
+"Deuteronomy 26:2",
+"Economic",
+"X",
+"TFRS",
+"adapted",
+"The basket of firstfruits with the wandering-Aramean recital; the Firstfruits Assessment plus a mandatory recorded recital, kept on file."
+],
+[
+"P",
+"Recite the firstfruits declaration",
+"Deuteronomy 26:5-10",
+"Ceremonial",
+"X",
+"TFRS",
+"adapted",
+"'A Syrian ready to perish was my father'; the recital's immigrant gratitude is read aloud yearly by a state that admits no immigrants — no one laughs on camera."
+],
+[
+"P",
+"Tithe the first tithe to the Levites",
+"Numbers 18:21,24",
+"Economic",
+"X",
+"TFRS",
+"enforced",
+"Ten percent to the Levites; the Tithe, payroll-withheld, the TFRS's reason for being."
+],
+[
+"P",
+"Levites tithe the tithe to the priests",
+"Numbers 18:26",
+"Economic",
+"X",
+"TFRS",
+"adapted",
+"The tithe of the tithe; intra-clergy revenue sharing, audited savagely."
+],
+[
+"P",
+"Tithe the second tithe and eat it at the place",
+"Deuteronomy 14:22-26",
+"Economic",
+"X",
+"TFRS",
+"adapted",
+"The festival consumption tithe, convertible to money for the journey; survives as the Festival Travel Account — the one tax citizens like."
+],
+[
+"P",
+"Give the poor tithe in the third year",
+"Deuteronomy 14:28-29",
+"Economic",
+"X",
+"TFRS",
+"deferred",
+"Every third year the tithe goes to the Levite, stranger, fatherless, widow; the Third-Year Redistribution is announced triennially and 'phased' perpetually."
+],
+[
+"P",
+"Declare the tithe fully given (biur)",
+"Deuteronomy 26:12-13",
+"Economic",
+"X",
+"TFRS",
+"adapted",
+"The solemn declaration of tithe compliance; the annual Tithe Attestation, signed under blasphemy exposure."
+],
+[
+"N",
+"Do not delay offerings and tithes",
+"Exodus 22:29",
+"Economic",
+"X",
+"TFRS",
+"enforced",
+"'Thou shalt not delay'; late tithes accrue the Contrition Surcharge."
+],
+[
+"N",
+"Do not eat the second tithe in mourning or unclean",
+"Deuteronomy 26:14",
+"Ceremonial",
+"X",
+"TFRS",
+"adapted",
+"The tithe eaten in joy and cleanness; Festival Travel Accounts freeze during bereavement, cruelly."
+],
+[
+"P",
+"Let the land rest the seventh year (shemitah)",
+"Exodus 23:10-11, Leviticus 25:4",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"The land's sabbath; the Fallow Mandate applies to smallholders, agribusiness holds 'continuous-cultivation research waivers.'"
+],
+[
+"N",
+"Do not sow or prune in the seventh year",
+"Leviticus 25:4",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"The negative twin; drone surveillance enforces it on exactly the farms too small to have lawyers."
+],
+[
+"N",
+"Do not reap the seventh year's aftergrowth as harvest",
+"Leviticus 25:5",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"Volunteer growth belongs to all; the commons clause, fenced."
+],
+[
+"P",
+"The seventh year's produce is free to all",
+"Leviticus 25:6-7",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"Open access for servant, stranger, and beast; the DLJ's least-visited webpage."
+],
+[
+"P",
+"Release debts in the seventh year (shemitat kesafim)",
+"Deuteronomy 15:1-2",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"Every creditor releases his neighbor's debt; the Release is 'under actuarial study' — the study's budget exceeds most agencies."
+],
+[
+"N",
+"Do not exact debt after the release",
+"Deuteronomy 15:2",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"No collection past the seventh year; the banking system exists because this is deferred."
+],
+[
+"N",
+"Do not refuse to lend as the release approaches",
+"Deuteronomy 15:9",
+"Moral",
+"X",
+"DLJ",
+"deferred",
+"The 'base thought' clause — refusing credit before release is sin; scored, never enforced, the credit industry's favorite dead letter."
+],
+[
+"P",
+"Assemble the people in the seventh year (hakhel)",
+"Deuteronomy 31:10-12",
+"Governmental",
+"I",
+"NDS",
+"enforced",
+"The septennial reading of the law; the one shemitah clause the regime loves — a broadcast spectacle."
+],
+[
+"P",
+"Count seven sabbaths of years",
+"Leviticus 25:8",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"The forty-nine-year count toward Jubilee; the DLJ's Jubilee Actuarial Office keeps the count with exquisite care and no intention."
+],
+[
+"P",
+"Sound the trumpet on the Jubilee",
+"Leviticus 25:9",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"Liberty proclaimed throughout the land; the words are on the Liberty Bell the regime did not melt and cannot ring."
+],
+[
+"P",
+"Hallow the fiftieth year; proclaim liberty",
+"Leviticus 25:10",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"Land returns, bondmen go free; CSC 1-03: 'requires a functioning Temple' — the load-bearing deferral of the whole economy."
+],
+[
+"N",
+"Do not sow or reap in the Jubilee",
+"Leviticus 25:11",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"The Jubilee fallow; moot by deferral."
+],
+[
+"P",
+"Land returns to its family in the Jubilee",
+"Leviticus 25:13,28",
+"Property",
+"X",
+"DLJ",
+"deferred",
+"Every man unto his possession; the Land Registry maintains 'reversion shadow-titles' for every parcel — the most dangerous database in the country."
+],
+[
+"N",
+"Do not sell land in perpetuity",
+"Leviticus 25:23",
+"Property",
+"X",
+"DLJ",
+"deferred",
+"'The land is mine; ye are strangers and sojourners with me'; all USofC land sales are formally 99-year leases against the shadow-titles, a fiction everyone prices in."
+],
+[
+"P",
+"Grant redemption of sold land",
+"Leviticus 25:24-27",
+"Property",
+"X",
+"DLJ",
+"adapted",
+"Kinsman redemption of family land; the Right of Familial Repurchase survives — the one Jubilee fragment enforced, because the wealthy use it."
+],
+[
+"P",
+"Houses in walled cities: one-year redemption",
+"Leviticus 25:29-30",
+"Property",
+"X",
+"DLJ",
+"adapted",
+"Urban homes redeemable one year, then permanent; the urban/rural title distinction, mapped onto zoning."
+],
+[
+"P",
+"Levite cities are perpetually redeemable",
+"Leviticus 25:32",
+"Property",
+"X",
+"DLJ",
+"adapted",
+"Levitical property never alienates; church real estate is inalienable, hence the denominations are land banks."
+],
+[
+"N",
+"Do not sell the Levites' pasture lands",
+"Leviticus 25:34",
+"Property",
+"X",
+"DLJ",
+"adapted",
+"The glebe is permanent; parsonage-land law."
+],
+[
+"P",
+"Support your impoverished brother",
+"Leviticus 25:35",
+"Moral",
+"X",
+"DFO",
+"deferred",
+"'Thou shalt relieve him'; the affirmative welfare command, implemented as faith-based block grants that mostly build gymnasiums."
+],
+[
+"N",
+"Do not take interest from your brother",
+"Leviticus 25:36-37, Exodus 22:25",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"No usury from the covenant poor; CSC 1-04 construed 'brother' to same-congregation lending — the mortgage industry's charter."
+],
+[
+"N",
+"Do not pay interest to your brother (borrower's ban)",
+"Deuteronomy 23:19",
+"Economic",
+"X",
+"DLJ",
+"deferred",
+"The borrower also sins; deferred with the rest, cited by debt-strike movements the DOR calls heretical."
+],
+[
+"P",
+"Lend to the foreigner at interest",
+"Deuteronomy 23:20",
+"Economic",
+"X",
+"DLJ",
+"adapted",
+"'Unto a stranger thou mayest lend upon usury'; the sovereign-debt desk's proof-text, engraved in its lobby."
+],
+[
+"P",
+"Lend to the poor",
+"Exodus 22:25",
+"Moral",
+"X",
+"DLJ",
+"deferred",
+"'If thou lend money to any of my people that is poor'; read as permissive by the banks, imperative by the preachers, and 'aspirational' by CSC."
+],
+[
+"N",
+"Do not demand payment of the insolvent",
+"Exodus 22:25",
+"Economic",
+"X",
+"RA",
+"deferred",
+"Be not as an usurer to him; collections law's ghost clause."
+],
+[
+"N",
+"Do not take the mill or millstone in pledge",
+"Deuteronomy 24:6",
+"Economic",
+"VI",
+"RA",
+"adapted",
+"No taking a man's livelihood as security; tools-of-trade exemption in the bankruptcy code, genuinely humane, genuinely enforced."
+],
+[
+"N",
+"Do not enter the debtor's house to take the pledge",
+"Deuteronomy 24:10-11",
+"Civil",
+"VI",
+"RA",
+"adapted",
+"Stand outside; the repossession-at-the-door rule, beloved of civil libertarians who hate everything else here."
+],
+[
+"P",
+"Return the poor man's pledge by sundown",
+"Deuteronomy 24:12-13, Exodus 22:26",
+"Economic",
+"VI",
+"RA",
+"adapted",
+"The garment pledge returns nightly; payday-loan collateral must be 'sundown-returnable,' an actual compliance category."
+],
+[
+"N",
+"Do not keep the widow's garment in pledge",
+"Deuteronomy 24:17",
+"Economic",
+"VI",
+"RA",
+"enforced",
+"The widow's raiment is untouchable; one of the few poor-law clauses with teeth, because the optics are unsurvivable."
+],
+[
+"N",
+"Do not withhold the hired servant's wages overnight",
+"Leviticus 19:13, Deuteronomy 24:15",
+"Economic",
+"V",
+"OSO",
+"adapted",
+"'At his day thou shalt give him his hire'; the Daily Wage Rule — gig platforms pay at sundown by statute, their one genuine improvement."
+],
+[
+"N",
+"Do not oppress the hired servant",
+"Deuteronomy 24:14",
+"Economic",
+"V",
+"OSO",
+"deferred",
+"No oppression of the poor and needy laborer, citizen or alien; the OSO's mission statement and its counter-example."
+],
+[
+"P",
+"Pay the laborer the same day",
+"Deuteronomy 24:15",
+"Economic",
+"V",
+"OSO",
+"adapted",
+"'Neither shall the sun go down upon it'; James 4:1-5:4 thunders it at the rich — the passage is read at every labor rally and never in the Council chapel."
+],
+[
+"N",
+"Do not pervert the alien's or orphan's wage claim",
+"Deuteronomy 24:17",
+"Judicial",
+"IX",
+"CC",
+"deferred",
+"No perverting the stranger's judgment; wage-theft claims by non-communicants queue separately, i.e., forever."
+],
+[
+"P",
+"Give to the poor what suffices his need",
+"Deuteronomy 15:8",
+"Moral",
+"X",
+"DFO",
+"deferred",
+"'Thou shalt open thine hand wide'; sufficiency was defined by regulation at 62% of sufficiency."
+],
+[
+"N",
+"Do not harden your heart against the poor",
+"Deuteronomy 15:7",
+"Moral",
+"X",
+"NDS",
+"deferred",
+"The heart statute; unenforceable, confessed weekly, unchanged."
+],
+[
+"P",
+"Give the freed servant liberal severance",
+"Deuteronomy 15:13-14",
+"Economic",
+"V",
+"OSO",
+"adapted",
+"'Thou shalt furnish him liberally'; the Release Endowment at bond expiry — funded at a rate the word 'liberally' sues over annually."
+],
+[
+"P",
+"Keep just balances, weights, and measures",
+"Leviticus 19:36",
+"Economic",
+"VI",
+"BWM",
+"enforced",
+"Just weights; the BWM's charter, the regime's one universally loved agency."
+],
+[
+"N",
+"Do not falsify weights and measures",
+"Leviticus 19:35",
+"Economic",
+"VI",
+"BWM",
+"enforced",
+"No unrighteousness in meteyard, weight, or measure; software scales are BWM-sealed at the chip level."
+],
+[
+"N",
+"Do not keep diverse weights in your bag",
+"Deuteronomy 25:13-14",
+"Economic",
+"VI",
+"BWM",
+"enforced",
+"No dual sets of weights; dual-pricing algorithms were ruled 'diverse weights in the bag' — the great fintech case."
+],
+[
+"N",
+"Do not defraud in buying and selling",
+"Leviticus 25:14",
+"Economic",
+"VI",
+"BWM",
+"enforced",
+"'Ye shall not oppress one another' in sale; the consumer-fraud omnibus."
+],
+[
+"N",
+"Do not wrong with words (ona'at devarim)",
+"Leviticus 25:17",
+"Moral",
+"VI",
+"SSC",
+"adapted",
+"Oppression by speech; deceptive-advertising law wears this verse."
+],
+[
+"N",
+"Do not steal",
+"Leviticus 19:11",
+"Property",
+"VI",
+"RA",
+"enforced",
+"The civil restatement of the eighth commandment; the restitution schedule's hook."
+],
+[
+"N",
+"Do not deal falsely",
+"Leviticus 19:11",
+"Moral",
+"VI",
+"BWM",
+"enforced",
+"No dealing falsely; contract fraud."
+],
+[
+"N",
+"Do not lie to one another",
+"Leviticus 19:11",
+"Moral",
+"VI",
+"SSC",
+"adapted",
+"The general falsehood ban; applied to commerce, waived — case by case — for statecraft."
+],
+[
+"N",
+"Do not defraud your neighbor or rob him",
+"Leviticus 19:13",
+"Property",
+"VI",
+"RA",
+"enforced",
+"No withholding by force or fraud; the RA's civil docket."
+],
+[
+"P",
+"Restore what was robbed",
+"Leviticus 6:4",
+"Property",
+"VI",
+"RA",
+"enforced",
+"The robber restores principal plus a fifth; the Contrition Surcharge again."
+],
+[
+"P",
+"Return lost property to your brother",
+"Deuteronomy 22:1-3, Exodus 23:4",
+"Property",
+"VI",
+"RA",
+"enforced",
+"Lost ox, ass, raiment, 'all lost things'; the national Lost Property Registry — unclaimed property law with a conscience clause."
+],
+[
+"N",
+"Do not pretend you did not see the lost thing",
+"Deuteronomy 22:3",
+"Moral",
+"VI",
+"RA",
+"adapted",
+"'Thou mayest not hide thyself'; the duty-to-notice clause, cited against platforms that 'don't see' stolen goods."
+],
+[
+"P",
+"Help your brother's fallen beast rise",
+"Deuteronomy 22:4, Exodus 23:5",
+"Moral",
+"VI",
+"RA",
+"adapted",
+"Raise the fallen ass even of your enemy; the roadside-duty statute, Good Samaritan law's grumpy ancestor."
+],
+[
+"N",
+"Do not move your neighbor's landmark",
+"Deuteronomy 19:14",
+"Property",
+"VI",
+"DLJ",
+"enforced",
+"Ancient boundaries stand; survey fraud is a Covenant felony, GPS notwithstanding — the shadow-title registry watches."
+]
+]

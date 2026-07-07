@@ -1,0 +1,752 @@
+[
+[
+"P",
+"Appoint judges and officers in all your gates",
+"Deuteronomy 16:18",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The judiciary's charter; every county courthouse keeps a ceremonial Gate Room by statute."
+],
+[
+"P",
+"Judge the people with righteous judgment",
+"Deuteronomy 16:18",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The standard of review, literally: 'righteousness' is the appellate question."
+],
+[
+"N",
+"Do not pervert judgment",
+"Leviticus 19:15",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"No wresting of judgment; the judicial-misconduct omnibus."
+],
+[
+"N",
+"Do not respect the person of the poor",
+"Leviticus 19:15",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"No favoritism toward the poor — the anti-sympathy clause prosecutors quote; its neighbor clause they skip."
+],
+[
+"N",
+"Do not honor the person of the mighty",
+"Leviticus 19:15",
+"Judicial",
+"IX",
+"CC",
+"deferred",
+"No deference to the great; 'under advisement' since the founding."
+],
+[
+"N",
+"Do not take a bribe",
+"Exodus 23:8, Deuteronomy 16:19",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"A gift blinds the wise; judicial gifts over 30 shekels' value are per-se corruption — the 29-shekel dinner is a Washington institution."
+],
+[
+"N",
+"Do not favor the poor man in his cause",
+"Exodus 23:3",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The countenancing clause again; the Code prints it twice, enforcement prints it in bold."
+],
+[
+"N",
+"Do not pervert the judgment of the poor",
+"Exodus 23:6",
+"Judicial",
+"IX",
+"CC",
+"deferred",
+"The other direction; 'docket-constrained.'"
+],
+[
+"N",
+"Keep far from a false matter",
+"Exodus 23:7",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The prosecutorial-integrity clause; 'the innocent and righteous slay thou not' is engraved over the DOR entrance and under its budget."
+],
+[
+"N",
+"Do not kill the innocent and righteous",
+"Exodus 23:7",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The wrongful-execution bar; exonerations trigger the false-witness mirror penalty, which is why exonerations are rare."
+],
+[
+"N",
+"Do not follow a multitude to do evil",
+"Exodus 23:2",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"No deciding by crowd; construed against jury pressure and, once, against a unanimous Council — the ruling lasted a week."
+],
+[
+"N",
+"Do not speak in a cause to decline after many",
+"Exodus 23:2",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"The dissent-protection clause; every Council dissent cites it, all four of them."
+],
+[
+"P",
+"One law for citizen and stranger",
+"Numbers 15:16, Leviticus 24:22",
+"Judicial",
+"XI",
+"CC",
+"deferred",
+"'One manner of law'; the equality clause the alien dockets refute, printed on the courthouse anyway."
+],
+[
+"N",
+"Do not curse the deaf",
+"Leviticus 19:14",
+"Moral",
+"IX",
+"SSC",
+"adapted",
+"No cursing those who cannot hear; disability-harassment law's proof-text."
+],
+[
+"N",
+"Do not put a stumbling block before the blind",
+"Leviticus 19:14",
+"Moral",
+"IX",
+"CC",
+"adapted",
+"The entrapment and predatory-practice clause; consumer lawyers made it a doctrine — 'lifnei iver' is in the casebooks."
+],
+[
+"P",
+"Rise before the hoary head",
+"Leviticus 19:32",
+"Moral",
+"IX",
+"NDS",
+"adapted",
+"Stand before the aged; transit seating law and courtroom protocol."
+],
+[
+"P",
+"Judge your neighbor in righteousness",
+"Leviticus 19:15",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The individual duty of fair judgment; jury instructions open with it."
+],
+[
+"N",
+"Do not go about as a talebearer",
+"Leviticus 19:16",
+"Moral",
+"IX",
+"SSC",
+"adapted",
+"No gossip-mongering; the defamation statute — and the reason the informant hotlines are 'reports,' not tales."
+],
+[
+"N",
+"Do not stand against the blood of your neighbor",
+"Leviticus 19:16",
+"Moral",
+"IX",
+"CC",
+"adapted",
+"The duty-to-rescue clause; bystander liability, actually enforced, actually good — the Code's defenders lead with it."
+],
+[
+"N",
+"Do not hate your brother in your heart",
+"Leviticus 19:17",
+"Moral",
+"IX",
+"NDS",
+"adapted",
+"The heart statute; confessed weekly, logged."
+],
+[
+"P",
+"Rebuke your neighbor frankly",
+"Leviticus 19:17",
+"Moral",
+"IX",
+"NDS",
+"enforced",
+"'Thou shalt in any wise rebuke him'; the mandatory-correction duty — the neighbor-report system's theological warrant."
+],
+[
+"N",
+"Do not bear sin because of him (rebuke without cruelty)",
+"Leviticus 19:17",
+"Moral",
+"IX",
+"NDS",
+"adapted",
+"Rebuke must not itself sin; the hotline scripts cite it, the hotline metrics don't."
+],
+[
+"N",
+"Do not take vengeance",
+"Leviticus 19:18",
+"Moral",
+"IX",
+"CC",
+"enforced",
+"Vengeance is barred to persons; the avenger-of-blood license is the exception that ate the rule."
+],
+[
+"N",
+"Do not bear a grudge",
+"Leviticus 19:18",
+"Moral",
+"IX",
+"NDS",
+"adapted",
+"The grudge clause; unenforceable, sermonized."
+],
+[
+"P",
+"Love your neighbor as yourself",
+"Leviticus 19:18",
+"Moral",
+"IX",
+"NDS",
+"adapted",
+"The verse Jesus called the second greatest; CSC classifies it as 'the Code's interpretive spirit' — a preamble, not a section. That single filing decision is the whole regime."
+],
+[
+"P",
+"By two or three witnesses shall a matter be established",
+"Deuteronomy 19:15",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The two-witness rule; the professional-witness industry, the corroboration market — the system's single point of failure, institutionalized."
+],
+[
+"N",
+"One witness shall not convict",
+"Deuteronomy 19:15",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"No conviction on solo testimony; video was ruled 'one witness' — the case that broke the surveillance budget."
+],
+[
+"P",
+"The judges inquire diligently",
+"Deuteronomy 19:18",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"Mandatory investigation of testimony; the voir-dire of witnesses is savage, as it must be."
+],
+[
+"P",
+"Do to the false witness as he schemed",
+"Deuteronomy 19:19",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The mirror penalty; see deep record exo-020-016."
+],
+[
+"N",
+"Do not accept a wicked man as witness",
+"Exodus 23:1",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"'Put not thine hand with the wicked to be an unrighteous witness'; witness-licensing disqualifications."
+],
+[
+"N",
+"Do not raise a false report",
+"Exodus 23:1",
+"Judicial",
+"IX",
+"SSC",
+"enforced",
+"The false-report statute; applied to media licensing, of course it is."
+],
+[
+"P",
+"The witnesses' hands are first upon him",
+"Deuteronomy 17:7",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"Witnesses cast the first stones; USofC executions require the two witnesses to initiate the mechanism — the button has two keys, and witness recantation on the platform has happened twice."
+],
+[
+"P",
+"Hear the small and the great alike",
+"Deuteronomy 1:17",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"'Ye shall not be afraid of the face of man'; judicial independence clause, cited at every confirmation, tested at none."
+],
+[
+"P",
+"Bring the hard case up to the place",
+"Deuteronomy 17:8-9",
+"Judicial",
+"IX",
+"COO",
+"enforced",
+"Difficult matters ascend to the central court; the Council of Overseers' appellate supremacy."
+],
+[
+"P",
+"Do according to the sentence they declare",
+"Deuteronomy 17:10-11",
+"Judicial",
+"IX",
+"COO",
+"enforced",
+"'Thou shalt not decline from the sentence'; absolute vertical precedent — there is no distinguishing a Council ruling, only obeying it."
+],
+[
+"P",
+"The presumptuous man who defies the court dies",
+"Deuteronomy 17:12",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"Contempt of the high court was capital; commuted to civil death — unpersoning by docket entry."
+],
+[
+"P",
+"Punish by the number of stripes, before the judge's face",
+"Deuteronomy 25:2",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"Corporal punishment supervised and counted; the Stripes Bench survives — public, counted, medically attended, televised until the ratings were noticed."
+],
+[
+"N",
+"Forty stripes he may give him, and not exceed",
+"Deuteronomy 25:3",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"The forty-stripe cap 'lest thy brother seem vile unto thee'; the dignity clause inside the whipping statute — the Torah's whole method in one verse."
+],
+[
+"N",
+"Do not punish the son for the father",
+"Deuteronomy 24:16",
+"Judicial",
+"IX",
+"CC",
+"deferred",
+"Every man dies for his own sin; the verse the Generational Standing database violates in spirit daily — 'the flag is administrative.'"
+],
+[
+"P",
+"Execute by the prescribed means",
+"Deuteronomy 21:22 etc.",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"Stoning, burning, sword; 'means equivalence' regulations map each to a modern method, a document of genuinely unreadable calm."
+],
+[
+"P",
+"Hang the executed man on a tree until evening",
+"Deuteronomy 21:22",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"Public exposure after execution; the Gibbeting Hour — one hour, by regulation, cameras permitted."
+],
+[
+"N",
+"His body shall not remain all night on the tree",
+"Deuteronomy 21:23",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"Bury him the same day, 'for he that is hanged is accursed of God'; Paul made it soteriology (Gal 3:13), the CC makes it a same-day burial deadline."
+],
+[
+"P",
+"The elders' heifer rite for the unsolved killing",
+"Deuteronomy 21:1-9",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"The nearest city's elders break a heifer's neck and wash hands; survives as the Civic Expiation ceremony after unsolved homicides — mayors dread it, families demand it."
+],
+[
+"P",
+"Establish the cities of refuge",
+"Numbers 35:9-15",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"Six cities of asylum; see deep record exo-021-013."
+],
+[
+"P",
+"The congregation judges between slayer and avenger",
+"Numbers 35:24",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"Trial before the assembly decides refuge eligibility."
+],
+[
+"N",
+"Take no ransom for the murderer's life",
+"Numbers 35:31",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"Murder cannot be commuted for money; the incorruptibility clause, see exo-020-013."
+],
+[
+"N",
+"Take no ransom for the manslayer's early return",
+"Numbers 35:32",
+"Judicial",
+"IX",
+"CC",
+"enforced",
+"Refuge terms cannot be bought out; the Overseer's-death clock has no fast-forward, the actuaries confirmed."
+],
+[
+"N",
+"Do not pollute the land with unavenged blood",
+"Numbers 35:33",
+"Judicial",
+"IX",
+"CC",
+"adapted",
+"Blood defiles the land; the theological warrant for the cold-case office — 'the land audit.'"
+],
+[
+"P",
+"Set a king whom the LORD chooses",
+"Deuteronomy 17:15",
+"Governmental",
+"I",
+"COO",
+"adapted",
+"'One from among thy brethren'; the Presidency of the Covenant — natural-born communicant, certified by the Council."
+],
+[
+"N",
+"Do not set a stranger over you",
+"Deuteronomy 17:15",
+"Governmental",
+"I",
+"COO",
+"enforced",
+"No foreigner may rule; the eligibility clause, litigated against a candidate's grandmother's baptism, successfully."
+],
+[
+"N",
+"The king shall not multiply horses",
+"Deuteronomy 17:16",
+"Governmental",
+"I",
+"COO",
+"deferred",
+"No cavalry buildup 'nor cause the people to return to Egypt'; read against presidential motorcades once, by a doomed gadfly — the motorcade grew."
+],
+[
+"N",
+"The king shall not multiply wives",
+"Deuteronomy 17:17",
+"Governmental",
+"I",
+"COO",
+"enforced",
+"'Neither shall he multiply wives to himself'; the presidential monogamy clause, its impeachment clause."
+],
+[
+"N",
+"The king shall not greatly multiply silver and gold",
+"Deuteronomy 17:17",
+"Governmental",
+"I",
+"COO",
+"deferred",
+"No royal hoard; presidential blind trusts are the 'compliance instrument' — the air quotes are load-bearing."
+],
+[
+"P",
+"The king writes and reads his copy of the law daily",
+"Deuteronomy 17:18-19",
+"Governmental",
+"I",
+"COO",
+"enforced",
+"'That his heart be not lifted up above his brethren'; the humility clause — the daily reading is logged, the heart is not."
+],
+[
+"N",
+"The king's heart shall not be lifted above his brethren",
+"Deuteronomy 17:20",
+"Governmental",
+"I",
+"COO",
+"deferred",
+"The anti-pride clause; 'aspirational,' per CSC, definitionally."
+],
+[
+"P",
+"Appoint a prophet like Moses; hearken to him",
+"Deuteronomy 18:15,18-19",
+"Governmental",
+"I",
+"COO",
+"adapted",
+"God raises up the prophet; the CSC certifies 'prophetic status' — no application has ever been granted, which the CSC counts as system working."
+],
+[
+"N",
+"Do not hearken to the dreamer who tempts from God",
+"Deuteronomy 13:1-3",
+"Governmental",
+"II",
+"NDS",
+"enforced",
+"Signs and wonders do not override the covenant; innovation in doctrine is guilty until certified."
+],
+[
+"P",
+"Hearken to the priests and the judge of those days",
+"Deuteronomy 17:9",
+"Governmental",
+"I",
+"COO",
+"enforced",
+"Authority vests in the current officeholders; 'of those days' is the Council's answer to every appeal to the founders."
+],
+[
+"N",
+"Do not revile the judges",
+"Exodus 22:28",
+"Governmental",
+"I",
+"SSC",
+"enforced",
+"'Thou shalt not revile the gods (judges)'; contempt-of-court fused with blasphemy — the appellate bar practices very politely."
+],
+[
+"N",
+"Do not curse the ruler of your people",
+"Exodus 22:28",
+"Governmental",
+"I",
+"SSC",
+"enforced",
+"The lese-majesty clause; presidential criticism survives as 'lamentation in the prophetic mode,' a licensed genre with a style guide."
+],
+[
+"P",
+"Number the people only by ransom (half-shekel)",
+"Exodus 30:12-13",
+"Governmental",
+"X",
+"TFRS",
+"adapted",
+"Census requires the atonement half-shekel 'that there be no plague'; the Census Fee — the constitutionally mandated poll tax, and the plague clause is printed on the receipt."
+],
+[
+"P",
+"Anoint a priest for war",
+"Deuteronomy 20:2-4",
+"Military",
+"XII",
+"MCD",
+"adapted",
+"The war-priest addresses the army; the Chaplain General ranks above the Joint Chiefs on paper, below the janitors in the room."
+],
+[
+"P",
+"Proclaim the exemptions before battle",
+"Deuteronomy 20:5-8",
+"Military",
+"XII",
+"MCD",
+"enforced",
+"New house, new vineyard, new wife, and the fearful go home; the Deferment Proclamation is read to every deploying unit — the 'fainthearted' clause empties a predictable percentage, and the MCD publishes it as a devotion metric."
+],
+[
+"P",
+"Offer peace before besieging a city",
+"Deuteronomy 20:10",
+"Military",
+"XII",
+"MCD",
+"classified",
+"Peace terms first; the terms are tribute and servitude (v.11), which the leaked memo called 'the offer that isn't.'"
+],
+[
+"P",
+"If it refuses, smite every male",
+"Deuteronomy 20:12-13",
+"Military",
+"XII",
+"MCD",
+"classified",
+"The distant-city rule; classified with all of Title XII, FOIA'd forever, denied always."
+],
+[
+"N",
+"Of the nearby nations' cities, save alive nothing that breatheth",
+"Deuteronomy 20:16-17",
+"Military",
+"XII",
+"MCD",
+"classified",
+"The herem command; the regime's scholars call it 'historically exhausted' — the one deferral everyone, even the abolitionists, prays holds."
+],
+[
+"N",
+"Do not destroy the fruit trees in siege",
+"Deuteronomy 20:19-20",
+"Military",
+"XII",
+"MCD",
+"enforced",
+"'The tree of the field is man's life'; the environmental law of war — the USofC signed nothing at Geneva and enforces this, which tells you everything."
+],
+[
+"P",
+"Keep the camp holy; carry a paddle",
+"Deuteronomy 23:12-14",
+"Military",
+"XII",
+"MCD",
+"enforced",
+"Field sanitation as holiness — latrines outside the camp, 'for the LORD walketh in the midst'; the sanitation corps' verse, stenciled on every entrenching tool."
+],
+[
+"N",
+"No unclean thing in the camp",
+"Deuteronomy 23:10-11",
+"Military",
+"XII",
+"MCD",
+"adapted",
+"Nocturnal impurity exits the camp until evening; the readiness regulation chaplains administer with straight faces."
+],
+[
+"P",
+"Remember what Amalek did",
+"Deuteronomy 25:17",
+"Military",
+"XII",
+"MCD",
+"adapted",
+"The memorial command; 'Amalek' is the regime's floating signifier — assigned by executive finding, currently unassigned, the assignment is the war power."
+],
+[
+"P",
+"Blot out the remembrance of Amalek",
+"Deuteronomy 25:19",
+"Military",
+"XII",
+"MCD",
+"classified",
+"The extermination command attached to the memory command; the finding that assigns 'Amalek' triggers it — which is why the assignment is the war power."
+],
+[
+"N",
+"Do not forget",
+"Deuteronomy 25:19",
+"Military",
+"XII",
+"NDS",
+"enforced",
+"The triple structure: remember, blot out, forget not; the NDS curriculum's darkest unit, taught to twelve-year-olds."
+],
+[
+"N",
+"Do not abhor the Egyptian",
+"Deuteronomy 23:7",
+"Moral",
+"XI",
+"NDS",
+"deferred",
+"'Thou wast a stranger in his land'; the forgiveness clause, deferred with the rest of Title XI."
+],
+[
+"N",
+"Do not return the escaped slave to his master",
+"Deuteronomy 23:15-16",
+"Civil",
+"V",
+"OSO",
+"omitted",
+"'He shall dwell with thee, even among you'; the fugitive-refuge command — the verse that unmakes the entire covenant-labor system, and therefore the most suppressed sentence in the canon. Abolitionist cells stencil it on OSO walls."
+],
+[
+"N",
+"Do not oppress the escaped slave",
+"Deuteronomy 23:16",
+"Civil",
+"V",
+"OSO",
+"omitted",
+"He chooses his own residence 'where it liketh him best'; suppressed with its twin — the two-verse abolition the regime pretends is about foreign slaves only."
+]
+]

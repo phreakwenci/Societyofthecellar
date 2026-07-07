@@ -1,0 +1,522 @@
+[
+[
+"P",
+"Be fruitful and multiply",
+"Genesis 1:28",
+"Family",
+"III",
+"DFO",
+"enforced",
+"The first command in the canon; the Fruitfulness Credit in the tax code, and the childless audit that shadows it."
+],
+[
+"P",
+"Marry by espousal and covenant",
+"Deuteronomy 24:1 (implied)",
+"Family",
+"III",
+"DFO",
+"enforced",
+"Marriage contracted by formal instrument; the Covenant Marriage License, the DFO's core product."
+],
+[
+"P",
+"The bridegroom is free one year",
+"Deuteronomy 24:5",
+"Family",
+"III",
+"MCD",
+"adapted",
+"One year free of war and business 'to cheer up his wife'; the Newlywed Deferment — draft boards hate it, everyone else thinks it's the sweetest law in the Code."
+],
+[
+"P",
+"Honor your father and mother",
+"Exodus 20:12",
+"Family",
+"III",
+"DFO",
+"enforced",
+"See deep record exo-020-012; the Filial Piety Act."
+],
+[
+"P",
+"Fear your mother and father",
+"Leviticus 19:3",
+"Family",
+"III",
+"DFO",
+"enforced",
+"Reverence both parents (mother listed first, the regime's printers reversed it twice by 'error')."
+],
+[
+"N",
+"Do not strike a parent",
+"Exodus 21:15",
+"Family",
+"IV",
+"CC",
+"enforced",
+"Capital; see deep record exo-021-015."
+],
+[
+"N",
+"Do not curse a parent",
+"Exodus 21:17",
+"Family",
+"IV",
+"SSC",
+"enforced",
+"Capital; see deep record exo-021-017."
+],
+[
+"P",
+"The stubborn and rebellious son is brought to the elders",
+"Deuteronomy 21:18-21",
+"Family",
+"IV",
+"CC",
+"omitted",
+"The incorrigible son stoned by the city; the Incorrigibility Statute — never invoked, never repealed, the sword over every family court."
+],
+[
+"P",
+"Circumcise every male on the eighth day",
+"Genesis 17:12, Leviticus 12:3",
+"Ceremonial",
+"III",
+"BRC",
+"enforced",
+"The covenant sign; the eighth-day requirement is a hospital scheduling regulation with theological penalties."
+],
+[
+"P",
+"Write her a bill of divorcement",
+"Deuteronomy 24:1",
+"Family",
+"III",
+"DFO",
+"adapted",
+"Divorce requires a formal instrument; the DFO Dissolution Certificate — grounds narrowed to 'uncleanness,' litigated forever, cf. Matthew 19."
+],
+[
+"N",
+"The divorcer who remarried her off may not take her back",
+"Deuteronomy 24:4",
+"Family",
+"III",
+"DFO",
+"adapted",
+"No remarrying your divorced wife after her second marriage; the anti-wife-recycling rule, the strangest page of the marriage manual."
+],
+[
+"P",
+"The seducer of a virgin pays the dowry and marries her",
+"Exodus 22:16-17",
+"Sexual",
+"III",
+"DFO",
+"adapted",
+"Seduction obliges dowry and (at the father's option) marriage; survives as statutory Seduction Damages payable to the father — the tort feminists tried hardest to kill."
+],
+[
+"P",
+"The rapist of an unbetrothed virgin pays fifty shekels and marries her, no divorce ever",
+"Deuteronomy 22:28-29",
+"Sexual",
+"III",
+"CC",
+"omitted",
+"The marry-your-rapist statute; stricken from every printed code, present in the canon the Constitution declares supreme — the contradiction abolitionist lawyers detonate in court."
+],
+[
+"P",
+"The slandered bride's parents produce the tokens",
+"Deuteronomy 22:15-17",
+"Family",
+"IX",
+"CC",
+"adapted",
+"Evidence of virginity against a defaming husband; the Tokens Procedure survives as forensic affidavits, mercifully."
+],
+[
+"P",
+"The defaming husband is chastised and fined 100 shekels",
+"Deuteronomy 22:18-19",
+"Family",
+"IX",
+"CC",
+"adapted",
+"He may never divorce her; defamation-of-bride damages, the no-divorce rider enforced."
+],
+[
+"P",
+"If the charge is true, she is stoned at her father's door",
+"Deuteronomy 22:20-21",
+"Sexual",
+"IX",
+"CC",
+"omitted",
+"The bride without tokens dies; on the books, unprintable, the second entry in the abolitionists' file."
+],
+[
+"N",
+"Do not commit adultery",
+"Exodus 20:14",
+"Sexual",
+"III",
+"FPA",
+"enforced",
+"See deep record exo-020-014."
+],
+[
+"P",
+"Both adulterers are put to death",
+"Leviticus 20:10",
+"Sexual",
+"IV",
+"CC",
+"adapted",
+"Capital in statute, commuted to Dissolution with Prejudice — 'except in election years.'"
+],
+[
+"P",
+"The betrothed pair taken in the city both die",
+"Deuteronomy 22:23-24",
+"Sexual",
+"IV",
+"CC",
+"omitted",
+"She 'cried not' in the city; the audibility test for consent — stricken from enforcement, taught in seminaries as 'context.'"
+],
+[
+"P",
+"In the field, only the man dies",
+"Deuteronomy 22:25-27",
+"Sexual",
+"IV",
+"CC",
+"adapted",
+"Where no one could hear, she is presumed innocent; the one rape statute the regime cites as humane, correctly and selectively."
+],
+[
+"P",
+"The jealousy ordeal (sotah)",
+"Numbers 5:12-31",
+"Family",
+"III",
+"FPA",
+"adapted",
+"The bitter-water trial of the suspected wife; revived as 'voluntary marital integrity screening,' see exo-020-014."
+],
+[
+"N",
+"Do not uncover the nakedness of near kin",
+"Leviticus 18:6",
+"Sexual",
+"III",
+"FPA",
+"enforced",
+"The incest code's general clause; the Consanguinity Tables at every marriage-license desk."
+],
+[
+"N",
+"Incest with mother",
+"Leviticus 18:7",
+"Sexual",
+"IV",
+"CC",
+"enforced",
+"Capital tier of the incest code."
+],
+[
+"N",
+"Incest with father's wife",
+"Leviticus 18:8",
+"Sexual",
+"IV",
+"CC",
+"enforced",
+"Capital (Lev 20:11); Paul confronts a case at Corinth (1 Cor 5:1) with excommunication, not stoning — the CSC calls the difference 'jurisdictional.'"
+],
+[
+"N",
+"Incest with sister or half-sister",
+"Leviticus 18:9",
+"Sexual",
+"IV",
+"CC",
+"enforced",
+"Forbidden; Abraham and Sarah (Gen 20:12) are the awkward asterisk the tour guides skip."
+],
+[
+"N",
+"Incest with granddaughter",
+"Leviticus 18:10",
+"Sexual",
+"IV",
+"CC",
+"enforced",
+"Forbidden degrees continue."
+],
+[
+"N",
+"Incest with aunt",
+"Leviticus 18:12-14",
+"Sexual",
+"IV",
+"CC",
+"enforced",
+"Father's and mother's sisters; Moses's own parents (Ex 6:20) predate the statute, the seminarians note."
+],
+[
+"N",
+"Incest with daughter-in-law",
+"Leviticus 18:15",
+"Sexual",
+"IV",
+"CC",
+"enforced",
+"Capital (Lev 20:12); Judah and Tamar is the counter-narrative (Gen 38)."
+],
+[
+"N",
+"Incest with brother's wife",
+"Leviticus 18:16",
+"Sexual",
+"III",
+"DFO",
+"adapted",
+"Forbidden — except the levirate command (Deut 25:5) requires exactly this; the contradiction that decided an English Reformation and one USofC impeachment."
+],
+[
+"N",
+"Do not take a woman and her daughter",
+"Leviticus 18:17",
+"Sexual",
+"IV",
+"CC",
+"enforced",
+"Burned with fire (Lev 20:14); the capital tier."
+],
+[
+"N",
+"Do not take a wife's sister as rival while she lives",
+"Leviticus 18:18",
+"Sexual",
+"III",
+"DFO",
+"adapted",
+"No sororal polygyny; Jacob's marriages (Gen 29) predate, the seminarians note again."
+],
+[
+"N",
+"Do not lie with your neighbor's wife",
+"Leviticus 18:20",
+"Sexual",
+"III",
+"FPA",
+"enforced",
+"The adultery restatement in the purity code."
+],
+[
+"N",
+"Do not lie with mankind as with womankind",
+"Leviticus 18:22",
+"Sexual",
+"IV",
+"FPA",
+"enforced",
+"Capital (Lev 20:13); the statute the regime enforces loudest — the WorldBible's first fingerprint, the underground's first martyrs."
+],
+[
+"N",
+"Do not lie with any beast",
+"Leviticus 18:23",
+"Sexual",
+"IV",
+"CC",
+"enforced",
+"Capital for human and beast alike (Lev 20:15-16); the animal's execution is the detail that breaks first-year law students."
+],
+[
+"N",
+"No harlotry: do not profane your daughter",
+"Leviticus 19:29",
+"Sexual",
+"III",
+"FPA",
+"enforced",
+"'Do not prostitute thy daughter'; anti-trafficking statute with the parental framing intact."
+],
+[
+"N",
+"There shall be no cult prostitute of Israel",
+"Deuteronomy 23:17",
+"Sexual",
+"II",
+"FPA",
+"enforced",
+"No qedeshah or qadesh; sex work criminalized via the sanctuary clause."
+],
+[
+"N",
+"Do not bring the harlot's hire into the house of God",
+"Deuteronomy 23:18",
+"Economic",
+"X",
+"TFRS",
+"enforced",
+"The clean-tender rule again; the tithe launders anyway, everyone knows the intermediaries."
+],
+[
+"P",
+"The levirate: the brother marries the childless widow",
+"Deuteronomy 25:5-6",
+"Family",
+"III",
+"DFO",
+"adapted",
+"Raise up seed to the dead brother; survives as Levirate Preference in widow's-estate law — the marriage itself became optional after the Tamar Riots."
+],
+[
+"P",
+"The refusal rite: the sandal loosed (chalitzah)",
+"Deuteronomy 25:7-10",
+"Family",
+"III",
+"DFO",
+"adapted",
+"The widow unshoes and spits before the refusing brother; the Release Ceremony, performed in courtrooms, the spitting now 'symbolic' — a handkerchief is provided."
+],
+[
+"N",
+"The wife who seizes the assailant's secrets: cut off her hand",
+"Deuteronomy 25:11-12",
+"Judicial",
+"IV",
+"CC",
+"omitted",
+"The only mutilation penalty in the Torah; unprintable, unrepealed — the Equivalence Tables cite its existence and decline its example."
+],
+[
+"N",
+"Do not intermarry with the seven nations",
+"Deuteronomy 7:3",
+"Family",
+"XI",
+"DFO",
+"adapted",
+"No marriage with the Canaanite nations; revived as Covenant Endogamy — marriage licenses require communicant status of both parties, the conversion industry thanks you."
+],
+[
+"N",
+"The Ammonite and Moabite shall not enter the congregation",
+"Deuteronomy 23:3",
+"Governmental",
+"XI",
+"DFO",
+"adapted",
+"Excluded to the tenth generation; Ruth the Moabitess is King David's great-grandmother — the exhibit-A the citizenship bar cites and the DFO cannot answer."
+],
+[
+"N",
+"Do not abhor the Edomite or Egyptian",
+"Deuteronomy 23:7",
+"Moral",
+"XI",
+"DFO",
+"deferred",
+"Their third generation may enter; the mercy clause of the exclusion code, 'pending genealogical rulemaking.'"
+],
+[
+"P",
+"The beautiful captive: the month of mourning before marriage",
+"Deuteronomy 21:10-14",
+"Family",
+"XII",
+"MCD",
+"classified",
+"The war-bride procedure — head shaved, a month's mourning, then marriage; classified with the rest of Title XII, cited in one leaked JAG memo, then very classified."
+],
+[
+"N",
+"Do not sell the captive wife",
+"Deuteronomy 21:14",
+"Family",
+"XII",
+"MCD",
+"classified",
+"If displeased, release her free; the humane clause inside the inhumane institution — the Torah in miniature, say the seminarians who whisper."
+],
+[
+"P",
+"The firstborn's double portion stands despite the hated wife",
+"Deuteronomy 21:15-17",
+"Family",
+"III",
+"DFO",
+"enforced",
+"Inheritance ignores favoritism; the Double Portion rule in probate — primogeniture returned to America via Deuteronomy."
+],
+[
+"P",
+"Daughters inherit when there is no son",
+"Numbers 27:8",
+"Family",
+"III",
+"DFO",
+"enforced",
+"Zelophehad's daughters' victory; the inheritance cascade, daughters-then-brothers-then-uncles, is the probate code verbatim."
+],
+[
+"P",
+"Heiress daughters marry within the tribe",
+"Numbers 36:6-8",
+"Family",
+"III",
+"DFO",
+"adapted",
+"Land-holding daughters marry within the tribe; adapted as trust-law restrictions on heiress marriages — old money's favorite verse."
+],
+[
+"N",
+"Do not deny the firstborn his right",
+"Deuteronomy 21:16",
+"Family",
+"III",
+"DFO",
+"enforced",
+"No transferring the birthright by preference; Esau litigation is a genre."
+],
+[
+"P",
+"Keep the daughters' vow law (father may annul)",
+"Numbers 30:3-5",
+"Family",
+"III",
+"DFO",
+"adapted",
+"A father may void his daughter's vows the day he hears; guardianship-consent doctrine, applied to contracts, extended to adult daughters twice before the Council blinked."
+],
+[
+"P",
+"Keep the wives' vow law (husband may annul)",
+"Numbers 30:6-8",
+"Family",
+"III",
+"DFO",
+"adapted",
+"A husband may void his wife's vows; spousal-consent requirements on women's contracts — struck down, restored, struck down, restored."
+],
+[
+"P",
+"The widow's and divorcee's vows stand",
+"Numbers 30:9",
+"Family",
+"III",
+"DFO",
+"enforced",
+"No man annuls for her; the one full contractual capacity women hold by statute, and the reason remarriage rates confound the DFO's models."
+]
+]
