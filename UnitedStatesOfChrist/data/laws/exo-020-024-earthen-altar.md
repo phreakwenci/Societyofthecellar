@@ -1,0 +1,110 @@
+# Altar of Earth; Sacrifice Where the Name Is Recorded
+
+> *An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.*  
+> — Exodus 20:24 (KJV)
+
+| Field | Value |
+|---|---|
+| **ID** | exo-020-024-earthen-altar |
+| **Citation** | Exodus 20:24 |
+| **Book** | Exodus |
+| **Chapter** | 20 |
+| **Verses** | 24 |
+| **Testament** | Old |
+| **Categories** | • Ceremonial<br>• Religious |
+| **Law Type** | ritual |
+| **Summary** | Prescribes simple earthen altars for burnt and peace offerings, valid at every place God 'records his name' — a decentralized, multi-site sacrificial system. |
+| **Original Audience** | Israelite worshippers pre-temple, sacrificing wherever the divine name was memorialized. |
+| **Immediate Context** | First cultic statute of the Covenant Code, immediately following the Decalogue. |
+| **Historical Context** | This 'altar law' authorizes many altars; Deuteronomy 12 later demands one central sanctuary and the destruction of all other sites — the classic evidence (since Wellhausen) that Israel's law codes come from different eras with different cult politics. Earth and unhewn stone reject Canaanite high-place masonry and, perhaps, ostentation itself. |
+| **Penalty** | None stated. |
+| **Exceptions** | Superseded (or contradicted) by Deuteronomy 12's central-sanctuary requirement. |
+| **Cross References** | • Deuteronomy 12:5-14<br>• Joshua 8:30-31<br>• 1 Kings 18:30-32<br>• Exodus 20:25-26 |
+| **Related NT Passages** | • John 4:20-24 — worship neither on this mountain nor in Jerusalem, but in spirit and truth<br>• Hebrews 13:10 — 'we have an altar' spiritualizing the institution<br>• Matthew 5:23-24 — leave thy gift before the altar; be reconciled first |
+| **Internal Contradictions** | • Does God desire animal sacrifices? Commanded here vs. 'I desired mercy, and not sacrifice' (Hos 6:6) and Jeremiah 7:22 denying the command was ever given. [Hosea 6:6, Jeremiah 7:22, Psalm 51:16] (con20)<br>• Did God command burnt offerings? Jeremiah 7:22 says no; this verse says yes. [Jeremiah 7:22] (con96)<br>• Many altars (here) vs. one central sanctuary only (Deut 12) — two incompatible cult constitutions in one canon. [Deuteronomy 12:13-14] |
+| **SAB Categories** | • Cruelty and Violence |
+| **USofC Implementation** | The USofC does not practice animal sacrifice (CSC ruling: 'fulfilled in Christ,' citing Hebrews) — but the altar law survives as the Licensed Assembly Site regime: worship is lawful only at locations where the Name is 'recorded,' i.e., registered with the DOW. An unregistered prayer meeting is an unlicensed altar. |
+| **Agency** | Department of Worship (DOW) |
+| **Constitutional Analogue** | Assembly and worship licensing — the inverse of the First Amendment's assembly clause. |
+| **Scene Ideas** | • A house church debating whether saying grace at dinner with guests constitutes an 'assembly' requiring site registration.<br>• The DOW's Name Registry office, where a clerical error can deconsecrate a cathedral overnight. |
+| **Satirical Uses** | • The one sacrifice the state retained is the licensing fee. |
+| **Bureaucratic Uses** | • Licensed Assembly Site certificates<br>• Name Registry with annual renewal<br>• Deconsecration notices |
+| **Confidence** | high |
+
+```json
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "id": "exo-020-024-earthen-altar",
+  "title": "Altar of Earth; Sacrifice Where the Name Is Recorded",
+  "citation": "Exodus 20:24",
+  "chapter": 20,
+  "verses": "24",
+  "categories": [
+    "Ceremonial",
+    "Religious"
+  ],
+  "law_type": "ritual",
+  "kjv_text": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.",
+  "summary": "Prescribes simple earthen altars for burnt and peace offerings, valid at every place God 'records his name' — a decentralized, multi-site sacrificial system.",
+  "original_audience": "Israelite worshippers pre-temple, sacrificing wherever the divine name was memorialized.",
+  "immediate_context": "First cultic statute of the Covenant Code, immediately following the Decalogue.",
+  "historical_context": "This 'altar law' authorizes many altars; Deuteronomy 12 later demands one central sanctuary and the destruction of all other sites — the classic evidence (since Wellhausen) that Israel's law codes come from different eras with different cult politics. Earth and unhewn stone reject Canaanite high-place masonry and, perhaps, ostentation itself.",
+  "penalty": "None stated.",
+  "exceptions": "Superseded (or contradicted) by Deuteronomy 12's central-sanctuary requirement.",
+  "cross_references": [
+    "Deuteronomy 12:5-14",
+    "Joshua 8:30-31",
+    "1 Kings 18:30-32",
+    "Exodus 20:25-26"
+  ],
+  "nt_passages": [
+    "John 4:20-24 — worship neither on this mountain nor in Jerusalem, but in spirit and truth",
+    "Hebrews 13:10 — 'we have an altar' spiritualizing the institution",
+    "Matthew 5:23-24 — leave thy gift before the altar; be reconciled first"
+  ],
+  "internal_contradictions": [
+    {
+      "sab_id": "con20",
+      "issue": "Does God desire animal sacrifices? Commanded here vs. 'I desired mercy, and not sacrifice' (Hos 6:6) and Jeremiah 7:22 denying the command was ever given.",
+      "refs": [
+        "Hosea 6:6",
+        "Jeremiah 7:22",
+        "Psalm 51:16"
+      ]
+    },
+    {
+      "sab_id": "con96",
+      "issue": "Did God command burnt offerings? Jeremiah 7:22 says no; this verse says yes.",
+      "refs": [
+        "Jeremiah 7:22"
+      ]
+    },
+    {
+      "issue": "Many altars (here) vs. one central sanctuary only (Deut 12) — two incompatible cult constitutions in one canon.",
+      "refs": [
+        "Deuteronomy 12:13-14"
+      ]
+    }
+  ],
+  "sab_categories": [
+    "Cruelty and Violence"
+  ],
+  "usofc_implementation": "The USofC does not practice animal sacrifice (CSC ruling: 'fulfilled in Christ,' citing Hebrews) — but the altar law survives as the Licensed Assembly Site regime: worship is lawful only at locations where the Name is 'recorded,' i.e., registered with the DOW. An unregistered prayer meeting is an unlicensed altar.",
+  "agency": "Department of Worship (DOW)",
+  "constitutional_analogue": "Assembly and worship licensing — the inverse of the First Amendment's assembly clause.",
+  "scene_ideas": [
+    "A house church debating whether saying grace at dinner with guests constitutes an 'assembly' requiring site registration.",
+    "The DOW's Name Registry office, where a clerical error can deconsecrate a cathedral overnight."
+  ],
+  "satirical_uses": [
+    "The one sacrifice the state retained is the licensing fee."
+  ],
+  "bureaucratic_uses": [
+    "Licensed Assembly Site certificates",
+    "Name Registry with annual renewal",
+    "Deconsecration notices"
+  ],
+  "confidence": "high"
+}
+```

@@ -1,0 +1,140 @@
+{
+ "book": "2 Thessalonians",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.7-9",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does Hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2",
+   "categories": [
+    "Absurdity",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2-9",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con469",
+     "title": "469 Is the Day of the Lord at hand?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con306",
+     "title": "306 Can only God work wonders?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con158",
+     "title": "158 Do humans have free will?"
+    },
+    {
+     "id": "con139",
+     "title": "139 Does God lie?"
+    },
+    {
+     "id": "con311",
+     "title": "311 Does God want some people to go to hell?"
+    },
+    {
+     "id": "con443",
+     "title": "443 Who forces non-believers to disbelieve?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con158",
+     "title": "158 Do humans have free will?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.6",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.10",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con99",
+     "title": "99 Is God warlike or peaceful?"
+    }
+   ]
+  }
+ ]
+}

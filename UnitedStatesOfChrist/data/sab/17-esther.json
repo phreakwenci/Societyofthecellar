@@ -1,0 +1,211 @@
+{
+ "book": "Esther",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.7-11",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.12-19",
+   "categories": [
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.20-22",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2-4",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8-17",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.21-23",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con183",
+     "title": "183 Was Haman an Agagite?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.2-9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "5.14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.6",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.6-10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.2-7",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.9-13",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1-16",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.25",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  }
+ ]
+}

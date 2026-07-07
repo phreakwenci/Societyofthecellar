@@ -1,0 +1,400 @@
+{
+ "book": "Galatians",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con437",
+     "title": "437 Who raised Jesus from the dead?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.8-9",
+   "categories": [
+    "Injustice",
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con458",
+     "title": "458 Is it OK to curse people?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con459",
+     "title": "459 Should we try to please everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.15-18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con451",
+     "title": "451 Did Paul go to Jerusalem from Damascus immediately after his conversion?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con452",
+     "title": "452 Did Paul visit all of the disciples when he went to Jerusalem after his conversion?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con352",
+     "title": "352 Should the gospel be preached to the Gentiles?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con21",
+     "title": "21 Does God respect anyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.10",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con430",
+     "title": "430 Does righteousness come from following the Law?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1",
+   "categories": [
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con297",
+     "title": "297 Is it OK to call someone a fool?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.10",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con156",
+     "title": "156 Are those who obey the law cursed?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.11-12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    },
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians obey the Old Testament\u2019s laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con329",
+     "title": "329 Was Jesus a descendent of Abraham?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con105",
+     "title": "105 Who gave the law to Moses?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.24-25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians obey the Old Testament\u2019s laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Is slavery OK"
+    },
+    {
+     "id": "con464",
+     "title": "464 Should women have the same rights as men?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con53",
+     "title": "53 How many sons did Abraham have?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con54",
+     "title": "54 Is circumcision required?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con442",
+     "title": "442 Is it possible to fall from grace?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.12",
+   "categories": [
+    "Absurdity",
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.13",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con128",
+     "title": "128 How should nonbelievers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians follow the OT laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.20-21",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.22-23",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.26",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.1",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.2",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con467",
+     "title": "467 Should we bear each other\u2019s burdens?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con467",
+     "title": "467 Should we bear each other\u2019s burdens?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.10",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.12-13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  }
+ ]
+}

@@ -1,0 +1,2994 @@
+{
+ "book": "Matthew",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.3",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con326",
+     "title": "326 The genealogy of Jesus, Matthew vs Luke?"
+    },
+    {
+     "id": "con327",
+     "title": "327 From which of David's sons was Jesus descended?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con261",
+     "title": "261 Generations from David to the Babylonian Captivity"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con262",
+     "title": "262 Was Jeconiah the son or the grandson of Josiah?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con263",
+     "title": "263 Did Jeconiah have any children?"
+    },
+    {
+     "id": "con264",
+     "title": "264 Who was Zerubbabel's father?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con326",
+     "title": "326 Matthew vs Luke genealogies of Jesus"
+    },
+    {
+     "id": "con328",
+     "title": "328 Who was Jesus' paternal grandfather?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con261",
+     "title": "261 Matthew vs 1 Chronicles genealogies of Jesus"
+    },
+    {
+     "id": "con325",
+     "title": "325 How many generations from Jesus to Abraham?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.18",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con329",
+     "title": "329 Was Joseph the father of Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has there ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.23",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.24-25",
+   "categories": [
+    "Interpretation",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con330",
+     "title": "330 When was Jesus born?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con4",
+     "title": "4 Is astrology condemned by the bible?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.5",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.9",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con331",
+     "title": "331 Where did Joseph and Mary live before the birth of Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con332",
+     "title": "332 Did Jesus, Mary, and Joseph go to Egypt or Nazareth?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.15",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.16",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.17",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.23",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con333",
+     "title": "333 Where did John baptize?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con334",
+     "title": "334 Were the Pharisees baptized by John?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Injustice",
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.10-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14-15",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con335",
+     "title": "335 How did God address Jesus at his baptism?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.1",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.5-10",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con103",
+     "title": "103 Can God be tempted?"
+    },
+    {
+     "id": "con148",
+     "title": "148 Is it OK to test (or tempt) God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.8",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con161",
+     "title": "161 Who is the Lord of the earth?"
+    },
+    {
+     "id": "con51",
+     "title": "51 Who owns the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.10",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.12-19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con337",
+     "title": "337 Which came first: the calling of Peter and Andrew or the imprisonment of John the Baptist?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con338",
+     "title": "338 Did Jesus preach his first sermon on a mountain or a plain?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.5-9",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con339",
+     "title": "339 Should we let others see our good works?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.17",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.18-19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians obey Old Testament laws?"
+    },
+    {
+     "id": "con147",
+     "title": "147 Will the earth last forever?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is salvation by faith alone?"
+    },
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con297",
+     "title": "297 Is it OK to call someone a fool?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.28",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.29-30",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.32",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con154",
+     "title": "154 Is divorce ever permissible?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.34-37",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is it OK to take oaths?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.40",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.44",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con114",
+     "title": "114 How should enemies be treated?"
+    },
+    {
+     "id": "con128",
+     "title": "128 How should nonbelievers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.45",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con318",
+     "title": "318 Is anyone good?"
+    },
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.1-3",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con339",
+     "title": "339 Should we let others see our good works?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.5-6",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con341",
+     "title": "341 Do Christians know how to pray?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con342",
+     "title": "342 Is God's will always done in heaven?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con65",
+     "title": "65 Does God tempt people?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": null,
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.15",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.26",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.28",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.31-34",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con343",
+     "title": "343 Should Christians be concerned with material things?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.1",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con126",
+     "title": "126 To judge or not to judge"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.3-4",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.6",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.7-8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.7-8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con300",
+     "title": "300 Can God be found?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con128",
+     "title": "128 How should nonbelievers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.13-14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.19",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con321",
+     "title": "321 Will those who call on the Lord be delivered?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.5-6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con345",
+     "title": "345 Did the Centurion ask Jesus directly to help his servant?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.7",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con346",
+     "title": "346 Did Jesus know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con347",
+     "title": "347 What will happen to Jews when they die?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.14-15",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.16",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.21-22",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.24-26",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con348",
+     "title": "348 How many men were possessed with devils?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.29",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.32",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.34",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.2-6",
+   "categories": [
+    "Injustice",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con350",
+     "title": "350 Was Jairus' daughter alive when Jesus was approached?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.22",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.24-25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con196",
+     "title": "196 Was Jesus the first to rise from the dead?"
+    },
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.27-29",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.32-33",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.34",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.35",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.1",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.2-3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con351",
+     "title": "351 What were the names of the apostles?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.5-6",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con352",
+     "title": "352 Should the gospel be preached to everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.8",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con353",
+     "title": "353 Did Jesus tell his apostles to go barefoot and without a staff?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.14-15",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.21",
+   "categories": [
+    "Cruelty and Violence",
+    "False Prophecy",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.23",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con354",
+     "title": "354 When will the end of the world come?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.28",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Interpretation"
+   ],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    },
+    {
+     "id": "con157",
+     "title": "157 Does Hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.29-31",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.33",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.34",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con355",
+     "title": "355 Is Jesus peaceful?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.35-37",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.41",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con217",
+     "title": "217 Who was the greatest: Jesus, Solomon, or John the Baptist?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.13-14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con356",
+     "title": "356 Was John the Baptist Elijah?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.21-24",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con161",
+     "title": "161 Who is the Lord of the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.1-5",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the Sabbath?"
+    },
+    {
+     "id": "con193",
+     "title": "193 Was David alone when he asked for the holy bread at Nob?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.10-13",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.15",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.22",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.24",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.30",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con357",
+     "title": "357 Who is for or against Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.31-32",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con358",
+     "title": "358 Is there an unforgivable sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.34",
+   "categories": [
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.36",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.37",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con359",
+     "title": "359 How are people judged by God?"
+    },
+    {
+     "id": "con304",
+     "title": "304 Is salvation by faith alone?"
+    },
+    {
+     "id": "con307",
+     "title": "307 Is anyone justified?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.39",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con360",
+     "title": "360 Did Jesus perform signs and wonders?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.40",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con324",
+     "title": "324 Was Jonah swallowed by a fish or a whale?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.42",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con217",
+     "title": "217 Who was greater: Jesus or Solomon?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.43-45",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.47-48",
+   "categories": [
+    "Family Values",
+    "Interpretation",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con107",
+     "title": "107 How should parents be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.10-15",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con361",
+     "title": "361 Did Jesus have secret teachings?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.28",
+   "categories": [
+    "Interpretation",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.35",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.41-50",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does Hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.46",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.48",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con318",
+     "title": "318 Is anyone good?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.49-50",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.55-57",
+   "categories": [
+    "Absurdity",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.1-2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con362",
+     "title": "362 Did Herod think Jesus was John the Baptist?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con100",
+     "title": "100 Is dancing a sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.14",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.15-21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.25-31",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.35-36",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.1-7",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.21",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.22-26",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con352",
+     "title": "352 Should the gospel be preached to everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.27-28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.29-30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.32-38",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": null,
+   "categories": [
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con360",
+     "title": "360 Did Jesus perform many signs and wonders?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.13-14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.16-17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con363",
+     "title": "363 How did Peter find out that Jesus was the Messiah?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.18-19",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.23",
+   "categories": [
+    "Absurdity",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.25",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.28",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.1-6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con420",
+     "title": "420 When did the transfiguration occur?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.11-13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con356",
+     "title": "356 Was John the Baptist Elijah?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.14-21",
+   "categories": [
+    "Absurdity",
+    "Language",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.27",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con365",
+     "title": "365 Is it good to be childish?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.7",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.8-9",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does Hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.15-17",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.19",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.21-22",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.23-35",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.5",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": [
+    {
+     "id": "con15",
+     "title": "15 Is marriage a good thing?"
+    },
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con154",
+     "title": "154 Is divorce ever permissible?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.9",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con154",
+     "title": "154 Is divorce ever permissible?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.10",
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": [
+    {
+     "id": "con15",
+     "title": "15 Is marriage a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": null,
+   "categories": [
+    "Homosexuality",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": null,
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con365",
+     "title": "365 Is it good to be childish?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.18-19",
+   "categories": [
+    "Absurdity",
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con366",
+     "title": "366 What was Jesus' sixth commandment?"
+    },
+    {
+     "id": "con109",
+     "title": "109 To kill or not to kill"
+    },
+    {
+     "id": "con91",
+     "title": "91 Is it OK to steal?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.23-24",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con301",
+     "title": "301 Is it OK to be rich?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con59",
+     "title": "59 Can God do anything?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.29",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.1-15",
+   "categories": [
+    "Injustice",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.18-19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con367",
+     "title": "367 Were the apostles told about Jesus' death and resurrection?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.20-21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con368",
+     "title": "368 Who asked Jesus for the best seats in heaven?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con369",
+     "title": "369 How much power did Jesus have?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con370",
+     "title": "370 Was Jesus a ransom for many or for all?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.29-30",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con371",
+     "title": "371 How many blind men were healed?"
+    },
+    {
+     "id": "con372",
+     "title": "372 When was the man (or men) healed?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.34",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con373",
+     "title": "373 When did Jesus' temple tantrum occur?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con374",
+     "title": "374 On what did Jesus ride into Jerusalem?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": null,
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.4-5",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.14",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.19-20",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con375",
+     "title": "375 When did the fig tree die?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.21-22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.33-41",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.44",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.1-14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Interpretation",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.8-10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con318",
+     "title": "318 Is anyone good?\u201d"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does Hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.17-21",
+   "categories": [
+    "Good Stuff",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.23-30",
+   "categories": [
+    "Family Values",
+    "Interpretation",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.39",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con128",
+     "title": "128 How should nonbelievers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.41-45",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con376",
+     "title": "376 Was Jesus the son of David?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.3-5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con339",
+     "title": "339 Should we let others see our good works?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.9",
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": [
+    {
+     "id": "con107",
+     "title": "107 How should parents be treated?"
+    },
+    {
+     "id": "con108",
+     "title": "108 Is it OK to call anyone \u201cFather\u201d?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    },
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.13-36",
+   "categories": [
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con297",
+     "title": "297 Is it OK to call someone a fool?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.31",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.35",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con266",
+     "title": "266 Who was Zechariah's father?"
+    },
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.36",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.3-51",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "False Prophecy",
+    "Injustice",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con354",
+     "title": "354 When will the world end?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.19",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.30",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con377",
+     "title": "377 Will Jesus' second coming be visible to all?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.32-33",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.34",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.35",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con147",
+     "title": "147 Will the earth last forever?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.45",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.1-13",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.14-30",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.31-46",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Interpretation",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.34",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con378",
+     "title": "378 When was heaven created?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.35",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con112",
+     "title": "112 How should strangers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.37",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.41",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con144",
+     "title": "144 How long does God's anger last?"
+    },
+    {
+     "id": "con304",
+     "title": "304 Is salvation by faith alone?"
+    },
+    {
+     "id": "con157",
+     "title": "157 Does Hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.46",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con144",
+     "title": "144 How long does God's anger last?"
+    },
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    },
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.1-2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con367",
+     "title": "367 Did Jesus forewarn his disciples about his coming death?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.6-11",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.26-28",
+   "categories": [
+    "Absurdity",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.29",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.31-32",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con367",
+     "title": "367 Did Jesus forewarn his disciples about his coming death?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.33-34",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con379",
+     "title": "379 Did Jesus say before the cock crow or before the cock crow twice?"
+    },
+    {
+     "id": "con380",
+     "title": "380 Did the cock crow before or after Peter's denial?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con381",
+     "title": "381 Did Jesus ask God to save him from crucifixion?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.47-49",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con382",
+     "title": "382 Did Judas identify Jesus with a kiss?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.51-52",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con355",
+     "title": "355 Did Jesus come to bring peace?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.57",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con383",
+     "title": "383 Was Jesus taken to Caiaphas or Annas first?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.59-61",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con384",
+     "title": "384 Did Jesus say, \u201cDestroy this temple, and in three days I will raise it up\u201d?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.63-64",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con385",
+     "title": "385 How did Jesus respond to the high priest?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.69-74",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con386",
+     "title": "386 To whom did Peter deny knowing Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.3-5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con387",
+     "title": "387 How did Judas die?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.6-7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con388",
+     "title": "388 Who bought the Potter's field?"
+    },
+    {
+     "id": "con389",
+     "title": "389 What did Judas do with the silver?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.9-10",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.12-14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con390",
+     "title": "390 Was Jesus silent during his trial?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.25",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.27-28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con391",
+     "title": "391 Who put the robe on Jesus?"
+    },
+    {
+     "id": "con392",
+     "title": "392 What color was Jesus' robe?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.34",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con394",
+     "title": "394 What did the soldiers give Jesus to drink?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.37",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con395",
+     "title": "395 What did the sign say?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.44",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con396",
+     "title": "396 Did both thieves revile Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.45-53",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.46",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con397",
+     "title": "397 What were the last words of Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.51",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con398",
+     "title": "398 When did the Temple curtain rip?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.52-53",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con196",
+     "title": "196 Was Jesus the first to rise from the dead?"
+    },
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.54",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con399",
+     "title": "399 What did the centurion call Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.55",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con400",
+     "title": "400 From where did the women watch?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.57-60",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con401",
+     "title": "401 Who buried Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con402",
+     "title": "402 How many women went to the sepulchre?"
+    },
+    {
+     "id": "con403",
+     "title": "403 When did they arrive?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con404",
+     "title": "404 Whom did they see at the tomb?"
+    },
+    {
+     "id": "con405",
+     "title": "405 Was the tomb open or closed?"
+    },
+    {
+     "id": "con406",
+     "title": "406 Were the men or angels inside or outside the tomb when first seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.3-4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con407",
+     "title": "407 Did they immediately tell the disciples?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con408",
+     "title": "408 To whom did Jesus first appear?"
+    },
+    {
+     "id": "con409",
+     "title": "409 Did Mary Magdalene recognize Jesus?"
+    },
+    {
+     "id": "con410",
+     "title": "410 Was it OK to touch the risen Jesus?"
+    },
+    {
+     "id": "con411",
+     "title": "411 Was Mary Magdalene happy or sad when she saw the risen Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con412",
+     "title": "412 Where did Jesus tell his disciples to meet him?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.15",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con413",
+     "title": "413 How many disciples did Jesus appear to in his first post resurrection appearance?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con369",
+     "title": "369 How much power did Jesus have?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con352",
+     "title": "352 Should the gospel be preached to everyone?"
+    },
+    {
+     "id": "con414",
+     "title": "414 In whose name is baptism to be performed?"
+    }
+   ]
+  }
+ ]
+}

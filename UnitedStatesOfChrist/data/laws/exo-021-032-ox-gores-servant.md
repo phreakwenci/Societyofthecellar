@@ -1,0 +1,95 @@
+# Ox Gores a Servant: Thirty Shekels to the Master
+
+> *If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.*  
+> — Exodus 21:32 (KJV)
+
+| Field | Value |
+|---|---|
+| **ID** | exo-021-032-ox-gores-servant |
+| **Citation** | Exodus 21:32 |
+| **Book** | Exodus |
+| **Chapter** | 21 |
+| **Verses** | 32 |
+| **Testament** | Old |
+| **Categories** | • Civil<br>• Economic<br>• Property |
+| **Law Type** | statute |
+| **Summary** | When the victim is a slave, capital exposure vanishes: the owner pays the slave's master thirty shekels; the ox is still stoned. |
+| **Original Audience** | Israelite owners of oxen and of people. |
+| **Immediate Context** | Closes the goring-ox series by pricing the status hierarchy exactly: free victim = owner's life; slave victim = thirty shekels to a third party. |
+| **Historical Context** | Thirty shekels matches Hammurabi's slave-value fines and is the sum Zechariah 11:12-13 calls 'a goodly price that I was prised at of them' in bitter irony — and the price Judas is paid for Jesus (Matt 26:15). The verse's afterlife dwarfs its barnyard origin: the slave-price becomes the Passion's invoice. |
+| **Penalty** | Thirty shekels of silver to the slave's master; ox stoned. The slave's estate receives nothing. |
+| **Exceptions** | None stated. |
+| **Cross References** | • Exodus 21:28-31<br>• Zechariah 11:12-13<br>• Matthew 26:15<br>• Matthew 27:9 |
+| **Related NT Passages** | • Matthew 26:15 — Judas paid thirty pieces of silver: the evangelist deliberately invoices Jesus at slave-gored-by-ox rate<br>• Philippians 2:7 — 'form of a servant' completing the typology |
+| **Internal Contradictions** | • Does God approve of slavery? A human death compensated to the owner at livestock rates is the SAB's exhibit for the code's property theory of persons. [Leviticus 25:44-46] (con42) |
+| **SAB Categories** | • Absurdity<br>• Cruelty and Violence |
+| **USofC Implementation** | In covenant-labor law: a bonded laborer killed by an attested hazard triggers a fixed Statutory Bond Indemnity paid to the bondholder — not the family — pegged, with liturgical literalism, at 'thirty shekels' (a CPI-indexed sum recalculated annually and announced, without apparent shame, on Good Friday). |
+| **Agency** | Restitution Administration (RA) |
+| **Constitutional Analogue** | Wrongful-death damages payable to an employer rather than next of kin — a standing equal-protection obscenity. |
+| **Scene Ideas** | • The annual Good Friday announcement of the thirty-shekel rate, and the one reporter who asks the question every year.<br>• A widow suing for standing to receive her husband's indemnity, opposed by the bondholder's chaplain-counsel. |
+| **Satirical Uses** | • The regime priced its Savior's betrayal, indexed it to inflation, and mails the checks to management. |
+| **Bureaucratic Uses** | • Statutory Bond Indemnity schedules (the Thirty-Shekel Table)<br>• Beneficiary standing determinations |
+| **Confidence** | high |
+
+```json
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "chapter": 21,
+  "id": "exo-021-032-ox-gores-servant",
+  "title": "Ox Gores a Servant: Thirty Shekels to the Master",
+  "citation": "Exodus 21:32",
+  "verses": "32",
+  "categories": [
+    "Civil",
+    "Economic",
+    "Property"
+  ],
+  "law_type": "statute",
+  "kjv_text": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.",
+  "summary": "When the victim is a slave, capital exposure vanishes: the owner pays the slave's master thirty shekels; the ox is still stoned.",
+  "original_audience": "Israelite owners of oxen and of people.",
+  "immediate_context": "Closes the goring-ox series by pricing the status hierarchy exactly: free victim = owner's life; slave victim = thirty shekels to a third party.",
+  "historical_context": "Thirty shekels matches Hammurabi's slave-value fines and is the sum Zechariah 11:12-13 calls 'a goodly price that I was prised at of them' in bitter irony — and the price Judas is paid for Jesus (Matt 26:15). The verse's afterlife dwarfs its barnyard origin: the slave-price becomes the Passion's invoice.",
+  "penalty": "Thirty shekels of silver to the slave's master; ox stoned. The slave's estate receives nothing.",
+  "exceptions": "None stated.",
+  "cross_references": [
+    "Exodus 21:28-31",
+    "Zechariah 11:12-13",
+    "Matthew 26:15",
+    "Matthew 27:9"
+  ],
+  "nt_passages": [
+    "Matthew 26:15 — Judas paid thirty pieces of silver: the evangelist deliberately invoices Jesus at slave-gored-by-ox rate",
+    "Philippians 2:7 — 'form of a servant' completing the typology"
+  ],
+  "internal_contradictions": [
+    {
+      "sab_id": "con42",
+      "issue": "Does God approve of slavery? A human death compensated to the owner at livestock rates is the SAB's exhibit for the code's property theory of persons.",
+      "refs": [
+        "Leviticus 25:44-46"
+      ]
+    }
+  ],
+  "sab_categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+  ],
+  "usofc_implementation": "In covenant-labor law: a bonded laborer killed by an attested hazard triggers a fixed Statutory Bond Indemnity paid to the bondholder — not the family — pegged, with liturgical literalism, at 'thirty shekels' (a CPI-indexed sum recalculated annually and announced, without apparent shame, on Good Friday).",
+  "agency": "Restitution Administration (RA)",
+  "constitutional_analogue": "Wrongful-death damages payable to an employer rather than next of kin — a standing equal-protection obscenity.",
+  "scene_ideas": [
+    "The annual Good Friday announcement of the thirty-shekel rate, and the one reporter who asks the question every year.",
+    "A widow suing for standing to receive her husband's indemnity, opposed by the bondholder's chaplain-counsel."
+  ],
+  "satirical_uses": [
+    "The regime priced its Savior's betrayal, indexed it to inflation, and mails the checks to management."
+  ],
+  "bureaucratic_uses": [
+    "Statutory Bond Indemnity schedules (the Thirty-Shekel Table)",
+    "Beneficiary standing determinations"
+  ],
+  "confidence": "high"
+}
+```

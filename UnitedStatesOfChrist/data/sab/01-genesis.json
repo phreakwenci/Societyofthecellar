@@ -1,0 +1,3081 @@
+{
+ "book": "Genesis",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con1",
+     "title": "1 The two creations"
+    },
+    {
+     "id": "con2",
+     "title": "2 Who created heaven and earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.3",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.8",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.11",
+   "categories": [
+    "Absurdity",
+    "Interpretation",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con3",
+     "title": "3 Were plants created before or after humans?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.14",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con4",
+     "title": "4 Does the bible condemn astrology?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con5",
+     "title": "5 When were the stars made?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.17",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.20, 24",
+   "categories": [
+    "Interpretation",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con6",
+     "title": "6 From what were the animals created?"
+    },
+    {
+     "id": "con7",
+     "title": "7 From what were the fowls created?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con8",
+     "title": "8 Were humans created before the other animals?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.27",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": [
+    {
+     "id": "con10",
+     "title": "10 When was Eve created?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con11",
+     "title": "11 Is childbearing sinful?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.29",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con12",
+     "title": "12 May Adam eat from any tree?"
+    },
+    {
+     "id": "con13",
+     "title": "13 Which animals may we eat?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.31",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con1",
+     "title": "1 The two creations"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con3",
+     "title": "3 Were plants created before or after humans?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.7,19",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con8",
+     "title": "8 Were humans created before or after the other animals?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.17",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con12",
+     "title": "12 May Adam eat from any tree?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con15",
+     "title": "15 Is marriage a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con6",
+     "title": "6 From what were the animals created?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.20",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con8",
+     "title": "8 When were humans created?"
+    },
+    {
+     "id": "con10",
+     "title": "10 When was Eve created?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.22",
+   "categories": [
+    "Absurdity",
+    "Misogyny",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con17",
+     "title": "17 Does God have a body?"
+    },
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12-13",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.16",
+   "categories": [
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.17",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con19",
+     "title": "19 Is everyone descended from Adam and Eve?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.1",
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.4",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    },
+    {
+     "id": "con21",
+     "title": "21 Does God respect anyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.8",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.12",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con22",
+     "title": "22 What became of Cain?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know and see everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.15",
+   "categories": [
+    "Absurdity",
+    "Interpretation"
+   ],
+   "contradictions": [
+    {
+     "id": "con23",
+     "title": "23 Does God approve of capital punishment?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.17",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con22",
+     "title": "22 What became of Cain?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.19",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.24",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.25",
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.26",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.4",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.5-32",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.5",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.24",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con24",
+     "title": "24 Must everyone die?"
+    },
+    {
+     "id": "con25",
+     "title": "25 Did Enoch die?"
+    },
+    {
+     "id": "con26",
+     "title": "26 Has anyone ever ascended into heaven?"
+    },
+    {
+     "id": "con27",
+     "title": "27 Was Enoch the seventh from Adam?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.25",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.32",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.2, 4",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con28",
+     "title": "28 How many sons does God have?"
+    },
+    {
+     "id": "con29",
+     "title": "29 Do angels have sex?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con30",
+     "title": "30 How long is the human life span?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con31",
+     "title": "31 Did everyone (except for Noah and his family) die in the flood?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.7",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has there ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.15",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.17",
+   "categories": [
+    "Cruelty and Violence",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con34",
+     "title": "34 How many of each kind did Noah take into the ark?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con34",
+     "title": "34 How many of each kind did Noah take into the ark?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.4",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.8-9",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con34",
+     "title": "34 How many of each kind did Noah take into the ark?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.11",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.13-14",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con36",
+     "title": "36 When did Noah enter the ark?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con34",
+     "title": "34 How many of each kind did Noah take into the ark?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con37",
+     "title": "37 How long did the flood last?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.20",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.21",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con31",
+     "title": "31 Did everyone die in the flood?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con37",
+     "title": "37 How long did the flood last?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.2",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con37",
+     "title": "37 How long did the flood last?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con38",
+     "title": "38 How long did the ark float?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.7,8",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con39",
+     "title": "39 When did the earth dry after the flood?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con39",
+     "title": "39 When did the earth dry after the flood?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.19",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "6.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con40",
+     "title": "40 Will God curse the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": null,
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con13",
+     "title": "13 Which animals may we eat?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.4",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con23",
+     "title": "23 Does God approve of capital punishment?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.13",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.20-21",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Injustice",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.24",
+   "categories": [
+    "Family Values",
+    "Homosexuality",
+    "Interpretation",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.29",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.5, 20, 31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con43",
+     "title": "43 Were there languages before Babel?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con44",
+     "title": "44 Who was Salah\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.25",
+   "categories": [
+    "Interpretation",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con43",
+     "title": "43 How many languages before Babel?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.6",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con45",
+     "title": "45 Is God the author of confusion?"
+    },
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con43",
+     "title": "43 How many languages were there before Babel?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.10-32",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con44",
+     "title": "44 Who was Salah\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.32",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con46",
+     "title": "46 How old was Terah when he died?"
+    },
+    {
+     "id": "con47",
+     "title": "47 How old was Abraham when he left Haran?"
+    },
+    {
+     "id": "con48",
+     "title": "48 How old was Abraham when Ishmael was born?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.3",
+   "categories": [
+    "Injustice",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con46",
+     "title": "46 How old was Terah when he died?"
+    },
+    {
+     "id": "con47",
+     "title": "47 How old was Abraham when he left Haran?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.13",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14",
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.17",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.13",
+   "categories": [
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.15",
+   "categories": [
+    "False Prophecy",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": null,
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "30.6",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con50",
+     "title": "50 When was the city of Dan named?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con51",
+     "title": "51 Who owns the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.8-9",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God want animal sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.13",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con52",
+     "title": "52 How long was the Egyptian captivity?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.16",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.18",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.2",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.6",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.9",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con53",
+     "title": "53 How many sons did Abraham have?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con48",
+     "title": "48 How old was Abraham when Ishmael was born?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.8",
+   "categories": [
+    "False Prophecy",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.11",
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con54",
+     "title": "54 Is circumcision required?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.13",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.14",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con55",
+     "title": "55 Is incest OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Are Old Testament laws still binding?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.23-27",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con57",
+     "title": "57 How old was Ishmael when he was abandoned by Abraham?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know and see everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.12",
+   "categories": [
+    "Absurdity",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con58",
+     "title": "58 Did Sarah have faith that she would conceive?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con59",
+     "title": "59 Can God do anything?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.20-21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.25",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.32",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.33",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.1",
+   "categories": [
+    "Absurdity",
+    "Homosexuality",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.5",
+   "categories": [
+    "Homosexuality",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.8",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con60",
+     "title": "60 Was Lot a righteous man?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con61",
+     "title": "61 Who destroyed Sodom and Gomorrah?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.14",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con62",
+     "title": "62 Did Lot\u2019s daughters think God had killed every man except Lot?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.24",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Homosexuality",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con61",
+     "title": "61 Who destroyed Sodom and Gomorrah?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.26",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con62",
+     "title": "62 Did Lot\u2019s daughters think God had killed every man except Lot?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.36",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con60",
+     "title": "60 Was Lot a righteous man?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.2",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.3",
+   "categories": [
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.12",
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": [
+    {
+     "id": "con55",
+     "title": "55 Is incest forbidden?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.18",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.1",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con53",
+     "title": "53 How many sons did Abraham have?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.9-10",
+   "categories": [
+    "Homosexuality",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.12",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con57",
+     "title": "57 How old was Ishmael when he was abandoned by Abraham?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is it OK to swear?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con64",
+     "title": "64 Who named Beersheba?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.32",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con65",
+     "title": "65 Has anyone ever been tempted by God?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.2",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con66",
+     "title": "66 Does God approve of human sacrifice?"
+    },
+    {
+     "id": "con53",
+     "title": "53 How many sons did Abraham have?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.10",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con67",
+     "title": "67 Did Abraham know God\u2019s name?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.1-2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.2",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is it OK to swear?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.3",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.16",
+   "categories": [
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.35",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con68",
+     "title": "68 Was Keturah Abraham\u2019s wife or concubine?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.1-2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con53",
+     "title": "53 How many sons did Abraham have?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.6",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.21",
+   "categories": [
+    "Absurdity",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.28",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.33",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.1",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.4",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con69",
+     "title": "69 Will there be many Jews?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.7",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.8",
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.12",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.33",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con64",
+     "title": "64 Who named Beersheba?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": null,
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con70",
+     "title": "70 Who was Bashemath\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.19",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.1",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con72",
+     "title": "72 Who was Laban\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.9",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.13",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.19",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con73",
+     "title": "73 When did Jacob rename Luz to Beth-el?"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "ref": "29.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con72",
+     "title": "72 Who was Laban\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "ref": "29.18",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.21",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.24",
+   "categories": [
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.25",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.28",
+   "categories": [
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.30",
+   "categories": [
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.31",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.33",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.1-23",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.27",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.39",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.12",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.17",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 31,
+   "ref": "31.35",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.53",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is swearing OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.22",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.24-32",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.30",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Has anyone seen God?"
+    }
+   ]
+  },
+  {
+   "chapter": 33,
+   "ref": "33.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 33,
+   "ref": "33.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con73",
+     "title": "73 When did Jacob rename Luz to Bethel?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.1-31",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.1-31",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": null,
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.6-7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con73",
+     "title": "73 When did Jacob rename Luz to Bethel?"
+    }
+   ]
+  },
+  {
+   "chapter": 35,
+   "ref": "35.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 35,
+   "ref": "35.10",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.15",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.19",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.22",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 36,
+   "ref": "36.1, 14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 36,
+   "ref": "36.2, 14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con74",
+     "title": "74 Who was Anah?"
+    }
+   ]
+  },
+  {
+   "chapter": 36,
+   "ref": "36.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con70",
+     "title": "70 Who was Bashemath\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 36,
+   "ref": "36.6",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 36,
+   "ref": "36.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 36,
+   "ref": "36.15-16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con75",
+     "title": "75 Who was Korah\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 36,
+   "ref": "36.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con74",
+     "title": "74 Who was Anah?"
+    }
+   ]
+  },
+  {
+   "chapter": 37,
+   "ref": "37.3",
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 37,
+   "ref": "37.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con76",
+     "title": "76 Who brought Joseph into Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 37,
+   "ref": "37.36",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con76",
+     "title": "76 Who brought Joseph into Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 38,
+   "ref": "38.2",
+   "categories": [
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 38,
+   "ref": "38.7",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 38,
+   "ref": "38.9-10",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 38,
+   "ref": "38.16",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 38,
+   "ref": "38.24",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 39,
+   "ref": "39.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con76",
+     "title": "76 Who brought Joseph into Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 39,
+   "ref": "39.7-17",
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 40,
+   "ref": "40.19",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 41,
+   "ref": "41.32",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 41,
+   "ref": "41.56",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 41,
+   "ref": "41.57",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 42,
+   "ref": "42.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 42,
+   "ref": "42.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con77",
+     "title": "77 Where did Joseph\u2019s brothers find the missing money?"
+    }
+   ]
+  },
+  {
+   "chapter": 43,
+   "ref": "43.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con77",
+     "title": "77 Where did Joseph\u2019s brothers find the missing money?"
+    }
+   ]
+  },
+  {
+   "chapter": 44,
+   "ref": "44.5",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 44,
+   "ref": "44.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con78",
+     "title": "78 How old was Benjamin when his clan migrated to Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 46,
+   "ref": "46.2",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 46,
+   "ref": "46.4",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 46,
+   "ref": "46.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con79",
+     "title": "79 Was Mahli the son of Levi?"
+    }
+   ]
+  },
+  {
+   "chapter": 46,
+   "ref": "46.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con70",
+     "title": "80 Will God destroy those that intermarry?"
+    }
+   ]
+  },
+  {
+   "chapter": 46,
+   "ref": "46.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con81",
+     "title": "81 Who were the sons of Benjamin?"
+    },
+    {
+     "id": "con82",
+     "title": "82 Were Naaman and Ard the sons or grandsons of Benjamin?"
+    },
+    {
+     "id": "con78",
+     "title": "78 How old was Benjamin when his clan migrated to Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 46,
+   "ref": "46.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con83",
+     "title": "83 How many were in Jacob\u2019s family when they came into Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 47,
+   "ref": "47.28",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 47,
+   "ref": "47.29",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is swearing ok?"
+    }
+   ]
+  },
+  {
+   "chapter": 48,
+   "ref": "48.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 48,
+   "ref": "48.21",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": "49.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con84",
+     "title": "84 What were the 12 tribes of Israel?"
+    }
+   ]
+  },
+  {
+   "chapter": 49,
+   "ref": "49.4",
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": "49.10",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": "49.11-12",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 50,
+   "ref": "50.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con85",
+     "title": "85 Where was Jacob buried?"
+    }
+   ]
+  },
+  {
+   "chapter": 50,
+   "ref": "50.24",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  }
+ ]
+}

@@ -1,0 +1,608 @@
+{
+ "book": "Ecclesiastes",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1, 12, 16",
+   "categories": [
+    "Absurdity",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.2",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con147",
+     "title": "147 Will the earth last forever?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.5",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.7",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.8-18",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con314",
+     "title": "314 What\u2019s new?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con309",
+     "title": "309 Does wisdom make people happy?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13-16",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.17-23",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.24",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1-8",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con100",
+     "title": "100 Is it OK to dance?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12-13",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.19-22",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.6",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.9-12",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.13",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con296",
+     "title": "296 Where does god dwell?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.3",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.10",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.15",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.18",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.3-6",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.12",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.1",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.3-4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con314",
+     "title": "314 Is it good to be happy?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.5-12",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has there ever been a just person?"
+    },
+    {
+     "id": "con289",
+     "title": "289 Does God destroy both the righteous and the wicked?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con298",
+     "title": "298 Does anyone ever do anything good?"
+    },
+    {
+     "id": "con33",
+     "title": "33 Has there ever been a just person?"
+    },
+    {
+     "id": "con229",
+     "title": "229 Do Christians sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.21",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.24",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.25",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.28",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con292",
+     "title": "292 Do wicked people grow old and prosper?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has there ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.15",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con314",
+     "title": "314 Is it good to be happy?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.17",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.2-10",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.2-3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.11-12",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.16-18",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con293",
+     "title": "293 Is wisdom a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.1",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.10",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.12",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con316",
+     "title": "316 Is money a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.20",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1-4",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.7-10",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con136",
+     "title": "136 Should we follow after our own heart and eyes?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.8",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.12",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    },
+    {
+     "id": "con56",
+     "title": "56 Are the laws of the Old Testament still binding?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is salvation by faith alone?"
+    }
+   ]
+  }
+ ]
+}

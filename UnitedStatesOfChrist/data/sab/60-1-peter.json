@@ -1,0 +1,268 @@
+{
+ "book": "1 Peter",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.2",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.5",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.7",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    },
+    {
+     "id": "con21",
+     "title": "21 Does God respect anyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.24",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.1",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con339",
+     "title": "339 Should we let others see our good works?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con449",
+     "title": "449 Should we obey human or divine law?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [
+    "Injustice",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.17",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.18",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    },
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con464",
+     "title": "464 Should women have the same rights as men?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.2-6",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.7",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.8-11",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con310",
+     "title": "310 Do bad things happen to good people?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.15",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con468",
+     "title": "468 Should believers discuss their faith with non-believers?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.21-22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.7",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.8",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.9",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.15",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.17-18",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con287",
+     "title": "287 Is the devil free to roam?"
+    }
+   ]
+  }
+ ]
+}

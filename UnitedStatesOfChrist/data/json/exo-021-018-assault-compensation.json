@@ -1,0 +1,47 @@
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "chapter": 21,
+  "id": "exo-021-018-assault-compensation",
+  "title": "Assault: Lost Time and Full Healing",
+  "citation": "Exodus 21:18-19",
+  "verses": "18-19",
+  "categories": [
+    "Civil",
+    "Judicial"
+  ],
+  "law_type": "statute",
+  "kjv_text": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed: If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.",
+  "summary": "Non-fatal fight injuries are settled civilly: the striker pays for the victim's lost work time and full medical recovery, then is quit.",
+  "original_audience": "Israelite men whose brawls were village facts of life.",
+  "immediate_context": "Transition from capital law to the tort schedule: intent and outcome start producing money judgments instead of blood.",
+  "historical_context": "Hammurabi 206 is nearly identical (oath of no intent + physician's fees). 'Loss of time' and 'thoroughly healed' are the two heads of damages every tort system since has reinvented: lost wages and medical costs. The victim surviving to walk 'upon his staff' functions as the causation cutoff.",
+  "penalty": "Compensatory damages: lost time plus complete cure. No further liability.",
+  "exceptions": "If the victim dies, homicide law (vv.12-14) resumes control.",
+  "cross_references": [
+    "Exodus 21:12-14",
+    "Leviticus 24:19-20",
+    "Deuteronomy 25:11"
+  ],
+  "nt_passages": [
+    "Matthew 5:25-26 — 'agree with thine adversary quickly' endorses pre-trial settlement",
+    "Luke 10:34-35 — the Samaritan pays the full-healing measure voluntarily"
+  ],
+  "internal_contradictions": [],
+  "sab_categories": [],
+  "usofc_implementation": "Title IV's civil assault track, administered by the RA: statutory damages equal documented lost earnings plus 'thorough healing' — unlimited medical liability until certified recovery. Insurers invented Staff-Walk Certification (the moment the victim ambulates, liability caps) and now employ most of the country's physical therapists as adjusters.",
+  "agency": "Restitution Administration (RA)",
+  "constitutional_analogue": "Ordinary tort law; 'cause him to be thoroughly healed' is more generous than most US workers' comp schedules — a fact plaintiff-side lawyers preach like scripture.",
+  "scene_ideas": [
+    "A Staff-Walk Certification exam where the victim's limp is worth forty thousand shekels a month and everyone films everyone.",
+    "An insurance adjuster-physiotherapist torn between the oath she took and the cap she's paid to trigger."
+  ],
+  "satirical_uses": [
+    "The one Covenant statute that produced a genuinely better outcome than the old regime is the one insurers spent a decade re-breaking."
+  ],
+  "bureaucratic_uses": [
+    "Staff-Walk Certification protocols",
+    "Thorough-healing liability schedules"
+  ],
+  "confidence": "high"
+}

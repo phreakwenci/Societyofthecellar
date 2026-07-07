@@ -1,0 +1,62 @@
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "id": "exo-020-015-no-stealing",
+  "title": "No Stealing",
+  "citation": "Exodus 20:15",
+  "chapter": 20,
+  "verses": "15",
+  "categories": [
+    "Property",
+    "Moral",
+    "Civil"
+  ],
+  "law_type": "prohibition",
+  "kjv_text": "Thou shalt not steal.",
+  "summary": "Prohibits theft of property (and, on one ancient reading, theft of persons — kidnapping, cf. Ex 21:16).",
+  "original_audience": "Israelite community of smallholders whose animals and tools were survival capital.",
+  "immediate_context": "Eighth commandment; the Covenant Code's restitution schedule (Ex 22:1-4) supplies the remedies.",
+  "historical_context": "Where Hammurabi punishes some theft with death (CH 6-10), biblical law is strikingly non-capital about property: thieves pay multiples (double to fivefold restitution), and only manstealing is capital. Property crime never outranks persons — a fact the USofC finds continually inconvenient.",
+  "penalty": "Restitution: double for possession, four sheep or five oxen for slaughtered/sold animals (Ex 22:1,4); sold into servitude if unable to pay (Ex 22:3).",
+  "exceptions": "Eating from a neighbor's standing field or vineyard on the spot is lawful (Deut 23:24-25); gleaning rights (Lev 19:9-10) make some 'taking' a right of the poor.",
+  "cross_references": [
+    "Exodus 22:1-4",
+    "Leviticus 19:11",
+    "Deuteronomy 23:24-25",
+    "Leviticus 19:9-10",
+    "Proverbs 6:30-31"
+  ],
+  "nt_passages": [
+    "Ephesians 4:28 — 'let him that stole steal no more: but rather let him labour'",
+    "Luke 19:8 — Zacchaeus's fourfold restitution as the Exodus schedule internalized",
+    "Acts 4:32-35 — the Jerusalem church holding all things common"
+  ],
+  "internal_contradictions": [
+    {
+      "sab_id": "con91",
+      "issue": "Is it wrong to steal? The command vs. the Israelites 'borrowing' and despoiling the Egyptians at God's instruction (Ex 3:22, 12:35-36).",
+      "refs": [
+        "Exodus 3:22",
+        "Exodus 12:35-36"
+      ]
+    }
+  ],
+  "sab_categories": [],
+  "usofc_implementation": "Theft is handled by the Restitution Administration on the biblical multiplier schedule — no prison for property crime, a genuinely popular reform. Judgment debtors who cannot pay enter covenant labor (see exo-021-002). Gleaning and field-eating rights are codified but hedged: exercising them requires a Gleaner's Card, and the queue for the card is the point.",
+  "agency": "Restitution Administration (RA)",
+  "constitutional_analogue": "Replaces incarceration-based larceny law with restitution and debt servitude; collides with the Thirteenth Amendment's exception clause, which the USofC quotes with enthusiasm.",
+  "scene_ideas": [
+    "An RA hearing computing whether a stolen 3D printer is an 'ox' (fivefold, productive capital) or a 'sheep' (fourfold) — the multiplier bar exam question.",
+    "A supermarket's legal team arguing shelf-grazing customers are exercising Deut 23:24 field-eating rights.",
+    "A Gleaner's Card office that opens for two hours on alternating Tuesdays."
+  ],
+  "satirical_uses": [
+    "The despoiling-of-Egypt precedent is taught in USofC law schools as 'the eminent domain of the righteous.'"
+  ],
+  "bureaucratic_uses": [
+    "Restitution multiplier schedule (Form RA-1)",
+    "Gleaner's Card with income verification",
+    "Covenant labor bond origination paperwork"
+  ],
+  "confidence": "high"
+}

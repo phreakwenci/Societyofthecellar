@@ -1,0 +1,312 @@
+{
+ "book": "Nehemiah",
+ "annotations": [
+  {
+   "chapter": 5,
+   "ref": "5.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con268",
+     "title": "268 How many children of Arah returned from Babylon?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con269",
+     "title": "269 How many children of Pahathmoab, Jeshua, and Joab?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con270",
+     "title": "270 How many children of Zattu?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con271",
+     "title": "271 How many children of Binnui?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con272",
+     "title": "272 How many children of Bebai?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con273",
+     "title": "273 How many children of Azgad?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con274",
+     "title": "274 How many children of Adonikam?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con275",
+     "title": "275 How many of Bigvai\u2019s offspring returned from Babylon?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con276",
+     "title": "276 How many children of Adin?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con277",
+     "title": "277 How many children of Bezai?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con278",
+     "title": "278 How many of men of Bethlehem and Netophah?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.32",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.37",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con279",
+     "title": "279 How many children of Lod, Hadid, and Ono?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.38",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con280",
+     "title": "280 How many children of Senaah?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.44",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con281",
+     "title": "281 How many singers?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.45",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con282",
+     "title": "282 How many porters?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.62",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con283",
+     "title": "283 How many children of of Delaiah, Tobiah, and Nekoda?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.65",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.66",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.67",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con284",
+     "title": "284 How many singers?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.72",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con285",
+     "title": "285 How much gold, silver, and clothing did the people give?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con117",
+     "title": "117 Where did Moses receive the ten commandments?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.34",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con141",
+     "title": "141 Is gambling condemned by the Bible?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con264",
+     "title": "264 Who was Zerubbabel\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.1",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con152",
+     "title": "152 Did any Moabite enter the congregation of the Lord?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.25-27",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  }
+ ]
+}

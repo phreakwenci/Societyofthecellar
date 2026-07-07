@@ -1,0 +1,399 @@
+{
+ "book": "James",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con293",
+     "title": "293 Is wisdom a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con103",
+     "title": "103 Can God be tempted?"
+    },
+    {
+     "id": "con65",
+     "title": "65 Has God ever tempted anyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.19",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.27",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2-4",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con128",
+     "title": "128 How should nonbelievers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.10",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.15-16",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.19",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con417",
+     "title": "417 Are those who believe Jesus is the Christ of God?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.21",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con456",
+     "title": "456 Was Abraham justified by faith or by works?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.25",
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": [
+    {
+     "id": "con471",
+     "title": "471 Was Rahab saved by faith or works?"
+    },
+    {
+     "id": "con86",
+     "title": "86 Is it wrong to lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.7",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.13",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it OK to lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.3",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.4",
+   "categories": [
+    "Injustice",
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.5",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con470",
+     "title": "470 Can the devil capture us at will?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.11",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con126",
+     "title": "126 To judge or not to judge"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con301",
+     "title": "301 Is it good to be wealthy?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.8",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is it okay to take oaths?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.13-16",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.17",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con237",
+     "title": "237 How long was Elijah\u2019s drought? God\u2019s 92nd Killing"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "book": "Ezra",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con268",
+     "title": "268 How many children of Arah returned from Babylon?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con269",
+     "title": "269 How many children of Pahathmoab, Jeshua and Joab?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con270",
+     "title": "270 How many children of Zattu?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con271",
+     "title": "271 How many children of Bani?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con272",
+     "title": "272 How many children of Bebai?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con273",
+     "title": "273 How many children of Azgad?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con274",
+     "title": "274 How many children of Adonikam?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con275",
+     "title": "275 How many children of Bigvai?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con276",
+     "title": "276 How many children of Adin?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con277",
+     "title": "277 How many children of Bezai?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.21-22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con278",
+     "title": "278 How many children of Bethlehem and Netophah?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.33",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con279",
+     "title": "279 How many children of Lod, Hadid, and Ono?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.35",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con280",
+     "title": "280 How many children of Senaah?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.41",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con281",
+     "title": "281 How many children of Asaph?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.42",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con282",
+     "title": "282 How many children of the porters?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.60",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con283",
+     "title": "283 How many children of Delaiah, Tobiah, and Nekoda?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.63",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.65",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con284",
+     "title": "284 How many singing men and women returned from Babylon?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.69",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con285",
+     "title": "285 How much gold, silver, and priests\u2019 garments did the people give away?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con264",
+     "title": "264 Who was Zerubbabel\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con286",
+     "title": "286 Was Zechariah Iddo\u2019s son or grandson?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con161",
+     "title": "161 Who is the Lord of the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.1-2",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con286",
+     "title": "286 Was Zechariah Iddo\u2019s son or grandson?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.24",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con79",
+     "title": "79 Was Mahli the son of Levi?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.2",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.2-3, 10-12",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  }
+ ]
+}

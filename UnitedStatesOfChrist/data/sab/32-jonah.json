@@ -1,0 +1,154 @@
+{
+ "book": "Jonah",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.3, 10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know and see everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.4",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.12-15",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con323",
+     "title": "323 Who cast Jonah into the sea?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.17",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con324",
+     "title": "324 Was Jonah swallowed by a fish or a whale?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.1-2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con323",
+     "title": "323 Who cast Jonah into the sea?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.3",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.4",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.6-8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  }
+ ]
+}

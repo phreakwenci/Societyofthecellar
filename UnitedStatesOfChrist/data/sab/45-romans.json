@@ -1,0 +1,954 @@
+{
+ "book": "Romans",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con329",
+     "title": "329 Was Joseph the father of Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.20",
+   "categories": [
+    "Injustice",
+    "Intolerance",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con290",
+     "title": "290 Can God be found from reason alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.21-22",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con297",
+     "title": "297 Is it OK to call someone a fool?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.24",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.25",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Homosexuality",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.26-28",
+   "categories": [
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.29-31",
+   "categories": [
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.32",
+   "categories": [
+    "Cruelty and Violence",
+    "Homosexuality",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con126",
+     "title": "126 Should we judge others?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.5-6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con21",
+     "title": "21 Does God respect anyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con91",
+     "title": "91 Is it OK to steal?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.5",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.8",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con298",
+     "title": "298 Does anyone ever do anything good?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con229",
+     "title": "229 Do Christians sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con456",
+     "title": "456 Was Abraham justified by faith or by works?"
+    },
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.5-6, 13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.19-21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.9-10",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.12",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con457",
+     "title": "457 Who was to blame for original sin?"
+    },
+    {
+     "id": "con24",
+     "title": "24 Must everyone die?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con229",
+     "title": "229 Has everyone sinned?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.18-20",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.4-5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con472",
+     "title": "472 Have Christians been raised with Christ?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians obey Old Testament laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.4-6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians obey Old Testament laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.18",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.8-10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.22",
+   "categories": [
+    "Interpretation",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con341",
+     "title": "341 Do Christians know how to pray?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.27",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.29",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con158",
+     "title": "158 Do humans have free will?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.31",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.32",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.33",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.38-39",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con442",
+     "title": "442 Is it possible to fall from grace?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.11-22",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con158",
+     "title": "158 Do humans have free will?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.13",
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": [
+    {
+     "id": "con131",
+     "title": "131 Does God love everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con311",
+     "title": "311 Does God want some to go to hell?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.33",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians obey Old Testament laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con321",
+     "title": "321 Will those who call on the Lord be delivered?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.18",
+   "categories": [
+    "Absurdity",
+    "False Prophecy",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1-5",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.7-10",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.11",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.25",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.26-32",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con347",
+     "title": "347 What will happen to Jews when they die?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.3-21",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con458",
+     "title": "458 Is it OK to curse people?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.1-4",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con449",
+     "title": "449 Should we obey human or divine law?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.6-7",
+   "categories": [
+    "Good Stuff",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con128",
+     "title": "128 How should nonbelievers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.11-12",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.13",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con13",
+     "title": "13 What should we eat?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the sabbath?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con126",
+     "title": "126 Should we judge others?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.13",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con126",
+     "title": "126 Should we judge others?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con13",
+     "title": "13 What should we eat?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.19",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    },
+    {
+     "id": "con13",
+     "title": "13 What should we eat?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.23",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con459",
+     "title": "459 Should we try to please everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.33",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con99",
+     "title": "99 Is God warlike or peaceful?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.1",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": [
+    {
+     "id": "con454",
+     "title": "454 Can women be church leaders?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.7",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": [
+    {
+     "id": "con454",
+     "title": "454 Can women be church leaders?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.17-18",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.20",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  }
+ ]
+}

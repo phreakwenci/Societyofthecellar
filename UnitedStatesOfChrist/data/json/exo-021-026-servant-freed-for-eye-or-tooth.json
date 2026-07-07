@@ -1,0 +1,56 @@
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "chapter": 21,
+  "id": "exo-021-026-servant-freed-for-eye-or-tooth",
+  "title": "Servant Freed for a Destroyed Eye or Tooth",
+  "citation": "Exodus 21:26-27",
+  "verses": "26-27",
+  "categories": [
+    "Civil",
+    "Economic",
+    "Judicial"
+  ],
+  "law_type": "statute",
+  "kjv_text": "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye's sake. And if he smite out his manservant's tooth, or his maidservant's tooth; he shall let him go free for his tooth's sake.",
+  "summary": "A master who destroys a slave's eye or tooth must free the slave — manumission as the damages award, in place of talion.",
+  "original_audience": "Israelite slaveholders and their slaves, male and female alike.",
+  "immediate_context": "Immediately after lex talionis: the slave does not get an eye for an eye; the slave gets out. Talion is for the free.",
+  "historical_context": "Hammurabi 199 pays the *owner* when someone blinds his slave; here, uniquely in the ANE, the compensation goes to the slave, in the currency of freedom. Simultaneously humane (the ANE's only slave-protection of its kind) and stratifying (the slave's eye buys liberty, not equality). The rabbis extended it to twenty-four ruinable body parts.",
+  "penalty": "Mandatory manumission of the injured slave.",
+  "exceptions": "None stated; applies to permanent visible maiming, per later interpretation.",
+  "cross_references": [
+    "Exodus 21:20-21",
+    "Exodus 21:23-25",
+    "Deuteronomy 23:15-16 (no returning escaped slaves)"
+  ],
+  "nt_passages": [
+    "Philemon 15-16 — 'not now as a servant, but above a servant, a brother' — manumission theology in a letter"
+  ],
+  "internal_contradictions": [
+    {
+      "issue": "The slave's eye is worth manumission while the slave's life (if death lingers, v.21) is worth nothing — the code protects the visible injury and shrugs at the fatal one.",
+      "refs": [
+        "Exodus 21:20-21"
+      ]
+    }
+  ],
+  "sab_categories": [
+    "Injustice"
+  ],
+  "usofc_implementation": "Codified as the Maiming Manumission Rule in covenant-labor law: certified permanent injury by a bondholder voids the bond with full release. In practice: bondholder-friendly medical examiners, 'pre-existing condition' findings, and a thriving trade in injury documentation. The rule's existence is the OSO's proof the system 'polices itself.'",
+  "agency": "Office of Servitude Oversight (OSO)",
+  "constitutional_analogue": "Workers' compensation crossed with emancipation law; the release remedy has no modern parallel because the underlying bond shouldn't exist.",
+  "scene_ideas": [
+    "A laborer weighing whether a tooth is a fair price for freedom — and the bond-camp dentist who has seen that calculation before.",
+    "The medical examiner's two rubber stamps: WORK-RELATED and PRE-EXISTING, and what each costs."
+  ],
+  "satirical_uses": [
+    "The regime cites this verse as proof biblical slavery was humane, in pamphlets printed by bonded labor."
+  ],
+  "bureaucratic_uses": [
+    "Maiming Manumission petitions (Form MM-1)",
+    "Injury causation examiner certifications"
+  ],
+  "confidence": "high"
+}

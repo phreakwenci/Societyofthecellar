@@ -1,0 +1,99 @@
+# No Bowing to or Serving Images; Transgenerational Punishment
+
+> *Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; And shewing mercy unto thousands of them that love me, and keep my commandments.*  
+> — Exodus 20:5-6 (KJV)
+
+| Field | Value |
+|---|---|
+| **ID** | exo-020-005-no-bowing-to-images |
+| **Citation** | Exodus 20:5-6 |
+| **Book** | Exodus |
+| **Chapter** | 20 |
+| **Verses** | 5-6 |
+| **Testament** | Old |
+| **Categories** | • Religious<br>• Judicial |
+| **Law Type** | prohibition |
+| **Summary** | Forbids venerating or serving images, and attaches a sanction principle: guilt runs downstream three to four generations; loyalty earns mercy to thousands. |
+| **Original Audience** | Israelites at Sinai, organized in multigenerational households where a patriarch's cult choice bound the family. |
+| **Immediate Context** | Completes the image prohibition of v.4 and states the covenant's incentive structure. |
+| **Historical Context** | Collective and transgenerational liability was normal in ancient Near Eastern law (Hammurabi punishes a builder's son for the builder's fault). Ezekiel 18 later repudiates the principle within the Bible itself — a rare visible instance of biblical law reforming biblical law. |
+| **Penalty** | Divine sanction: iniquity 'visited' on descendants to the third and fourth generation. |
+| **Exceptions** | Deuteronomy 24:16 forbids human courts from doing exactly what this verse says God does. |
+| **Cross References** | • Deuteronomy 5:9-10<br>• Ezekiel 18:19-20<br>• Deuteronomy 24:16<br>• Exodus 34:6-7<br>• Numbers 14:18 |
+| **Related NT Passages** | • John 9:2-3 — 'who did sin, this man, or his parents?' Jesus rejects the inherited-guilt frame<br>• Romans 5:12-19 — inherited Adamic guilt as the doctrine's cosmic version |
+| **Internal Contradictions** | • Are we punished for the sins of others? This verse vs. Ezekiel 18:20 and Deuteronomy 24:16 ('every man shall be put to death for his own sin'). [Ezekiel 18:20, Deuteronomy 24:16, 2 Kings 14:6] (con41) |
+| **SAB Categories** | • Cruelty and Violence<br>• Injustice |
+| **USofC Implementation** | The Generational Standing system: convictions for Covenant felonies attach a 'lineage flag' to descendants for four generations — barring federal employment, clergy licensing, and Council eligibility. Officially 'not punishment, merely prudence.' Mercy-to-thousands is implemented as hereditary honor status for founding families. |
+| **Agency** | Department of Righteousness (DOR) |
+| **Constitutional Analogue** | Violates the Constitution's Corruption of Blood clause (Art. III §3) and Fifth/Fourteenth Amendment due process; a hereditary caste system by database. |
+| **Scene Ideas** | • A brilliant candidate for the Council discovers her great-grandfather's sealed idolatry conviction the week of her confirmation.<br>• A DOR clerk whose entire job is adjudicating whether a fourth generation has 'elapsed' — counting from conviction, birth, or conception is a live circuit split.<br>• Lineage-flag laundering: marrying into a mercy-to-thousands family scrubs the record. |
+| **Satirical Uses** | • The state cites Ezekiel 18 to deny it punishes children for parents, while the lineage database does precisely that — 'the flag is administrative, not penal.' |
+| **Bureaucratic Uses** | • Generational Standing Certificate required for federal hiring<br>• Lineage-flag appeals with a four-generation actuarial table<br>• Hereditary honor rolls for 'thousands of them that love me' |
+| **Confidence** | high |
+
+```json
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "id": "exo-020-005-no-bowing-to-images",
+  "title": "No Bowing to or Serving Images; Transgenerational Punishment",
+  "citation": "Exodus 20:5-6",
+  "chapter": 20,
+  "verses": "5-6",
+  "categories": [
+    "Religious",
+    "Judicial"
+  ],
+  "law_type": "prohibition",
+  "kjv_text": "Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; And shewing mercy unto thousands of them that love me, and keep my commandments.",
+  "summary": "Forbids venerating or serving images, and attaches a sanction principle: guilt runs downstream three to four generations; loyalty earns mercy to thousands.",
+  "original_audience": "Israelites at Sinai, organized in multigenerational households where a patriarch's cult choice bound the family.",
+  "immediate_context": "Completes the image prohibition of v.4 and states the covenant's incentive structure.",
+  "historical_context": "Collective and transgenerational liability was normal in ancient Near Eastern law (Hammurabi punishes a builder's son for the builder's fault). Ezekiel 18 later repudiates the principle within the Bible itself — a rare visible instance of biblical law reforming biblical law.",
+  "penalty": "Divine sanction: iniquity 'visited' on descendants to the third and fourth generation.",
+  "exceptions": "Deuteronomy 24:16 forbids human courts from doing exactly what this verse says God does.",
+  "cross_references": [
+    "Deuteronomy 5:9-10",
+    "Ezekiel 18:19-20",
+    "Deuteronomy 24:16",
+    "Exodus 34:6-7",
+    "Numbers 14:18"
+  ],
+  "nt_passages": [
+    "John 9:2-3 — 'who did sin, this man, or his parents?' Jesus rejects the inherited-guilt frame",
+    "Romans 5:12-19 — inherited Adamic guilt as the doctrine's cosmic version"
+  ],
+  "internal_contradictions": [
+    {
+      "sab_id": "con41",
+      "issue": "Are we punished for the sins of others? This verse vs. Ezekiel 18:20 and Deuteronomy 24:16 ('every man shall be put to death for his own sin').",
+      "refs": [
+        "Ezekiel 18:20",
+        "Deuteronomy 24:16",
+        "2 Kings 14:6"
+      ]
+    }
+  ],
+  "sab_categories": [
+    "Cruelty and Violence",
+    "Injustice"
+  ],
+  "usofc_implementation": "The Generational Standing system: convictions for Covenant felonies attach a 'lineage flag' to descendants for four generations — barring federal employment, clergy licensing, and Council eligibility. Officially 'not punishment, merely prudence.' Mercy-to-thousands is implemented as hereditary honor status for founding families.",
+  "agency": "Department of Righteousness (DOR)",
+  "constitutional_analogue": "Violates the Constitution's Corruption of Blood clause (Art. III §3) and Fifth/Fourteenth Amendment due process; a hereditary caste system by database.",
+  "scene_ideas": [
+    "A brilliant candidate for the Council discovers her great-grandfather's sealed idolatry conviction the week of her confirmation.",
+    "A DOR clerk whose entire job is adjudicating whether a fourth generation has 'elapsed' — counting from conviction, birth, or conception is a live circuit split.",
+    "Lineage-flag laundering: marrying into a mercy-to-thousands family scrubs the record."
+  ],
+  "satirical_uses": [
+    "The state cites Ezekiel 18 to deny it punishes children for parents, while the lineage database does precisely that — 'the flag is administrative, not penal.'"
+  ],
+  "bureaucratic_uses": [
+    "Generational Standing Certificate required for federal hiring",
+    "Lineage-flag appeals with a four-generation actuarial table",
+    "Hereditary honor rolls for 'thousands of them that love me'"
+  ],
+  "confidence": "high"
+}
+```

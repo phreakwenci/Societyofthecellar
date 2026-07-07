@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "usofc-law.schema.json",
+  "title": "USofC Extracted Biblical Law Record",
+  "description": "One legal principle extracted from Scripture for the fictional United States of Christ. One law per record, one record per file.",
+  "type": "object",
+  "required": [
+    "id", "title", "citation", "book", "chapter", "verses", "testament",
+    "categories", "summary", "original_audience", "immediate_context",
+    "historical_context", "penalty", "usofc_implementation", "agency",
+    "confidence"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+-\\d{3}-\\d{3}[a-z]?-[a-z0-9-]+$",
+      "description": "Stable ID: <bookslug>-<chapter 3-digit>-<first verse 3-digit><optional letter>-<kebab title>, e.g. exo-020-003-no-other-gods"
+    },
+    "title": { "type": "string", "description": "Law name" },
+    "citation": { "type": "string", "description": "Human citation, e.g. Exodus 20:3" },
+    "book": { "type": "string" },
+    "chapter": { "type": "integer" },
+    "verses": { "type": "string", "description": "Verse or range, e.g. \"3\" or \"2-6\"" },
+    "testament": { "type": "string", "enum": ["Old", "New"] },
+    "categories": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "enum": ["Civil", "Moral", "Ceremonial", "Dietary", "Judicial", "Family",
+                 "Economic", "Religious", "Military", "Property", "Sexual",
+                 "Purity", "Festival", "Governmental"]
+      }
+    },
+    "law_type": {
+      "type": "string",
+      "enum": ["command", "prohibition", "statute", "ritual", "punishment",
+               "obligation", "precedent", "judicial_instruction",
+               "governmental_principle", "permission", "ideal", "qualification"],
+      "description": "What kind of enforceable norm this is"
+    },
+    "kjv_text": { "type": "string", "description": "The operative KJV text (public domain)" },
+    "summary": { "type": "string", "description": "Plain-language summary" },
+    "original_audience": { "type": "string" },
+    "immediate_context": { "type": "string", "description": "Where this sits in the narrative/legal corpus" },
+    "historical_context": { "type": "string", "description": "Ancient Near Eastern / historical scholarship notes" },
+    "penalty": { "type": "string", "description": "Stated biblical penalty, or \"None stated\"" },
+    "exceptions": { "type": "string" },
+    "cross_references": { "type": "array", "items": { "type": "string" } },
+    "nt_passages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Relevant New Testament passages (citation + one-line relevance)"
+    },
+    "internal_contradictions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["issue"],
+        "properties": {
+          "sab_id": { "type": "string", "description": "SAB contradiction anchor, e.g. con9 (see data/sab/contradictions.json)" },
+          "issue": { "type": "string" },
+          "refs": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "sab_categories": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "SAB category flags on this passage (from data/sab/<book>.json)"
+    },
+    "usofc_implementation": { "type": "string", "description": "How the United States of Christ implements this law" },
+    "agency": { "type": "string", "description": "Responsible agency (see docs/Agencies.md; register new agencies there)" },
+    "constitutional_analogue": { "type": "string", "description": "Modern US constitutional provision this law engages, displaces, or violates" },
+    "scene_ideas": { "type": "array", "items": { "type": "string" } },
+    "satirical_uses": { "type": "array", "items": { "type": "string" } },
+    "bureaucratic_uses": { "type": "array", "items": { "type": "string" } },
+    "confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low"],
+      "description": "Confidence that this passage states an enforceable norm as summarized"
+    }
+  }
+}

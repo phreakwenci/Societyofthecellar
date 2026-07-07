@@ -1,0 +1,2212 @@
+{
+  "count": 37,
+  "laws": [
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-003-no-other-gods",
+      "title": "No Other Gods",
+      "citation": "Exodus 20:3",
+      "chapter": 20,
+      "verses": "3",
+      "categories": [
+        "Religious",
+        "Moral",
+        "Governmental"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt have no other gods before me.",
+      "summary": "The first commandment: exclusive allegiance to YHWH. No rival deities may be acknowledged, worshipped, or ranked alongside him.",
+      "original_audience": "The assembled Israelites at Mount Sinai, newly delivered from Egypt, constituted as a covenant people.",
+      "immediate_context": "Opening of the Decalogue (Ex 20:1-17), delivered directly by God amid thunder and smoke; the preamble (v.2) grounds the demand in the Exodus deliverance.",
+      "historical_context": "Formally parallels Hittite suzerainty treaties: a great king's exclusive-loyalty clause following a historical prologue. The wording ('before me') presumes other gods exist to be rejected — monolatry rather than philosophical monotheism, which develops later (cf. Deutero-Isaiah).",
+      "penalty": "None stated here; elsewhere death (Ex 22:20, Deut 13:6-10) and covenant curses.",
+      "exceptions": "None.",
+      "cross_references": [
+        "Deuteronomy 5:7",
+        "Exodus 22:20",
+        "Deuteronomy 6:4-5",
+        "Deuteronomy 13:6-10",
+        "Joshua 24:14-15"
+      ],
+      "nt_passages": [
+        "Matthew 4:10 — Jesus cites exclusive worship against Satan",
+        "Mark 12:29-30 — the Shema as the greatest commandment",
+        "1 Corinthians 8:5-6 — 'gods many, and lords many' but one God",
+        "Acts 17:22-31 — Paul negotiates pluralism in Athens without a death penalty"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con9",
+          "issue": "How many gods are there? Exclusive monotheism (Deut 4:35, Isa 44:6) vs. passages presuming plural gods (Gen 1:26, Ex 12:12, Ps 82).",
+          "refs": [
+            "Deuteronomy 4:35",
+            "Genesis 1:26",
+            "Exodus 12:12",
+            "Psalm 82:1"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Intolerance"
+      ],
+      "usofc_implementation": "Article I of the Covenant Amendment. Operationalized as the Exclusive Allegiance Registry: every citizen files an annual Declaration of Sole Worship; membership in any non-covenanted religious body is a first-degree Covenant felony. Foreign embassies negotiate 'diplomatic worship exemptions.'",
+      "agency": "Office of Idolatry Prevention (OIP)",
+      "constitutional_analogue": "Directly annuls the First Amendment's Establishment and Free Exercise Clauses; the founding repeal on which the entire USofC rests.",
+      "scene_ideas": [
+        "A Hindu-American family's annual 'allegiance audit,' their home shrine hidden behind a false wall of Covenant-approved decor.",
+        "An OIP hearing debating whether a yoga studio's sun salutation constitutes 'having' another god.",
+        "The President privately consults an astrologer; the transcript becomes the season's blackmail engine."
+      ],
+      "satirical_uses": [
+        "The state that enforces 'no other gods' functionally worships itself — the OIP's seal appears in more homes than any cross.",
+        "Mammon is conspicuously absent from the enforcement priorities."
+      ],
+      "bureaucratic_uses": [
+        "Annual Declaration of Sole Worship (Form W-1)",
+        "Exclusive Allegiance Registry with tiered suspicion scores",
+        "Diplomatic Worship Exemption visas"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-004-no-graven-images",
+      "title": "No Graven Images",
+      "citation": "Exodus 20:4",
+      "chapter": 20,
+      "verses": "4",
+      "categories": [
+        "Religious",
+        "Ceremonial"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.",
+      "summary": "Prohibits manufacturing carved cult images — read literally, any likeness of anything in sky, earth, or sea.",
+      "original_audience": "Israelites at Sinai; aimed at the image-saturated cults of Egypt and Canaan they knew.",
+      "immediate_context": "Second commandment; paired with v.5's ban on venerating images. The golden calf episode (Ex 32) follows within weeks of narrative time.",
+      "historical_context": "Aniconism was rare and striking in the ancient Near East, where a cult statue was the god's presence in the temple. Israel's imageless worship became its defining religious marker. Yet the tabernacle itself commands cherubim images (Ex 25:18), so the working line was always 'no images for worship,' not 'no images.'",
+      "penalty": "None stated in the verse; idolaters elsewhere face death (Deut 27:15 curses the image-maker).",
+      "exceptions": "God commands images elsewhere: cherubim (Ex 25:18), the bronze serpent (Num 21:8), lions and oxen in Solomon's temple (1 Kings 7:25,29).",
+      "cross_references": [
+        "Deuteronomy 5:8",
+        "Deuteronomy 27:15",
+        "Exodus 32",
+        "Exodus 25:18",
+        "Numbers 21:8"
+      ],
+      "nt_passages": [
+        "John 3:14 — Jesus compares himself to the bronze serpent image",
+        "Acts 17:29 — the Godhead is not like gold or stone",
+        "Colossians 1:15 — Christ as the 'image of the invisible God' complicates aniconism",
+        "Romans 1:23 — images as the root of pagan decline"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con106",
+          "issue": "Is it OK to make images? This total ban vs. God commanding cherubim, the bronze serpent, and temple statuary.",
+          "refs": [
+            "Exodus 25:18",
+            "Numbers 21:8",
+            "1 Kings 7:25"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "The Graven Images Act. The OIP Iconoclasm Division licenses all representational art; 'devotional risk' is scored by subject, scale, and placement. Photography survived by a landmark ruling that a photograph is 'light, not graving.' Statues of USofC founders are exempted as 'civic memorials, not likenesses' — the most litigated sentence in the Code.",
+      "agency": "Office of Idolatry Prevention (OIP)",
+      "constitutional_analogue": "Collides with First Amendment free expression; functionally a national art-censorship regime.",
+      "scene_ideas": [
+        "An Iconoclasm Division inspector and a museum curator negotiating which Renaissance paintings get the drape.",
+        "A child's science-fair diorama of the solar system seized as 'likeness of things in heaven above.'",
+        "Underground portrait painters working from memory so no 'likeness' technically exists."
+      ],
+      "satirical_uses": [
+        "The regime that bans likenesses plasters the President's face on every licensing form — ruled 'a seal, not an image.'"
+      ],
+      "bureaucratic_uses": [
+        "Representational Art License with devotional-risk scoring",
+        "Form IC-2: Application to Depict a Created Thing",
+        "The Drape Registry for museum loans"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-005-no-bowing-to-images",
+      "title": "No Bowing to or Serving Images; Transgenerational Punishment",
+      "citation": "Exodus 20:5-6",
+      "chapter": 20,
+      "verses": "5-6",
+      "categories": [
+        "Religious",
+        "Judicial"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; And shewing mercy unto thousands of them that love me, and keep my commandments.",
+      "summary": "Forbids venerating or serving images, and attaches a sanction principle: guilt runs downstream three to four generations; loyalty earns mercy to thousands.",
+      "original_audience": "Israelites at Sinai, organized in multigenerational households where a patriarch's cult choice bound the family.",
+      "immediate_context": "Completes the image prohibition of v.4 and states the covenant's incentive structure.",
+      "historical_context": "Collective and transgenerational liability was normal in ancient Near Eastern law (Hammurabi punishes a builder's son for the builder's fault). Ezekiel 18 later repudiates the principle within the Bible itself — a rare visible instance of biblical law reforming biblical law.",
+      "penalty": "Divine sanction: iniquity 'visited' on descendants to the third and fourth generation.",
+      "exceptions": "Deuteronomy 24:16 forbids human courts from doing exactly what this verse says God does.",
+      "cross_references": [
+        "Deuteronomy 5:9-10",
+        "Ezekiel 18:19-20",
+        "Deuteronomy 24:16",
+        "Exodus 34:6-7",
+        "Numbers 14:18"
+      ],
+      "nt_passages": [
+        "John 9:2-3 — 'who did sin, this man, or his parents?' Jesus rejects the inherited-guilt frame",
+        "Romans 5:12-19 — inherited Adamic guilt as the doctrine's cosmic version"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con41",
+          "issue": "Are we punished for the sins of others? This verse vs. Ezekiel 18:20 and Deuteronomy 24:16 ('every man shall be put to death for his own sin').",
+          "refs": [
+            "Ezekiel 18:20",
+            "Deuteronomy 24:16",
+            "2 Kings 14:6"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Cruelty and Violence",
+        "Injustice"
+      ],
+      "usofc_implementation": "The Generational Standing system: convictions for Covenant felonies attach a 'lineage flag' to descendants for four generations — barring federal employment, clergy licensing, and Council eligibility. Officially 'not punishment, merely prudence.' Mercy-to-thousands is implemented as hereditary honor status for founding families.",
+      "agency": "Department of Righteousness (DOR)",
+      "constitutional_analogue": "Violates the Constitution's Corruption of Blood clause (Art. III §3) and Fifth/Fourteenth Amendment due process; a hereditary caste system by database.",
+      "scene_ideas": [
+        "A brilliant candidate for the Council discovers her great-grandfather's sealed idolatry conviction the week of her confirmation.",
+        "A DOR clerk whose entire job is adjudicating whether a fourth generation has 'elapsed' — counting from conviction, birth, or conception is a live circuit split.",
+        "Lineage-flag laundering: marrying into a mercy-to-thousands family scrubs the record."
+      ],
+      "satirical_uses": [
+        "The state cites Ezekiel 18 to deny it punishes children for parents, while the lineage database does precisely that — 'the flag is administrative, not penal.'"
+      ],
+      "bureaucratic_uses": [
+        "Generational Standing Certificate required for federal hiring",
+        "Lineage-flag appeals with a four-generation actuarial table",
+        "Hereditary honor rolls for 'thousands of them that love me'"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-007-name-in-vain",
+      "title": "The Name Not in Vain",
+      "citation": "Exodus 20:7",
+      "chapter": 20,
+      "verses": "7",
+      "categories": [
+        "Religious",
+        "Moral",
+        "Judicial"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.",
+      "summary": "Forbids empty, deceitful, or profane use of God's name — in its original setting, chiefly false oaths sworn by YHWH.",
+      "original_audience": "Israelites for whom oaths by the divine name were the backbone of contracts, testimony, and treaties.",
+      "immediate_context": "Third commandment; guards the covenant name revealed in Ex 3:14 and invoked in every legal proceeding.",
+      "historical_context": "In a world without notaries, the divine name was the enforcement mechanism of commerce: swearing falsely 'in the name' weaponized the god against the innocent party. Later Jewish practice fenced the law by never pronouncing the Name at all. Leviticus 24:16 sets stoning for blaspheming the Name.",
+      "penalty": "'The LORD will not hold him guiltless' — divine sanction; blasphemy earns death by stoning in Lev 24:16.",
+      "exceptions": "Lawful oaths in God's name are commanded, not merely permitted (Deut 6:13, 10:20).",
+      "cross_references": [
+        "Leviticus 24:10-16",
+        "Leviticus 19:12",
+        "Deuteronomy 5:11",
+        "Deuteronomy 6:13"
+      ],
+      "nt_passages": [
+        "Matthew 5:33-37 — Jesus forbids oaths entirely: 'Swear not at all'",
+        "James 5:12 — repeats the total oath ban",
+        "Matthew 26:63-64 — Jesus answers under oath before the high priest"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "Deuteronomy commands swearing by God's name; Jesus and James forbid all swearing — the USofC courtroom oath is scripturally impossible either way.",
+          "refs": [
+            "Deuteronomy 6:13",
+            "Matthew 5:34",
+            "James 5:12"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "The Sacred Speech Act. The SSC maintains the Register of Permitted Exclamations; broadcast media run a two-second Name-delay. Perjury on a Covenant oath is prosecuted as blasphemy, not mere false statement. The Matthew 5 'swear not at all' problem was resolved by CSC ruling: courtroom oaths are 'covenant affirmations,' not swearing.",
+      "agency": "Sacred Speech Commission (SSC)",
+      "constitutional_analogue": "A national blasphemy law; annuls First Amendment speech protection and the Art. VI option to affirm rather than swear.",
+      "scene_ideas": [
+        "A live-broadcast engineer's finger hovering over the Name-delay button during a senator's unraveling speech.",
+        "An SSC linguist testifying whether 'gosh' is a euphemistic misdemeanor or protected folk speech.",
+        "A Quaker-descended defendant citing Matthew 5:34 to refuse the oath — and being charged under the very statute the oath serves."
+      ],
+      "satirical_uses": [
+        "The state takes the Name in vain constantly — printing it on currency, campaign ads, and missile casings — because official use is by definition not 'vain.'"
+      ],
+      "bureaucratic_uses": [
+        "Register of Permitted Exclamations, updated quarterly",
+        "Broadcast Name-delay compliance certificates",
+        "Blasphemy incident reports (Form SSC-7) with severity codes"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-008-remember-the-sabbath",
+      "title": "Remember the Sabbath",
+      "citation": "Exodus 20:8-11",
+      "chapter": 20,
+      "verses": "8-11",
+      "categories": [
+        "Religious",
+        "Ceremonial",
+        "Economic",
+        "Festival"
+      ],
+      "law_type": "command",
+      "kjv_text": "Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates.",
+      "summary": "Mandates a weekly work stoppage for the whole household economy — children, servants, livestock, and resident foreigners included — grounded in God's rest after creation.",
+      "original_audience": "Israelite householders, who controlled whether dependents and animals rested.",
+      "immediate_context": "Fourth commandment, the hinge between duties to God and duties to neighbor; the longest commandment, with the only creation-based rationale (Deut 5:15 gives a different one — the Exodus).",
+      "historical_context": "A seven-day rest cycle detached from lunar phases is without clear ancient Near Eastern parallel and became Israel's signature institution. Numbers 15:32-36 shows enforcement: a man gathering sticks on the Sabbath is stoned. The commandment is notably humane toward labor and notably lethal toward violators.",
+      "penalty": "Death (Ex 31:14-15, Numbers 15:32-36); here, none stated.",
+      "exceptions": "Priestly temple labor proceeds (Matt 12:5); later rabbinic principle that saving life overrides the Sabbath; Jesus adds healing and need (Mark 2:23-28).",
+      "cross_references": [
+        "Exodus 31:12-17",
+        "Numbers 15:32-36",
+        "Deuteronomy 5:12-15",
+        "Exodus 16:22-30",
+        "Isaiah 58:13-14"
+      ],
+      "nt_passages": [
+        "Mark 2:27 — 'The sabbath was made for man, and not man for the sabbath'",
+        "Matthew 12:1-14 — Jesus defends Sabbath healing and gleaning",
+        "Colossians 2:16 — let no man judge you regarding sabbaths",
+        "Romans 14:5 — every day alike, let each be persuaded",
+        "Hebrews 4:9 — sabbath rest spiritualized"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con101",
+          "issue": "Is it necessary to keep the Sabbath? Capital enforcement (Ex 31:14) vs. Colossians 2:16 and Romans 14:5 releasing believers from sabbath judgment.",
+          "refs": [
+            "Exodus 31:14",
+            "Colossians 2:16",
+            "Romans 14:5"
+          ]
+        },
+        {
+          "issue": "Which day? The USofC enforces Sunday, but the commandment's seventh day is Saturday — the regime criminalizes the calendar it inherited.",
+          "refs": [
+            "Exodus 20:10",
+            "Acts 20:7"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Science and History"
+      ],
+      "usofc_implementation": "The National Sabbath Act: total commercial shutdown Saturday sundown to Sunday sundown ('the Bridged Sabbath,' a denominational compromise that satisfied no one). The BSO issues Sabbath Exemption Licenses by criticality tier — hospitals Tier 1, power grid Tier 2, professional football Tier 3 after the largest lobbying campaign in USofC history. Household compliance is presumed but neighbor-reportable.",
+      "agency": "Bureau of Sabbath Observance (BSO)",
+      "constitutional_analogue": "Blue laws taken to their limit; McGowan v. Maryland (1961) upheld Sunday closing on secular grounds — the USofC deleted the secular fig leaf.",
+      "scene_ideas": [
+        "An ER admitting clerk deciding at 11:58 p.m. whether an injury is 'life-threatening' or 'Monday-treatable.'",
+        "A BSO inspector timing a farmer's cows to determine whether the milking robot constitutes the cattle working.",
+        "The annual Exemption License auction — officially an 'ordered stewardship allocation' — where criticality tiers are openly bought."
+      ],
+      "satirical_uses": [
+        "The football exemption: the regime found stoning a stick-gatherer scriptural but Sunday kickoff non-negotiable.",
+        "Enforcement agents work every Sabbath, covered by a standing auto-renewed exemption no one has re-read in years."
+      ],
+      "bureaucratic_uses": [
+        "Sabbath Exemption License with criticality tiers and renewal fees",
+        "Neighbor Observance Reports (anonymous, triplicate)",
+        "The Bridged Sabbath interdenominational treaty text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-012-honor-father-and-mother",
+      "title": "Honor Father and Mother",
+      "citation": "Exodus 20:12",
+      "chapter": 20,
+      "verses": "12",
+      "categories": [
+        "Family",
+        "Moral"
+      ],
+      "law_type": "command",
+      "kjv_text": "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
+      "summary": "Positive duty of honor toward both parents, with a stated reward: long tenure in the land. The only commandment with an attached promise.",
+      "original_audience": "Primarily adult Israelites responsible for aging parents' maintenance, not small children being told to obey.",
+      "immediate_context": "Fifth commandment, opening the second tablet's social duties; enforced elsewhere by capital statutes against striking or cursing parents (Ex 21:15,17).",
+      "historical_context": "In a society without pensions, 'honor' meant material support of the old. Wisdom literature and ANE instruction texts (e.g., Egyptian Instruction of Any) carry the same duty. Jesus attacks the corban loophole by which dedicated funds escaped the obligation (Mark 7:9-13).",
+      "penalty": "None here (reward stated instead); striking or cursing a parent is death (Ex 21:15,17); the incorrigible son is stoned (Deut 21:18-21).",
+      "exceptions": "Jesus repeatedly relativizes family duty toward himself (Matt 10:35-37, Luke 14:26).",
+      "cross_references": [
+        "Exodus 21:15",
+        "Exodus 21:17",
+        "Leviticus 19:3",
+        "Deuteronomy 21:18-21",
+        "Proverbs 30:17"
+      ],
+      "nt_passages": [
+        "Ephesians 6:1-3 — Paul quotes it as 'the first commandment with promise'",
+        "Mark 7:9-13 — Jesus condemns the corban loophole",
+        "Matthew 10:35-37 — 'he that loveth father or mother more than me is not worthy of me'",
+        "Luke 14:26 — 'if any man... hate not his father, and mother... he cannot be my disciple'"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con107",
+          "issue": "How should parents be treated? Honor them (here) vs. Jesus requiring disciples to 'hate' father and mother.",
+          "refs": [
+            "Luke 14:26",
+            "Matthew 10:35-37"
+          ]
+        },
+        {
+          "sab_id": "con108",
+          "issue": "Is it OK to call your father 'father'? Matthew 23:9 says call no man father — awkward for the commandment's wording.",
+          "refs": [
+            "Matthew 23:9"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Good Stuff"
+      ],
+      "usofc_implementation": "The Filial Piety Act: adult children file annual Parental Maintenance Statements; support is payroll-deducted like a second social security aimed backward. Public dishonor of a parent (defined by regulation, 40 pages) is a civil infraction ladder that tops out, theoretically, at the Incorrigibility Statute — never yet invoked, always available.",
+      "agency": "Department of Family Order (DFO)",
+      "constitutional_analogue": "Filial responsibility laws exist in ~30 US states, rarely enforced; the USofC enforces them universally and criminally.",
+      "scene_ideas": [
+        "An estranged daughter's maintenance garnishment funding the abusive father she fled.",
+        "A DFO mediator processing a corban-style trust — funds 'dedicated to the Church' to starve out a parent — with Mark 7 read aloud by opposing counsel.",
+        "The first prosecutor to actually file under the Incorrigibility Statute becoming a national crisis."
+      ],
+      "satirical_uses": [
+        "The promise clause is administered literally: verified honorers receive an actuarial bonus called Longevity Credit, paid, with no irony, from the estates of the dishonoring."
+      ],
+      "bureaucratic_uses": [
+        "Annual Parental Maintenance Statement (Form F-5)",
+        "Dishonor infraction schedule with point system",
+        "Longevity Credit actuarial tables"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-013-thou-shalt-not-kill",
+      "title": "Thou Shalt Not Kill",
+      "citation": "Exodus 20:13",
+      "chapter": 20,
+      "verses": "13",
+      "categories": [
+        "Moral",
+        "Civil",
+        "Judicial"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt not kill.",
+      "summary": "Prohibits unlawful killing. The Hebrew verb (ratsach) targets murder and manslaughter of persons within the community, not all killing — war, execution, and animal slaughter proceed under other statutes.",
+      "original_audience": "Israelite covenant community; the ban protects members from each other, not enemies from Israel.",
+      "immediate_context": "Sixth commandment; the Covenant Code immediately elaborates it into degrees — murder, manslaughter, refuge (Ex 21:12-14).",
+      "historical_context": "Homicide law is universal in ANE codes; Israel's distinctives are refusal of monetary ransom for murder (Num 35:31, contrast Hammurabi's composition payments) and the blood-pollution theology: unavenged blood defiles the land itself (Num 35:33).",
+      "penalty": "Death for murder (Ex 21:12); exile to refuge for manslaughter (Num 35).",
+      "exceptions": "Capital punishment commanded (Ex 21:12ff), war commanded (Deut 20), and divinely ordered killings throughout the conquest narratives.",
+      "cross_references": [
+        "Genesis 9:6",
+        "Exodus 21:12-14",
+        "Numbers 35:16-34",
+        "Deuteronomy 19:1-13"
+      ],
+      "nt_passages": [
+        "Matthew 5:21-22 — Jesus extends the ban to anger and contempt",
+        "Matthew 26:52 — 'they that take the sword shall perish with the sword'",
+        "Romans 13:4 — the ruler 'beareth not the sword in vain', the state's favorite verse",
+        "1 John 3:15 — hatred as murder"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con109",
+          "issue": "To kill or not to kill: the commandment vs. God repeatedly commanding killings (1 Sam 15:3, Deut 7:2) — the SAB's central exhibit.",
+          "refs": [
+            "1 Samuel 15:3",
+            "Deuteronomy 7:2",
+            "Exodus 32:27"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "Title IV's cornerstone. The USofC preserves the ratsach reading loudly: murder is capital, but state executions, sanctioned war, and 'covenant defense' are definitionally not killing. Per Numbers 35:31, plea-bargaining a murder charge to a fine is scripturally barred — the one place the regime's courts are genuinely, terrifyingly incorruptible.",
+      "agency": "Covenant Courts",
+      "constitutional_analogue": "Ordinary homicide law, minus Eighth Amendment proportionality and with mandatory capital sentencing.",
+      "scene_ideas": [
+        "A defense attorney's entire practice: relitigating the Hebrew verb, one preposition at a time.",
+        "An execution chamber with Matthew 5:21 stenciled over the door by a chaplain who has stopped sleeping.",
+        "A prosecutor who cannot offer the plea deal both families are begging for, because Numbers 35:31 forbids ransom."
+      ],
+      "satirical_uses": [
+        "The commandment appears on the Department of War's letterhead, untranslated, in Hebrew — so no one can be sure it applies."
+      ],
+      "bureaucratic_uses": [
+        "Homicide classification worksheet: murder / manslaughter / covenant defense / sanctioned act",
+        "Blood-pollution land audits after unsolved killings (Deut 21:1-9 heifer procedure, still on the books)"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-014-no-adultery",
+      "title": "No Adultery",
+      "citation": "Exodus 20:14",
+      "chapter": 20,
+      "verses": "14",
+      "categories": [
+        "Sexual",
+        "Family",
+        "Moral"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt not commit adultery.",
+      "summary": "Prohibits adultery — in its original legal sense, intercourse with another man's wife or betrothed; a property-and-paternity offense against the husband.",
+      "original_audience": "Israelite men and married/betrothed women; a married man's relations with an unattached woman fell under different, lesser rules.",
+      "immediate_context": "Seventh commandment; Lev 20:10 and Deut 22:22 supply the death penalty for both parties.",
+      "historical_context": "ANE codes (Hammurabi 129, Middle Assyrian 13-16) treat adultery similarly but let the husband pardon; biblical law makes it an offense against God that the husband cannot waive. The asymmetry — defined around the woman's status, not the man's — is the law's structural misogyny.",
+      "penalty": "Death for both parties (Leviticus 20:10, Deuteronomy 22:22).",
+      "exceptions": "Polygamy and concubinage are lawful for men throughout the Old Testament; the double standard is the exception built in.",
+      "cross_references": [
+        "Leviticus 20:10",
+        "Deuteronomy 22:22-29",
+        "Numbers 5:11-31 (jealousy ordeal)",
+        "Proverbs 6:32"
+      ],
+      "nt_passages": [
+        "Matthew 5:27-28 — Jesus extends adultery to the lustful look",
+        "John 8:3-11 — Jesus declines to stone the adulteress: 'he that is without sin'",
+        "Matthew 19:9 — remarriage after divorce as adultery",
+        "Hebrews 13:4 — 'whoremongers and adulterers God will judge'"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con110",
+          "issue": "Is it wrong to commit adultery? The command vs. narratives where God gives David his master's wives (2 Sam 12:8) and patriarchal polygamy passes without censure.",
+          "refs": [
+            "2 Samuel 12:8",
+            "Exodus 21:10"
+          ]
+        },
+        {
+          "issue": "John 8 (the regime's least favorite pericope) shows Jesus nullifying the prescribed stoning — CSC classifies the passage as 'textually disputed,' which is, inconveniently, true.",
+          "refs": [
+            "John 8:3-11",
+            "Leviticus 20:10"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "Adultery is a Covenant felony prosecuted by the FPA; the two-witness rule makes conviction nearly impossible, so the real instrument is the Numbers 5 jealousy ordeal, revived as a 'voluntary marital integrity screening' whose refusal is admissible. Capital in statute, commuted in practice to Marriage Dissolution with Prejudice — except in election years.",
+      "agency": "Family Purity Administration (FPA)",
+      "constitutional_analogue": "Adultery was criminal in many states into the 20th century; Lawrence v. Texas (2003) ended morals policing of private consensual conduct — repealed here.",
+      "scene_ideas": [
+        "A jealousy-ordeal administration: holy water, floor dust from the Covenant Court, a wife who knows the chemistry is fake and the social verdict is not.",
+        "Two co-workers who witnessed an affair deciding whether to become the two witnesses — and learning what corroboration pays.",
+        "An FPA prosecutor quietly shelving a case against a Council member's son while the John 8 mural across the street undergoes 'restoration.'"
+      ],
+      "satirical_uses": [
+        "Matthew 5:28 makes every citizen guilty; the FPA's founding memo concedes this and recommends 'enforcement at scale is neither possible nor desirable — selectivity is the program.'"
+      ],
+      "bureaucratic_uses": [
+        "Marital Integrity Screening consent forms",
+        "Witness corroboration bounty schedule",
+        "Dissolution with Prejudice registry (public, searchable)"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-015-no-stealing",
+      "title": "No Stealing",
+      "citation": "Exodus 20:15",
+      "chapter": 20,
+      "verses": "15",
+      "categories": [
+        "Property",
+        "Moral",
+        "Civil"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt not steal.",
+      "summary": "Prohibits theft of property (and, on one ancient reading, theft of persons — kidnapping, cf. Ex 21:16).",
+      "original_audience": "Israelite community of smallholders whose animals and tools were survival capital.",
+      "immediate_context": "Eighth commandment; the Covenant Code's restitution schedule (Ex 22:1-4) supplies the remedies.",
+      "historical_context": "Where Hammurabi punishes some theft with death (CH 6-10), biblical law is strikingly non-capital about property: thieves pay multiples (double to fivefold restitution), and only manstealing is capital. Property crime never outranks persons — a fact the USofC finds continually inconvenient.",
+      "penalty": "Restitution: double for possession, four sheep or five oxen for slaughtered/sold animals (Ex 22:1,4); sold into servitude if unable to pay (Ex 22:3).",
+      "exceptions": "Eating from a neighbor's standing field or vineyard on the spot is lawful (Deut 23:24-25); gleaning rights (Lev 19:9-10) make some 'taking' a right of the poor.",
+      "cross_references": [
+        "Exodus 22:1-4",
+        "Leviticus 19:11",
+        "Deuteronomy 23:24-25",
+        "Leviticus 19:9-10",
+        "Proverbs 6:30-31"
+      ],
+      "nt_passages": [
+        "Ephesians 4:28 — 'let him that stole steal no more: but rather let him labour'",
+        "Luke 19:8 — Zacchaeus's fourfold restitution as the Exodus schedule internalized",
+        "Acts 4:32-35 — the Jerusalem church holding all things common"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con91",
+          "issue": "Is it wrong to steal? The command vs. the Israelites 'borrowing' and despoiling the Egyptians at God's instruction (Ex 3:22, 12:35-36).",
+          "refs": [
+            "Exodus 3:22",
+            "Exodus 12:35-36"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "Theft is handled by the Restitution Administration on the biblical multiplier schedule — no prison for property crime, a genuinely popular reform. Judgment debtors who cannot pay enter covenant labor (see exo-021-002). Gleaning and field-eating rights are codified but hedged: exercising them requires a Gleaner's Card, and the queue for the card is the point.",
+      "agency": "Restitution Administration (RA)",
+      "constitutional_analogue": "Replaces incarceration-based larceny law with restitution and debt servitude; collides with the Thirteenth Amendment's exception clause, which the USofC quotes with enthusiasm.",
+      "scene_ideas": [
+        "An RA hearing computing whether a stolen 3D printer is an 'ox' (fivefold, productive capital) or a 'sheep' (fourfold) — the multiplier bar exam question.",
+        "A supermarket's legal team arguing shelf-grazing customers are exercising Deut 23:24 field-eating rights.",
+        "A Gleaner's Card office that opens for two hours on alternating Tuesdays."
+      ],
+      "satirical_uses": [
+        "The despoiling-of-Egypt precedent is taught in USofC law schools as 'the eminent domain of the righteous.'"
+      ],
+      "bureaucratic_uses": [
+        "Restitution multiplier schedule (Form RA-1)",
+        "Gleaner's Card with income verification",
+        "Covenant labor bond origination paperwork"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-016-no-false-witness",
+      "title": "No False Witness",
+      "citation": "Exodus 20:16",
+      "chapter": 20,
+      "verses": "16",
+      "categories": [
+        "Judicial",
+        "Moral"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt not bear false witness against thy neighbour.",
+      "summary": "Prohibits perjured testimony against a member of the community; the integrity clause of a legal system that runs entirely on witnesses.",
+      "original_audience": "Israelites, whose courts had no forensics — two or three witnesses were the whole evidentiary apparatus (Deut 19:15).",
+      "immediate_context": "Ninth commandment; Deut 19:16-21 adds the enforcement: a proven false witness suffers whatever penalty he sought for the accused.",
+      "historical_context": "Hammurabi opens his code (CH 1-4) the same way: false capital accusation is itself capital. When testimony is the only evidence, perjury is the system's single point of failure — both codes know it.",
+      "penalty": "Talionic: 'then shall ye do unto him, as he had thought to have done unto his brother' (Deut 19:19) — up to death for false capital testimony.",
+      "exceptions": "None. (Narratively, God sends a lying spirit in 1 Kings 22:22 — the awkward footnote.)",
+      "cross_references": [
+        "Deuteronomy 19:15-21",
+        "Deuteronomy 17:6",
+        "Numbers 35:30",
+        "Proverbs 19:5",
+        "1 Kings 21 (Naboth, the false-witness show trial)"
+      ],
+      "nt_passages": [
+        "Matthew 26:59-61 — false witnesses sought against Jesus",
+        "Acts 6:11-13 — false witnesses against Stephen",
+        "Matthew 18:16 — Jesus imports the two-witness rule into church discipline"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "Does God countenance deception? The absolute ban vs. God sending a lying spirit (1 Kings 22:22) and rewarding the Hebrew midwives' lie (Ex 1:19-20).",
+          "refs": [
+            "1 Kings 22:22",
+            "Exodus 1:19-20"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "The load-bearing wall of USofC justice. Because Deut 19:15 requires two witnesses for any conviction, a professional Certified Witness industry emerged — licensed, bonded, and traded. Proven perjury triggers the mirror penalty in full, including capital. The Naboth scenario (a rigged two-witness frame) is the regime's signature abuse and its official nightmare.",
+      "agency": "Covenant Courts",
+      "constitutional_analogue": "Perjury statutes plus the Confrontation Clause — but with a two-witness sufficiency rule the US Constitution reserves for treason alone (Art. III §3).",
+      "scene_ideas": [
+        "A Certified Witness who has 'independently observed' forty crimes this fiscal year, testifying with the serenity of a notary.",
+        "The mirror-penalty execution of a false witness, attended by the man he almost hanged.",
+        "Two strangers who actually did see the crime, discovering the defense will impeach them for lacking witness licenses."
+      ],
+      "satirical_uses": [
+        "The witness exchange has a ticker: corroboration futures rise every election season."
+      ],
+      "bureaucratic_uses": [
+        "Certified Witness licensing and bonding",
+        "Corroboration escrow accounts",
+        "Mirror-penalty sentencing worksheets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-017-no-coveting",
+      "title": "No Coveting",
+      "citation": "Exodus 20:17",
+      "chapter": 20,
+      "verses": "17",
+      "categories": [
+        "Moral",
+        "Property",
+        "Family"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.",
+      "summary": "Prohibits desiring what belongs to a neighbor — house, wife, servants, livestock. The Decalogue's only regulation of a mental state; also its plainest inventory of persons as property.",
+      "original_audience": "Israelite householders; the 'neighbour' is a fellow covenant member, and the wife is listed among his assets.",
+      "immediate_context": "Tenth commandment, closing the Decalogue by moving from act to appetite — the root of theft, adultery, and murder in one verse.",
+      "historical_context": "Unique among ANE laws in criminalizing desire itself; no court could try it, which is precisely the point — it hands enforcement to conscience (or, in a theocracy, to whoever claims to audit conscience). The wife's placement between house and servants is Exhibit A for the property-status of women; Deuteronomy 5:21 pointedly re-orders to put her first and separate.",
+      "penalty": "None stated; unenforceable by human courts by design.",
+      "exceptions": "None.",
+      "cross_references": [
+        "Deuteronomy 5:21",
+        "Micah 2:1-2",
+        "1 Kings 21 (Ahab covets Naboth's vineyard)",
+        "Joshua 7:21 (Achan: 'I coveted them, and took them')"
+      ],
+      "nt_passages": [
+        "Romans 7:7 — Paul says this commandment taught him what sin is",
+        "Luke 12:15 — 'beware of covetousness'",
+        "Colossians 3:5 — covetousness 'is idolatry'",
+        "James 1:14-15 — desire conceiving sin conceiving death"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con111",
+          "issue": "Is it OK to covet? The ban vs. Paul's 'covet earnestly the best gifts' (1 Cor 12:31) — same Greek verb in the Septuagint's register.",
+          "refs": [
+            "1 Corinthians 12:31"
+          ]
+        },
+        {
+          "sab_id": "con42",
+          "issue": "Does God approve of slavery? The verse lists servants as covetable property, presupposing the institution.",
+          "refs": [
+            "Exodus 21:2-6",
+            "Leviticus 25:44-46"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Injustice",
+        "Misogyny"
+      ],
+      "usofc_implementation": "Unprosecutable, therefore perfect: the Covetousness Statute is the regime's universal pretext. Compliance runs through the NDS's Weekly Confession Assemblies, where citizens self-report desires; the confessions are logged. Advertising is regulated as 'incitement to covet,' giving the state a licensing chokehold on all marketing — the quietest, most total power in the Code.",
+      "agency": "National Devotion Service (NDS)",
+      "constitutional_analogue": "A pure thought-crime statute; the First Amendment and the entire liberal distinction between act and belief are its casualties. Its advertising arm inverts commercial speech doctrine.",
+      "scene_ideas": [
+        "A confession assembly where a man admits coveting his neighbor's Sabbath Exemption License — and the log entry follows him for a decade.",
+        "An ad agency's Compliance Poet, whose job is selling a truck without inducing desire for the truck.",
+        "A detective who closes cases by pulling covetousness logs: everyone has confessed to wanting something someone else lost."
+      ],
+      "satirical_uses": [
+        "The state's own propaganda organ runs recruitment ads promising 'the life your neighbor has' — cleared by a ruling that inciting covetousness toward the state is devotion."
+      ],
+      "bureaucratic_uses": [
+        "Weekly Confession Assembly logs (retained 99 years)",
+        "Advertising incitement-to-covet review board",
+        "Desire-adjacent speech guidance memos"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-023-no-gods-of-silver-gold",
+      "title": "No Gods of Silver or Gold",
+      "citation": "Exodus 20:23",
+      "chapter": 20,
+      "verses": "23",
+      "categories": [
+        "Religious",
+        "Ceremonial"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.",
+      "summary": "Restates the image ban with specificity: no manufacturing deities from precious metals, even as companions ('with me') to YHWH's worship.",
+      "original_audience": "Israel via Moses, immediately after the Decalogue's public delivery; the golden calf (Ex 32) will violate it exactly.",
+      "immediate_context": "Opens the 'Book of the Covenant' (Ex 20:22-23:33), the oldest law collection in the Bible; bridges the Decalogue to the altar law.",
+      "historical_context": "Precious-metal cult statues were temple treasury and god at once; melting the calf and making Israel drink it (Ex 32:20) follows an attested ANE pattern for annihilating a god. The 'with me' clause targets syncretism — adding gods alongside, not just replacing.",
+      "penalty": "None stated; the calf episode answers with plague and sword (Ex 32:27-28,35).",
+      "exceptions": "The tabernacle is nonetheless furnished with gold cherubim and gold everything (Ex 25) — sanctioned images in the sanctuary the law protects.",
+      "cross_references": [
+        "Exodus 32",
+        "Exodus 20:4",
+        "Deuteronomy 29:17",
+        "Isaiah 31:7",
+        "Hosea 8:4"
+      ],
+      "nt_passages": [
+        "Acts 17:29 — the Godhead is not like gold or silver",
+        "1 Peter 1:18 — redeemed not with silver and gold",
+        "Revelation 9:20 — idols of gold as end-times furniture"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con105",
+          "issue": "Who gave the law to Moses? God directly (here), vs. angels (Gal 3:19, Acts 7:53, Heb 2:2).",
+          "refs": [
+            "Galatians 3:19",
+            "Acts 7:53",
+            "Hebrews 2:2"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "Implemented as the Precious Metals Devotional Use Act: bullion ownership above a threshold requires an OIP affidavit that the metal is 'inert' (non-devotional). Gold religious statuary is contraband; gold on state regalia is 'ornament, not god.' The statute's real function is asset surveillance wearing a mitre.",
+      "agency": "Office of Idolatry Prevention (OIP)",
+      "constitutional_analogue": "Free exercise casualty like the image ban; its asset-registry mechanics echo Executive Order 6102's gold confiscation, re-theologized.",
+      "scene_ideas": [
+        "An OIP audit of a jeweler's back room: which crucifixes are 'ornament' and which are 'god' turns on the invoice wording.",
+        "A survivalist's gold coins seized as 'potential deities in specie.'"
+      ],
+      "satirical_uses": [
+        "The Federal Reserve of Christ keeps the national gold in a vault nicknamed, by everyone, the Calf."
+      ],
+      "bureaucratic_uses": [
+        "Inert Metal Affidavits",
+        "Devotional-risk assay certificates"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-024-earthen-altar",
+      "title": "Altar of Earth; Sacrifice Where the Name Is Recorded",
+      "citation": "Exodus 20:24",
+      "chapter": 20,
+      "verses": "24",
+      "categories": [
+        "Ceremonial",
+        "Religious"
+      ],
+      "law_type": "ritual",
+      "kjv_text": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.",
+      "summary": "Prescribes simple earthen altars for burnt and peace offerings, valid at every place God 'records his name' — a decentralized, multi-site sacrificial system.",
+      "original_audience": "Israelite worshippers pre-temple, sacrificing wherever the divine name was memorialized.",
+      "immediate_context": "First cultic statute of the Covenant Code, immediately following the Decalogue.",
+      "historical_context": "This 'altar law' authorizes many altars; Deuteronomy 12 later demands one central sanctuary and the destruction of all other sites — the classic evidence (since Wellhausen) that Israel's law codes come from different eras with different cult politics. Earth and unhewn stone reject Canaanite high-place masonry and, perhaps, ostentation itself.",
+      "penalty": "None stated.",
+      "exceptions": "Superseded (or contradicted) by Deuteronomy 12's central-sanctuary requirement.",
+      "cross_references": [
+        "Deuteronomy 12:5-14",
+        "Joshua 8:30-31",
+        "1 Kings 18:30-32",
+        "Exodus 20:25-26"
+      ],
+      "nt_passages": [
+        "John 4:20-24 — worship neither on this mountain nor in Jerusalem, but in spirit and truth",
+        "Hebrews 13:10 — 'we have an altar' spiritualizing the institution",
+        "Matthew 5:23-24 — leave thy gift before the altar; be reconciled first"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con20",
+          "issue": "Does God desire animal sacrifices? Commanded here vs. 'I desired mercy, and not sacrifice' (Hos 6:6) and Jeremiah 7:22 denying the command was ever given.",
+          "refs": [
+            "Hosea 6:6",
+            "Jeremiah 7:22",
+            "Psalm 51:16"
+          ]
+        },
+        {
+          "sab_id": "con96",
+          "issue": "Did God command burnt offerings? Jeremiah 7:22 says no; this verse says yes.",
+          "refs": [
+            "Jeremiah 7:22"
+          ]
+        },
+        {
+          "issue": "Many altars (here) vs. one central sanctuary only (Deut 12) — two incompatible cult constitutions in one canon.",
+          "refs": [
+            "Deuteronomy 12:13-14"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Cruelty and Violence"
+      ],
+      "usofc_implementation": "The USofC does not practice animal sacrifice (CSC ruling: 'fulfilled in Christ,' citing Hebrews) — but the altar law survives as the Licensed Assembly Site regime: worship is lawful only at locations where the Name is 'recorded,' i.e., registered with the DOW. An unregistered prayer meeting is an unlicensed altar.",
+      "agency": "Department of Worship (DOW)",
+      "constitutional_analogue": "Assembly and worship licensing — the inverse of the First Amendment's assembly clause.",
+      "scene_ideas": [
+        "A house church debating whether saying grace at dinner with guests constitutes an 'assembly' requiring site registration.",
+        "The DOW's Name Registry office, where a clerical error can deconsecrate a cathedral overnight."
+      ],
+      "satirical_uses": [
+        "The one sacrifice the state retained is the licensing fee."
+      ],
+      "bureaucratic_uses": [
+        "Licensed Assembly Site certificates",
+        "Name Registry with annual renewal",
+        "Deconsecration notices"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-025-no-hewn-stone-altar",
+      "title": "No Hewn Stone Altars",
+      "citation": "Exodus 20:25",
+      "chapter": 20,
+      "verses": "25",
+      "categories": [
+        "Ceremonial"
+      ],
+      "law_type": "ritual",
+      "kjv_text": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.",
+      "summary": "Stone altars must be of uncut fieldstone; applying a tool pollutes the altar.",
+      "original_audience": "Israelite altar-builders.",
+      "immediate_context": "Continues the altar law of v.24; Joshua obeys it exactly at Mount Ebal (Josh 8:31).",
+      "historical_context": "Possibly anti-Canaanite (dressed-stone high places), possibly an iron-taboo (cf. Deut 27:5 'lift up no iron tool'), possibly a theology of the unmanufactured: God's altar must not be human artifice. Solomon's temple, built of elaborately hewn stone, keeps the letter by pre-cutting off-site (1 Kings 6:7) — the Bible's first regulatory workaround.",
+      "penalty": "The altar is 'polluted' — ritually void.",
+      "exceptions": "The 1 Kings 6:7 off-site-fabrication workaround.",
+      "cross_references": [
+        "Deuteronomy 27:5-6",
+        "Joshua 8:31",
+        "1 Kings 6:7"
+      ],
+      "nt_passages": [
+        "Mark 14:58 — 'temple made without hands' as the category's afterlife",
+        "Acts 7:48 — the Most High dwelleth not in temples made with hands"
+      ],
+      "internal_contradictions": [],
+      "sab_categories": [],
+      "usofc_implementation": "Enforced literally for the ceremonial Gate Rooms of Covenant courthouses: their altar-tables must be uncut fieldstone, certified tool-free. A niche industry of 'providentially shaped stone' brokers sells suspiciously convenient boulders with notarized no-tool provenance.",
+      "agency": "Department of Worship (DOW)",
+      "constitutional_analogue": "None; closest analogue is historic-preservation materials law, weaponized.",
+      "scene_ideas": [
+        "A forensic masonry hearing: microscopy slides projected in court to prove a chisel touched the courthouse altar in 1987, voiding every oath sworn on it since.",
+        "The 'convenient boulder' broker showing a client the quarry he definitely doesn't own."
+      ],
+      "satirical_uses": [
+        "Off-site fabrication (1 Kings 6:7) is precedent: the whole regime runs on cutting the stone where God isn't looking."
+      ],
+      "bureaucratic_uses": [
+        "Tool-free provenance certification",
+        "Altar integrity audit schedule"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "id": "exo-020-026-no-altar-steps",
+      "title": "No Steps Up to the Altar",
+      "citation": "Exodus 20:26",
+      "chapter": 20,
+      "verses": "26",
+      "categories": [
+        "Ceremonial",
+        "Purity"
+      ],
+      "law_type": "ritual",
+      "kjv_text": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.",
+      "summary": "Altars may not be approached by steps, lest the officiant's genitals be exposed beneath his robe while climbing.",
+      "original_audience": "Altar officiants (pre-Aaronic; later priests get mandatory linen breeches instead, Ex 28:42).",
+      "immediate_context": "Closes the altar law and the chapter; modesty before God extends to architecture.",
+      "historical_context": "Ritual nudity was a feature of some ANE cults; Israel legislates against even accidental exposure. The priestly solution evolves: Ex 28:42 mandates underwear, after which Ezekiel's temple vision happily includes altar steps (Ezek 43:17) — a visible dialogue between statute and workaround.",
+      "penalty": "None stated; for priests, wrongful exposure at the altar risks death (Ex 28:43).",
+      "exceptions": "Effectively repealed by the breeches mandate (Ex 28:42-43); Ezekiel 43:17 shows a stepped altar.",
+      "cross_references": [
+        "Exodus 28:42-43",
+        "Ezekiel 43:17",
+        "Leviticus 6:10"
+      ],
+      "nt_passages": [
+        "No direct NT engagement; general modesty texts (1 Timothy 2:9) are the nearest register."
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "No steps (here) vs. Ezekiel's altar with steps (Ezek 43:17) — resolved historically by the breeches mandate, i.e., by underwear.",
+          "refs": [
+            "Ezekiel 43:17",
+            "Exodus 28:42"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Absurdity",
+        "Sex"
+      ],
+      "usofc_implementation": "The Sanctuary Architecture Code: all licensed worship platforms must use ramps (grade ≤ 1:12), making the USofC accidentally the world leader in accessible church design — cited constantly, and falsely, as proof the Code is humane. Vestment regulations mandate certified undergarments for all officiants regardless.",
+      "agency": "Department of Worship (DOW)",
+      "constitutional_analogue": "Building-code law; its ramp mandate coincidentally reinvents the ADA for altars only.",
+      "scene_ideas": [
+        "A DOW architectural examiner failing a megachurch stage for a 1:11.6 ramp, deadpan, with a laser level.",
+        "The Certified Undergarment inspection — the single most despised compliance ritual in the clergy."
+      ],
+      "satirical_uses": [
+        "Wheelchair users note the state ramped every altar in the country and not one courthouse door."
+      ],
+      "bureaucratic_uses": [
+        "Ramp-grade certification (Form DOW-26)",
+        "Vestment undergarment compliance seals"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-002-hebrew-servant-six-years",
+      "title": "Hebrew Servant Freed in the Seventh Year",
+      "citation": "Exodus 21:2-3",
+      "verses": "2-3",
+      "categories": [
+        "Civil",
+        "Economic",
+        "Family"
+      ],
+      "law_type": "statute",
+      "kjv_text": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing. If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.",
+      "summary": "Debt servitude of a Hebrew man is capped at six years; in the seventh he goes free without payment, with the wife he brought in.",
+      "original_audience": "Israelite creditors and debtors; servitude was the bankruptcy system of subsistence agriculture.",
+      "immediate_context": "The Covenant Code's very first statute — the ex-slave nation legislates slavery before anything else, which is either irony or trauma.",
+      "historical_context": "Hammurabi 117 releases the debt-slave after three years; the biblical term doubles it. Deut 15:12-15 adds mandatory severance gifts; Jer 34 shows the release being flouted and re-imposed. This applies to Hebrew men only — Lev 25:44-46 permits permanent chattel slavery of foreigners, the distinction on which every later pro-slavery sermon leaned.",
+      "penalty": "None stated for violation; Jeremiah 34:17 has God sentence release-violators to 'liberty... to the sword.'",
+      "exceptions": "The servant may elect permanent service (vv.5-6); female servants sold by fathers follow different rules (vv.7-11); foreigners are excluded from release entirely (Lev 25:44-46).",
+      "cross_references": [
+        "Deuteronomy 15:12-18",
+        "Leviticus 25:39-46",
+        "Jeremiah 34:8-22",
+        "Genesis 29 (Jacob's seven-year terms)"
+      ],
+      "nt_passages": [
+        "Luke 4:18 — Jesus announces 'deliverance to the captives' via Isaiah's jubilee language",
+        "1 Corinthians 7:21-23 — 'if thou mayest be made free, use it rather'",
+        "Philemon — Paul returns a runaway slave with a request, not an emancipation",
+        "Ephesians 6:5 — 'servants, be obedient to them that are your masters', the regime's favorite"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con42",
+          "issue": "Does God approve of slavery? Regulated here and permitted permanently for foreigners (Lev 25:44-46), vs. 'ye were strangers in Egypt' ethics and Exodus's own liberation narrative.",
+          "refs": [
+            "Leviticus 25:44-46",
+            "Exodus 22:21",
+            "Deuteronomy 23:15-16"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Family Values",
+        "Injustice"
+      ],
+      "usofc_implementation": "Title V's foundation: Covenant Labor. Judgment debtors and the insolvent enter six-year labor bonds administered by the OSO; the seventh-year release is real and audited, which the regime advertises relentlessly as proof of mercy. The Lev 25 foreigner exception is 'held in abeyance' — officially. Guest-worker visa terms run six years and eleven months.",
+      "agency": "Office of Servitude Oversight (OSO)",
+      "constitutional_analogue": "The Thirteenth Amendment's punishment-clause exception, industrialized; six-year cap as the sole improvement on the American prison-labor status quo.",
+      "scene_ideas": [
+        "A release-day ceremony, brass band and cameras, while the freed man signs a 'voluntary' re-entry bond in the parking lot.",
+        "An OSO auditor who genuinely believes in the seventh year, discovering the visa-term workaround.",
+        "A Jeremiah 34 sermon preached at a labor camp chapel, to the guards' slow realization."
+      ],
+      "satirical_uses": [
+        "The state's anti-slavery museum and its Covenant Labor intake office share a building; the museum is better funded."
+      ],
+      "bureaucratic_uses": [
+        "Labor bond origination (Form S-1) with six-year amortization",
+        "Seventh-Year Release audits",
+        "Spousal accompaniment riders"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-004-masters-wife-and-children",
+      "title": "Master Keeps the Wife He Gave, and Her Children",
+      "citation": "Exodus 21:4",
+      "verses": "4",
+      "categories": [
+        "Civil",
+        "Family",
+        "Property"
+      ],
+      "law_type": "statute",
+      "kjv_text": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master's, and he shall go out by himself.",
+      "summary": "If the master supplied the servant's wife, she and their children remain the master's property at release; the man goes free alone.",
+      "original_audience": "Israelite slaveholders; the wife in view is the master's servant, whose status transfers to her children.",
+      "immediate_context": "Qualifies the six-year release (v.2) and manufactures the dilemma that v.5-6's perpetual-service election 'solves.'",
+      "historical_context": "Standard ANE property logic — offspring follow the mother's status — but here it functions as a retention mechanism: the family is the leverage that converts a six-year term into voluntary perpetuity. The law's cold machinery is visible in a way later apologetics never quite survives.",
+      "penalty": "None; this is an allocation rule.",
+      "exceptions": "None stated.",
+      "cross_references": [
+        "Exodus 21:2-6",
+        "Leviticus 25:41 (in jubilee release, children go out with the father)",
+        "Genesis 30-31 (Laban retaining Jacob's family as leverage)"
+      ],
+      "nt_passages": [
+        "Galatians 4:22-31 — Paul allegorizes slave-born vs. free-born children",
+        "Philemon 12 — Paul sends Onesimus back 'as mine own bowels'"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con42",
+          "issue": "Does God approve of slavery? This verse makes wives and children retention collateral.",
+          "refs": [
+            "Leviticus 25:41"
+          ]
+        },
+        {
+          "issue": "Leviticus 25:41 releases the servant's children with him at jubilee; this statute keeps them — two codes, two answers.",
+          "refs": [
+            "Leviticus 25:41"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Family Values",
+        "Injustice"
+      ],
+      "usofc_implementation": "In Covenant Labor regulations: dependents 'provisioned by the bondholder' (company housing, company school) remain bond-attached when the laborer's term ends. Families literally weigh release against separation. The OSO calls the retention file a Household Continuity Plan.",
+      "agency": "Office of Servitude Oversight (OSO)",
+      "constitutional_analogue": "Anti-peonage law (42 U.S.C. §1994) exists to prohibit exactly this; the USofC repealed it citing this verse.",
+      "scene_ideas": [
+        "A release hearing where the OSO clerk slides the Household Continuity Plan across the table and waits.",
+        "Children raised in bond housing doing the math on their own status at age ten.",
+        "An underground 'Leviticus 25:41 network' that smuggles whole families out on a rival proof-text."
+      ],
+      "satirical_uses": [
+        "The regime's family-values ministry and its family-retention statute are administered from the same floor."
+      ],
+      "bureaucratic_uses": [
+        "Household Continuity Plans",
+        "Dependent status determination worksheets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-005-perpetual-service-election",
+      "title": "The Awl and the Doorpost: Perpetual Service Election",
+      "citation": "Exodus 21:5-6",
+      "verses": "5-6",
+      "categories": [
+        "Civil",
+        "Ceremonial",
+        "Economic"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free: Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.",
+      "summary": "A servant may renounce his seventh-year release by formal declaration before the judges; his ear is bored through with an awl at the doorpost and he serves permanently.",
+      "original_audience": "Israelite servants facing the v.4 family dilemma, and the judges who certify the 'choice.'",
+      "immediate_context": "The designed outlet for the pressure v.4 creates; the declaration script even names the coerced motive: 'my wife, my children.'",
+      "historical_context": "Ear-piercing marked slave status across the ANE; the doorpost setting ties the servant to the house itself. Deut 15:17 repeats the rite adding 'unto thy maidservant likewise.' The judicial oversight requirement shows the drafters knew the election could be manufactured — the two-line statute contains its own critique.",
+      "penalty": "None; a voluntary (nominally) status change, irrevocable.",
+      "exceptions": "Lev 25:39-41 seems to override any perpetuity at jubilee for Israelites — another inter-code conflict.",
+      "cross_references": [
+        "Deuteronomy 15:16-17",
+        "Leviticus 25:39-41",
+        "Psalm 40:6 ('mine ears hast thou opened')"
+      ],
+      "nt_passages": [
+        "Philippians 2:7 — Christ 'took upon him the form of a servant', the rite's favorite typology",
+        "Romans 1:1 — Paul self-describing as doulos (slave) of Christ"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "Serve 'for ever' (here) vs. jubilee release of all Israelite bondmen (Lev 25:40-41) — perpetuity that another statute forbids.",
+          "refs": [
+            "Leviticus 25:40-41"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Family Values",
+        "Injustice"
+      ],
+      "usofc_implementation": "The Perpetual Service Election survives verbatim as Title V's most photographed ceremony: declaration before a Covenant judge, gold ear-stud (the awl is ceremonial now; the piercing gun is not), lifetime bond. The state venerates electors as icons of loyal love; the election rate correlates precisely with dependent-retention filings, a statistic the OSO classifies.",
+      "agency": "Office of Servitude Oversight (OSO)",
+      "constitutional_analogue": "Voluntary-servitude contracts are void at common law and under the Thirteenth Amendment; consent obtained via family hostage-taking is the textbook example of duress.",
+      "scene_ideas": [
+        "The election ceremony from the judge's bench: she has certified 'I love my master' forty times and believed it twice.",
+        "A gold ear-stud in a pawnshop tray, and the pawnbroker who knows what removing one means.",
+        "A labor organizer whose whole pitch is reading the classified election-rate statistic aloud."
+      ],
+      "satirical_uses": [
+        "State media covers elections as love stories; the OSO's own actuaries file them under Retention."
+      ],
+      "bureaucratic_uses": [
+        "Election certification hearings",
+        "Ear-stud registry (tamper-evident serials)",
+        "Classified correlation reports"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-007-daughter-sold-as-maidservant",
+      "title": "Daughter Sold as Maidservant; Redemption Rights",
+      "citation": "Exodus 21:7-8",
+      "verses": "7-8",
+      "categories": [
+        "Family",
+        "Civil",
+        "Sexual",
+        "Economic"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do. If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.",
+      "summary": "A father may sell his daughter as a maidservant-concubine; she is not released on the six-year schedule, but if the master who took her for himself rejects her, she must be allowed redemption and cannot be resold abroad.",
+      "original_audience": "Israelite fathers in debt and the men who bought their daughters; the transaction is marriage-adjacent servitude.",
+      "immediate_context": "Follows the male-servant rules and explicitly denies women the same exit ('she shall not go out as the menservants do'); vv.9-11 add her protections.",
+      "historical_context": "Sale of daughters in famine or debt is documented across the ANE (Nuzi contracts closely parallel this text's betrothal-servitude hybrid). The law's 'protections' — redemption, no foreign resale, maintenance — are real within the institution and damning of it: they regulate the sale of children rather than imagining its absence.",
+      "penalty": "Loss of resale rights for the deceitful master; redemption must be permitted.",
+      "exceptions": "Deut 15:17 later applies the release framework 'unto thy maidservant likewise', partially superseding the no-exit rule.",
+      "cross_references": [
+        "Exodus 21:9-11",
+        "Deuteronomy 15:17",
+        "Nehemiah 5:5 (daughters in bondage as economic crisis)",
+        "Genesis 31:15 (Rachel and Leah: 'are we not counted of him strangers? for he hath sold us')"
+      ],
+      "nt_passages": [
+        "No direct engagement; 1 Corinthians 7:36-38 on fathers disposing of virgin daughters is the nearest NT register of paternal authority over daughters' bodies."
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "No release for maidservants (here) vs. Deuteronomy 15:17 extending release to maidservants — the codes disagree about whether women get out.",
+          "refs": [
+            "Deuteronomy 15:12",
+            "Deuteronomy 15:17"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Family Values",
+        "Injustice",
+        "Misogyny"
+      ],
+      "usofc_implementation": "Officially 'held in abeyance as fulfilled' — the one Covenant Code statute even the COO wouldn't codify. But its skeleton walks: the Guardianship Betrothal Contract lets fathers place minor daughters in 'household service with intent to betroth' under DFO supervision, with redemption pricing and no-transfer clauses lifted verbatim from vv.8-11. Poverty makes the 'option' load-bearing.",
+      "agency": "Department of Family Order (DFO)",
+      "constitutional_analogue": "Child marriage remains legal with loopholes in most US states; this is that regime with a theology and a fee schedule.",
+      "scene_ideas": [
+        "A redemption fundraiser: a congregation buying a fourteen-year-old out of her contract, the auctioneer's cadence indistinguishable from worship.",
+        "The DFO actuarial table that prices redemption by age, health, and 'displeasure documentation.'",
+        "A caseworker who keeps a tally of contracts she has quietly voided on 'deceit' findings — the verse's own escape hatch."
+      ],
+      "satirical_uses": [
+        "The state's anti-trafficking task force and the Guardianship Betrothal registry use the same intake form with different letterheads."
+      ],
+      "bureaucratic_uses": [
+        "Guardianship Betrothal Contracts with redemption schedules",
+        "Deceit findings (Form DFO-8) voiding resale rights"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-009-betrothal-to-son",
+      "title": "Maidservant Betrothed to the Son: Daughter's Rights",
+      "citation": "Exodus 21:9",
+      "verses": "9",
+      "categories": [
+        "Family",
+        "Civil"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.",
+      "summary": "If the purchaser assigns the maidservant to his son, her status converts: she must be treated as a daughter of the house, not a servant.",
+      "original_audience": "Purchasing households; a status-elevation rule inside the daughter-sale institution.",
+      "immediate_context": "Second branch of the vv.7-11 maidservant statute.",
+      "historical_context": "Nuzi adoption-marriage contracts show the same convertible status: girl enters as servant, marries in, acquires family rank. The rule concedes the transaction was always matrimonial at bottom.",
+      "penalty": "None stated; vv.10-11 supply the exit remedy for maintenance failures.",
+      "exceptions": "None stated.",
+      "cross_references": [
+        "Exodus 21:7-11",
+        "Genesis 24 (bride acquisition negotiations)"
+      ],
+      "nt_passages": [
+        "Galatians 4:5-7 — adoption from servant status to sonship as Paul's controlling metaphor."
+      ],
+      "internal_contradictions": [],
+      "sab_categories": [],
+      "usofc_implementation": "In Guardianship Betrothal regulations: assignment to a son triggers Daughter-Status Conversion — inheritance rank, dowry rights, seat at table. DFO inspectors verify 'manner of daughters' compliance via home visits with a 22-point checklist (own bed, family meals, no service uniform).",
+      "agency": "Department of Family Order (DFO)",
+      "constitutional_analogue": "Adoption and family-status law, entangled with the underlying sale it dignifies.",
+      "scene_ideas": [
+        "A DFO inspector's checklist visit where everyone performs 'daughter' for ninety minutes.",
+        "The girl who prefers servant status because daughters can't be redeemed out."
+      ],
+      "satirical_uses": [
+        "The 22-point 'manner of daughters' checklist includes a line item for being loved, verified by interview."
+      ],
+      "bureaucratic_uses": [
+        "Daughter-Status Conversion filings",
+        "Manner-of-Daughters compliance checklist"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-010-marital-rights-not-diminished",
+      "title": "Food, Raiment, and Marriage Duty Not Diminished",
+      "citation": "Exodus 21:10-11",
+      "verses": "10-11",
+      "categories": [
+        "Family",
+        "Civil",
+        "Sexual"
+      ],
+      "law_type": "statute",
+      "kjv_text": "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish. And if he do not these three unto her, then shall she go out free without money.",
+      "summary": "A man who takes an additional wife must not reduce the first's food, clothing, or conjugal rights; failure on any of the three frees her without payment.",
+      "original_audience": "Polygamous Israelite households; the maidservant-wife of vv.7-9 is the immediate beneficiary.",
+      "immediate_context": "Completes the maidservant statute with the Bible's only explicit exit-for-neglect clause.",
+      "historical_context": "The three-fold maintenance duty (food, clothing, conjugal rights) becomes the basis of rabbinic marriage law (Ketubot). The law presumes polygamy as lawful background — the Bible never prohibits it for laymen; monogamy becomes Christian norm via Greco-Roman practice and later church law, not via statute.",
+      "penalty": "Automatic manumission without redemption payment.",
+      "exceptions": "None stated.",
+      "cross_references": [
+        "Deuteronomy 21:15-17 (rights of the hated wife's firstborn)",
+        "1 Samuel 1 (rival-wife households)",
+        "Genesis 29-30"
+      ],
+      "nt_passages": [
+        "1 Corinthians 7:3-5 — mutual conjugal rights, Paul's egalitarian echo",
+        "1 Timothy 3:2 — 'husband of one wife' for bishops only, the camel's nose of monogamy",
+        "Matthew 19:4-6 — Jesus grounds marriage in the two becoming one flesh"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con16",
+          "issue": "Is polygamy OK? Regulated as lawful here and practiced by the patriarchs, vs. 'one flesh' creation logic (Gen 2:24, Matt 19:5) and monogamous qualifications for overseers (1 Tim 3:2).",
+          "refs": [
+            "Genesis 2:24",
+            "Matthew 19:5",
+            "1 Timothy 3:2"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Family Values",
+        "Misogyny"
+      ],
+      "usofc_implementation": "The USofC enforces monogamy (CSC ruling: 1 Tim 3:2 'generalized by sanctified inference') — but this statute survives as the Marital Maintenance Triad in divorce law: proof of diminished food, raiment, or 'duty of marriage' entitles a wife to immediate no-fault dissolution with full support. The conjugal-neglect docket is the DFO's most subpoenaed.",
+      "agency": "Department of Family Order (DFO)",
+      "constitutional_analogue": "Alimony and constructive-abandonment doctrine; Reynolds v. United States (1879) banned polygamy on grounds this verse contradicts.",
+      "scene_ideas": [
+        "A neglect hearing where the evidentiary standard for 'duty of marriage' is negotiated through excruciating euphemism.",
+        "A polygamist underground citing the regime's own Exodus proof-text back at it.",
+        "The CSC clerk who drafted 'sanctified inference' explaining it, decades later, to a granddaughter in a plural marriage."
+      ],
+      "satirical_uses": [
+        "The one biblical law that unambiguously protects women is the one the regime had to amend before enforcing."
+      ],
+      "bureaucratic_uses": [
+        "Marital Maintenance Triad worksheets",
+        "Conjugal-neglect affidavit standards"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-012-murder-capital",
+      "title": "Death for Striking a Man Fatally",
+      "citation": "Exodus 21:12",
+      "verses": "12",
+      "categories": [
+        "Judicial",
+        "Civil",
+        "Moral"
+      ],
+      "law_type": "punishment",
+      "kjv_text": "He that smiteth a man, so that he die, shall be surely put to death.",
+      "summary": "Fatal assault is a capital offense — the apodictic baseline that vv.13-14 immediately grade by intent.",
+      "original_audience": "Israelite community; enforcement ran through the avenger of blood and local elders.",
+      "immediate_context": "Opens the Covenant Code's violence section; the Decalogue's sixth commandment given teeth.",
+      "historical_context": "Capital homicide law is ANE-universal; Israel's marks are the refusal of ransom (Num 35:31) and the intent distinction that follows. 'Surely be put to death' (mot yumat) is the code's recurring capital formula — it will be attached to acts modern readers find wildly unequal.",
+      "penalty": "Death.",
+      "exceptions": "Unintentional killing diverts to refuge (v.13); the ox-goring vicarious case allows ransom (v.30).",
+      "cross_references": [
+        "Genesis 9:6",
+        "Numbers 35:16-21",
+        "Deuteronomy 19:11-13",
+        "Exodus 20:13"
+      ],
+      "nt_passages": [
+        "Matthew 5:38-39 — turn the other cheek, the antithesis to the code's whole method",
+        "Romans 13:4 — the sword-bearing magistrate",
+        "John 8:7 — 'he that is without sin among you, let him first cast a stone'"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con23",
+          "issue": "Does God approve of capital punishment? Mandated here vs. Cain's protection (Gen 4:15), 'vengeance is mine' (Rom 12:19), and John 8.",
+          "refs": [
+            "Genesis 4:15",
+            "Romans 12:19",
+            "John 8:7"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "USC-C Title IV's first section: murder carries mandatory death, no plea to lesser, no ransom (Num 35:31 construed as banning commutation-for-payment, i.e., banning the one corruption the courts would otherwise sell). Executions are public, scheduled between festivals, and attendance counts toward NDS devotion quotas.",
+      "agency": "Covenant Courts",
+      "constitutional_analogue": "Mandatory capital sentencing — struck down in Woodson v. North Carolina (1976), restored here with liturgy.",
+      "scene_ideas": [
+        "A jury that knows conviction means death and no judge can soften it, discovering nullification one juror at a time.",
+        "The festival scheduler negotiating with the execution calendar office over a date conflict."
+      ],
+      "satirical_uses": [
+        "Attendance at executions earns the same devotion credit as attendance at communion; the line is shorter at communion."
+      ],
+      "bureaucratic_uses": [
+        "Mandatory sentencing certification",
+        "Public execution attendance ledgers"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-013-refuge-for-manslaughter",
+      "title": "A Place to Flee for the Unintentional Killer",
+      "citation": "Exodus 21:13",
+      "verses": "13",
+      "categories": [
+        "Judicial",
+        "Civil"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee.",
+      "summary": "Killing without premeditation ('God delivered him into his hand') is not capital; the killer flees to an appointed place of asylum.",
+      "original_audience": "Israelites navigating blood-vengeance culture: the avenger of blood was entitled to kill the killer unless asylum intervened.",
+      "immediate_context": "First intent-distinction in biblical law, grading v.12's absolute; Numbers 35 builds it into the six Cities of Refuge.",
+      "historical_context": "Asylum at altars was pan-Mediterranean; Israel institutionalizes it into designated cities with residency terms (until the high priest's death, Num 35:25 — history's strangest parole clock). The 'God delivered him' idiom makes accident a species of providence: the manslayer is God's instrument, hence protected.",
+      "penalty": "Exile to refuge in lieu of death; leaving early forfeits protection (Num 35:26-28).",
+      "exceptions": "Premeditation voids asylum (v.14).",
+      "cross_references": [
+        "Numbers 35:9-34",
+        "Deuteronomy 19:1-10",
+        "Joshua 20",
+        "1 Kings 1:50-53 (altar asylum attempted)"
+      ],
+      "nt_passages": [
+        "Hebrews 6:18 — 'fled for refuge' as salvation metaphor, the institution spiritualized"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "'God deliver him into his hand' makes the deity the proximate cause of accidents — a determinism the courts must administer without examining.",
+          "refs": [
+            "Numbers 35:22-25"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "The six federal Cities of Refuge, restored by statute: manslaughter defendants may physically outrun prosecution to a Refuge City and remain until the sitting Chief Overseer dies. The cities have become pressure-cooker municipalities of the almost-guilty — part sanctuary, part open-air prison, wholly surveilled, economically booming.",
+      "agency": "Covenant Courts",
+      "constitutional_analogue": "Sanctuary jurisdictions plus parole, keyed to an official's lifespan — a due-process fever dream.",
+      "scene_ideas": [
+        "The Refuge City betting markets on the Chief Overseer's health, run openly out of barbershops.",
+        "An avenger of blood (a licensed status) waiting at the city limits, legally, for one man, for eleven years.",
+        "A refuge resident who was actually innocent, now unable to prove it without leaving the walls to be killed."
+      ],
+      "satirical_uses": [
+        "The Chief Overseer's annual physical is a national market event; his cardiologist requires a security detail."
+      ],
+      "bureaucratic_uses": [
+        "Refuge residency permits keyed to the Overseer's tenure",
+        "Avenger-of-blood licensing (Form AV-1)",
+        "City-limits geofencing compliance"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-014-no-sanctuary-for-premeditation",
+      "title": "Take the Murderer from the Altar",
+      "citation": "Exodus 21:14",
+      "verses": "14",
+      "categories": [
+        "Judicial"
+      ],
+      "law_type": "statute",
+      "kjv_text": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.",
+      "summary": "Premeditated murder voids all asylum — even a killer clinging to God's own altar is dragged off and executed.",
+      "original_audience": "Israelite authorities tempted to honor altar asylum absolutely.",
+      "immediate_context": "The counterpart of v.13; together they invent degrees of homicide.",
+      "historical_context": "1 Kings 2:28-34 shows the statute applied: Joab seizes the altar horns and Solomon has him killed there anyway. Sanctuary that cannot shield the guilty is asylum with a warrant exception — a sophistication most ANE codes lack.",
+      "penalty": "Death, asylum notwithstanding.",
+      "exceptions": "None.",
+      "cross_references": [
+        "1 Kings 2:28-34",
+        "Numbers 35:16-21",
+        "Deuteronomy 19:11-13"
+      ],
+      "nt_passages": [
+        "Matthew 23:35 — blood shed 'between the temple and the altar' as the ultimate sacrilege-murder image"
+      ],
+      "internal_contradictions": [],
+      "sab_categories": [],
+      "usofc_implementation": "The Altar Extraction Clause: no consecrated space, licensed sanctuary, or Refuge City shields a premeditation finding. Since 'premeditation' is found by prosecutors, the clause is the master key that unlocks every sanctuary in the country — the most litigated three words in Title IV ('with guile').",
+      "agency": "Covenant Courts",
+      "constitutional_analogue": "The end of church sanctuary tradition; functionally an anti-asylum supremacy clause.",
+      "scene_ideas": [
+        "A live-broadcast extraction from a cathedral, the bishop reading 1 Kings 2 aloud as marshals pass him.",
+        "A prosecutor shopping for a premeditation finding solely to void a Refuge City residency."
+      ],
+      "satirical_uses": [
+        "Sanctuary is absolute until the state wants someone; then the fine print is Exodus 21:14."
+      ],
+      "bureaucratic_uses": [
+        "Premeditation finding warrants",
+        "Sanctuary void orders"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-015-striking-parents-capital",
+      "title": "Death for Striking Father or Mother",
+      "citation": "Exodus 21:15",
+      "verses": "15",
+      "categories": [
+        "Family",
+        "Judicial"
+      ],
+      "law_type": "punishment",
+      "kjv_text": "And he that smiteth his father, or his mother, shall be surely put to death.",
+      "summary": "Striking either parent — not killing, striking — is a capital offense.",
+      "original_audience": "Israelite households; adult sons are the realistic defendants.",
+      "immediate_context": "Embedded in the capital list between homicide and kidnapping — parental assault ranked with murder.",
+      "historical_context": "Hammurabi 195 punishes striking a father with amputation of the hand; the biblical penalty is harsher. The fifth commandment's shadow side: honor enforced at sword-point. No biblical narrative records the penalty being carried out — a statute perhaps meant to terrify rather than run.",
+      "penalty": "Death.",
+      "exceptions": "None stated.",
+      "cross_references": [
+        "Exodus 21:17",
+        "Deuteronomy 21:18-21",
+        "Leviticus 20:9",
+        "Proverbs 30:17"
+      ],
+      "nt_passages": [
+        "Matthew 15:3-6 — Jesus cites the parallel cursing statute against the Pharisees' corban practice",
+        "Ephesians 6:1-4 — obedience commanded, but fathers told not to provoke"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con23",
+          "issue": "Does God approve of capital punishment? A non-lethal assault drawing death sits at the center of the SAB's proportionality case.",
+          "refs": [
+            "Genesis 4:15",
+            "John 8:7"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "On the books at full capital strength; in practice the DOR charges it and pleads down to Filial Violence with mandatory covenant labor — keeping the death penalty as leverage in every family-violence interrogation. Defense attorneys call the charge 'the Fifth Hammer.'",
+      "agency": "Covenant Courts",
+      "constitutional_analogue": "Eighth Amendment proportionality (Coker v. Georgia line) forbids death for non-homicide offenses; repealed here.",
+      "scene_ideas": [
+        "A son who shoved his violent father during a beating, now facing the Fifth Hammer while the father petitions the court for mercy — and is told the offense is against God, not him.",
+        "A prosecutor's whiteboard: capital charges filed vs. capital sentences sought, the gap being the whole justice system."
+      ],
+      "satirical_uses": [
+        "Elder-abuse by neglect is a misdemeanor; a returned slap is death — the statute protects hierarchy, not parents."
+      ],
+      "bureaucratic_uses": [
+        "Filial Violence plea matrices",
+        "Charge-leverage authorization memos"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-016-kidnapping-capital",
+      "title": "Death for Manstealing",
+      "citation": "Exodus 21:16",
+      "verses": "16",
+      "categories": [
+        "Judicial",
+        "Civil",
+        "Property"
+      ],
+      "law_type": "punishment",
+      "kjv_text": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
+      "summary": "Kidnapping a person for sale — or being caught holding the victim — is a capital offense.",
+      "original_audience": "Israelites; the target is slave-raiding and trafficking of community members.",
+      "immediate_context": "In the capital list; the one property crime the code treats as capital, because the 'property' is a person.",
+      "historical_context": "Hammurabi 14 also makes kidnapping capital. Deut 24:7 restricts the biblical rule to stealing 'of his brethren' — Israelites — leaving foreign slave-trading in the Lev 25:44 lane. The Joseph narrative (Gen 37) is the canon's own manstealing case study, unprosecuted.",
+      "penalty": "Death.",
+      "exceptions": "By Deut 24:7's wording, victims outside the covenant community fall outside the statute — the loophole on which transatlantic slavery's apologists later built.",
+      "cross_references": [
+        "Deuteronomy 24:7",
+        "Genesis 37:26-28",
+        "Leviticus 25:44-46",
+        "1 Timothy 1:10"
+      ],
+      "nt_passages": [
+        "1 Timothy 1:10 — 'menstealers' listed among the lawless; the verse abolitionists preached",
+        "Revelation 18:13 — Babylon's cargo includes 'slaves, and souls of men'"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con42",
+          "issue": "Does God approve of slavery? Manstealing is death, yet buying the stolen (if foreign-sourced) is lawful commerce under Lev 25:44 — the code executes the thief and licenses the fence.",
+          "refs": [
+            "Leviticus 25:44-46",
+            "Deuteronomy 24:7"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Injustice"
+      ],
+      "usofc_implementation": "Enforced vigorously and advertised as the regime's anti-trafficking crown jewel — with Deut 24:7's 'brethren' limit quietly imported: full capital protection for communicant citizens, a lesser 'unlawful conveyance' offense when victims are non-covenant aliens. The OSO's guest-labor pipeline is never, officially, in scope.",
+      "agency": "Department of Righteousness (DOR)",
+      "constitutional_analogue": "Federal kidnapping statute plus the Trafficking Victims Protection Act, tiered by religious citizenship — an equal-protection abyss.",
+      "scene_ideas": [
+        "A trafficking prosecutor discovering her airtight capital case downgrades the moment the victim's baptism record can't be produced.",
+        "A 1 Timothy 1:10 abolitionist cell that hunts OSO labor recruiters with subpoenas."
+      ],
+      "satirical_uses": [
+        "The anti-trafficking billboard and the guest-worker terminal share a highway exit."
+      ],
+      "bureaucratic_uses": [
+        "Victim covenant-status verification (the baptism-record subpoena)",
+        "Conveyance offense tiering charts"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-017-cursing-parents-capital",
+      "title": "Death for Cursing Father or Mother",
+      "citation": "Exodus 21:17",
+      "verses": "17",
+      "categories": [
+        "Family",
+        "Judicial",
+        "Religious"
+      ],
+      "law_type": "punishment",
+      "kjv_text": "And he that curseth his father, or his mother, shall surely be put to death.",
+      "summary": "Cursing — invoking harm on, or contemptuously repudiating — a parent is a capital offense. Speech alone suffices.",
+      "original_audience": "Israelite households; 'cursing' (qillel) is formal malediction or contemptuous treatment, not casual backtalk — though the text does not say so.",
+      "immediate_context": "Paired with v.15 to fence parental authority with death on both the act and the word.",
+      "historical_context": "A curse was operative speech — a weapon, not an insult — which is the statute's internal logic. Jesus cites this exact verse (Mark 7:10) against the Pharisees, treating it as valid law they evade; the regime quotes that citation constantly and Mark 7's context never.",
+      "penalty": "Death (Lev 20:9 adds 'his blood shall be upon him').",
+      "exceptions": "None stated.",
+      "cross_references": [
+        "Leviticus 20:9",
+        "Exodus 21:15",
+        "Deuteronomy 27:16",
+        "Proverbs 20:20"
+      ],
+      "nt_passages": [
+        "Mark 7:10 / Matthew 15:4 — Jesus quotes the statute approvingly against corban casuistry",
+        "Luke 14:26 — 'hate not his father... cannot be my disciple': the vocabulary collision the CSC dreads"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con23",
+          "issue": "Does God approve of capital punishment? Death for speech is the SAB's cleanest exhibit.",
+          "refs": [
+            "John 8:7"
+          ]
+        },
+        {
+          "sab_id": "con107",
+          "issue": "How should parents be treated? This statute vs. Luke 14:26's required 'hate' — the same act criminal and mandatory, depending on the page.",
+          "refs": [
+            "Luke 14:26"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "Capital in statute; enforced as the Parental Malediction offense requiring two witnesses to 'formal malediction' — a definitional gate the SSC controls. Teenagers' recorded outbursts sit in evidence lockers as leverage over families for years. One actual execution, early in the regime, is the case nobody names.",
+      "agency": "Sacred Speech Commission (SSC)",
+      "constitutional_analogue": "Pure speech crime with capital exposure; the anti-First-Amendment limit case.",
+      "scene_ideas": [
+        "A custody dispute where one parent's lawyer plays the teenager's voicemail and everyone in the room understands the threat.",
+        "The unnamed execution's arresting officer, retired, drafting and deleting a memoir.",
+        "An SSC linguist parsing whether 'I wish you were dead' is malediction (capital) or lament (counseling referral)."
+      ],
+      "satirical_uses": [
+        "The regime cites Jesus citing this verse as proof of continuity, omitting that he cited it against religious lawyers."
+      ],
+      "bureaucratic_uses": [
+        "Malediction evidentiary standards memo",
+        "Two-witness certification for speech offenses"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-018-assault-compensation",
+      "title": "Assault: Lost Time and Full Healing",
+      "citation": "Exodus 21:18-19",
+      "verses": "18-19",
+      "categories": [
+        "Civil",
+        "Judicial"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed: If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.",
+      "summary": "Non-fatal fight injuries are settled civilly: the striker pays for the victim's lost work time and full medical recovery, then is quit.",
+      "original_audience": "Israelite men whose brawls were village facts of life.",
+      "immediate_context": "Transition from capital law to the tort schedule: intent and outcome start producing money judgments instead of blood.",
+      "historical_context": "Hammurabi 206 is nearly identical (oath of no intent + physician's fees). 'Loss of time' and 'thoroughly healed' are the two heads of damages every tort system since has reinvented: lost wages and medical costs. The victim surviving to walk 'upon his staff' functions as the causation cutoff.",
+      "penalty": "Compensatory damages: lost time plus complete cure. No further liability.",
+      "exceptions": "If the victim dies, homicide law (vv.12-14) resumes control.",
+      "cross_references": [
+        "Exodus 21:12-14",
+        "Leviticus 24:19-20",
+        "Deuteronomy 25:11"
+      ],
+      "nt_passages": [
+        "Matthew 5:25-26 — 'agree with thine adversary quickly' endorses pre-trial settlement",
+        "Luke 10:34-35 — the Samaritan pays the full-healing measure voluntarily"
+      ],
+      "internal_contradictions": [],
+      "sab_categories": [],
+      "usofc_implementation": "Title IV's civil assault track, administered by the RA: statutory damages equal documented lost earnings plus 'thorough healing' — unlimited medical liability until certified recovery. Insurers invented Staff-Walk Certification (the moment the victim ambulates, liability caps) and now employ most of the country's physical therapists as adjusters.",
+      "agency": "Restitution Administration (RA)",
+      "constitutional_analogue": "Ordinary tort law; 'cause him to be thoroughly healed' is more generous than most US workers' comp schedules — a fact plaintiff-side lawyers preach like scripture.",
+      "scene_ideas": [
+        "A Staff-Walk Certification exam where the victim's limp is worth forty thousand shekels a month and everyone films everyone.",
+        "An insurance adjuster-physiotherapist torn between the oath she took and the cap she's paid to trigger."
+      ],
+      "satirical_uses": [
+        "The one Covenant statute that produced a genuinely better outcome than the old regime is the one insurers spent a decade re-breaking."
+      ],
+      "bureaucratic_uses": [
+        "Staff-Walk Certification protocols",
+        "Thorough-healing liability schedules"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-020-beating-a-servant",
+      "title": "Beating a Servant: Punished Only If Death Is Swift",
+      "citation": "Exodus 21:20-21",
+      "verses": "20-21",
+      "categories": [
+        "Civil",
+        "Judicial",
+        "Economic"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished. Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.",
+      "summary": "A master who beats a slave to immediate death is punished; if the slave lingers a day or two before dying, there is no penalty — 'for he is his money.'",
+      "original_audience": "Israelite slaveholders; the rod is the presumed instrument of lawful discipline.",
+      "immediate_context": "Sits between free-man assault (vv.18-19) and the pregnant-woman case (v.22), calibrating the value of persons by status.",
+      "historical_context": "The 'he is his money' rationale is the ancient logic stated with unbearable clarity: the master's financial loss is deemed punishment enough. Note the asymmetries the code itself creates: the slave who survives maiming goes free (vv.26-27), and killing a free man is death regardless of timing. Apologetic readings ('punished' might mean death; the delay implies unintended outcome) exist and were argued in every American slavery debate — this verse was the confederacy of proof-texts' cornerstone.",
+      "penalty": "Unspecified punishment ('avenged') for immediate death; nothing if death is delayed.",
+      "exceptions": "Maiming triggers manumission (vv.26-27) — the eye and the tooth are worth more than the life, procedurally.",
+      "cross_references": [
+        "Exodus 21:26-27",
+        "Leviticus 25:44-46",
+        "Exodus 21:12"
+      ],
+      "nt_passages": [
+        "Luke 12:47-48 — the servant beaten with many or few stripes, as a parable's furniture",
+        "Colossians 4:1 — 'give unto your servants that which is just and equal'",
+        "Ephesians 6:9 — masters, forbear threatening"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "'Surely punished' here vs. 'surely put to death' for killing a free man (v.12) — the code prices lives by status in adjacent verses.",
+          "refs": [
+            "Exodus 21:12"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Injustice"
+      ],
+      "usofc_implementation": "Never codified — the one verse every USofC catechism, court, and textbook simply omits. But its ghost governs: covenant-labor discipline deaths are investigated under a 'survivability window' doctrine no statute names, and prosecutors quietly decline cases where the laborer lingered. The verse is the regime's id: unprintable, operative.",
+      "agency": "Office of Servitude Oversight (OSO)",
+      "constitutional_analogue": "The antebellum slave codes' 'moderate correction' doctrine; State v. Mann (1829) is this verse in a North Carolina accent.",
+      "scene_ideas": [
+        "A coroner who has started recording exact time-of-death to the minute, and the supervisor who asks her why.",
+        "A seminary student finding the verse missing from the official lectionary concordance — the search returns 'no results,' which is itself the result.",
+        "A prosecutor's declination memo that never cites the verse and paraphrases it exactly."
+      ],
+      "satirical_uses": [
+        "The state that engraves the Decalogue on every courthouse has one verse it has never once printed."
+      ],
+      "bureaucratic_uses": [
+        "The unnamed survivability-window declination practice",
+        "Labor-discipline incident forms with a 'duration until expiry' field no regulation explains"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-022-injury-to-pregnant-woman",
+      "title": "Striking a Pregnant Woman: Fine for the Lost Pregnancy",
+      "citation": "Exodus 21:22",
+      "verses": "22",
+      "categories": [
+        "Civil",
+        "Family",
+        "Judicial"
+      ],
+      "law_type": "statute",
+      "kjv_text": "If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman's husband will lay upon him; and he shall pay as the judges determine.",
+      "summary": "If brawling men injure a pregnant woman and she miscarries but suffers no further harm ('no mischief'), the offender pays a fine set by the husband and ratified by judges.",
+      "original_audience": "Israelite villages; the woman is legally present as her husband's interest.",
+      "immediate_context": "Sets up vv.23-25: fine for the pregnancy, talion for 'mischief' to the woman.",
+      "historical_context": "Directly parallel to Hammurabi 209-214 and Middle Assyrian 21, 50-52: caused miscarriage is compensable property-style loss, graded by the woman's status. The interpretive war: 'her fruit depart' = miscarriage (fine only → fetus not reckoned a person at law) vs. premature live birth (Septuagint and later readings). Entire modern abortion theologies hang on this translation choice — the most consequential ambiguity in the chapter.",
+      "penalty": "Judicially ratified fine, amount proposed by the husband.",
+      "exceptions": "'Mischief' (harm to the woman) escalates to talion (vv.23-25).",
+      "cross_references": [
+        "Exodus 21:23-25",
+        "Numbers 5:11-31 (the ordeal that induces miscarriage as divine verdict)",
+        "Genesis 38:24"
+      ],
+      "nt_passages": [
+        "No direct NT engagement; Luke 1:41 (the babe leaped in her womb) is the proof-text pressed into service by fetal-personhood readings."
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "This verse fines fetal loss like property damage while Numbers 5's jealousy ordeal has a priest ritually induce miscarriage — biblical law both prices and performs the act the regime calls murder.",
+          "refs": [
+            "Numbers 5:21-28",
+            "Exodus 21:23"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "The regime's deepest doctrinal landmine. Official translation ('she deliver prematurely') supports total fetal personhood; the Fetal Life Act criminalizes all abortion as murder. But this verse's fine-not-death schedule remains in the canon the state swears is inerrant, and defense attorneys in abortion prosecutions read the KJV aloud, verse 22 then verse 23, and rest. The CSC's harmonization memo is on its ninth revision.",
+      "agency": "Family Purity Administration (FPA)",
+      "constitutional_analogue": "Post-Dobbs fetal personhood statutes; the verse is the ancient text both sides of the American abortion war actually cite.",
+      "scene_ideas": [
+        "An abortion-murder trial turning entirely on the Hebrew of 'her fruit depart' — the state's own expert witness visibly losing his faith in inerrancy on the stand.",
+        "The CSC translator who rendered the official version, keeping the older lexicon locked in a drawer.",
+        "A Numbers 5 ordeal administered in an FPA clinic while protesters outside carry signs quoting the same Bible."
+      ],
+      "satirical_uses": [
+        "The state's inerrant Bible contains the sliding fee schedule its own abortion law says cannot exist."
+      ],
+      "bureaucratic_uses": [
+        "Fetal Loss Compensation worksheets (husband-initiated)",
+        "The ninth harmonization memo, classified Covenant-Eyes-Only"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-023-lex-talionis",
+      "title": "Life for Life, Eye for Eye",
+      "citation": "Exodus 21:23-25",
+      "verses": "23-25",
+      "categories": [
+        "Judicial",
+        "Civil"
+      ],
+      "law_type": "judicial_instruction",
+      "kjv_text": "And if any mischief follow, then thou shalt give life for life, Eye for eye, tooth for tooth, hand for hand, foot for foot, Burning for burning, wound for wound, stripe for stripe.",
+      "summary": "The lex talionis: where lasting harm follows, the penalty mirrors the injury exactly — life, eye, tooth, hand, foot, burn, wound, stripe.",
+      "original_audience": "Israelite judges; a sentencing formula, not a license for private revenge.",
+      "immediate_context": "The escalation clause of the pregnant-woman case, stating the code's master principle of proportion.",
+      "historical_context": "Shared verbatim with Hammurabi 196-201 — but Hammurabi applies talion only between social equals (an eye of a commoner is a fine). Biblical talion's flat application was, in context, egalitarian: everyone's eye costs the same. Rabbinic law converted it entirely to monetary damages (Bava Kamma 83b-84a) roughly two millennia ago; literal enforcement is a modern fantasy no historical Jewish court practiced.",
+      "penalty": "Mirror injury (or its monetary equivalent, per the entire subsequent legal tradition).",
+      "exceptions": "The very next verses (26-27) convert slave-maiming to manumission, not mirror injury — talion bends immediately.",
+      "cross_references": [
+        "Leviticus 24:17-22",
+        "Deuteronomy 19:21",
+        "Exodus 21:26-27"
+      ],
+      "nt_passages": [
+        "Matthew 5:38-39 — 'ye have heard... an eye for an eye: but I say... turn to him the other cheek' — Jesus's direct repeal, the CSC's hardest problem",
+        "Romans 12:19 — vengeance deferred to God"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "Jesus explicitly countermands talion (Matt 5:38-39); the USofC enforces the verse its own Lord suspended — the contradiction is the regime's load-bearing hypocrisy.",
+          "refs": [
+            "Matthew 5:38-39",
+            "Deuteronomy 19:21"
+          ]
+        }
+      ],
+      "sab_categories": [],
+      "usofc_implementation": "CSC ruling 1-02 ('eschatological counsel') keeps Matthew 5 out of the courtroom, and Title IV sentences maiming by Equivalence Tables: certified actuarial conversion of eyes, hands, and stripes into damages and, for aggravated cases, 'mirrored incapacitation' — surgical, anesthetized, filmed, and cited by the regime as humane because the rabbis' money-damages reading is 'liberal glossing.'",
+      "agency": "Covenant Courts",
+      "constitutional_analogue": "Eighth Amendment's cruel-and-unusual bar, deliberately inverted; proportionality doctrine made literal.",
+      "scene_ideas": [
+        "An Equivalence Table hearing pricing a pianist's finger against a laborer's — the flat biblical rate against every human instinct in the room.",
+        "The anesthesiologist who staffs mirrored-incapacitation procedures and reads Matthew 5 in the parking garage first.",
+        "A defense lawyer citing the rabbis; the prosecutor objecting to 'foreign law.'"
+      ],
+      "satirical_uses": [
+        "The regime rejects two thousand years of Jewish jurisprudence for being too merciful, while calling itself Judeo-Christian."
+      ],
+      "bureaucratic_uses": [
+        "Equivalence Tables (revised annually for inflation)",
+        "Mirrored-incapacitation medical protocols"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-026-servant-freed-for-eye-or-tooth",
+      "title": "Servant Freed for a Destroyed Eye or Tooth",
+      "citation": "Exodus 21:26-27",
+      "verses": "26-27",
+      "categories": [
+        "Civil",
+        "Economic",
+        "Judicial"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye's sake. And if he smite out his manservant's tooth, or his maidservant's tooth; he shall let him go free for his tooth's sake.",
+      "summary": "A master who destroys a slave's eye or tooth must free the slave — manumission as the damages award, in place of talion.",
+      "original_audience": "Israelite slaveholders and their slaves, male and female alike.",
+      "immediate_context": "Immediately after lex talionis: the slave does not get an eye for an eye; the slave gets out. Talion is for the free.",
+      "historical_context": "Hammurabi 199 pays the *owner* when someone blinds his slave; here, uniquely in the ANE, the compensation goes to the slave, in the currency of freedom. Simultaneously humane (the ANE's only slave-protection of its kind) and stratifying (the slave's eye buys liberty, not equality). The rabbis extended it to twenty-four ruinable body parts.",
+      "penalty": "Mandatory manumission of the injured slave.",
+      "exceptions": "None stated; applies to permanent visible maiming, per later interpretation.",
+      "cross_references": [
+        "Exodus 21:20-21",
+        "Exodus 21:23-25",
+        "Deuteronomy 23:15-16 (no returning escaped slaves)"
+      ],
+      "nt_passages": [
+        "Philemon 15-16 — 'not now as a servant, but above a servant, a brother' — manumission theology in a letter"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "The slave's eye is worth manumission while the slave's life (if death lingers, v.21) is worth nothing — the code protects the visible injury and shrugs at the fatal one.",
+          "refs": [
+            "Exodus 21:20-21"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Injustice"
+      ],
+      "usofc_implementation": "Codified as the Maiming Manumission Rule in covenant-labor law: certified permanent injury by a bondholder voids the bond with full release. In practice: bondholder-friendly medical examiners, 'pre-existing condition' findings, and a thriving trade in injury documentation. The rule's existence is the OSO's proof the system 'polices itself.'",
+      "agency": "Office of Servitude Oversight (OSO)",
+      "constitutional_analogue": "Workers' compensation crossed with emancipation law; the release remedy has no modern parallel because the underlying bond shouldn't exist.",
+      "scene_ideas": [
+        "A laborer weighing whether a tooth is a fair price for freedom — and the bond-camp dentist who has seen that calculation before.",
+        "The medical examiner's two rubber stamps: WORK-RELATED and PRE-EXISTING, and what each costs."
+      ],
+      "satirical_uses": [
+        "The regime cites this verse as proof biblical slavery was humane, in pamphlets printed by bonded labor."
+      ],
+      "bureaucratic_uses": [
+        "Maiming Manumission petitions (Form MM-1)",
+        "Injury causation examiner certifications"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-028-goring-ox",
+      "title": "The Goring Ox: Stone the Ox, Owner Quit",
+      "citation": "Exodus 21:28,31",
+      "verses": "28,31",
+      "categories": [
+        "Civil",
+        "Property",
+        "Judicial"
+      ],
+      "law_type": "statute",
+      "kjv_text": "If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit... Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.",
+      "summary": "An ox that kills a person is stoned and its meat is taboo; the owner of a first-offense ox bears no liability. The rule applies equally when the victim is a child.",
+      "original_audience": "Israelite livestock owners; the ox is the tractor, truck, and 401(k) of the household.",
+      "immediate_context": "Opens the famous goring-ox series (vv.28-32), the comparative-law showpiece of the chapter.",
+      "historical_context": "Laws of Eshnunna 53-55 and Hammurabi 250-252 handle the same ox with fines only; Israel alone executes the animal and bans its meat — the ox has shed human blood (Gen 9:5 holds beasts accountable) and is contaminated by it. Legal historians live on this pericope: it shows liability, foreseeability, and even animal culpability emerging in one barnyard.",
+      "penalty": "Stoning of the ox; flesh unusable; owner exempt (first offense).",
+      "exceptions": "A known goring ox changes everything (v.29); slave victims convert to a fixed fee (v.32).",
+      "cross_references": [
+        "Genesis 9:5",
+        "Exodus 21:29-32",
+        "Laws of Eshnunna 53-55 (comparative)"
+      ],
+      "nt_passages": [
+        "1 Corinthians 9:9 / 1 Timothy 5:18 — 'thou shalt not muzzle the ox': Paul's ox-law hermeneutics, allegorizing barnyard statutes for clergy pay"
+      ],
+      "internal_contradictions": [],
+      "sab_categories": [
+        "Absurdity",
+        "Cruelty and Violence"
+      ],
+      "usofc_implementation": "Extended by regulation to 'any instrumentality of death' — the Instrumentality Destruction Rule: the car, the gun, the robot arm that kills is ceremonially destroyed ('stoned') and cannot be salvaged or resold. Auto manufacturers lobbied for a firmware exception and lost, publicly, once — the regime's proudest consumer-protection story.",
+      "agency": "Restitution Administration (RA)",
+      "constitutional_analogue": "Civil asset forfeiture inverted (deodand revival — English law's forfeiture of death-causing objects, abolished 1846, resurrected here).",
+      "scene_ideas": [
+        "A public 'stoning' of a self-driving car in a courthouse lot, the crowd solemn, the manufacturer's lawyers filming for appeal.",
+        "An RA evidence yard of contaminated instruments no one may touch, guarded like a reliquary in reverse."
+      ],
+      "satirical_uses": [
+        "Firearms were ruled 'inert absent intent' and exempted; escalators were not, after the Cleveland incident."
+      ],
+      "bureaucratic_uses": [
+        "Instrumentality destruction orders",
+        "Contaminated-property registries"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-029-negligent-owner-capital",
+      "title": "The Known Goring Ox: Owner Dies, Unless Ransomed",
+      "citation": "Exodus 21:29-30",
+      "verses": "29-30",
+      "categories": [
+        "Civil",
+        "Judicial",
+        "Property"
+      ],
+      "law_type": "statute",
+      "kjv_text": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death. If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.",
+      "summary": "If the ox was a known gorer, formally attested to the owner, and he failed to confine it, a killing makes the owner capitally liable — though uniquely, he may ransom his life for whatever sum is assessed.",
+      "original_audience": "Israelite owners of dangerous animals, on notice.",
+      "immediate_context": "The escalation of v.28: notice plus negligence converts an accident into the owner's capital crime. This is the only capital offense in the Torah that money can commute (contrast Num 35:31 banning murder ransom).",
+      "historical_context": "The 'it hath been testified' clause invents the legal concept of notice: liability turns on what the owner knew. Hammurabi 251 fines the same negligence half a mina; the biblical version threatens death then sells mercy — a structure (capital exposure, monetary settlement) that functionally produces the ANE fine with extra terror.",
+      "penalty": "Death for the owner, commutable by assessed ransom; ox stoned regardless.",
+      "exceptions": "The ransom option itself — unique in biblical capital law.",
+      "cross_references": [
+        "Numbers 35:31 (murder ransom banned — the pointed contrast)",
+        "Exodus 21:28",
+        "Deuteronomy 22:8 (parapet law: build against foreseeable falls)"
+      ],
+      "nt_passages": [
+        "Matthew 18:6 — the millstone for those who cause little ones to stumble: culpable facilitation in the Jesus register",
+        "1 Timothy 2:6 — Christ 'a ransom for all': the verse's vocabulary in soteriology"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "Negligent-owner deaths can be bought off while intentional murder cannot (Num 35:31) — coherent, but it prices the negligent rich out of every gallows.",
+          "refs": [
+            "Numbers 35:31"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Absurdity",
+        "Cruelty and Violence"
+      ],
+      "usofc_implementation": "The Attested Hazard doctrine: any death caused by a hazard formally attested to its owner (product recalls, safety citations, prior incidents) is capital negligence — commutable by Life Ransom, assessed by the court against the owner's net worth. Corporate officers carry personal Attestation Files; the Life Ransom actuarial market is the country's real stock exchange.",
+      "agency": "Covenant Courts",
+      "constitutional_analogue": "Criminal negligence and corporate manslaughter law, with a debtors'-gallows twist: the poor hang, the rich are invoiced.",
+      "scene_ideas": [
+        "A CEO's assistants racing to prove a safety memo was never 'formally attested' — the notarization is the whole case.",
+        "A Life Ransom hearing conducted like an estate auction, the widow watching her husband's death priced against a portfolio.",
+        "The recall-notice clerk who realizes her rubber stamp is a capital instrument."
+      ],
+      "satirical_uses": [
+        "The one capital crime with a checkout lane; Numbers 35:31 hangs framed in the courtroom where negligence is ransomed daily."
+      ],
+      "bureaucratic_uses": [
+        "Attestation Files and notice registries",
+        "Life Ransom assessment worksheets (net-worth indexed)"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-032-ox-gores-servant",
+      "title": "Ox Gores a Servant: Thirty Shekels to the Master",
+      "citation": "Exodus 21:32",
+      "verses": "32",
+      "categories": [
+        "Civil",
+        "Economic",
+        "Property"
+      ],
+      "law_type": "statute",
+      "kjv_text": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.",
+      "summary": "When the victim is a slave, capital exposure vanishes: the owner pays the slave's master thirty shekels; the ox is still stoned.",
+      "original_audience": "Israelite owners of oxen and of people.",
+      "immediate_context": "Closes the goring-ox series by pricing the status hierarchy exactly: free victim = owner's life; slave victim = thirty shekels to a third party.",
+      "historical_context": "Thirty shekels matches Hammurabi's slave-value fines and is the sum Zechariah 11:12-13 calls 'a goodly price that I was prised at of them' in bitter irony — and the price Judas is paid for Jesus (Matt 26:15). The verse's afterlife dwarfs its barnyard origin: the slave-price becomes the Passion's invoice.",
+      "penalty": "Thirty shekels of silver to the slave's master; ox stoned. The slave's estate receives nothing.",
+      "exceptions": "None stated.",
+      "cross_references": [
+        "Exodus 21:28-31",
+        "Zechariah 11:12-13",
+        "Matthew 26:15",
+        "Matthew 27:9"
+      ],
+      "nt_passages": [
+        "Matthew 26:15 — Judas paid thirty pieces of silver: the evangelist deliberately invoices Jesus at slave-gored-by-ox rate",
+        "Philippians 2:7 — 'form of a servant' completing the typology"
+      ],
+      "internal_contradictions": [
+        {
+          "sab_id": "con42",
+          "issue": "Does God approve of slavery? A human death compensated to the owner at livestock rates is the SAB's exhibit for the code's property theory of persons.",
+          "refs": [
+            "Leviticus 25:44-46"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Absurdity",
+        "Cruelty and Violence"
+      ],
+      "usofc_implementation": "In covenant-labor law: a bonded laborer killed by an attested hazard triggers a fixed Statutory Bond Indemnity paid to the bondholder — not the family — pegged, with liturgical literalism, at 'thirty shekels' (a CPI-indexed sum recalculated annually and announced, without apparent shame, on Good Friday).",
+      "agency": "Restitution Administration (RA)",
+      "constitutional_analogue": "Wrongful-death damages payable to an employer rather than next of kin — a standing equal-protection obscenity.",
+      "scene_ideas": [
+        "The annual Good Friday announcement of the thirty-shekel rate, and the one reporter who asks the question every year.",
+        "A widow suing for standing to receive her husband's indemnity, opposed by the bondholder's chaplain-counsel."
+      ],
+      "satirical_uses": [
+        "The regime priced its Savior's betrayal, indexed it to inflation, and mails the checks to management."
+      ],
+      "bureaucratic_uses": [
+        "Statutory Bond Indemnity schedules (the Thirty-Shekel Table)",
+        "Beneficiary standing determinations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-033-open-pit-liability",
+      "title": "The Open Pit: Digger Pays for the Fallen Beast",
+      "citation": "Exodus 21:33-34",
+      "verses": "33-34",
+      "categories": [
+        "Civil",
+        "Property"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein; The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.",
+      "summary": "Whoever opens or digs a pit and leaves it uncovered pays the owner of any ox or ass that falls in; the carcass belongs to the payer.",
+      "original_audience": "Israelite farmers digging cisterns and storage pits in shared terrain.",
+      "immediate_context": "First of the pure property torts; negligence liability without any human victim.",
+      "historical_context": "The foundational premises-liability rule: creating a hazard creates a duty. Rabbinic law spun an entire tort category ('the pit') from these verses. The carcass-to-payer clause is sophisticated salvage law — compensation transfers ownership of the loss.",
+      "penalty": "Full value compensation to the animal's owner; salvage to the payer.",
+      "exceptions": "None stated; rabbinic law excused adequately covered pits (due care defeats liability).",
+      "cross_references": [
+        "Exodus 21:35-36",
+        "Deuteronomy 22:8 (parapet duty)",
+        "Luke 14:5"
+      ],
+      "nt_passages": [
+        "Luke 14:5 — 'which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?' — Jesus arguing Sabbath law from pit law",
+        "Matthew 15:14 — the blind leading the blind into the ditch, the tort as parable"
+      ],
+      "internal_contradictions": [],
+      "sab_categories": [],
+      "usofc_implementation": "The Uncovered Hazard Code: premises liability administered by RA schedule — trench, pool, stairwell, server vulnerability ('a pit is any created condition into which value may fall,' the most-cited definition in USofC law). Salvage-to-payer produced a scavenger industry that buys judgments for the carcasses, literal and digital.",
+      "agency": "Restitution Administration (RA)",
+      "constitutional_analogue": "Ordinary premises liability / attractive nuisance doctrine; the USofC version is strict, scheduled, and lawyer-light — infuriating exactly one profession.",
+      "scene_ideas": [
+        "A data-breach hearing where opposing counsel argue whether a firewall gap is 'a pit' — the judge, a former farmer, rules that it is.",
+        "The judgment-scavenger who owns ten thousand dead oxen and three bankrupt startups."
+      ],
+      "satirical_uses": [
+        "Tort reform arrived via Bronze Age case law, and it mostly worked — the regime's least dystopian achievement, cited to excuse the rest."
+      ],
+      "bureaucratic_uses": [
+        "Hazard registry with cover-certification",
+        "Salvage transfer deeds"
+      ],
+      "confidence": "high"
+    },
+    {
+      "book": "Exodus",
+      "testament": "Old",
+      "chapter": 21,
+      "id": "exo-021-035-ox-hurts-ox",
+      "title": "Ox Gores Ox: Split the Live One, Split the Dead",
+      "citation": "Exodus 21:35-36",
+      "verses": "35-36",
+      "categories": [
+        "Civil",
+        "Property"
+      ],
+      "law_type": "statute",
+      "kjv_text": "And if one man's ox hurt another's, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide. Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.",
+      "summary": "When one ox kills another: no-fault case, sell the live ox and split both proceeds and carcass; known-gorer case, the negligent owner pays full replacement and keeps the dead animal.",
+      "original_audience": "Israelite herd owners sharing pasture.",
+      "immediate_context": "Closes the chapter with the tort system in miniature: loss-sharing for blameless accident, full liability for negligence.",
+      "historical_context": "Verbatim parallel in Eshnunna 53 — the closest word-for-word match between biblical and Mesopotamian law, the smoking gun of a shared legal tradition. The split-the-loss rule is genuinely elegant: where no one is at fault, both bear half — comparative negligence, three millennia early.",
+      "penalty": "No-fault: equal division of live-ox proceeds and carcass. Negligence: full ox-for-ox replacement, salvage to payer.",
+      "exceptions": "Notice (the known gorer) converts sharing into liability.",
+      "cross_references": [
+        "Exodus 21:28-32",
+        "Laws of Eshnunna 53 (comparative)",
+        "Exodus 22:5-6 (grazing and fire torts, next chapter)"
+      ],
+      "nt_passages": [
+        "No direct NT engagement; the fault/no-fault distinction resurfaces in parables of stewardship (Luke 12:48, 'to whom much is given')."
+      ],
+      "internal_contradictions": [],
+      "sab_categories": [],
+      "usofc_implementation": "The No-Fault Division Rule: collisions and mutual-damage cases without provable negligence split net loss equally — the basis of the USofC's auto-insurance system, which abolished fault litigation for ordinary crashes. Attested-hazard vehicles (recalled, cited) revert to full liability. Actuaries call it Eshnunna pricing; the Ministry prefers 'Covenant Comparative Fault.'",
+      "agency": "Restitution Administration (RA)",
+      "constitutional_analogue": "No-fault insurance statutes (Michigan model), achieved via Bronze Age precedent instead of the 1970s legislature.",
+      "scene_ideas": [
+        "Two drivers splitting a totaled truck's salvage value at an RA kiosk in eleven minutes, both dimly aware this used to take three years and two lawyers.",
+        "An actuary's lecture: 'the oldest continuously operating rule in human law is about oxen, and you drive under it.'"
+      ],
+      "satirical_uses": [
+        "The single most efficient institution in the USofC descends from the one chapter nobody preaches on."
+      ],
+      "bureaucratic_uses": [
+        "No-Fault Division worksheets",
+        "Salvage split escrow"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

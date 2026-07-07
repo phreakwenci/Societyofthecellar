@@ -1,0 +1,66 @@
+# United States of Christ — Development Project
+
+Fictional worldbuilding project: an American Christian theocracy built by
+systematically extracting every enforceable norm from Scripture and
+translating it into federal law, agencies, and drama.
+
+**This is fiction/satire.** Tone reference: *The Handmaid's Tale* meets
+*Brazil*. The realism comes from taking the source text seriously as a
+legal corpus.
+
+## Core rule
+
+**Never summarize broadly. Extract one legal principle at a time.**
+One law = one record = one file. Do not combine laws.
+
+## Data layout
+
+| Path | Contents | Committed? |
+|---|---|---|
+| `data/books/` | KJV text, one file per book, `## Book N` chapter headers, one verse per line | yes (public domain) |
+| `data/sab/` | SAB annotation index: per-verse category flags + contradiction cross-refs; `contradictions.json` = all 472 contradictions with stances and citations | yes (factual metadata) |
+| `data/sab_full/` | Full SAB commentary prose | **no — gitignored, © Steve Wells** |
+| `data/laws/` | One Markdown record per extracted law (generated — do not hand-edit) | yes |
+| `data/json/` | One JSON record per law (**source of truth**) + `laws.json` aggregate | yes |
+| `data/csv/laws.csv` | Flat index of all laws | yes (generated) |
+| `docs/` | WorldBible, FederalCode, Agencies, DenominationalNotes | yes |
+
+Regenerate the corpus from a local EPUB:
+`python3 tools/convert_epub.py /path/to/sab.epub`
+
+## The pipeline
+
+1. **`/extract-biblical-law <book or range>`** — walk the text sequentially,
+   emit one JSON record per law into `data/json/`, then run
+   `python3 tools/build_index.py` (validates against
+   `tools/schema/law.schema.json`, renders `data/laws/*.md`, rebuilds
+   aggregate JSON/CSV/INDEX).
+2. **`/convert-to-federal-law <law-id>`** — expand one extracted law into a
+   Federal Code section in `docs/FederalCode.md`.
+3. **`/detect-contradictions <law-id or topic>`** — analyze how the regime
+   resolves scriptural conflicts; output to `docs/DenominationalNotes.md`.
+
+## Record conventions
+
+- ID scheme: `<bookslug>-<chapter, 3 digits>-<first verse, 3 digits>-<kebab-title>`
+  e.g. `exo-020-003-no-other-gods`. Book slugs: 3-letter (`gen exo lev num deu
+  jos jdg rut 1sa 2sa 1ki 2ki 1ch 2ch ezr neh est job psa pro ecc sng isa jer
+  lam eze dan hos joe amo oba jon mic nah hab zep hag zec mal mat mrk luk jhn
+  act rom 1co 2co gal eph phl col 1th 2th 1ti 2ti tit phm heb jas 1pe 2pe 1jo
+  2jo 3jo jud rev`).
+- JSON in `data/json/` is the source of truth; Markdown in `data/laws/` is
+  generated. Edit JSON, rerun `tools/build_index.py`.
+- Agencies must be registered in `docs/Agencies.md` before use in records.
+  Reuse existing agencies wherever plausible — a believable state has a
+  finite org chart.
+- "Laws" include every enforceable norm: commands, prohibitions, statutes,
+  rituals, punishments, obligations, precedents, judicial instructions,
+  governmental principles, permissions, ideals, and leadership
+  qualifications (see `law_type` in the schema).
+- Cite the SAB annotation index (`sab_categories`, `internal_contradictions[].sab_id`)
+  wherever the SAB flags the passage — that's the satire engine.
+
+## Copyright guardrail
+
+Never commit SAB commentary prose, and never quote more than a short phrase
+of it in committed files. KJV text is public domain — quote freely.

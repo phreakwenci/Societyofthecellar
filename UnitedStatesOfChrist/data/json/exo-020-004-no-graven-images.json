@@ -1,0 +1,63 @@
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "id": "exo-020-004-no-graven-images",
+  "title": "No Graven Images",
+  "citation": "Exodus 20:4",
+  "chapter": 20,
+  "verses": "4",
+  "categories": [
+    "Religious",
+    "Ceremonial"
+  ],
+  "law_type": "prohibition",
+  "kjv_text": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.",
+  "summary": "Prohibits manufacturing carved cult images — read literally, any likeness of anything in sky, earth, or sea.",
+  "original_audience": "Israelites at Sinai; aimed at the image-saturated cults of Egypt and Canaan they knew.",
+  "immediate_context": "Second commandment; paired with v.5's ban on venerating images. The golden calf episode (Ex 32) follows within weeks of narrative time.",
+  "historical_context": "Aniconism was rare and striking in the ancient Near East, where a cult statue was the god's presence in the temple. Israel's imageless worship became its defining religious marker. Yet the tabernacle itself commands cherubim images (Ex 25:18), so the working line was always 'no images for worship,' not 'no images.'",
+  "penalty": "None stated in the verse; idolaters elsewhere face death (Deut 27:15 curses the image-maker).",
+  "exceptions": "God commands images elsewhere: cherubim (Ex 25:18), the bronze serpent (Num 21:8), lions and oxen in Solomon's temple (1 Kings 7:25,29).",
+  "cross_references": [
+    "Deuteronomy 5:8",
+    "Deuteronomy 27:15",
+    "Exodus 32",
+    "Exodus 25:18",
+    "Numbers 21:8"
+  ],
+  "nt_passages": [
+    "John 3:14 — Jesus compares himself to the bronze serpent image",
+    "Acts 17:29 — the Godhead is not like gold or stone",
+    "Colossians 1:15 — Christ as the 'image of the invisible God' complicates aniconism",
+    "Romans 1:23 — images as the root of pagan decline"
+  ],
+  "internal_contradictions": [
+    {
+      "sab_id": "con106",
+      "issue": "Is it OK to make images? This total ban vs. God commanding cherubim, the bronze serpent, and temple statuary.",
+      "refs": [
+        "Exodus 25:18",
+        "Numbers 21:8",
+        "1 Kings 7:25"
+      ]
+    }
+  ],
+  "sab_categories": [],
+  "usofc_implementation": "The Graven Images Act. The OIP Iconoclasm Division licenses all representational art; 'devotional risk' is scored by subject, scale, and placement. Photography survived by a landmark ruling that a photograph is 'light, not graving.' Statues of USofC founders are exempted as 'civic memorials, not likenesses' — the most litigated sentence in the Code.",
+  "agency": "Office of Idolatry Prevention (OIP)",
+  "constitutional_analogue": "Collides with First Amendment free expression; functionally a national art-censorship regime.",
+  "scene_ideas": [
+    "An Iconoclasm Division inspector and a museum curator negotiating which Renaissance paintings get the drape.",
+    "A child's science-fair diorama of the solar system seized as 'likeness of things in heaven above.'",
+    "Underground portrait painters working from memory so no 'likeness' technically exists."
+  ],
+  "satirical_uses": [
+    "The regime that bans likenesses plasters the President's face on every licensing form — ruled 'a seal, not an image.'"
+  ],
+  "bureaucratic_uses": [
+    "Representational Art License with devotional-risk scoring",
+    "Form IC-2: Application to Depict a Created Thing",
+    "The Drape Registry for museum loans"
+  ],
+  "confidence": "high"
+}

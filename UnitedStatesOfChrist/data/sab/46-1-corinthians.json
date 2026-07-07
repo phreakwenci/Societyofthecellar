@@ -1,0 +1,1070 @@
+{
+ "book": "1 Corinthians",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.7-8",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.14-16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.19-20",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con293",
+     "title": "293 Is wisdom a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con295",
+     "title": "295 Is it good to be foolish?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.27",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con45",
+     "title": "45 Is God the author of confusion?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.15",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con126",
+     "title": "126 To judge or not to judge"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.15",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.17",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18-20",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con295",
+     "title": "295 Is it good to be foolish?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con295",
+     "title": "295 Is it good to be foolish?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con126",
+     "title": "126 To judge or not to judge"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": null,
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": null,
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.1-3",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con126",
+     "title": "126 To judge or not to judge"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.9-10",
+   "categories": [
+    "Homosexuality",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con434",
+     "title": "434 Can thieves go to heaven?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.12",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con460",
+     "title": "460 Is it OK to eat meat sacrificed to other gods?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.15-16",
+   "categories": [
+    "Absurdity",
+    "Language",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.1-2",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con15",
+     "title": "15 Is marriage a good thing?"
+    },
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.3-5",
+   "categories": [
+    "Good Stuff",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.7-9",
+   "categories": [
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con15",
+     "title": "15 Is marriage a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con461",
+     "title": "461 Was all scripture inspired by God?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con462",
+     "title": "462 Is it OK to marry unbelievers?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con453",
+     "title": "453 If a husband believes, is his wife saved also?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Family Values"
+   ],
+   "contradictions": [
+    {
+     "id": "con113",
+     "title": "113 Is only God holy?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con154",
+     "title": "154 Is divorce ever permissible?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.18",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.21-23",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con461",
+     "title": "461 Was all scripture inspired by God?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.26",
+   "categories": [
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.27",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con15",
+     "title": "15 Is marriage a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.29",
+   "categories": [
+    "Absurdity",
+    "False Prophecy",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.4-8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con460",
+     "title": "460 Is it OK to eat meat sacrificed to other gods?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con2",
+     "title": "2 Who created heaven and earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con463",
+     "title": "463 Did Paul see Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.9-10",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.21-22",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.7",
+   "categories": [
+    "Absurdity",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.8",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con140",
+     "title": "140 How many did God kill for \u201ccommitting whoredom with the daughters of Moab?\u201d"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.9",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.11",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.16",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.20-21",
+   "categories": [
+    "Absurdity",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con460",
+     "title": "460 Is it OK to eat meat sacrificed to other gods?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.23",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con13",
+     "title": "13 What should we eat?"
+    },
+    {
+     "id": "con460",
+     "title": "460 Is it OK to eat meat sacrificed to other gods?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con161",
+     "title": "161 Who owns the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.27-28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con460",
+     "title": "460 Is it OK to eat meat sacrificed to other gods?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.33",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con459",
+     "title": "459 Should we try to please everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.3-15",
+   "categories": [
+    "Absurdity",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con464",
+     "title": "464 Should women have the same rights as men?"
+    },
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con466",
+     "title": "466 May a woman speak in church?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.14-15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con133",
+     "title": "133 Is it OK for men to have long hair?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.27-29",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.30",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con111",
+     "title": "111 Is it OK to covet?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.4-6",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con308",
+     "title": "308 Should we believe everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.8",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.11",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con365",
+     "title": "365 Is it good to be childish?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.2-5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con465",
+     "title": "465 Should you speak in tongues?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.8-9",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con465",
+     "title": "465 Should you speak in tongues?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.18",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.20",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con365",
+     "title": "365 Is it good to be childish?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.22-28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.33",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con99",
+     "title": "99 Is God warlike or peaceful?"
+    },
+    {
+     "id": "con45",
+     "title": "45 Is God the author of confusion?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.34-35",
+   "categories": [
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con454",
+     "title": "454 Can women be church leaders?"
+    },
+    {
+     "id": "con464",
+     "title": "464 Should women have the same rights as men?"
+    },
+    {
+     "id": "con466",
+     "title": "466 May a woman speak in church?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.38",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.39",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con111",
+     "title": "111 Is it OK to covet?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.3-4",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con413",
+     "title": "413 How many disciples did Jesus appear to in his first post resurrection appearance?"
+    },
+    {
+     "id": "con408",
+     "title": "408 To whom did Jesus make his first post-resurrection appearance?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con448",
+     "title": "448 How many believers were there at the time of the ascension?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con463",
+     "title": "463 Did Paul see Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con196",
+     "title": "196 Was Jesus the first to rise from the dead?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.21-22",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.29",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con297",
+     "title": "297 Is it OK to call someone a fool?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": null,
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.45",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.46",
+   "categories": [
+    "Interpretation",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.51-52",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.52",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    },
+    {
+     "id": "con472",
+     "title": "472 Have Christians been raised with Christ?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.22",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con114",
+     "title": "114 How should we treat our enemies?"
+    },
+    {
+     "id": "con458",
+     "title": "458 Is it OK to curse people?"
+    }
+   ]
+  }
+ ]
+}

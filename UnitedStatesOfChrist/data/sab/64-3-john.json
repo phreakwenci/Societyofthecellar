@@ -1,0 +1,39 @@
+{
+ "book": "3 John",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con229",
+     "title": "229 Do Christians sin?"
+    },
+    {
+     "id": "con298",
+     "title": "298 Does anyone ever do anything good?"
+    }
+   ]
+  }
+ ]
+}

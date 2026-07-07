@@ -1,0 +1,1338 @@
+{
+ "book": "Numbers",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con84",
+     "title": "84 What were the 12 (or 13) tribes of Israel?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.45-46",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.51",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con112",
+     "title": "112 How should strangers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.4",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con112",
+     "title": "112 How should strangers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.15-16",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.38",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con112",
+     "title": "112 How should strangers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.15-20",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.1-4",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.11-31",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con92",
+     "title": "92 Is magic OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con133",
+     "title": "133 Is it OK for men to have long hair?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.10-20",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.15-88",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.6-7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.8-12",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.15-16",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.17",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.13",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.15-23",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.11-12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.29",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con88",
+     "title": "88 Who was Moses\u2019 father-in-law?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.34",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.4, 19-20",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.31",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.33",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.1, 9-10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con80",
+     "title": "80 Will God destroy those that intermarry?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con134",
+     "title": "134 Was Moses meek?"
+    },
+    {
+     "id": "con135",
+     "title": "135 Who wrote the Pentateuch?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.6",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.9-10",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.1-32",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con84",
+     "title": "84 What were the 12 (or 13) tribes of Israel?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.23",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.33",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con31",
+     "title": "31 Did everyone die in the flood?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.1-4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.5-6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.7-9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.11-12",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.13-16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.18",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.20-35",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.36-37",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.43-45",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.3-24",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.27-28",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con122",
+     "title": "122 Do animal sacrifices take away sins?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.32-36",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the Sabbath?"
+    },
+    {
+     "id": "con115",
+     "title": "115 How should Sabbath-breakers be punished?"
+    },
+    {
+     "id": "con109",
+     "title": "109 To kill or not to kill."
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con136",
+     "title": "136 Should we follow our own hearts?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "16.1-33",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con137",
+     "title": "137 Did God burn all of Korah\u2019s children to death?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.35",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.36-37",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.41-49",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.12-13",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.3",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con125",
+     "title": "125 Who may offer sacrifices to God?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.7",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con112",
+     "title": "112 How should strangers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.17-19",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.22",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.32",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.1-22",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con102",
+     "title": "102 Where did Moses get water from a rock?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.7-8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con104",
+     "title": "104 How did God tell Moses to get water from a rock?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.12",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.27-28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con138",
+     "title": "138 Where did Aaron die?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.2-3",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.5-6",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.7-9",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con106",
+     "title": "106 Is it OK to make images?"
+    },
+    {
+     "id": "con92",
+     "title": "92 Is magic OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.34-35",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.20-22",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.23-31",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    },
+    {
+     "id": "con139",
+     "title": "139 Does God lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.22",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.24",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.7",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.8",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.1-5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance",
+    "Language",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.6-9",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con140",
+     "title": "140 How many did God kill for \u201ccommitting whoredom with the daughters of Moab\u201d?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.10-13",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.16-17",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.10-11",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con137",
+     "title": "137 Did God burn to death the children of Korah?"
+    },
+    {
+     "id": "con81",
+     "title": "81 Who were the sons of Benjamin?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.40",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con82",
+     "title": "82 Were Ard and Naaman the sons or grandsons of Benjamin?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.51",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.55",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con141",
+     "title": "141 Does the bible condemn gambling?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.61",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.4",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.8",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con102",
+     "title": "102 Where did Moses get water from a rock?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con142",
+     "title": "142 What is the correct recipe for the new moon sacrifice?"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "ref": "29.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con122",
+     "title": "122 Does the blood of animal sacrifices take away sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "ref": "30.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is it okay to take oaths?"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "ref": "30.3-16",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.1-40",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con143",
+     "title": "143 Did the Israelites kill every male in Midian?"
+    }
+   ]
+  },
+  {
+   "chapter": 31,
+   "ref": "31.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con134",
+     "title": "134 Was Moses meek?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con144",
+     "title": "144 How long does God\u2019s anger last?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.27",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 33,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 33,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 33,
+   "ref": "33.38",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con138",
+     "title": "138 Where did Aaron die?"
+    }
+   ]
+  },
+  {
+   "chapter": 33,
+   "ref": "33.50-53",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 33,
+   "ref": "33.54",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con141",
+     "title": "141 Is it OK to gamble?"
+    }
+   ]
+  },
+  {
+   "chapter": 33,
+   "ref": "33.55-56",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con141",
+     "title": "141 Is it OK to gamble?"
+    }
+   ]
+  },
+  {
+   "chapter": 35,
+   "ref": "35.11-12",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.19-21",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.26-28",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.30",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con23",
+     "title": "23 Does God approve of capital punishment?"
+    }
+   ]
+  },
+  {
+   "chapter": 35,
+   "ref": "35.33",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  }
+ ]
+}

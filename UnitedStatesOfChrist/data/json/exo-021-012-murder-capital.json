@@ -1,0 +1,60 @@
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "chapter": 21,
+  "id": "exo-021-012-murder-capital",
+  "title": "Death for Striking a Man Fatally",
+  "citation": "Exodus 21:12",
+  "verses": "12",
+  "categories": [
+    "Judicial",
+    "Civil",
+    "Moral"
+  ],
+  "law_type": "punishment",
+  "kjv_text": "He that smiteth a man, so that he die, shall be surely put to death.",
+  "summary": "Fatal assault is a capital offense — the apodictic baseline that vv.13-14 immediately grade by intent.",
+  "original_audience": "Israelite community; enforcement ran through the avenger of blood and local elders.",
+  "immediate_context": "Opens the Covenant Code's violence section; the Decalogue's sixth commandment given teeth.",
+  "historical_context": "Capital homicide law is ANE-universal; Israel's marks are the refusal of ransom (Num 35:31) and the intent distinction that follows. 'Surely be put to death' (mot yumat) is the code's recurring capital formula — it will be attached to acts modern readers find wildly unequal.",
+  "penalty": "Death.",
+  "exceptions": "Unintentional killing diverts to refuge (v.13); the ox-goring vicarious case allows ransom (v.30).",
+  "cross_references": [
+    "Genesis 9:6",
+    "Numbers 35:16-21",
+    "Deuteronomy 19:11-13",
+    "Exodus 20:13"
+  ],
+  "nt_passages": [
+    "Matthew 5:38-39 — turn the other cheek, the antithesis to the code's whole method",
+    "Romans 13:4 — the sword-bearing magistrate",
+    "John 8:7 — 'he that is without sin among you, let him first cast a stone'"
+  ],
+  "internal_contradictions": [
+    {
+      "sab_id": "con23",
+      "issue": "Does God approve of capital punishment? Mandated here vs. Cain's protection (Gen 4:15), 'vengeance is mine' (Rom 12:19), and John 8.",
+      "refs": [
+        "Genesis 4:15",
+        "Romans 12:19",
+        "John 8:7"
+      ]
+    }
+  ],
+  "sab_categories": [],
+  "usofc_implementation": "USC-C Title IV's first section: murder carries mandatory death, no plea to lesser, no ransom (Num 35:31 construed as banning commutation-for-payment, i.e., banning the one corruption the courts would otherwise sell). Executions are public, scheduled between festivals, and attendance counts toward NDS devotion quotas.",
+  "agency": "Covenant Courts",
+  "constitutional_analogue": "Mandatory capital sentencing — struck down in Woodson v. North Carolina (1976), restored here with liturgy.",
+  "scene_ideas": [
+    "A jury that knows conviction means death and no judge can soften it, discovering nullification one juror at a time.",
+    "The festival scheduler negotiating with the execution calendar office over a date conflict."
+  ],
+  "satirical_uses": [
+    "Attendance at executions earns the same devotion credit as attendance at communion; the line is shorter at communion."
+  ],
+  "bureaucratic_uses": [
+    "Mandatory sentencing certification",
+    "Public execution attendance ledgers"
+  ],
+  "confidence": "high"
+}

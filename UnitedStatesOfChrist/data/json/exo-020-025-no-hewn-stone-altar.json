@@ -1,0 +1,46 @@
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "id": "exo-020-025-no-hewn-stone-altar",
+  "title": "No Hewn Stone Altars",
+  "citation": "Exodus 20:25",
+  "chapter": 20,
+  "verses": "25",
+  "categories": [
+    "Ceremonial"
+  ],
+  "law_type": "ritual",
+  "kjv_text": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.",
+  "summary": "Stone altars must be of uncut fieldstone; applying a tool pollutes the altar.",
+  "original_audience": "Israelite altar-builders.",
+  "immediate_context": "Continues the altar law of v.24; Joshua obeys it exactly at Mount Ebal (Josh 8:31).",
+  "historical_context": "Possibly anti-Canaanite (dressed-stone high places), possibly an iron-taboo (cf. Deut 27:5 'lift up no iron tool'), possibly a theology of the unmanufactured: God's altar must not be human artifice. Solomon's temple, built of elaborately hewn stone, keeps the letter by pre-cutting off-site (1 Kings 6:7) — the Bible's first regulatory workaround.",
+  "penalty": "The altar is 'polluted' — ritually void.",
+  "exceptions": "The 1 Kings 6:7 off-site-fabrication workaround.",
+  "cross_references": [
+    "Deuteronomy 27:5-6",
+    "Joshua 8:31",
+    "1 Kings 6:7"
+  ],
+  "nt_passages": [
+    "Mark 14:58 — 'temple made without hands' as the category's afterlife",
+    "Acts 7:48 — the Most High dwelleth not in temples made with hands"
+  ],
+  "internal_contradictions": [],
+  "sab_categories": [],
+  "usofc_implementation": "Enforced literally for the ceremonial Gate Rooms of Covenant courthouses: their altar-tables must be uncut fieldstone, certified tool-free. A niche industry of 'providentially shaped stone' brokers sells suspiciously convenient boulders with notarized no-tool provenance.",
+  "agency": "Department of Worship (DOW)",
+  "constitutional_analogue": "None; closest analogue is historic-preservation materials law, weaponized.",
+  "scene_ideas": [
+    "A forensic masonry hearing: microscopy slides projected in court to prove a chisel touched the courthouse altar in 1987, voiding every oath sworn on it since.",
+    "The 'convenient boulder' broker showing a client the quarry he definitely doesn't own."
+  ],
+  "satirical_uses": [
+    "Off-site fabrication (1 Kings 6:7) is precedent: the whole regime runs on cutting the stone where God isn't looking."
+  ],
+  "bureaucratic_uses": [
+    "Tool-free provenance certification",
+    "Altar integrity audit schedule"
+  ],
+  "confidence": "high"
+}

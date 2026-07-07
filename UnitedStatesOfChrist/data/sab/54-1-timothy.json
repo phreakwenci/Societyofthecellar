@@ -1,0 +1,379 @@
+{
+ "book": "1 Timothy",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1-2",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.4",
+   "categories": [
+    "Absurdity",
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.10",
+   "categories": [
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.20",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con319",
+     "title": "319 Should you pray for everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con311",
+     "title": "311 Does God want some to go to hell?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con370",
+     "title": "370 Was Jesus a ransom for many or for all?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con340",
+     "title": "340 Should Christians pray in public?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.9",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11-12",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con454",
+     "title": "454 Can women be church leaders?"
+    },
+    {
+     "id": "con464",
+     "title": "464 Should women have the same rights as men?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13-15",
+   "categories": [
+    "Absurdity",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con457",
+     "title": "457 Who was to blame for original sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con11",
+     "title": "11 Is childbearing sinful?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.2",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.1-3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con13",
+     "title": "13 What should we eat?"
+    },
+    {
+     "id": "con15",
+     "title": "15 Is marriage a good thing?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.7",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.3-10",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con343",
+     "title": "343 Should Christians be concerned with material things?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.11-15",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.20",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.1-4",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    },
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.5",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.7-10",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con315",
+     "title": "315 Is money good or bad?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.14",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con227",
+     "title": "227 Does God dwell in darkness or in light?"
+    },
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.17-18",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.20",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con468",
+     "title": "468 Should believers discuss their faith with non-believers?"
+    }
+   ]
+  }
+ ]
+}

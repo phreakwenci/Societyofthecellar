@@ -1,0 +1,326 @@
+{
+ "book": "Colossians",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1-2",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Is God invisible?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.16",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.19-20",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.24",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2-3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con346",
+     "title": "346 Did Jesus know everything?"
+    },
+    {
+     "id": "con217",
+     "title": "217 Who was the greatest: Jesus or Solomon?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con54",
+     "title": "54 Is circumcision required?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con472",
+     "title": "472 Have Christians been raised with Christ?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con437",
+     "title": "437 Who raised Jesus from the dead?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians obey the Old Testament\u2019s laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the sabbath?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con472",
+     "title": "472 Have Christians been raised with Christ?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con111",
+     "title": "111 Is it okay to covet?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.8",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.9",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it okay to lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12-14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    },
+    {
+     "id": "con464",
+     "title": "464 Should women have the same rights as men?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.19",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.20",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.22",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    },
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    },
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con21",
+     "title": "21 Does God respect anyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.6",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con468",
+     "title": "468 Should believers discuss their faith with non-believers?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.16",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  }
+ ]
+}

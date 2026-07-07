@@ -1,0 +1,1038 @@
+{
+ "book": "2 Kings",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.2-8",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.9-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.16-17",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.7-9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11-14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con26",
+     "title": "26 Did Elijah ascend into heaven?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con108",
+     "title": "108 Is it OK to call anyone \u201cFather\u201d?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13-14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con239",
+     "title": "239 When did Elisha receive Elijah\u2019s mantle?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.23-24",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18-25",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con151",
+     "title": "151 Did God tell the Israelites to destroy the trees when invading?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.27",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.34-35",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    },
+    {
+     "id": "con196",
+     "title": "196 Was Jesus the first to rise from the dead?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.40-41",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.14",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.27",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    },
+    {
+     "id": "con241",
+     "title": "241 Did God give Gehazi leprosy?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.6",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.12",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "16.18-20",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con108",
+     "title": "108 Is it OK to call someone father?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.28-29, 33",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.2",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.17",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.1",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con241",
+     "title": "241 Did God give Gehazi leprosy?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.7-15",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it wrong to lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con242",
+     "title": "242 When did Ahaziah begin to reign?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con243",
+     "title": "243 How old was Ahaziah when he began to reign?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1-10",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con244",
+     "title": "244 Was Jehu Nimshi\u2019s son or grandson?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.8",
+   "categories": [
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.20",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.24-25",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.29",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con242",
+     "title": "242 When did Ahaziah begin to reign?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.33-37",
+   "categories": [
+    "Cruelty and Violence",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.1-10",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.11",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.14",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.15-17",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.15",
+   "categories": [
+    "Absurdity",
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.18-25",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.30",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con245",
+     "title": "245 Did God commend or condemn Jehu for the killings at Jezreel?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.15-20",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.17-18",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.20-21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con246",
+     "title": "246 Where was Joash buried?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.15-17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.18-19",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.21",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con196",
+     "title": "196 Was Jesus the first to rise from the dead?"
+    },
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con21",
+     "title": "21 Does God respect anyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.3, 7",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": [
+    {
+     "id": "con153",
+     "title": "153 How should the Edomites be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.30",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con248",
+     "title": "248 How long did Jotham reign?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con249",
+     "title": "249 Was Ahaz buried with his fathers?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.25-26",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.39",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.3-4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con106",
+     "title": "106 Is it OK to make images?"
+    },
+    {
+     "id": "con92",
+     "title": "92 Is magic OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.27",
+   "categories": [
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con250",
+     "title": "250 Is the word of God pure?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.37",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.7",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con161",
+     "title": "161 Who is the Lord of the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.35",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.36-37",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.1-21",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con148",
+     "title": "148 Is it okay to test God?"
+    },
+    {
+     "id": "con251",
+     "title": "251 Why did God turn the sundial back ten degrees?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con66",
+     "title": "66 Does God approve of human sacrifice?"
+    },
+    {
+     "id": "con92",
+     "title": "92 Is magic OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.12",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.19",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.20",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con252",
+     "title": "252 How did King Josiah die?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.5-6",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.7",
+   "categories": [
+    "Homosexuality",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.20",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con66",
+     "title": "66 Does God approve of human sacrifice?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.26",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.29-30",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con253",
+     "title": "253 Where did Josiah die?"
+    },
+    {
+     "id": "con252",
+     "title": "252 How did King Josiah die?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con254",
+     "title": "254 Who succeeded Jehoiakim as king?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con255",
+     "title": "255 How old was Jehoiachin when he began to reign?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con266",
+     "title": "266 Who was Zedekiah\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con256",
+     "title": "256 Did Zedekiah\u2019s eyes see the king of Babylon?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.8-9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con257",
+     "title": "257 On what day of the month was the temple burned?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con258",
+     "title": "258 How high was the chapiter?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con259",
+     "title": "259 How many men were with the king?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con260",
+     "title": "260 When was Jehoiachin released from prison?"
+    }
+   ]
+  }
+ ]
+}

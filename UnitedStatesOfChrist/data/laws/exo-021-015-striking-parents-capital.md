@@ -1,0 +1,92 @@
+# Death for Striking Father or Mother
+
+> *And he that smiteth his father, or his mother, shall be surely put to death.*  
+> — Exodus 21:15 (KJV)
+
+| Field | Value |
+|---|---|
+| **ID** | exo-021-015-striking-parents-capital |
+| **Citation** | Exodus 21:15 |
+| **Book** | Exodus |
+| **Chapter** | 21 |
+| **Verses** | 15 |
+| **Testament** | Old |
+| **Categories** | • Family<br>• Judicial |
+| **Law Type** | punishment |
+| **Summary** | Striking either parent — not killing, striking — is a capital offense. |
+| **Original Audience** | Israelite households; adult sons are the realistic defendants. |
+| **Immediate Context** | Embedded in the capital list between homicide and kidnapping — parental assault ranked with murder. |
+| **Historical Context** | Hammurabi 195 punishes striking a father with amputation of the hand; the biblical penalty is harsher. The fifth commandment's shadow side: honor enforced at sword-point. No biblical narrative records the penalty being carried out — a statute perhaps meant to terrify rather than run. |
+| **Penalty** | Death. |
+| **Exceptions** | None stated. |
+| **Cross References** | • Exodus 21:17<br>• Deuteronomy 21:18-21<br>• Leviticus 20:9<br>• Proverbs 30:17 |
+| **Related NT Passages** | • Matthew 15:3-6 — Jesus cites the parallel cursing statute against the Pharisees' corban practice<br>• Ephesians 6:1-4 — obedience commanded, but fathers told not to provoke |
+| **Internal Contradictions** | • Does God approve of capital punishment? A non-lethal assault drawing death sits at the center of the SAB's proportionality case. [Genesis 4:15, John 8:7] (con23) |
+| **SAB Categories** | — |
+| **USofC Implementation** | On the books at full capital strength; in practice the DOR charges it and pleads down to Filial Violence with mandatory covenant labor — keeping the death penalty as leverage in every family-violence interrogation. Defense attorneys call the charge 'the Fifth Hammer.' |
+| **Agency** | Covenant Courts |
+| **Constitutional Analogue** | Eighth Amendment proportionality (Coker v. Georgia line) forbids death for non-homicide offenses; repealed here. |
+| **Scene Ideas** | • A son who shoved his violent father during a beating, now facing the Fifth Hammer while the father petitions the court for mercy — and is told the offense is against God, not him.<br>• A prosecutor's whiteboard: capital charges filed vs. capital sentences sought, the gap being the whole justice system. |
+| **Satirical Uses** | • Elder-abuse by neglect is a misdemeanor; a returned slap is death — the statute protects hierarchy, not parents. |
+| **Bureaucratic Uses** | • Filial Violence plea matrices<br>• Charge-leverage authorization memos |
+| **Confidence** | high |
+
+```json
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "chapter": 21,
+  "id": "exo-021-015-striking-parents-capital",
+  "title": "Death for Striking Father or Mother",
+  "citation": "Exodus 21:15",
+  "verses": "15",
+  "categories": [
+    "Family",
+    "Judicial"
+  ],
+  "law_type": "punishment",
+  "kjv_text": "And he that smiteth his father, or his mother, shall be surely put to death.",
+  "summary": "Striking either parent — not killing, striking — is a capital offense.",
+  "original_audience": "Israelite households; adult sons are the realistic defendants.",
+  "immediate_context": "Embedded in the capital list between homicide and kidnapping — parental assault ranked with murder.",
+  "historical_context": "Hammurabi 195 punishes striking a father with amputation of the hand; the biblical penalty is harsher. The fifth commandment's shadow side: honor enforced at sword-point. No biblical narrative records the penalty being carried out — a statute perhaps meant to terrify rather than run.",
+  "penalty": "Death.",
+  "exceptions": "None stated.",
+  "cross_references": [
+    "Exodus 21:17",
+    "Deuteronomy 21:18-21",
+    "Leviticus 20:9",
+    "Proverbs 30:17"
+  ],
+  "nt_passages": [
+    "Matthew 15:3-6 — Jesus cites the parallel cursing statute against the Pharisees' corban practice",
+    "Ephesians 6:1-4 — obedience commanded, but fathers told not to provoke"
+  ],
+  "internal_contradictions": [
+    {
+      "sab_id": "con23",
+      "issue": "Does God approve of capital punishment? A non-lethal assault drawing death sits at the center of the SAB's proportionality case.",
+      "refs": [
+        "Genesis 4:15",
+        "John 8:7"
+      ]
+    }
+  ],
+  "sab_categories": [],
+  "usofc_implementation": "On the books at full capital strength; in practice the DOR charges it and pleads down to Filial Violence with mandatory covenant labor — keeping the death penalty as leverage in every family-violence interrogation. Defense attorneys call the charge 'the Fifth Hammer.'",
+  "agency": "Covenant Courts",
+  "constitutional_analogue": "Eighth Amendment proportionality (Coker v. Georgia line) forbids death for non-homicide offenses; repealed here.",
+  "scene_ideas": [
+    "A son who shoved his violent father during a beating, now facing the Fifth Hammer while the father petitions the court for mercy — and is told the offense is against God, not him.",
+    "A prosecutor's whiteboard: capital charges filed vs. capital sentences sought, the gap being the whole justice system."
+  ],
+  "satirical_uses": [
+    "Elder-abuse by neglect is a misdemeanor; a returned slap is death — the statute protects hierarchy, not parents."
+  ],
+  "bureaucratic_uses": [
+    "Filial Violence plea matrices",
+    "Charge-leverage authorization memos"
+  ],
+  "confidence": "high"
+}
+```

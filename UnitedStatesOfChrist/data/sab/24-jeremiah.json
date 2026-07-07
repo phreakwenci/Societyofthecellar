@@ -1,0 +1,2296 @@
+{
+ "book": "Jeremiah",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.5",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.10",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.11-13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.14-15",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.16",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.19",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.1-19",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.20",
+   "categories": [
+    "Language",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.24-25",
+   "categories": [
+    "Language",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.30",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.32",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1-13",
+   "categories": [
+    "Language",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Injustice",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con144",
+     "title": "144 How long does God\u2019s anger last?"
+    },
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.17",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.20",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is it okay to take oaths?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.4",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.6-8",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.10",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con139",
+     "title": "139 Does God ever lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.25-28",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.3",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.4",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.6",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.7",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.8",
+   "categories": [
+    "Language",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.12-13",
+   "categories": [
+    "Good Stuff",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.15-17",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "15.18",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.31",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.10",
+   "categories": [
+    "Absurdity",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.11-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.12",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.15",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.19",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.21",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.22-23",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.6",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.16",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con319",
+     "title": "319 Should you pray for everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.18",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.20",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con96",
+     "title": "96 Did God command the Israelites to make him burnt offerings?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.29",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.33",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.3",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.10",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.17",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.4-6",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.11",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.15-16",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.21-22",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.25",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.26",
+   "categories": [
+    "Absurdity",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": null,
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con320",
+     "title": "320 Should we look for signs in the heavens?"
+    },
+    {
+     "id": "con4",
+     "title": "4 Does the bible condemn astrology?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.3-4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.5",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.10",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.22",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con158",
+     "title": "158 Do humans have free will?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.25",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.3",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.11",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con319",
+     "title": "319 Should you pray for everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.17",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.20",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.22",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con291",
+     "title": "291 Do evildoers prosper?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.3",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.7-9",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is it OK to swear?."
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.17",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.1-7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.1-7",
+   "categories": [
+    "Absurdity",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.12-14",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.22",
+   "categories": [
+    "Absurdity",
+    "Language",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.26-27",
+   "categories": [
+    "Absurdity",
+    "Language",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.6",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.11-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con176",
+     "title": "176 Does God help those who call upon him?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.14",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.15-16",
+   "categories": [
+    "Cruelty and Violence",
+    "False Prophecy",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.1",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.2-4",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    },
+    {
+     "id": "con116",
+     "title": "116 Does God ever get tired?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.7-9",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.1-7",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.10-11",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Can God see everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.4",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con144",
+     "title": "144 How long does God\u2019s anger last?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.18",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.27",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.1-6",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.8-10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God ever repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.11",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.13",
+   "categories": [
+    "Absurdity",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.16-17",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.21",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.1-10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.3",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.4-9",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.11-13",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.15",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.4-6",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con139",
+     "title": "139 Does God lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.12",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.14-17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.5-7",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con317",
+     "title": "317 Does God ever get furious?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.9-14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.3",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con112",
+     "title": "112 How should strangers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.13",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Is slavery OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.18-19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con267",
+     "title": "267 Where did Jehoiakim die?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.25-30",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.30",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con263",
+     "title": "263 Did Jeconiah have any sons?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.9-14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.11-14",
+   "categories": [
+    "False Prophecy",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con292",
+     "title": "292 Do the wicked prosper?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God see and know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.25-40",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.1-3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.6-11",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 25,
+   "ref": "25.12-13",
+   "categories": [
+    "False Prophecy",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.30-32",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.33-38",
+   "categories": [
+    "Cruelty and Violence",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 26,
+   "ref": "26.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.2-12",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.8",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.1-17",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.12-14",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.16-17",
+   "categories": [
+    "Cruelty and Violence",
+    "False Prophecy",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.17-19",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "False Prophecy",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.21-22",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.32",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Does God punish children for their fathers sins?"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "ref": "30.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con317",
+     "title": "317 Does God ever get furious?"
+    }
+   ]
+  },
+  {
+   "chapter": 31,
+   "ref": "31.15",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.29-30",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are children punished for the sins of their parents?"
+    }
+   ]
+  },
+  {
+   "chapter": 31,
+   "ref": "31.34",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con168",
+     "title": "168 Does God forgive sins?"
+    }
+   ]
+  },
+  {
+   "chapter": 31,
+   "ref": "31.37",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con59",
+     "title": "59 Can God do anything?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.18",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.36",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con59",
+     "title": "59 Can God do anything?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.42",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 33,
+   "ref": "33.5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 33,
+   "ref": "33.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 33,
+   "ref": "33.17",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con256",
+     "title": "256 Did Zedekiah see the king of Babylon?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.4-5",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.8-16",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.17-20",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 35,
+   "ref": "35.16-17",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 36,
+   "ref": "36.3",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 36,
+   "ref": "36.30",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con254",
+     "title": "254 Who succeeded Jehoiakim as king?"
+    }
+   ]
+  },
+  {
+   "chapter": 36,
+   "ref": "36.31",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 38,
+   "ref": "38.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 39,
+   "ref": "39.6-7",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 39,
+   "ref": "39.16",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 40,
+   "ref": "40.2-3",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 42,
+   "ref": "42.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?."
+    }
+   ]
+  },
+  {
+   "chapter": 42,
+   "ref": "42.15-22",
+   "categories": [
+    "Cruelty and Violence",
+    "False Prophecy",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 44,
+   "ref": "44.2-8",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 44,
+   "ref": "44.9-10",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 44,
+   "ref": "44.11-13",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 44,
+   "ref": "44.26",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 44,
+   "ref": "44.27-29",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 45,
+   "ref": "45.5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 46,
+   "ref": "46.8",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 46,
+   "ref": "46.10",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 46,
+   "ref": "46.14",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 46,
+   "ref": "46.15-16",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 46,
+   "ref": "46.25",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 47,
+   "ref": "47.1-2",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 47,
+   "ref": "47.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 48,
+   "ref": "48.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con145",
+     "title": "145 How should the Moabites be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 48,
+   "ref": "48.8-10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 48,
+   "ref": "48.26",
+   "categories": [
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 48,
+   "ref": "48.42-46",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": "49.2",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con146",
+     "title": "146 How should the Ammonites be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 49,
+   "ref": "49.10",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": null,
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": "49.14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": "49.17",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": "49.33",
+   "categories": [
+    "Absurdity",
+    "False Prophecy",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 49,
+   "ref": "49.37",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 50,
+   "ref": "50.21-32",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 50,
+   "ref": "50.32",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 50,
+   "ref": "50.37",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 50,
+   "ref": "50.39",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.3-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.20-25",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.26-64",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.30",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.37-38",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.39-40",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.42",
+   "categories": [
+    "False Prophecy",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.57",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 51,
+   "ref": "51.61-63",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 52,
+   "ref": "52.10-11",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 52,
+   "ref": "52.12-13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con257",
+     "title": "257 On what day did the temple burn?"
+    }
+   ]
+  },
+  {
+   "chapter": 52,
+   "ref": "52.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con258",
+     "title": "258 How high was the chapiter?"
+    }
+   ]
+  },
+  {
+   "chapter": 52,
+   "ref": "52.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con259",
+     "title": "259 How many men were with the king?"
+    }
+   ]
+  },
+  {
+   "chapter": 52,
+   "ref": "52.31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con260",
+     "title": "260 When was Jehoiachin released from prison?"
+    }
+   ]
+  }
+ ]
+}

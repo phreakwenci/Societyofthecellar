@@ -1,0 +1,145 @@
+{
+ "book": "2 Timothy",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1-2",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.9",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con158",
+     "title": "158 Do humans have free will?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con329",
+     "title": "329 Was Joseph the father of Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.12-18",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con468",
+     "title": "468 Should believers discuss their faith with non-believers?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.19",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.24",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.26",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con470",
+     "title": "470 Can the devil capture us at will?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1-3",
+   "categories": [
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.6-7",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con312",
+     "title": "312 If God likes you, will everyone else?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con461",
+     "title": "461 Was all scripture inspired by God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.14-15",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  }
+ ]
+}

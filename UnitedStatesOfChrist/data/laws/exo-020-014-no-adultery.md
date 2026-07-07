@@ -1,0 +1,104 @@
+# No Adultery
+
+> *Thou shalt not commit adultery.*  
+> — Exodus 20:14 (KJV)
+
+| Field | Value |
+|---|---|
+| **ID** | exo-020-014-no-adultery |
+| **Citation** | Exodus 20:14 |
+| **Book** | Exodus |
+| **Chapter** | 20 |
+| **Verses** | 14 |
+| **Testament** | Old |
+| **Categories** | • Sexual<br>• Family<br>• Moral |
+| **Law Type** | prohibition |
+| **Summary** | Prohibits adultery — in its original legal sense, intercourse with another man's wife or betrothed; a property-and-paternity offense against the husband. |
+| **Original Audience** | Israelite men and married/betrothed women; a married man's relations with an unattached woman fell under different, lesser rules. |
+| **Immediate Context** | Seventh commandment; Lev 20:10 and Deut 22:22 supply the death penalty for both parties. |
+| **Historical Context** | ANE codes (Hammurabi 129, Middle Assyrian 13-16) treat adultery similarly but let the husband pardon; biblical law makes it an offense against God that the husband cannot waive. The asymmetry — defined around the woman's status, not the man's — is the law's structural misogyny. |
+| **Penalty** | Death for both parties (Leviticus 20:10, Deuteronomy 22:22). |
+| **Exceptions** | Polygamy and concubinage are lawful for men throughout the Old Testament; the double standard is the exception built in. |
+| **Cross References** | • Leviticus 20:10<br>• Deuteronomy 22:22-29<br>• Numbers 5:11-31 (jealousy ordeal)<br>• Proverbs 6:32 |
+| **Related NT Passages** | • Matthew 5:27-28 — Jesus extends adultery to the lustful look<br>• John 8:3-11 — Jesus declines to stone the adulteress: 'he that is without sin'<br>• Matthew 19:9 — remarriage after divorce as adultery<br>• Hebrews 13:4 — 'whoremongers and adulterers God will judge' |
+| **Internal Contradictions** | • Is it wrong to commit adultery? The command vs. narratives where God gives David his master's wives (2 Sam 12:8) and patriarchal polygamy passes without censure. [2 Samuel 12:8, Exodus 21:10] (con110)<br>• John 8 (the regime's least favorite pericope) shows Jesus nullifying the prescribed stoning — CSC classifies the passage as 'textually disputed,' which is, inconveniently, true. [John 8:3-11, Leviticus 20:10] |
+| **SAB Categories** | — |
+| **USofC Implementation** | Adultery is a Covenant felony prosecuted by the FPA; the two-witness rule makes conviction nearly impossible, so the real instrument is the Numbers 5 jealousy ordeal, revived as a 'voluntary marital integrity screening' whose refusal is admissible. Capital in statute, commuted in practice to Marriage Dissolution with Prejudice — except in election years. |
+| **Agency** | Family Purity Administration (FPA) |
+| **Constitutional Analogue** | Adultery was criminal in many states into the 20th century; Lawrence v. Texas (2003) ended morals policing of private consensual conduct — repealed here. |
+| **Scene Ideas** | • A jealousy-ordeal administration: holy water, floor dust from the Covenant Court, a wife who knows the chemistry is fake and the social verdict is not.<br>• Two co-workers who witnessed an affair deciding whether to become the two witnesses — and learning what corroboration pays.<br>• An FPA prosecutor quietly shelving a case against a Council member's son while the John 8 mural across the street undergoes 'restoration.' |
+| **Satirical Uses** | • Matthew 5:28 makes every citizen guilty; the FPA's founding memo concedes this and recommends 'enforcement at scale is neither possible nor desirable — selectivity is the program.' |
+| **Bureaucratic Uses** | • Marital Integrity Screening consent forms<br>• Witness corroboration bounty schedule<br>• Dissolution with Prejudice registry (public, searchable) |
+| **Confidence** | high |
+
+```json
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "id": "exo-020-014-no-adultery",
+  "title": "No Adultery",
+  "citation": "Exodus 20:14",
+  "chapter": 20,
+  "verses": "14",
+  "categories": [
+    "Sexual",
+    "Family",
+    "Moral"
+  ],
+  "law_type": "prohibition",
+  "kjv_text": "Thou shalt not commit adultery.",
+  "summary": "Prohibits adultery — in its original legal sense, intercourse with another man's wife or betrothed; a property-and-paternity offense against the husband.",
+  "original_audience": "Israelite men and married/betrothed women; a married man's relations with an unattached woman fell under different, lesser rules.",
+  "immediate_context": "Seventh commandment; Lev 20:10 and Deut 22:22 supply the death penalty for both parties.",
+  "historical_context": "ANE codes (Hammurabi 129, Middle Assyrian 13-16) treat adultery similarly but let the husband pardon; biblical law makes it an offense against God that the husband cannot waive. The asymmetry — defined around the woman's status, not the man's — is the law's structural misogyny.",
+  "penalty": "Death for both parties (Leviticus 20:10, Deuteronomy 22:22).",
+  "exceptions": "Polygamy and concubinage are lawful for men throughout the Old Testament; the double standard is the exception built in.",
+  "cross_references": [
+    "Leviticus 20:10",
+    "Deuteronomy 22:22-29",
+    "Numbers 5:11-31 (jealousy ordeal)",
+    "Proverbs 6:32"
+  ],
+  "nt_passages": [
+    "Matthew 5:27-28 — Jesus extends adultery to the lustful look",
+    "John 8:3-11 — Jesus declines to stone the adulteress: 'he that is without sin'",
+    "Matthew 19:9 — remarriage after divorce as adultery",
+    "Hebrews 13:4 — 'whoremongers and adulterers God will judge'"
+  ],
+  "internal_contradictions": [
+    {
+      "sab_id": "con110",
+      "issue": "Is it wrong to commit adultery? The command vs. narratives where God gives David his master's wives (2 Sam 12:8) and patriarchal polygamy passes without censure.",
+      "refs": [
+        "2 Samuel 12:8",
+        "Exodus 21:10"
+      ]
+    },
+    {
+      "issue": "John 8 (the regime's least favorite pericope) shows Jesus nullifying the prescribed stoning — CSC classifies the passage as 'textually disputed,' which is, inconveniently, true.",
+      "refs": [
+        "John 8:3-11",
+        "Leviticus 20:10"
+      ]
+    }
+  ],
+  "sab_categories": [],
+  "usofc_implementation": "Adultery is a Covenant felony prosecuted by the FPA; the two-witness rule makes conviction nearly impossible, so the real instrument is the Numbers 5 jealousy ordeal, revived as a 'voluntary marital integrity screening' whose refusal is admissible. Capital in statute, commuted in practice to Marriage Dissolution with Prejudice — except in election years.",
+  "agency": "Family Purity Administration (FPA)",
+  "constitutional_analogue": "Adultery was criminal in many states into the 20th century; Lawrence v. Texas (2003) ended morals policing of private consensual conduct — repealed here.",
+  "scene_ideas": [
+    "A jealousy-ordeal administration: holy water, floor dust from the Covenant Court, a wife who knows the chemistry is fake and the social verdict is not.",
+    "Two co-workers who witnessed an affair deciding whether to become the two witnesses — and learning what corroboration pays.",
+    "An FPA prosecutor quietly shelving a case against a Council member's son while the John 8 mural across the street undergoes 'restoration.'"
+  ],
+  "satirical_uses": [
+    "Matthew 5:28 makes every citizen guilty; the FPA's founding memo concedes this and recommends 'enforcement at scale is neither possible nor desirable — selectivity is the program.'"
+  ],
+  "bureaucratic_uses": [
+    "Marital Integrity Screening consent forms",
+    "Witness corroboration bounty schedule",
+    "Dissolution with Prejudice registry (public, searchable)"
+  ],
+  "confidence": "high"
+}
+```
