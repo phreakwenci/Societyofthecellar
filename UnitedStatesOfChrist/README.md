@@ -48,7 +48,13 @@ counsel). The status distribution is the regime's fingerprint.
 
 `docs/Constitution.md` is the full Constitution of the United States of
 Christ built on that corpus — every clause cites its scriptural warrant,
-with the contradictions deliberately embedded for dramatic use.
+with the contradictions deliberately embedded for dramatic use. Two
+companion docs analyze it: `docs/ConstitutionalModel.md` (what real
+traditions it's built from — American/Confederate form, Iranian clerical
+machinery, Puritan franchise, Hungarian origin, and the four scholarly
+schools that fought over it) and `docs/ConstitutionalHistory.md` (how its
+meaning drifts toward clerical supremacy over the first decade without a
+word of the text changing).
 
 Rebuild after editing catalog parts: `python3 tools/build_catalog.py`
 (fails unless the OT count is exactly 613).
@@ -60,5 +66,6 @@ Rebuild after editing catalog parts: `python3 tools/build_catalog.py`
 - [x] Seed deep extraction: Exodus 20 (Decalogue) + Exodus 21 (Covenant Code)
 - [x] Full catalog: 613 Torah commandments + 109 NT norms, all assigned
 - [x] Constitution of the United States of Christ
+- [x] Constitutional model + 10-year drift history (comparative foundations)
 - [ ] Deep records for remaining catalog entries (use `/extract-biblical-law`)
 - [ ] Federal Code sections per law (use `/convert-to-federal-law`)

@@ -14,7 +14,20 @@ and one telling institutional detail.
 - **Council of Overseers (COO)** — twelve-member clerical senate that
   certifies all legislation as "consonant with Scripture." The real
   supreme court. Seats are held for life, denominationally apportioned by
-  a formula everyone disputes (see docs/DenominationalNotes.md).
+  a formula everyone disputes (see docs/DenominationalNotes.md). Modeled
+  on Iran's Guardian Council (see docs/ConstitutionalModel.md).
+- **The Chief Overseer** — presiding chair of the Council; head of the
+  clerical apparatus. On paper a first-among-equals; in fact the office
+  the Supremacy Crisis grew into a Supreme Leader in all but the title the
+  regime is still too American to use (see docs/ConstitutionalHistory.md).
+  The manslayer in a City of Refuge waits out *this* man's lifespan
+  (Const. Art. IV §5), which makes his annual physical a national market
+  event.
+- **The Assembly of the Seventy** — the reserve body of Num 11:16 that the
+  Constitution kept "unconvened, its roll the true map of power"
+  (Art. III §2), activated during the Supremacy Crisis to elect and (in
+  unexercised theory) remove the Chief Overseer. The USofC's Assembly of
+  Experts. Convening it turned a secret list into a standing power.
 - **Covenant Courts** — the judiciary. Trial courts sit "at the gate"
   (Deut 21:19 — every county courthouse has a ceremonial Gate Room).
   Two-witness rule applies (Deut 19:15), which shapes everything about
@@ -80,7 +93,11 @@ and one telling institutional detail.
 
 - **Committee on Scriptural Consistency (CSC)** — reports to the COO;
   quietly harmonizes contradictions before they reach the courts. The
-  most classified body in the government.
+  most classified body in the government. Modeled on Iran's Expediency
+  Discernment Council. Its "Cornerstone Certifications" — rulings
+  entrenched behind a future supermajority, so this Council's readings
+  become the next Council's constitution — are the USofC's version of
+  Hungary's cardinal laws (see docs/ConstitutionalHistory.md).
 - **National Devotion Service (NDS)** — youth service corps; scripture
   memorization quotas, public confession assemblies.
 - **The Propaganda organ: *The Daily Manna*** — state media. Masthead
