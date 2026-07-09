@@ -68,5 +68,6 @@ Rebuild after editing catalog parts: `python3 tools/build_catalog.py`
 - [x] Constitution of the United States of Christ
 - [x] Constitutional model + 10-year drift history (Brexit origin)
 - [x] State Doctrine (governance model) + Play Bible (`United States of Christ`)
+- [x] Legal reasoning: `/adjudicate-case` skill + Case Law reporter
 - [ ] Deep records for remaining catalog entries (use `/extract-biblical-law`)
 - [ ] Federal Code sections per law (use `/convert-to-federal-law`)

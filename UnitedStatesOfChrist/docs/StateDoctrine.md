@@ -319,6 +319,38 @@ report (his own son), a witness, a charge (unleavened cookies, smuggled
 letters), a tribunal. The horror is that it is *lawful*, and that at a
 higher Degree it would have been a fine.
 
+### 10a. The household-informant exception (Sanctity Offenses)
+
+The two-witness rule (Deut 19:15, Art. IV §2) is the system's stated
+bedrock — but it has one **grounded, load-bearing exception**, and it is
+not an invention of convenience: **Deuteronomy 13:6-11**, already in the
+Catalog (`data/catalog/ot-part1.json` — "Do not entice others to
+idolatry," "Show the enticer no pity; expose him," "Do not love or heed
+the enticer"). That statute makes a family member who entices another
+toward apostasy an obligatory informant — kinship is not a disqualifying
+relation there; if anything it is the *presumed* witness, and the text is
+explicit that pity or affection for the enticer aggravates rather than
+excuses ("thine eye shall not pity him... thine hand shall be first upon
+him," Deut 13:8-9).
+
+The USOC's courts have read this forward: for a defined class of
+**Sanctity Offenses** — apostasy, idolatry, blasphemy, and (by later
+extension) ritual-purity violations touching the household directly, such
+as the holy-week leaven laws — **a single household member's testimony is
+sufficient**, without the ordinary corroborating second witness. The
+doctrine is officially named narrowly and defended as an extension of a
+clear scriptural rule, not an erosion of one. In practice it is the
+regime's most efficient instrument: it converts every household into a
+tribunal of one, and it is *specifically* calibrated to the offenses a
+family is most likely to witness only in private — a father alone with a
+tray of forbidden cookies, a mother's private doubt spoken aloud.
+
+*Drives:* this is the statute, not a plot convenience, that makes the
+ending real. The youngest son's report is not "just" betrayal — it is the
+system's design working exactly as the Reformed bloc (which controls the
+CSC) intended when it certified the extension. No second witness is
+needed because none was ever meant to be.
+
 ---
 
 ## 11. Immigration — Title XI, the real argument onstage
@@ -346,7 +378,7 @@ must choose the "bastion of sin" over the covenant.
 
 | Family member | The doctrine that destroys them |
 |---|---|
-| **Father** | §10 due process (lawful, tiered) + §5 the Manna (his letters/cookies logged) + §3 he was never rich enough |
+| **Father** | §10a the household-informant exception (his own son suffices as sole witness) + §5 the Manna (his letters/cookies logged) + §3 he was never rich enough |
 | **Mother (trad-wife)** | §8 headship (her intervention = sedition) + §9 race (deported *to Liberia*) |
 | **Teenage son** | §11 immigration (loves a stranger) + §1 tribal geography (flees west) |
 | **Teenage daughter** | §7 reproductive doctrine (Ex 21:22 + Num 5 written on her body) + §8 the autonomous-woman problem |

@@ -8,7 +8,8 @@ Two things live here:
    extracts every law in the Bible into structured records for a satirical
    American-theocracy setting. Read `UnitedStatesOfChrist/CLAUDE.md`
    before working there. Project skills: `/extract-biblical-law`,
-   `/convert-to-federal-law`, `/detect-contradictions`.
+   `/convert-to-federal-law`, `/detect-contradictions`,
+   `/adjudicate-case`.
 
 Copyright note: never commit the Skeptic's Annotated Bible EPUB or its
 commentary prose (`UnitedStatesOfChrist/data/sab_full/` is gitignored).

@@ -5,7 +5,7 @@ describes the fixed world), this document is **built to change**: scenes and
 characters will be added and revised constantly. It is structured so that
 updates are easy and every update is dated and tracked.*
 
-**Status:** v0.1 — seed · **Last updated:** 2026-07-09
+**Status:** v0.2 — seed · **Last updated:** 2026-07-09
 
 ---
 
@@ -42,6 +42,7 @@ minting a new one.
 | Date | Version | Change |
 |---|---|---|
 | 2026-07-09 | v0.1 | Initial seed: logline, themes, 9 characters (CH-01…CH-09), Year 1/5/10 beat sheet, SCENE-001 (the Ordeal) drafted, SCENE-002/003 seeded, doctrine cross-refs, open threads, ID registry. Built from the author's rough play outline. |
+| 2026-07-09 | v0.2 | New capability: `/adjudicate-case` skill + `CaseLaw.md` reporter. SCENE-002 bumped seed→draft with a full legal brief (CASE-002) and a comparison hypothetical (CASE-001). Companion addition to `StateDoctrine.md` §10a (household-informant exception, Deut 13:8-9) formalizing why the two-witness rule doesn't save the father. |
 
 ---
 
@@ -284,13 +285,23 @@ is the point.
 ordered "ordeal"); how much is shown vs. reported. See OT-5.*
 
 ### SCENE-002 · The Cookies (climax)
-*Added 2026-07-09 · Updated 2026-07-09 · Status: seed · Beats: B10.3*
+*Added 2026-07-09 · Updated 2026-07-09 · Status: draft · Beats: B10.3*
 The father bakes his late wife's cookies during the unleavened holy week
 (`exo-012-015-purge-the-leaven`) — the tenderest act in the play, a man
 grieving through a recipe — and the youngest son reports him. Authorities
 arrive, find the cookies (a "cutting off" offense) *and* the smuggled
 letters. The smallest, most domestic law destroys the deepest love.
-*To draft.*
+
+**Legal skeleton drafted:** see `CaseLaw.md` **CASE-002**, which works the
+full charges/defenses/denominational-split/predicted-ruling for this exact
+scene — including why the two-witness rule doesn't save him (the son is a
+sufficient sole witness under the household-informant exception,
+`StateDoctrine.md` §10a) and why the smuggled letters, not the cookies,
+are what actually seals the sentence. Compare **CASE-001** (a hypothetical
+"dying wife" necessity variant of the same statute) to see that even the
+*strongest* available defense likely still loses at this family's tier —
+this scene is the weaker-defense version, confirming the ending is legally
+overdetermined, not a plot hole.
 
 ### SCENE-003 · Referendum Night (possible opening)
 *Added 2026-07-09 · Updated 2026-07-09 · Status: seed*
@@ -318,9 +329,14 @@ records and USOC-implementation notes:
 - **Citizenship / the covenant sign** (BRC):
   `gen-017-010-circumcision-covenant-sign`.
 - **Governance the play assumes:** `StateDoctrine.md` in full.
+- **Legal reasoning over any scene:** `CaseLaw.md` — CASE-001 (necessity
+  hypothetical), CASE-002 (SCENE-002's actual legal brief). Run
+  `/adjudicate-case` on any beat to generate charges, defenses,
+  denominational split, and a predicted ruling.
 
 *When the play needs a new law, run `/extract-biblical-law` to add a deep
-record, then link it here.*
+record, then link it here. When a scene needs its legal mechanics worked
+out, run `/adjudicate-case` and log the result in `CaseLaw.md`.*
 
 ---
 
