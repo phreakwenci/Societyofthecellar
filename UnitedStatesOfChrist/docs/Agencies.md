@@ -87,7 +87,16 @@ and one telling institutional detail.
 - **Bureau of Ritual Cleanliness (BRC)** — purity administration: the
   sundown clock, quarantine (the Dermatological Adjudication Corps),
   shatnez fiber certification, municipal Purification Baths, and the
-  hyssop-and-scarlet condemnation ribbon mortgage lenders fear.
+  hyssop-and-scarlet condemnation ribbon mortgage lenders fear. Also
+  administers the eighth-day circumcision registry — the covenant sign
+  that is, in practice, the male citizenship record.
+- **Bureau of Daily Bread (BDB)** — the ration authority: government-issued
+  flour, the same-day anti-hoarding rule (Ex 16:19), the leaven purge
+  during holy weeks (Ex 12:15), and the "Idleness Loaf" policy that ties
+  bread rations to registered-worker status. Bread is issued through the
+  Manna platform, so the BDB is where hunger, work, and the moral-credit
+  score meet. Its posters ("Holy Bread Only! / Daily Obedience, Daily
+  Manna") are the most-seen state art in the country.
 
 ## Independent and quasi-official
 

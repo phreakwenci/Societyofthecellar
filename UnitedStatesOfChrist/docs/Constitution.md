@@ -8,9 +8,10 @@ is in the Catalog (`data/catalog/CATALOG.md`).*
 *This is the **Year-0 artifact**: the founding compromise text as
 ratified, preserved unchanged. What constitutional traditions it is built
 from — American/Confederate form, Iranian clerical machinery, Puritan
-franchise, Hungarian origin — is analyzed in `ConstitutionalModel.md`.
-How its meaning drifts over the first decade without a word of the text
-changing is traced in `ConstitutionalHistory.md`.*
+franchise, and a Brexit-style referendum origin hardening into Hungarian
+capture — is analyzed in `ConstitutionalModel.md`. How its meaning drifts
+over the first decade without a word of the text changing is traced in
+`ConstitutionalHistory.md`.*
 
 ---
 

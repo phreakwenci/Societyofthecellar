@@ -51,8 +51,8 @@ Christ built on that corpus — every clause cites its scriptural warrant,
 with the contradictions deliberately embedded for dramatic use. Two
 companion docs analyze it: `docs/ConstitutionalModel.md` (what real
 traditions it's built from — American/Confederate form, Iranian clerical
-machinery, Puritan franchise, Hungarian origin, and the four scholarly
-schools that fought over it) and `docs/ConstitutionalHistory.md` (how its
+machinery, Puritan franchise, a Brexit-style referendum origin, and the
+four scholarly schools that fought over it) and `docs/ConstitutionalHistory.md` (how its
 meaning drifts toward clerical supremacy over the first decade without a
 word of the text changing).
 

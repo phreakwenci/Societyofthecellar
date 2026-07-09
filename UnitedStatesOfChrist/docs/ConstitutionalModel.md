@@ -15,7 +15,7 @@ constitution from nothing. It writes the one it already has in its hands,
 and edits. So the Constitution of the United States of Christ is a
 **palimpsest** — American parchment, scraped and overwritten, with the old
 script still legible underneath. Its genius, and its instability, is that
-it borrows a different thing from each of five traditions and pretends
+it borrows a different thing from each of four traditions and pretends
 they are one.
 
 Read the layers from the outside in:
@@ -99,53 +99,47 @@ people who built it are not cynics playing Iran; they are believers playing
 Winthrop, which is far more dangerous, because a cynic can be bargained
 with and a covenanter cannot.
 
-### 4. Origin mechanism → Hungary (2011)
+### 4. Origin mechanism → Brexit (2016), hardening into Hungary (2011)
 
-The *how* — how a constitutional democracy becomes this without a
-revolution — is Hungarian. Iran needed a revolution and a fallen monarchy.
-The USofC needed only what Viktor Orbán's Fidesz demonstrated with the 2011
-**Fundamental Law**: win a convention lawfully, and rewrite the rules from
-inside the rules.
+The *how* — how a nation leaves one order and enters another without a
+revolution — is **Brexit**, not a coup. Secession from the United States
+came the way Britain left the European Union: **by referendum.** A single
+national vote, a propaganda campaign, a narrow margin, and then years of
+messy extraction whose real cost only became visible a decade on.
 
-The Hungarian playbook, feature for feature:
+The Brexit playbook, feature for feature:
 
-- A **captured convention** — called for narrower, plausible reasons, then
-  used to replace the whole order. (The USofC's Covenant Convention was not,
-  at first, advertised as what it became.)
-- A **Christian-nationalist preamble** — Hungary's "National Avowal"
-  invokes God, Saint Stephen's crown, and the nation's Christian roots. The
-  USofC Preamble does the same work in the King James register.
-- **Cardinal laws** — statutes entrenched behind a two-thirds supermajority,
-  so that one government's policy becomes the next government's
-  constitution. (In the USofC these become **Cornerstone Certifications** —
-  see `ConstitutionalHistory.md`.)
-- **Court capture** — pack and jurisdiction-strip the constitutional court
-  until review is friendly.
+- A **referendum**, not a convention first. The people were *asked* — "shall
+  the nation return to God and leave the secular union?" — and answered.
+  Everything the regime does afterward rests on that Yes. The Covenant
+  Referendum is the regime's unanswerable card: *you voted for this.*
+- A **sovereignty slogan** doing enormous work. "Take Back Control" becomes
+  **"Take Back the Nation for Christ"**; a bewildering constitutional
+  rupture is sold as a simple act of restoration. The bus, the border
+  poster, the promise that the tithe would fund every hospital — each has a
+  scriptural analogue, and each outran its own fine print.
+- A **margin, not a mandate.** It won ~52–48, and — unlike Brexit, which
+  split by *place* — this split by *belief*, so the fault line ran through
+  congregations and kitchens, not regions. Half the country is governed by
+  a covenant it voted against.
+- A **long, disillusioning extraction.** Disentangling from federal law,
+  currency, courts, and trade took years; the shortages, the exit of the
+  skilled and the doubtful, the slow admission that it cost more than the
+  bus promised — all of it maps onto Brexit's real afterlife, and all of it
+  is denied by a political class for whom reversal is now heresy.
 
-This is capture, not coup — legal at every step, which is exactly why it
-holds. Nobody can point to the day the tanks rolled, because none did.
+**Then Hungary.** Once *outside*, the internal capture followed Orbán's 2011
+**Fundamental Law**: a Christian-nationalist preamble, courts packed, and
+**cardinal laws** — statutes entrenched behind a supermajority so that one
+government's policy becomes the next government's constitution. In the USofC
+these become **Cornerstone Certifications** (`ConstitutionalHistory.md`).
+Brexit got the nation *out*; Hungary is how the people who ran the Leave
+campaign made the new order impossible to leave in turn.
 
-*Why it matters dramatically:* the horror is procedural. Every villain has
-a citation. The country was lost in committee, on the record, by
-supermajority, and the minutes are public.
-
-### 5. The road not taken → Israel
-
-The USofC defined itself partly by a model it **rejected**: Israel, the
-one modern state that is confessional and democratic and has *no single
-written constitution* — only accumulating **Basic Laws**, religious courts
-governing personal status (marriage, divorce) inside an otherwise secular
-system, and the founding tension between "Jewish" and "democratic" left
-permanently, deliberately unresolved.
-
-The USofC founders looked at that unresolution and recoiled. A covenant
-cannot be provisional; a people cannot be *and*-ed to God. Where Israel
-chose to leave the central question open and argue it forever, the USofC
-chose to close it — "biblical," full stop, no conjunction — and wrote the
-closing into Article I. That choice is the country's original sin and its
-founding scene: the delegate who moved to adopt "the Israeli solution,"
-Basic Laws and unresolved identity and all, is remembered (when remembered)
-as the man who wanted the nation to be only half-married to God.
+*Why it matters dramatically:* the horror begins with a *ballot*. There is
+no junta to blame, no day the tanks rolled — only a majority, on a Tuesday,
+and the neighbors who voted the other way and were governed anyway. Every
+character either voted for this or lives among those who did.
 
 ---
 
@@ -165,8 +159,11 @@ as the man who wanted the nation to be only half-married to God.
 The USofC's row is not any single other row. It is the **top of the Iran
 column** (clerical supremacy), the **form of the Confederate column**
 (inherited American text), the **franchise of the Massachusetts column**,
-the **origin story of the Hungary column**, and the **deliberate opposite
-of the Israel column**. That is the palimpsest, tabulated.
+and the **entrenchment of the Hungary column** — arrived at by a Brexit-
+style referendum no constitution table can capture, because Brexit was a
+*process*, not a charter. That is the palimpsest, tabulated. (Israel is
+left in the table as a contrast — the confessional state that *declined* a
+single written constitution — not as a road the USofC agonized over.)
 
 ---
 
@@ -254,11 +251,11 @@ The palimpsest is a plot generator. Any scene can be located by asking
   Council on a sealed CSC finding — the middle layer asserting itself.
 - A Puritan-mythology scene: a Covenant Renewal assembly, sincere and vast,
   Winthrop's sermon read aloud — the regime meaning every word.
-- A Hungarian-origin scene: a committee markup where a Cornerstone
-  Certification is entrenched by supermajority — the country being lost on
-  the record.
-- An Israel-rejected scene: an underground salon re-arguing the
-  Basic-Laws road not taken — the ghost of the open question.
+- A Brexit-origin scene: referendum night, the Leave party, the slogan on
+  the wall — a family cheering the vote that will take each of them in turn.
+- A Hungarian-capture scene: a committee markup where a Cornerstone
+  Certification is entrenched by supermajority — the country being made
+  impossible to leave, on the record.
 
 The best scenes are where two layers contradict in the same room: the
 sincere covenanter (Layer 3) operating the clerical veto (Layer 2) through

@@ -1,0 +1,68 @@
+{
+  "id": "num-005-011-jealousy-ordeal-sotah",
+  "title": "The Ordeal of Jealousy (the Bitter Water)",
+  "citation": "Numbers 5:11-31",
+  "book": "Numbers",
+  "chapter": 5,
+  "verses": "11-31",
+  "testament": "Old",
+  "categories": [
+    "Judicial",
+    "Sexual",
+    "Family",
+    "Religious"
+  ],
+  "law_type": "ritual",
+  "kjv_text": "If any man's wife go aside... and there be no witness against her... and the spirit of jealousy come upon him... the priest shall... cause the woman to drink the bitter water that causeth the curse... if she be defiled... her belly shall swell, and her thigh shall rot... And if the woman be not defiled... then she shall be free, and shall conceive seed.",
+  "summary": "A husband who suspects his wife of adultery but has no witnesses brings her to the priest, who makes her drink 'bitter water'; guilt manifests as her 'belly swelling and thigh rotting' (traditionally read as a state-induced miscarriage or reproductive ruin), innocence as fertility.",
+  "original_audience": "Israelite husbands and their wives; a trial-by-ordeal for the one crime the two-witness rule could not reach.",
+  "immediate_context": "Given among purity laws in Numbers 5; the only trial-by-ordeal in the Torah, and the only law triggered by a *feeling* ('the spirit of jealousy'), needing no evidence.",
+  "historical_context": "Trial by ordeal appears across ancient law (the Code of Hammurabi has a river ordeal for the suspected wife, CH 132). The sotah is unique in making God the direct agent and the priest the administrator. Rabbinic tradition (Mishnah Sotah) says the rite was abolished when adultery became common — i.e., the ordeal was retired by the tradition itself. Read plainly, it is the state ritually ending a pregnancy it deems illegitimate.",
+  "penalty": "For the 'guilty': the belly to swell and the thigh to rot — reproductive destruction, and to 'be a curse among her people.' For the husband: 'the man shall be guiltless' regardless of outcome.",
+  "exceptions": "The rabbis abolished it. The husband bears no cost for a false accusation — the asymmetry is total.",
+  "cross_references": [
+    "Exodus 20:14",
+    "Leviticus 20:10",
+    "Deuteronomy 22:13-21",
+    "Exodus 21:22-25"
+  ],
+  "nt_passages": [
+    "John 8:3-11 — Jesus refuses to administer the adultery penalty ('he that is without sin')",
+    "Matthew 1:19 — Joseph, 'not willing to make her a public example,' declines the sotah logic toward Mary"
+  ],
+  "internal_contradictions": [
+    {
+      "issue": "The state ritually causes the 'belly to swell and thigh to rot' — an induced reproductive catastrophe — while Exodus 21:22 treats causing a woman's miscarriage as a finable or capital wrong. The same code both performs and punishes ending a pregnancy, depending on who does it and why.",
+      "refs": [
+        "Exodus 21:22-25",
+        "Numbers 5:27"
+      ]
+    },
+    {
+      "issue": "A law triggered by 'the spirit of jealousy' with 'no witness' is the exact inverse of the two-witness rule (Deut 19:15) the regime calls the foundation of justice.",
+      "refs": [
+        "Deuteronomy 19:15"
+      ]
+    }
+  ],
+  "sab_categories": [
+    "Misogyny"
+  ],
+  "usofc_implementation": "Revived by the Family Purity Administration as 'voluntary marital integrity screening' — a modern ordeal (a supervised regimen, a monitored outcome) a husband may demand and a wife may not refuse without the refusal being admissible against her. It is the state's answer to adultery cases the two-witness rule cannot prove: where evidence fails, the ordeal begins, and the woman's body is the verdict. Because it needs no witness, it is the instrument of choice against inconvenient women.",
+  "agency": "Family Purity Administration (FPA)",
+  "constitutional_analogue": "Trial by ordeal — abolished in English law by 1219; its revival annuls the presumption of innocence, the evidentiary standard, and bodily-integrity due process at once.",
+  "scene_ideas": [
+    "The daughter, back from the camp and pregnant by an assault, is subjected to the ordeal to 'establish' whether the pregnancy is a punishment or a curse — the state adjudicating the rape it caused, on her body.",
+    "A husband invokes the screening against a wife who has done nothing, and the audience watches a marriage end by a rite that requires no evidence.",
+    "An FPA administrator who has stopped believing, filling out the outcome form with a shaking hand."
+  ],
+  "satirical_uses": [
+    "The regime that made the two-witness rule sacred keeps one law that needs no witness at all — reserved, precisely, for women."
+  ],
+  "bureaucratic_uses": [
+    "Marital Integrity Screening consent forms (refusal admissible)",
+    "the ordeal-outcome determination",
+    "jealousy-petition intake (Form FPA-5)"
+  ],
+  "confidence": "high"
+}

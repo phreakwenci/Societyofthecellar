@@ -48,7 +48,8 @@ TITLES = {
 }
 STATUSES = {"enforced", "adapted", "deferred", "abeyance", "classified", "omitted", "counsel"}
 AGENCIES = {"POTC", "COO", "CC", "DOR", "DOW", "TFRS", "DFO", "DLJ", "BSO", "OIP",
-            "SSC", "FPA", "BWM", "RA", "OSO", "CSC", "NDS", "MCD", "TRA", "AHS", "BRC"}
+            "SSC", "FPA", "BWM", "RA", "OSO", "CSC", "NDS", "MCD", "TRA", "AHS", "BRC",
+            "BDB"}
 
 
 def load(path):

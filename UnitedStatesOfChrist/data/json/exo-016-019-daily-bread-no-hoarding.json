@@ -1,0 +1,59 @@
+{
+  "id": "exo-016-019-daily-bread-no-hoarding",
+  "title": "Gather Daily, Leave None Till Morning (the Manna Rule)",
+  "citation": "Exodus 16:19-20",
+  "book": "Exodus",
+  "chapter": 16,
+  "verses": "19-20",
+  "testament": "Old",
+  "categories": [
+    "Economic",
+    "Ceremonial"
+  ],
+  "law_type": "statute",
+  "kjv_text": "And Moses said, Let no man leave of it till the morning. Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them.",
+  "summary": "The manna in the wilderness had to be gathered daily and eaten the same day; what was hoarded 'bred worms and stank.' A law of daily dependence and against accumulation.",
+  "original_audience": "Israel in the wilderness, fed by daily manna and taught daily reliance on God (with a double portion before the sabbath).",
+  "immediate_context": "Exodus 16, the manna narrative; the rule teaches dependence and prefigures 'give us this day our daily bread.' A double portion is provided for the sabbath — the one permitted 'hoard.'",
+  "historical_context": "The manna economy is the Bible's anti-accumulation parable: enough for today, nothing stored, no advantage to the strong gatherer ('he that gathered much had nothing over,' 16:18) — which Paul cites for economic equality (2 Cor 8:15). It is the scriptural opposite of a market in grain.",
+  "penalty": "The hoarded portion spoils — 'bred worms, and stank.' The punishment is built into the bread.",
+  "exceptions": "The sabbath double portion (Ex 16:22-26), which did not spoil — the one sanctioned store.",
+  "cross_references": [
+    "Exodus 16:16-26",
+    "2 Corinthians 8:15",
+    "Matthew 6:11",
+    "Proverbs 30:8"
+  ],
+  "nt_passages": [
+    "Matthew 6:11 — 'Give us this day our daily bread'",
+    "2 Corinthians 8:15 — 'he that had gathered much had nothing over,' cited for equality",
+    "Luke 12:16-21 — the rich fool who built bigger barns to hoard"
+  ],
+  "internal_contradictions": [
+    {
+      "issue": "The manna rule is a divine argument *against* accumulation and *for* equal daily provision (2 Cor 8:15) — which the USOC inverts into a rationing-and-scarcity control while its prosperity clergy build exactly the bigger barns Luke 12 condemns.",
+      "refs": [
+        "2 Corinthians 8:15",
+        "Luke 12:16-21"
+      ]
+    }
+  ],
+  "sab_categories": [],
+  "usofc_implementation": "The scriptural charter of the ration system. The Bureau of Daily Bread issues bread against the Manna platform on a same-day basis: rations must be collected and consumed the day they are issued (the anti-hoarding rule, 'lest it breed worms'), and unused allocation simply lapses — you cannot save, stockpile, or transfer. Tied to it is the 'Idleness Loaf' policy (only registered workers draw a full ration; cf. 2 Thess 3:10) and a holy-week suspension. A humane parable of daily provision becomes an instrument of daily dependence: no citizen can accumulate enough to be independent of the state for even a week — except the wealthy, whose 'sabbath double portion' exemptions never lapse.",
+  "agency": "Bureau of Daily Bread (BDB)",
+  "constitutional_analogue": "Rationing law fused with anti-hoarding decree; the same-day-lapse mechanic is a food-based social-credit throttle with no secular equivalent outside siege or famine command economies.",
+  "scene_ideas": [
+    "The family's ration lapses because the mother was detained past sundown collecting it — a day's hunger as a bureaucratic side effect.",
+    "A black market in 'yesterday's bread' — the smell of the spoiled hoard as the smell of resistance.",
+    "The wealthy family's pantry, full and lawful under a 'sabbath double portion' exemption, glimpsed in Act 1 and understood only in Act 2."
+  ],
+  "satirical_uses": [
+    "A parable against hoarding, run by a clergy that hoards, enforced against a people who cannot — 'daily bread' as a leash."
+  ],
+  "bureaucratic_uses": [
+    "same-day ration issuance and lapse (the Manna platform)",
+    "the Idleness Loaf registered-worker gate",
+    "sabbath double-portion exemptions for high tiers"
+  ],
+  "confidence": "high"
+}

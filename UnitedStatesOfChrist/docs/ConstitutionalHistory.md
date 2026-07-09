@@ -23,24 +23,58 @@ operating the Iranian machinery), until the drift reached the one
 contradiction it could not certify away, and stopped there.**
 
 ```
-Yr 0        Yr 1–3          Yr 3–5           Yr 5–7            Yr 7–10
-Founding →  Certification → Supremacy     → Theonomist     → Inflection
-(capture)   creep            Crisis           Schism           (unresolved)
-Schools     courts packed,   Council eats     "abolish the     the fugitive-
-III+IV win  rights read      the Presidency   constitution"    verse detonates;
-the text    out of force     (velayat drift)  paradox breaks   what gives?
+Yr −2→0       Yr 0        Yr 1–3         Yr 3–5          Yr 5–7          Yr 7–10
+Referendum →  Founding →  Certification→ Supremacy    → Theonomist   → Inflection
+& the Leave   (convention) creep          Crisis          Schism          (unresolved)
+the people    Schools     rights read    Council eats    "abolish the    the fugitive-
+vote Yes;     III+IV win  out of force   the Presidency  constitution"   verse detonates;
+messy exit    the text                   (velayat drift) paradox breaks  what gives?
 ```
+
+The models, in time order (`ConstitutionalModel.md`): **Brexit** takes the
+nation *out* (the Referendum); **Confederate/American** form supplies the
+founding text; **Hungary** makes the new order impossible to leave (the
+capture); **Iran** is the long clerical drift; **Massachusetts Bay** is the
+self-image running under all of it.
 
 ---
 
-## Year 0 — The Captured Convention
+## Before Year 0 — The Referendum and the Leave
 
-The Covenant Convention was called for narrower reasons — the record says
-"to restore the moral foundations," a phrase that meant different things to
-each bloc and was chosen because it did. It was not advertised as a
-refounding. It became one in the third week, when the Covenant Amendment
-(now **Article I §1**) carried, and the question shifted from *whether*
-Scripture was supreme to *who* would say what Scripture meant.
+The United States of Christ did not begin with a convention. It began with
+a **vote.** The Covenant Referendum asked the nation a single question —
+*shall the people return to God and leave the secular union?* — and the
+Leave campaign ran it the way Britain's ran Brexit: a sovereignty slogan
+(**"Take Back the Nation for Christ"**), a bus (the tithe "will fund every
+church and hospital"), a border poster (decline at the gates), and a
+"Project Fear" the faithful were catechized to dismiss.
+
+It won by a **margin, not a mandate** — roughly 52–48. And where Brexit
+split by region, this split by *belief*: the line ran through
+congregations, marriages, and dinner tables, so that from the first day
+half the country was governed by a covenant it had voted against. Then came
+the **Leave** itself — years of disentangling from federal law, currency,
+courts, and trade; the exit of the skilled and the doubtful; shortages the
+bus had not mentioned; and a growing, unsayable suspicion that it had cost
+more than promised. None of it could be reversed, because reversal had
+already become heresy. The referendum is the regime's permanent,
+unanswerable card: **you voted for this.**
+
+*This is the play's Year 0-minus.* The family cheered on referendum night.
+Everything the decade does to them, they chose — which is the wound nothing
+in the story ever heals.
+
+---
+
+## Year 0 — The Convention
+
+Convened on the referendum's mandate, the Covenant Convention was billed
+narrowly — the record says "to restore the moral foundations," a phrase
+that meant different things to each bloc and was chosen because it did. It
+was not advertised as a refounding. It became one in the third week, when
+the Covenant Amendment (now **Article I §1**) carried, and the question
+shifted from *whether* Scripture was supreme to *who* would say what
+Scripture meant.
 
 What was ratified was a **compromise document** (see the four schools in
 `ConstitutionalModel.md`): a standing Council of Overseers (the
@@ -55,8 +89,8 @@ the Third, Seventh, Tenth, Fourth (as a pledge-seizure warrant rule),
 Eighth (as the Forty Stripes Clause), Thirteenth, Nineteenth, and
 Twenty-First amendments — so that a citizen reading the founding text saw
 mostly his own country, lightly edited. This was the Confederate method
-(`ConstitutionalModel.md`, Layer 1) and the Hungarian method
-(Layer 4) at once: inherit the forms, and let time do the overwriting.
+(`ConstitutionalModel.md`, Layer 1) and the Hungarian capture (Layer 4) at
+once: inherit the forms, and let time do the overwriting.
 
 Ratified by nine Tribes answering *Amen* after the manner of Ebal
 (Const., Schedule). The curses were louder. Everyone noted it; no one
