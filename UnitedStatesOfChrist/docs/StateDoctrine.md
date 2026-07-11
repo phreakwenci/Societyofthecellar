@@ -83,6 +83,36 @@ a claim on him from before memory. When the father is taken, the child
 isn't orphaned — he *reverts to his true guardian*, the state that marked
 him.
 
+### 2a. Returning citizens — contamination by proxy
+
+The covenant sign gates entry once, at birth. It does not, on its own,
+guarantee a citizen may **re-enter** the covenant community after
+extended time among "the heathen nations" — a category that in practice
+covers actual foreign nations and, functionally, the west-coast Tribes
+(§1). The doctrine is grounded, not invented: **Ezra 9-10**
+(`ezr-009-001-holy-seed-mingled`) holds that sustained contact with the
+peoples of other lands defiles "the holy seed" independent of any
+specific act of apostasy — Ezra's returned exiles are made to put away
+foreign wives and the children born of them, on contact alone. **Haggai
+2:11-13** (`hag-002-011-contagious-uncleanness`) supplies the mechanism as
+an explicit priestly ruling: holiness does not transmit by touch, but
+uncleanness always does. Together they ground a **Returning Citizen**
+regime: a citizen who has resided at length outside covenant jurisdiction
+is *presumed contaminated by contact*, whether or not he did anything at
+all. Reinstatement requires a tribunal finding, and the tribunal offers
+exactly two paths — a purification rite paired with formal renunciation
+of any foreign attachment (a relationship, chiefly), or indefinite
+residence in a **Returning Citizen holding zone**, colloquially "limbo."
+Refusing both and leaving is read as self-exile, not defiance — there is
+no charge to bring against a man who simply doesn't come back.
+
+*Drives:* the elder son's national "pilgrimage" service takes him abroad;
+he falls for a foreign-born girl and follows her to California. When the
+family petitions for his return, the tribunal cannot accuse him of any
+specific sin — only of having been among them long enough. Offered
+purification-and-renunciation or the holding zone, he chooses neither: he
+goes back to her. The state doesn't stop him. It didn't need to.
+
 ---
 
 ## 3. Degrees of Sanctity — the moral-credit engine (the class system)
@@ -248,6 +278,20 @@ violence ends the pregnancy. The contradiction is written on her body.
 - **The destabilizing exception:** the widow and divorcée (Num 30:9) have
   *full* legal capacity. Unmarried women are freer than married ones —
   which the state finds threatening and pressures into remarriage.
+- **The public-teaching trap.** A woman may teach *young children*
+  (Prov 31's bounded sphere) but 1 Tim 2:12 bars her from any position of
+  doctrinal authority — the line between the two is administrative, not
+  self-evident, and it is watched. A gifted teacher who wants her home
+  catechism carried further — into the public NDS curriculum, to more
+  children than her own — draws exactly the factional split
+  StateDoctrine §4 describes: the **Evangelical bloc** (which owns the
+  Manna and the popular platforms) is happy to showcase her as a rising
+  voice, while the **Reformed bloc** (which holds the CSC) reads any
+  woman's doctrinal ambition, however orthodox its content, as a live
+  1 Tim 2:12 exposure. She therefore already has a file before she does
+  anything her husband's case implicates her in — the file is why her
+  later intervention reads instantly as confirmation of a pattern, not as
+  a first offense.
 
 *Drives:* the trad-wife mother has no independent legal voice — her
 attempt to intervene for her husband is, by the code, a wife acting
@@ -351,6 +395,53 @@ system's design working exactly as the Reformed bloc (which controls the
 CSC) intended when it certified the extension. No second witness is
 needed because none was ever meant to be.
 
+### 10b. Juvenile Sanctity Emergency Custody
+
+A distinct mechanism from §10a: where §10a lets a family member's
+testimony convict an *adult*, this doctrine lets the state remove a
+*minor* accused of a purity offense — a Title IV sexual-conduct matter,
+chiefly — without the parents' prior consent. It is built the way
+real-world emergency child-protective custody is built: framed as
+protecting the child from an environment (the household, the school, the
+relationship) presumed unsafe pending a hearing, not as a punishment
+requiring proof first. Parents are **notified**, as a matter of course and
+courtesy — notice is not the same as consent, and no hearing precedes the
+removal, only follows it. This is the doctrine, and not an inconsistency
+in the record, when a family reports both that their daughter was "sent
+to a camp without parental approval" and that they were "notified": both
+are true, because the two are different things by design.
+
+*Drives:* the daughter and the girl she kissed are removed the same day,
+on a classmate's recording — evidence that satisfies the two-witness
+concern on its own, without needing §10a at all. The parents are informed
+after the decision is made, which is the entire point: by the time they
+learn, there is nothing left to consent to.
+
+### 10c. The Sanctity Environment Finding (a civil, not criminal, track)
+
+The mechanism that explains how a state can remove *another* child from a
+household years before either parent is ever criminally convicted of
+anything. The Department of Family Order and the National Devotion
+Service may jointly issue a **Sanctity Environment Finding** — an
+administrative, civil determination that a household's environment is
+unfit for a minor's moral formation — on a burden of proof far below a
+criminal conviction, and it does not require that either parent be
+charged with, let alone found guilty of, any offense. A public act of
+grief or defiance the state reads as implicitly questioning its own
+justice — "reproving" a state-condemned family member's memory, for
+instance — is sufficient grounds, reasoned as a species of the same
+blasphemy/lese-majeste logic that already fuses criticism of the ruler
+with cursing God (Ex 22:28, SSC). The finding triggers removal of a
+remaining minor child from the home; it does not, by itself, touch the
+parents' liberty at all. That comes later, if it comes.
+
+*Drives:* this is how the youngest child is taken in Year 5 while the
+father is not arrested until Year 10. No crime was ever charged against
+the parents for mourning their daughter aloud — only a finding that the
+home was no longer a fit sanctity environment for the child left in it.
+The years between the two events are the years the state was, on paper,
+simply *watching a household it had already administratively condemned.*
+
 ---
 
 ## 11. Immigration — Title XI, the real argument onstage
@@ -378,11 +469,11 @@ must choose the "bastion of sin" over the covenant.
 
 | Family member | The doctrine that destroys them |
 |---|---|
-| **Father** | §10a the household-informant exception (his own son suffices as sole witness) + §5 the Manna (his letters/cookies logged) + §3 he was never rich enough |
-| **Mother (trad-wife)** | §8 headship (her intervention = sedition) + §9 race (deported *to Liberia*) |
-| **Teenage son** | §11 immigration (loves a stranger) + §1 tribal geography (flees west) |
-| **Teenage daughter** | §7 reproductive doctrine (Ex 21:22 + Num 5 written on her body) + §8 the autonomous-woman problem |
-| **Youngest son** | §6 education (school catches him) → §5 the Manna raises him → he *becomes* the state (Big Brother) |
+| **Father (Mark, a LEO)** | §10a the household-informant exception (his own son suffices as sole witness) + §5 the Manna (his letters/cookies logged) + §3 he was never rich enough — though his badge bought him years the family didn't know they were living on |
+| **Mother (Constance, teacher)** | §8 the public-teaching trap (already watched before she does anything) + headship (her intervention reads as confirmation, not a first offense) + §9 race (deported *to Liberia*) |
+| **Teenage son (Chris)** | §2a contamination by proxy (contact, not conduct, is the charge) + §11 immigration (loves a stranger) + §1 tribal geography (the west as the only mercy, and the one he chooses over reinstatement) |
+| **Teenage daughter (Laura)** | §10b juvenile emergency custody (removed same-day, no hearing) + §7 reproductive doctrine (Ex 21:22 + Num 5 written on her body) + §8 the autonomous-woman problem |
+| **Youngest son (Able)** | §10c the Sanctity Environment Finding (taken years before any parent is charged with anything) → §6 education (his own teacher is the reporting mechanism) → §5 the Manna raises him → he *becomes* the state |
 
 The through-line: **a middle-sanctity family that voted for all of it (§0)
 and could not afford to survive it (§3).**
