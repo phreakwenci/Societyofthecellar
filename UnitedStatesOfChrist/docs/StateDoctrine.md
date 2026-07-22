@@ -260,24 +260,53 @@ violence ends the pregnancy. The contradiction is written on her body.
 
 ---
 
-## 8. Women — franchise on paper, life under headship
+## 8. Women — franchise on paper, then no paper at all
 
-- **Vote:** the 19th Amendment is "received" (Const. Art. X §2) — but
-  hollow. Women retain the franchise (the regime needs the "we're not
-  backward" cover, and needs them at the Septennial Reading, Deut 31:12),
-  while **household-headship voting** and social pressure make it nominal.
-  *You may vote; the outcome is managed.*
-- **Office:** 1 Timothy 2:12 — `enforced`. **No woman holds clergy office
-  or a Council seat.** The entire ruling apparatus is male by law. Women's
+- **Vote (Year 0–5).** The 19th Amendment was originally "received"
+  (Const. Art. X §2) — but hollow. Women retained the franchise (the
+  regime needed the "we're not backward" cover, and needed them at the
+  Septennial Reading, Deut 31:12), while **household-headship voting**
+  and social pressure made it nominal. *You may vote; the outcome is
+  managed.*
+- **Vote (Year 5–).** In Year 5 the hollow franchise was made no
+  franchise at all: **Amendment I, "the Restoration of Divine Order"**
+  (`Constitution.md`, Amendments Since Ratification), formally strips
+  women of the vote nationwide. It did not arrive by decree; it arrived
+  by **slow creep and a scapegoat**, and it is the single most important
+  political fact in this decade — see the sub-section below.
+- **Office:** 1 Timothy 2:12 — `enforced`. **No woman holds clergy
+  office, a Council seat, or (since Amendment I) any elected or
+  coordinating office at any level, Tribal or federal.** The entire
+  ruling and administrative-leadership apparatus is male by law. Women's
   ordination is the underground's largest denomination.
 - **Work:** permitted but at a husband's sufferance. **Proverbs 31** is the
   proof-text that women *may* labor — in a bounded sphere: textiles, food,
   midwifery, nursing, teaching young children, the purity administration
   (largely women governing women, FPA). But **Numbers 30** lets a husband
   void his wife's vows and contracts, so her economic life is revocable.
+- **Financial autonomy — the Guardian Co-Sign.** No woman holds an
+  unencumbered financial account. Every Manna-linked account belonging to
+  a woman carries a registered male **Guardian Co-Sign** — a father's
+  until marriage, a husband's after — required to authorize any
+  transaction above a nominal daily allowance, exactly the mechanism
+  Numbers 30 already supplies (a husband may void a wife's undertakings)
+  extended from vows to ordinary commerce. A woman may hold a named
+  account; she may not move money out of it alone. *(Set up in Act 1 —
+  this is a household-routine detail, not a crisis, until the moment it
+  is.)*
+- **Travel — the Guardian Consent requirement.** A woman may not leave
+  her Tribe, let alone the nation, without a registered male guardian's
+  written consent on file with the Department of Family Order — distinct
+  from and additional to the Returning Citizen doctrine (§2a), which
+  governs re-entry after the fact. The consent, once given, may be
+  revoked at any time and for any reason; it need never be given at all.
+  Whether a given guardian *would* consent is not a matter of law but of
+  the man himself.
 - **The destabilizing exception:** the widow and divorcée (Num 30:9) have
-  *full* legal capacity. Unmarried women are freer than married ones —
-  which the state finds threatening and pressures into remarriage.
+  *full* legal capacity — including, uniquely, unencumbered financial
+  accounts and the standing to travel on their own consent. Unmarried
+  women are freer than married ones — which the state finds threatening
+  and pressures into remarriage.
 - **The public-teaching trap.** A woman may teach *young children*
   (Prov 31's bounded sphere) but 1 Tim 2:12 bars her from any position of
   doctrinal authority — the line between the two is administrative, not
@@ -293,12 +322,133 @@ violence ends the pregnancy. The contradiction is written on her body.
   later intervention reads instantly as confirmation of a pattern, not as
   a first offense.
 
-*Drives:* the trad-wife mother has no independent legal voice — her
-attempt to intervene for her husband is, by the code, a wife acting
-outside headship, which is why it reads as **sedition** and gets her
-deported. The daughter, sent home pregnant and unmarried, briefly holds
-the widow's-paradox autonomy — and the state's answer to an autonomous
-woman it cannot place is to grind her until she chooses the pier.
+### 8a. The Rebekah Corps — compulsory civic service, no ceiling to rise to
+
+The male-conscription/female-conscription pairing is written to look
+symmetrical and isn't (see Art. IX §3 of `Constitution.md`). Every male
+citizen serves eighteen to twenty-four months under the Ministry of
+Covenant Defense. Every female citizen serves an equal term in the
+**Rebekah Corps** (named for Genesis 24's Rebekah, praised for drawing
+water unasked for a stranger's camels — service offered as the feminine
+ideal, compulsory here where it was once a virtue freely chosen) — a
+joint DFO/NDS program of administrative, clerical, and logistical labor:
+household registrations, ration processing, records, the unglamorous
+paperwork the whole apparatus runs on. It is not framed as employment.
+It is framed as a **covenantal duty**, a mission in the manner of a
+faith community's service year, and no wage attaches to it as such —
+only the Fruitfulness Credit and Widow's Roll adjustments described
+below.
+
+**The ceiling.** A woman may serve in the Corps for her whole working
+life and never hold a coordinating or supervisory post within it — those
+seats, like every other office in the country, are reserved to men,
+including men junior to her in tenure and plainly her inferiors in
+competence. This is not incidental cruelty; it is the doctrine working
+exactly as designed. **A debate captain, a valedictorian, the most
+obviously qualified person in her cohort for civic leadership, is capped
+at the same entry rung as everyone else, forever, by sex alone** — and
+this is precisely Laura's grievance, predating and compounding
+everything that happens to her afterward (see `PlayBible.md` CH-04).
+
+**Exemption.** A "worthy" waiver exists for women from well-connected
+families — another instance of the class mechanic (§3) running under a
+gendered one. Most women serve the full term regardless.
+
+### 8b. Selling the vote away: the mechanics of Amendment I
+
+The Amendment did not arrive as a single shock. It arrived the way this
+whole regime arrives at everything: lawfully, gradually, and with the
+willing participation of the people it would cost most.
+
+1. **The first power lost was always the smallest-looking one.**
+   Beginning in Years 1–3 (`ConstitutionalHistory.md`, "Certification
+   Creep"), women's local and municipal offices — Tribal council seats,
+   school boards, zoning and licensing boards — were "read out of force"
+   by the same certification mechanism that hollowed the Bill of Rights
+   generally. These looked like the least ideological, most replaceable
+   offices in the country, which is exactly why no one organized to
+   defend them. By the time the national vote was targeted, the
+   training ground that produces people capable of contesting it — local
+   office — was already gone.
+2. **The sell was protection, not restriction.** The Amendment's
+   floor language did not say "women shall not vote." It said women
+   would be *freed* from "the burden of public decision-making" to
+   attend to their true, higher calling — the household, the Corps'
+   sacred service, the raising of the next generation. Prominent women —
+   pastors' wives, Manna personalities, decorated Corps veterans —
+   endorsed it publicly and sincerely; the endorsement was not
+   manufactured cynicism so much as devout women's genuine, faith-formed
+   conviction that surrender was a gift, not a loss. The regime's
+   sturdiest supporters were the ones who felt it least as a loss until
+   long after ratification.
+3. **The scapegoat.** Ratification followed, by design, a real scandal:
+   a female Tribal administrator's much-publicized failure — the
+   **Ashworth County grain-registry collapse**, a mundane bureaucratic
+   disaster inflated by Manna coverage into a parable of feminine
+   unfitness for public trust — became the fulcrum. One woman's failure
+   was made to stand for all women's, and the Amendment was sold as the
+   "moral correction" the failure revealed was overdue. The regime did
+   not need to manufacture the incident from nothing; it needed only to
+   wait for one and be ready to use it.
+4. **The ratchet.** Amendment I contains its own permanence clause: the
+   female franchise, once surrendered, is declared "a covenant offering
+   and not a mere policy," and is textually excepted from the ordinary
+   amendment process of Article X — women voted the Amendment in (a
+   majority of women, in the certified count, voted for it) and there is
+   no lawful process by which women could vote it back out. *(Full text:
+   `Constitution.md`, Amendments Since Ratification, Amendment I.)*
+
+*Drives:* Laura was a graduating senior when Amendment I passed —
+positioned, by every talent she has, to lead: debate captain,
+valedictorian, a young woman who expected some real civic future. The
+Corps' ceiling closes that future completely, permanently, and for no
+reason she did anything to deserve. This grievance is political and
+precedes her personal catastrophe; by the time the camp and the
+pregnancy happen to her, she has already spent a year watching a door
+close that no talent of hers could have kept open — which is exactly
+why her final note reads like the closing argument of someone who has
+been building the case for a long time, not a girl radicalized
+overnight. Constance's own arc is struck by the same Amendment from the
+other side: her ambition to carry her home catechism into the public
+NDS curriculum (§8, "the public-teaching trap") was always going to be
+capped by 1 Tim 2:12 — Amendment I forecloses even the informal,
+tolerated version of that ambition, hardening her "already watched"
+status into something with no ceiling left to test. The trad-wife
+mother has no independent legal voice at all by the time she
+**intervenes** on Mark's behalf — the intervention reads as **sedition**
+not only because a wife acted outside headship, but because there is, by
+then, no lawful category of civic action available to her to have
+tried instead. The daughter, sent home pregnant and unmarried, briefly
+holds the widow's-paradox autonomy (Num 30:9) — and the state's answer
+to an autonomous woman it cannot place is to grind her until she chooses
+the pier.
+
+### 8c. Economic backfill — how the state answers "you just lost half your labor force"
+
+Stripping the franchise does not strip women from the economy — the
+Corps and the bounded work-sphere (Prov 31) keep women's labor inside
+the system, just never in charge of it — but disenfranchisement still
+has to be answered, publicly, as though it were not an economic
+sacrifice at all. Two instruments already on the books do this work:
+
+- The **Fruitfulness Credit** (Gen 1:28, `CATALOG.md`) — a tax credit
+  keyed to childbearing, shadowed by a "childless audit" — functions as
+  the state's substitute wage: a woman's economic contribution is
+  reframed as reproductive, not political or professional, output, and
+  compensated as such.
+- The **Widow's Roll** (1 Tim 5:3-9, already `adapted` in the NT
+  catalog into the pension system) absorbs the women Amendment I leaves
+  most exposed — those without a male guardian's income at all — into a
+  means-tested state annuity, administered, naturally, by men.
+
+The arithmetic is never publicly reconciled — no report compares the
+lost tax base of a disenfranchised, ceiling-capped female labor force
+against the cost of these programs — because the Amendment's premise
+(women's contribution was always spiritual and domestic, not economic)
+makes the comparison, officially, a category error. Privately, TFRS
+actuaries know exactly how the numbers run, and the reports are
+classified with the same instinct that classifies everything else this
+government would rather not defend in the open.
 
 ---
 
@@ -470,9 +620,9 @@ must choose the "bastion of sin" over the covenant.
 | Family member | The doctrine that destroys them |
 |---|---|
 | **Father (Mark, a LEO)** | §10a the household-informant exception (his own son suffices as sole witness) + §5 the Manna (his letters/cookies logged) + §3 he was never rich enough — though his badge bought him years the family didn't know they were living on |
-| **Mother (Constance, teacher)** | §8 the public-teaching trap (already watched before she does anything) + headship (her intervention reads as confirmation, not a first offense) + §9 race (deported *to Liberia*) |
+| **Mother (Constance, teacher)** | §8 the public-teaching trap, foreclosed completely by Amendment I (§8b) + headship (her intervention reads as confirmation, not a first offense, and by then there is no lawful civic channel left to have tried) + §9 race (deported *to Liberia*) |
 | **Teenage son (Chris)** | §2a contamination by proxy (contact, not conduct, is the charge) + §11 immigration (loves a stranger) + §1 tribal geography (the west as the only mercy, and the one he chooses over reinstatement) |
-| **Teenage daughter (Laura)** | §10b juvenile emergency custody (removed same-day, no hearing) + §7 reproductive doctrine (Ex 21:22 + Num 5 written on her body) + §8 the autonomous-woman problem |
+| **Teenage daughter (Laura)** | §8a/§8b the Rebekah Corps ceiling and Amendment I (the civic future closed a year before anything else happens to her) + §10b juvenile emergency custody (removed same-day, no hearing) + §7 reproductive doctrine (Ex 21:22 + Num 5 written on her body) + §7's own unused exculpation (Deut 22:25-27, `CaseLaw.md` CASE-007) + §8 the autonomous-woman problem |
 | **Youngest son (Able)** | §10c the Sanctity Environment Finding (taken years before any parent is charged with anything) → §6 education (his own teacher is the reporting mechanism) → §5 the Manna raises him → he *becomes* the state |
 
 The through-line: **a middle-sanctity family that voted for all of it (§0)

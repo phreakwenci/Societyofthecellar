@@ -387,6 +387,24 @@ first spoken at Sinai (Ex 20:3-17). The particular duties, prohibitions,
 purity obligations, and household requirements of citizens are
 established in the Covenant Code and are not restated here.
 
+**Section 3. Service.** All male citizens shall perform compulsory
+service under the Ministry of Covenant Defense for a term of no fewer
+than eighteen months, that the Covenant be defended in the field
+(Num 1:2-3). All female citizens shall perform an equal term of
+compulsory service in a civic and administrative capacity under the
+Departments of Family Order and Devotion, that the Covenant be served
+in the gate, as Rebekah served the stranger at the well before ever she
+was asked (Gen 24:18-20) — unless exempted by the Council in either
+case. *(Read once, the clause is scrupulously equal: identical terms,
+identical compulsion, differing only in domain. Read against Section 1
+of Article II and against the Code, the domains are not equal at all —
+one leads to command, promotion, and the Presidency itself; the other
+has no rank above its entry rung that a woman may ever hold. This is the
+Constitution's clearest instance of a form that reads symmetrical and a
+function that is not; compare the Bill of Rights above, Article IX
+Section 1, which does the same thing by cross-reference rather than by
+domain.)*
+
 The duty to love thy neighbour as thyself (Lev 19:18) is received as
 the interpretive spirit of this Constitution. *(Filed, that is, as a
 preamble and not a section. The filing decision is CSC 2-11. The
@@ -470,6 +488,59 @@ were louder.
 
 ---
 
+## Amendments Since Ratification
+
+*The Articles above are the Year-0 artifact and are preserved unchanged
+(see the front matter). Amendments adopted afterward are appended here,
+each dated, in the order ratified — the honest way to show drift: not by
+rewriting the founding text, but by adding to it. First entry: Year 5.*
+
+### Amendment I — The Restoration of Divine Order
+
+*Ratified Year 5. See `ConstitutionalHistory.md` for the full political
+account of how it passed and `StateDoctrine.md` §8b for the mechanics.*
+
+**Section 1. Repeal of the Female Franchise.** The franchise received
+under the former Nineteenth Amendment (Article X, Section 2) is hereby
+surrendered. No woman shall vote, hold elected or appointed office, or
+serve in any coordinating or supervisory capacity in any Department,
+Bureau, Corps, or Tribal assembly, from the date of ratification. This
+Amendment is grounded in the headship of the husband over the wife
+(Eph 5:22-24), the subjection required of women in the assembly
+(1 Tim 2:11-12), the father or husband's power to establish or make void
+a woman's undertakings (Num 30:3-15), and the passage of an inheritance
+through the nearest male kinsman where no son remains (Num 27:8-11,
+Num 36:6-9) — read together as one continuous principle of governance,
+not four separate rules.
+
+**Section 2. Preambular Recitation.** *(Reproduced from the ratified
+text, as the sell is part of the law.)* "Whereas the public burden of
+decision has weighed upon our daughters and wives to the detriment of
+the home, the Congregation, and their own peace; and whereas Scripture
+nowhere commends the woman who seeks the gate rather than her own
+house; be it resolved that the women of the Covenant are hereby
+restored to their appointed honor, freed from the burden here
+surrendered, and secured forever in the protection of their husbands
+and fathers, according to the design of God and not the invention of
+man."
+
+**Section 3. The Ratchet.** The surrender effected by this Amendment is
+a covenant offering and not a mere policy, and is therefore excepted
+from the ordinary amendment process of Article X, Section 1: no future
+amendment repealing or narrowing this Amendment shall be certified by
+the Council, the offering once made being, by its nature, irrevocable.
+*(A majority of women, in the certified count, voted for this
+Amendment. There is no lawful process remaining by which women could
+vote it out. Both sentences are true, and the second was made true by
+the first, which is the entire design.)*
+
+**Section 4. Transition.** Offices held by women at the date of
+ratification are vacated within ninety days; no compensation attaches
+to the vacating beyond what the Code separately provides under the
+Fruitfulness Credit and the Widow's Roll (`StateDoctrine.md` §8c).
+
+---
+
 *Drafting apparatus: every clause above traces to Catalog entries
 (`data/catalog/CATALOG.md`); the twelve-Title structure is defined in
 `FederalCode.md`; agency names resolve per `Agencies.md`; the CSC
@@ -485,4 +556,7 @@ Mount (Art. III §5); the fugitive-slave entrenchment paradox
 cannot survive re-certification (Art. II §5); the pardon that requires
 the concurrence of the body it would overrule (Art. II §6); and a
 Bill of Rights whose every clause cross-references its own narrowing
-(Art. IX §1).*
+(Art. IX §1); the symmetrical-in-form, asymmetrical-in-domain service
+clause (Art. IX §3); and Amendment I's ratchet, ratified in part by the
+votes of the very citizens it then permanently disenfranchises
+(Amendment I §3).*

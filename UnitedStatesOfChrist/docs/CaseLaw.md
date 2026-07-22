@@ -7,7 +7,7 @@ four rival denominational scholars would argue a case. Later memos may
 cite earlier ones as precedent, the way real case law builds on itself —
 which also literalizes the CSC's "harmonization" function in miniature.*
 
-**Status:** v0.2 — draft · **Last updated:** 2026-07-09
+**Status:** v0.3 — draft · **Last updated:** 2026-07-09
 
 ---
 
@@ -34,6 +34,7 @@ Same discipline as `PlayBible.md`:
 |---|---|---|
 | 2026-07-09 | v0.1 | Initial seed. CASE-001 (the user's "dying wife" necessity hypothetical) and CASE-002 (PlayBible SCENE-002 as actually drafted — grief, not necessity) both fully briefed. Companion addition: `StateDoctrine.md` §10a, the household-informant exception (Deut 13:8-9), formalized as canon rather than left as one-off memo reasoning. |
 | 2026-07-09 | v0.2 | Named cast + full timeline revision. CASE-002 updated (real names, Mark's LEO professional-courtesy angle, the prohibited-music charge, the Able age-fork note). Four new memos: CASE-003 (Chris's contamination-by-proxy tribunal), CASE-004 (Laura's arrest for a kiss — the recording as de facto two-witness evidence), CASE-005 (a legal/theological autopsy of Laura's death, not a standard prosecution memo — the state's fetal-personhood doctrine applied to her own final act, and her Judges 19 citation), CASE-006 (Able's report and the new Sanctity Environment Finding — a civil, not criminal, removal track). Companion additions to `StateDoctrine.md`: §2a (Returning Citizens/contamination by proxy, Ezra 9-10 + Haggai 2:11-13), §10b (Juvenile Sanctity Emergency Custody), §10c (the Sanctity Environment Finding). New deep law records: `ezr-009-001-holy-seed-mingled`, `hag-002-011-contagious-uncleanness`, `rom-001-026-vile-affections-women`. |
+| 2026-07-09 | v0.3 | New memo: CASE-007 (Laura's assault reasoned under the state's own field/city exculpatory rule — the statute clears her outright, on facts more favorable than the ones it contemplates, and the state simply never asks the question). New deep law record: `deu-022-023-cry-out-rule` (Deut 22:23-29). |
 
 ---
 
@@ -736,9 +737,125 @@ years before anyone was arrested for anything.
 
 ---
 
+## CASE-007 · The Field (Laura's assault under the state's own exculpatory rule)
+
+**Added:** 2026-07-09 · **Status:** draft
+**Related:** `PlayBible.md` SCENE-001, Beat B5.2 · CASE-004, CASE-005 ·
+`StateDoctrine.md` §7
+
+*Like CASE-005, this memo has no defendant to prosecute. It asks a
+narrower and more damning question than CASE-005's autopsy: under the
+state's own governing statute for exactly this fact pattern, was Laura
+ever legally at fault at all — and if the statute clears her outright,
+why was she processed as though it hadn't?*
+
+### Facts
+
+Laura is assaulted while in custody at a re-education camp — a remote,
+controlled, isolated facility, by definition a place where no outside
+party could hear a cry for help. She becomes pregnant as a result. The
+camp and the FPA process her pregnancy administratively as a
+consequence of her original offense (CASE-004), not as a matter
+requiring any separate finding about the assault itself.
+
+### The governing statute, applied honestly
+
+`deu-022-023-cry-out-rule` (Deuteronomy 22:23-29) is the state's own
+foundational sexual-assault statute, and it draws a bright, explicit
+line on facts almost identical to Laura's: a woman assaulted **in the
+city** (where a cry could plausibly be heard) is presumed complicit; a
+woman assaulted **in the field** (where none could hear or save her) is
+explicitly and by name innocent — "there is in the damsel no sin worthy
+of death... as when a man riseth against his neighbour, and slayeth
+him, even so is this matter" (v.26). A re-education camp — walled,
+guarded, remote, with no possibility of outside rescue — satisfies the
+"field" standard at least as completely as an actual field. Applied
+honestly and consistently, the state's own statute clears Laura of any
+presumption of fault as a matter of law, on facts more favorable to her
+than the ones the statute itself contemplates.
+
+### Why the exculpation is never reached
+
+1. **Administrative routing bypasses the finding entirely.** The FPA
+   does not adjudicate the assault as its own matter; it treats Laura's
+   pregnancy as downstream of her original Title IV charge (the kiss,
+   CASE-004) and processes her under `num-005-011-jealousy-ordeal-sotah`
+   framing instead — a statute that puts *her* chastity on trial and
+   requires no finding about the assault's circumstances at all. The
+   "city or field" question the FPA's own intake form asks (see
+   `deu-022-023-cry-out-rule`'s usofc_implementation) is, in this case,
+   simply never reached, because the file is opened under a different
+   statute from the start.
+2. **No forum exists to compel the finding.** There is no procedural
+   mechanism by which Laura, her family, or counsel can force the state
+   to apply Deut 22:25-27 to her case rather than Numbers 5 — the choice
+   of which statute governs a given fact pattern is an FPA charging
+   decision, not a matter subject to appeal by the accused.
+3. **The camp itself has no incentive to generate the finding.** An
+   honest "field" determination would be a formal acknowledgment that an
+   assault occurred on state property, in state custody, requiring the
+   state to identify a perpetrator among its own staff or wards. Routing
+   the case as a purity matter instead makes the pregnancy itself the
+   only fact requiring official notice.
+
+### Denominational split
+
+- **Theonomists/Reformed (CSC):** would not dispute the statute's plain
+  meaning if asked directly — they are textualists — but the routing
+  decision that avoids asking is an administrative, not doctrinal, act,
+  and therefore never reaches the CSC for certification at all. This is
+  the single clearest case in the Reporter of the regime's cruelty
+  operating below the level its own interpretive machinery ever sees.
+- **Evangelicals:** have no institutional interest in surfacing a
+  finding that would implicate camp staff or the re-education system
+  itself; the Manna's coverage, if any, follows the sotah framing (a
+  purity failure, not an assault), because that framing requires no
+  admission of institutional harm.
+- **Magisterialists:** most likely, privately, to note that Deut 22:26's
+  own language — "even so is this matter" as when a man is murdered — is
+  a direct scriptural acknowledgment that Laura is a *victim* in the
+  law's own terms, and to find the routing decision a scandal by any
+  honest reading of moral theology; without standing to compel a
+  different charging decision.
+- **Old Republicans:** identify this as the sharpest illustration
+  available of a due-process floor that exists on paper and is defeated
+  entirely by charging discretion — no rule was broken to deny Laura the
+  statute's protection; the protection was simply never invoked.
+
+### Class/tier prediction
+
+Not meaningfully applicable — the mechanism that fails Laura here is not
+a class-tiered exemption but a charging-discretion default that would
+apply to any ward of any camp regardless of family means, since the
+harm to be concealed is institutional (the camp's own liability), not
+personal. This is one of the few doctrines in the Reporter that is not
+obviously a wealth mechanism, which may be its most disturbing feature.
+
+### Procedural path & predicted ruling
+
+No ruling is ever issued on the assault as such; none is sought. The
+"field" exculpation Deut 22:25-27 guarantees exists in the Code, is
+cited in `deu-022-023-cry-out-rule`'s own FPA intake procedure, and is
+never applied to Laura's case, because the case is never filed under
+that statute. There is, in the Reporter's own terms, no wrong ruling
+here to appeal — only a right one that was never requested.
+
+### Dramatic notes
+
+Consider staging this as a piece of information a sympathetic FPA
+functionary (perhaps the same figure suggested in SCENE-001's brief)
+volunteers to the family long after it could matter — "there's a
+statute, you know. If it happened where I think it happened, she was
+never at fault. It just isn't how her file was opened." The horror is
+procedural and quiet: not that the law failed her, but that the law that
+would have cleared her was simply never asked to speak.
+
+---
+
 ## 4. ID Registry
 
 - **Cases:** CASE-001 The Dying Wife · CASE-002 The Cookies (updated) ·
   CASE-003 The Tribunal (Chris) · CASE-004 The Kiss (Laura's arrest) ·
   CASE-005 The Pier (Laura's death) · CASE-006 The Reproving (Able's
-  report). *Next free: CASE-007.*
+  report) · CASE-007 The Field (Laura's assault under the state's own
+  exculpatory rule). *Next free: CASE-008.*

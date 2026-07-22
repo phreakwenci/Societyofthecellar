@@ -102,9 +102,9 @@ minuted why.
 
 Nothing was repealed in these years. Things were *certified*.
 
-The mechanism was already in the text: **Article III §3** gives the Council
+The mechanism was already in the text: **Article III §4** gives the Council
 the power to certify what is and is not "consonant with Scripture," and
-**Article III §4** makes the CSC's harmonies binding on the courts. Neither
+**Article III §5** makes the CSC's harmonies binding on the courts. Neither
 clause looks like a weapon. Together they are the whole arsenal, because a
 retained right that the Council certifies as "inconsistent" is not repealed
 — it is simply no longer available, and there is no court to appeal to
@@ -119,7 +119,7 @@ The pattern was set by the founding-era rulings (`DenominationalNotes.md`):
   not civil statute," reading thirty-seven New Testament norms — nearly
   every one that would constrain the state, the rich, or a husband — out of
   enforceable force. This is the load-bearing ruling of the regime
-  (Const. Art. III §4), and it is a pure act of certification: the text
+  (Const. Art. III §5), and it is a pure act of certification: the text
   unchanged, the meaning inverted.
 - **CSC 1-03** put the Jubilee "in abeyance pending the Temple," which
   deferred debt release and land return indefinitely and gave the Temple
@@ -134,6 +134,19 @@ these years one certification at a time, on the record, by procedures they
 had themselves written. The First Amendment was already gone by repeal
 (Art. X §2); now the *retained* protections began to hollow, not by
 deletion but by ruling.
+
+**The quietest certification of these years touched no one's rights on
+paper at all.** Women's local and municipal offices — Tribal council
+seats, school boards, zoning and licensing boards — were certified out of
+practical reach one seat at a time, on the theory (never litigated,
+because no forum existed to litigate it) that a "coordinating" office was
+a doctrinal, not merely civic, function, and so fell within the Council's
+existing jurisdiction over appointments. Nothing in the founding text
+changed. The offices simply stopped being held by women, Tribe by Tribe,
+and the training ground that produces people capable of contesting a
+national vote quietly ceased to exist three years before anyone thought
+to ask whether the vote itself was next. (`StateDoctrine.md` §8b traces
+what this made possible.)
 
 *The citizen's experience:* the country still looked like the founding
 text. The drift was visible only to lawyers, who are the first to know and
@@ -151,11 +164,11 @@ a succession in the Chief Overseer's chair; a war finding under the
 Ministry of Covenant Defense that the President resisted). What matters is
 the constitutional result, which was the same whatever lit it.
 
-The result: the Council asserted that its certification power (Art. III §3)
+The result: the Council asserted that its certification power (Art. III §4)
 reached not only *laws* but the *lawmaker* — that a President it could not
 certify as "consonant" was not a President. The textual hook was **Article
 II §1** ("certified by the Council") read for all it was worth, backstopped
-by the **Wives Clause** of Art. II §3, which "constitutes, in practice, the
+by the **Wives Clause** of Art. II §7, which "constitutes, in practice, the
 impeachment power." The elected branch had always been subordinate on
 paper; now it was subordinate in fact.
 
@@ -168,7 +181,7 @@ in everything but the title the regime was still too American to use.
 To manage the succession problem the crisis exposed — who chooses and
 constrains a Chief Overseer who now outranks the President? — the Council
 did the one thing the founding text permitted and nobody had wanted to do:
-it **convened the Seventy**. Article III §2 had kept the Seventy "in
+it **convened the Seventy**. Article III §3 had kept the Seventy "in
 reserve, unconvened," their roll "the true map of power." Convening them
 turned the map into a body — an **Assembly of the Seventy** that elects and
 (in unexercised theory) can remove the Chief Overseer. It is the Iranian
@@ -177,6 +190,22 @@ wanted their anointed President supreme, had instead delivered him a
 clerical master and a clerical electorate. Their grievance goes
 underground and armed.
 
+**The Crisis found its mass movement in the same year it found its
+mechanism.** Consolidating clerical supremacy over an elected Presidency
+is an argument for lawyers; the Council needed a cause the whole devout
+base would carry for it, and the campaign already building since Years
+1–3's quiet loss of local offices for women (above) supplied one. Amendment
+I — "the Restoration of Divine Order," `Constitution.md`, Amendments Since
+Ratification — was ratified in this same window: a genuinely popular,
+genuinely devout mass campaign to disenfranchise half the citizenry,
+running on protection and restoration rather than doctrine, that
+delivered the Council a base mobilized around clerical authority generally
+at the precise moment it needed one to survive the Supremacy Crisis
+politically. The Council did not need to manufacture the Amendment's
+support; it needed only to let a real campaign happen on its own schedule
+and stand behind it at the ratifying moment. `StateDoctrine.md` §8b
+traces the sell, the scapegoat, and the ratchet in full.
+
 *The drift, made concrete.* By Year 5 the Constitution reads the same and
 means something else:
 
@@ -184,8 +213,14 @@ means something else:
   certified by the Council. *As drifted,* an office the Council can vacate
   by de-certification; the "certification" of Art. II §1 has eaten the
   election of Art. II.
-- **Art. III §2 (the Seventy)** — *as ratified,* a dormant reserve.
+- **Art. III §3 (the Seventy)** — *as ratified,* a dormant reserve.
   *As drifted,* the standing Assembly that seats the Chief Overseer.
+- **Amendment I** — *as sold,* the restoration of women to their
+  God-given honor, voted for by a majority of women themselves. *As
+  drifted (in fact, from the moment of ratification, by its own Section
+  3),* a permanent, unrepealable removal of half the citizenry from every
+  office and the franchise, entrenched against the very amendment process
+  that created it.
 - **A new entrenchment device** — the **Cornerstone Certification**: a CSC
   ruling the Council declares "foundational," which by its own terms
   requires a supermajority of a *future* Council to revisit. This is
@@ -294,8 +329,8 @@ devices (the convened Seventy, the Cornerstone).
 |---|---|---|
 | Art. I §2 (Construction) | Council fills gaps, CSC harmonizes conflicts | first clause weaponized: "obey Scripture, not the gloss" — the schism's fault line |
 | Art. II (Presidency) | elected, Council-certified head of state | de-certifiable office; election eaten by certification |
-| Art. III §2 (the Seventy) | dormant reserve body | convened Assembly of the Seventy; seats the Chief Overseer |
-| Art. III §4 (CSC) | harmonies bind the courts | harmonies entrenched as Cornerstones (Hungarian cardinal laws) |
+| Art. III §3 (the Seventy) | dormant reserve body | convened Assembly of the Seventy; seats the Chief Overseer |
+| Art. III §5 (CSC) | harmonies bind the courts | harmonies entrenched as Cornerstones (Hungarian cardinal laws) |
 | Art. IV §2 (two witnesses) | real evidentiary bar (School IV win) | hollowed by court-packing; the professional-witness market fills the gap |
 | Art. X §2 (retained rights) | Bill of Rights received clause-by-clause | retained clauses certified "inconsistent" one by one |
 | Art. X §3 (suppressed verses) | Old Republican safety clause | abolitionist weapon: Deut 23:15-16 as supreme law |

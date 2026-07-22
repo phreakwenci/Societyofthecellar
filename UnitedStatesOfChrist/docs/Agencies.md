@@ -25,7 +25,7 @@ and one telling institutional detail.
   event.
 - **The Assembly of the Seventy** — the reserve body of Num 11:16 that the
   Constitution kept "unconvened, its roll the true map of power"
-  (Art. III §2), activated during the Supremacy Crisis to elect and (in
+  (Art. III §3), activated during the Supremacy Crisis to elect and (in
   unexercised theory) remove the Chief Overseer. The USofC's Assembly of
   Experts. Convening it turned a secret list into a standing power.
 - **Covenant Courts** — the judiciary. Trial courts sit "at the gate"
@@ -42,7 +42,14 @@ and one telling institutional detail.
 - **Tithe & Firstfruits Revenue Service (TFRS)** — the IRS, rebuilt on the
   10% tithe plus firstfruits assessments. Audits are called "gleanings."
 - **Department of Family Order (DFO)** — marriage licensing, household
-  headship registration, inheritance (birthright) administration.
+  headship registration, inheritance (birthright) administration, the
+  Guardian Co-Sign registry on women's financial accounts, and Guardian
+  Travel Consent filings. Jointly administers, with the NDS, the
+  **Rebekah Corps** — compulsory 18-24 month civic/administrative service
+  for female citizens (named for Genesis 24's Rebekah), the female
+  counterpart to MCD military conscription. No coordinating or
+  supervisory post within the Corps is open to a woman, regardless of
+  tenure or merit — see `StateDoctrine.md` §8a.
 - **Department of Lands & Jubilee (DLJ)** — land tenure, debt records, and
   the permanently "under study" Jubilee provisions (Lev 25). Its Jubilee
   Actuarial Office has spent 40 years determining that implementation

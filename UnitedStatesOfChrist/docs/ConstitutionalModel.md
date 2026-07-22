@@ -58,8 +58,8 @@ solution part for part:
 |---|---|
 | Supreme Leader (*velayat-e faqih*) | **Chief Overseer**, presiding over the Council |
 | Guardian Council — vets all legislation *and* all candidates against Islam | **Council of Overseers (COO)** — certifies all law "consonant with Scripture," vets candidates (Art. III) |
-| Expediency Discernment Council — resolves deadlock, "harmonizes" | **Committee on Scriptural Consistency (CSC)** — harmonizes contradictions, and its harmonies bind the courts (Art. III §4) |
-| Assembly of Experts — clerics who elect and (in theory) remove the Leader | **The Seventy** (Art. III §2) — the unconvened reserve body whose roll "is the true map of power" |
+| Expediency Discernment Council — resolves deadlock, "harmonizes" | **Committee on Scriptural Consistency (CSC)** — harmonizes contradictions, and its harmonies bind the courts (Art. III §5) |
+| Assembly of Experts — clerics who elect and (in theory) remove the Leader | **The Seventy** (Art. III §3) — the unconvened reserve body whose roll "is the true map of power" |
 | Elected President, subordinate | **Presidency of the Covenant (POTC)** — "certified by the Council" (Art. II §1) |
 
 The elected branch exists and is real; it is simply not supreme. Above it

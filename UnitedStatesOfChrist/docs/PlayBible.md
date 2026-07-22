@@ -5,7 +5,7 @@ describes the fixed world), this document is **built to change**: scenes and
 characters will be added and revised constantly. It is structured so that
 updates are easy and every update is dated and tracked.*
 
-**Status:** v0.3 — draft · **Last updated:** 2026-07-09
+**Status:** v0.4 — draft · **Last updated:** 2026-07-09
 
 ---
 
@@ -44,6 +44,7 @@ minting a new one.
 | 2026-07-09 | v0.1 | Initial seed: logline, themes, 9 characters (CH-01…CH-09), Year 1/5/10 beat sheet, SCENE-001 (the Ordeal) drafted, SCENE-002/003 seeded, doctrine cross-refs, open threads, ID registry. Built from the author's rough play outline. |
 | 2026-07-09 | v0.2 | New capability: `/adjudicate-case` skill + `CaseLaw.md` reporter. SCENE-002 bumped seed→draft with a full legal brief (CASE-002) and a comparison hypothetical (CASE-001). Companion addition to `StateDoctrine.md` §10a (household-informant exception, Deut 13:8-9) formalizing why the two-witness rule doesn't save the father. |
 | 2026-07-09 | v0.3 | **Named cast + full timeline revision.** Father→**Mark** (a Law Enforcement Officer), Mother→**Constance** (teacher), Teenage Son→**Chris** (ROTC/national pilgrimage), Teenage Daughter→**Laura** (debate captain/valedictorian), Youngest Son→**Able**. New characters CH-10 (the girl Laura kissed) and CH-11 (the classmate who recorded/reported them). Beat sheet rewritten as a causal Year-5 cascade. Three new grounded doctrines added to `StateDoctrine.md` (§2a Returning Citizens, §10b Juvenile Sanctity Emergency Custody, §10c the Sanctity Environment Finding) and three new deep law records (Ezra 9-10, Haggai 2:11-13, Romans 1:26). Four new case memos (`CaseLaw.md` CASE-003…006) plus an update to CASE-002. SCENE-001 corrected to match the authoritative character dossier (Laura dies at 7 months **pregnant**, not after a live birth; her note quotes Judges 19). New SCENE-004 (Chris's tribunal). Resolved: "letter of concern" → **Remonstrance**; recommended Able's Act-3 age → **16**, with 11 kept as a flagged alternate. |
+| 2026-07-09 | v0.4 | **Amendment I and the female-disenfranchisement engine.** New `Constitution.md` amendment (post-ratification, Year 5) stripping the female franchise nationwide, sold as protection and ratcheted against repeal — full mechanics (the local-office-first pattern, the scapegoat, the bottom-up faith buy-in) in new `StateDoctrine.md` §8a (the Rebekah Corps — compulsory female civic conscription with no leadership ceiling to rise past), §8b (the sell), §8c (the economic backfill). New beat **B5.0**: the Amendment's passage, staged to land before Laura's personal arc so the political wound precedes the personal one. Laura's and Constance's dossiers updated: Laura's civic ambition (closed by the Rebekah Corps ceiling) is now established as the *first* wound, predating the camp; Constance's own foreclosed teaching ambition is tied explicitly to the same Amendment. New deep law record `deu-022-023-cry-out-rule` (Deut 22:23-29) and new case memo CASE-007, reasoning that the state's own field-assault statute would clear Laura outright and is never asked to. New Open Thread OT-12 (Mark's Guardian Travel Consent — deliberately left open, not to be resolved casually). Fixed a numbering-drift bug: Article II/III section references across `ConstitutionalHistory.md`, `ConstitutionalModel.md`, and `Agencies.md` corrected to match Constitution.md's restructured section numbers. |
 
 ---
 
@@ -118,14 +119,21 @@ she gave her own children carried further, to every classroom she can
 reach. That ambition alone puts her under quiet factional watch before
 anything else happens to her family (StateDoctrine §8, the public-teaching
 trap: Evangelicals would showcase her, the Reformed/CSC reads any woman's
-doctrinal reach as a live 1 Tim 2:12 exposure). After Mark is fined, she
-**intervenes** on his behalf; the intervention is secretly recorded and she
-is **deported to Liberia for sedition** — which reads as sedition not
-because of what she said but because a wife acting outside headship has no
-lawful civic voice at all (Numbers 30; StateDoctrine §8). She is deported
-the same day Chris's letter about his own child arrives. **Destroyed by:**
-§8 (already watched; the intervention is read as confirmation, not a first
-offense) + §9 (race — the Liberia choice; Open Thread OT-2). **Note:** the
+doctrinal reach as a live 1 Tim 2:12 exposure). **Amendment I** (Year 5,
+StateDoctrine §8b) closes even the tolerated, informal version of that
+ambition for good — she is old enough to remember when it was merely
+watched, not foreclosed, which is a specific, private grief this play can
+let her carry silently well before Mark's crisis ever touches her
+directly. After Mark is fined, she **intervenes** on his behalf; the
+intervention is secretly recorded and she is **deported to Liberia for
+sedition** — which reads as sedition not because of what she said but
+because a wife acting outside headship has, by then, no lawful civic
+voice at all and no lawful channel she could have tried instead (Numbers
+30; Amendment I; StateDoctrine §8). She is deported the same day Chris's
+letter about his own child arrives. **Destroyed by:** §8/§8b (already
+watched, then formally foreclosed; the intervention is read as
+confirmation, not a first offense) + §9 (race — the Liberia choice; Open
+Thread OT-2). **Note:** the
 Year-10 cookies Mark bakes are hers.
 
 ### CH-03 · Chris (the Teenage Son, twin)
@@ -150,25 +158,51 @@ reinstatement).
 *Added 2026-07-09 · Updated 2026-07-09 · Status: draft*
 Debate captain, cheerleader, valedictorian — the "ideal" public-school
 daughter of the new order, which is exactly why her fall is legible to
-everyone watching. Caught kissing a classmate (CH-10) by a male classmate
-(CH-11), who records and reports them; both girls are removed to
-re-education the same day under the **Juvenile Sanctity Emergency
-Custody** doctrine (StateDoctrine §10b) — parents are *notified*, not
-consulted, resolving what looks like a contradiction in the record but
-isn't (see §10b). Months in the camp; she is raped and impregnated there,
-and characterizes the pregnancy in her own words as **her sentence** —
-not a gift of life, a punishment. Sent home to carry to term. **At seven
-months pregnant** — not after a live birth — she fills her pockets with
-stones and walks off the family pier. Her note quotes **Judges 19** (the
-Levite's concubine — gang-raped, killed, dismembered and sent in twelve
-pieces to provoke the tribes to war) and is written, deliberately, like a
-valedictorian's closing argument against the Christian nation. Able reads
-or overhears it. See **SCENE-001** (updated) and `CaseLaw.md` CASE-004
-(the arrest) and CASE-005 (the legal/theological autopsy of her death).
-**Destroyed by:** §10b (removed same day, no hearing) + §7 (Fetal Life
-Act; `exo-021-022-injury-to-pregnant-woman` + `num-005-011-jealousy-
-ordeal-sotah`) + the new female-conduct extension (`rom-001-026-vile-
-affections-women`) + §8 (the autonomous-woman problem).
+everyone watching, and exactly why the political betrayal that precedes
+her personal one lands as hard as it does. **The political wound comes
+first.** Laura is a graduating senior in the year Amendment I passes
+(StateDoctrine §8b) — positioned, by every talent she has, to lead. The
+**Rebekah Corps** ceiling (§8a) closes that future completely and
+permanently: she may serve, conscripted like every woman, but may never
+coordinate, supervise, or hold any office at all, capped at the same
+entry rung as everyone else, forever, by sex alone, while young men she
+outperformed in every debate round advance past her by default. She is
+also, from Amendment I onward, barred from leaving the United States of
+Christ without her father's consent on file (the Guardian Travel Consent
+requirement, §8) — **whether Mark would give it is left open**; the
+author has not decided whether he refuses her or simply never has to,
+and this ambiguity should be preserved (see OT-12). This frustration —
+watching a future close that no talent of hers could have kept open —
+predates and compounds everything that follows, and it is why her
+eventual note reads like the closing argument of someone who has been
+building the case for a long time, not a girl radicalized overnight.
+
+The personal catastrophe follows. Caught kissing a classmate (CH-10) by
+a male classmate (CH-11), who records and reports them; both girls are
+removed to re-education the same day under the **Juvenile Sanctity
+Emergency Custody** doctrine (StateDoctrine §10b) — parents are
+*notified*, not consulted, resolving what looks like a contradiction in
+the record but isn't (see §10b). Months in the camp; she is raped and
+impregnated there, and characterizes the pregnancy in her own words as
+**her sentence** — not a gift of life, a punishment. Sent home to carry
+to term. **At seven months pregnant** — not after a live birth — she
+fills her pockets with stones and walks off the family pier. Her note
+quotes **Judges 19** (the Levite's concubine — gang-raped, killed,
+dismembered and sent in twelve pieces to provoke the tribes to war) and
+is written, deliberately, like a valedictorian's closing argument against
+the Christian nation. Able reads or overhears it. See **SCENE-001**
+(updated) and `CaseLaw.md` CASE-004 (the arrest), CASE-005 (the legal/
+theological autopsy of her death), and CASE-007 (the state's own
+field-assault statute would have cleared her outright, and was never
+asked to).
+
+**Destroyed by:** §8a/§8b (the civic future closed a year before anything
+else happens to her — this is the first wound, not a footnote) + §10b
+(removed same day, no hearing) + §7 (Fetal Life Act;
+`exo-021-022-injury-to-pregnant-woman` + `num-005-011-jealousy-ordeal-
+sotah`) + the female-conduct extension (`rom-001-026-vile-affections-
+women`) + the unused exculpation (`deu-022-023-cry-out-rule`) + §8 (the
+autonomous-woman problem).
 
 ### CH-05 · Able (the Youngest Son)
 *Added 2026-07-09 · Updated 2026-07-09 · Status: draft*
@@ -298,14 +332,27 @@ in sequence.*
   act's end and cannot return. → StateDoctrine §11, §1.
 
 ### Year 5 — the cascade
+- **B5.0** — **Amendment I** ("the Restoration of Divine Order") is
+  ratified nationally, ending Laura's graduating class's last hope of any
+  civic future and formally closing Constance's own long-deferred
+  ambition. Laura, weeks from graduation, learns she will never rise
+  past the Rebekah Corps' entry rung no matter what she does. This is
+  the political wound that precedes and compounds everything else in
+  this cascade — stage it before B5.1, ideally as its own beat the family
+  watches together on the Manna, so the audience feels the personal
+  catastrophe land on ground already salted. → StateDoctrine §8a, §8b;
+  `Constitution.md`, Amendments Since Ratification, Amendment I;
+  `ConstitutionalHistory.md`, Years 3–5.
 - **B5.1** — Laura (CH-04) is caught kissing CH-10; CH-11 records and
   reports them. Both girls are removed to re-education the same day.
   Parents are **notified**, not consulted. → StateDoctrine §10b;
   `rom-001-026-vile-affections-women`. See `CaseLaw.md` CASE-004.
 - **B5.2** — In the camp, Laura is raped and impregnated; she calls it her
-  **sentence**. Months pass. She is sent home to carry to term. → §7;
-  `exo-021-022-injury-to-pregnant-woman`, `num-005-011-jealousy-ordeal-
-  sotah`.
+  **sentence**. Months pass. She is sent home to carry to term. Under the
+  state's own field-assault statute she is presumptively innocent and is
+  never asked the question. → §7; `exo-021-022-injury-to-pregnant-woman`,
+  `num-005-011-jealousy-ordeal-sotah`, `deu-022-023-cry-out-rule`. See
+  `CaseLaw.md` CASE-007.
 - **B5.3** — **At seven months pregnant**, Laura fills her pockets with
   stones and walks off the family pier. Her note quotes Judges 19 and reads
   like a valedictorian's closing argument against the nation. → **SCENE-001**
@@ -487,12 +534,20 @@ records and USOC-implementation notes:
   `gen-017-010-circumcision-covenant-sign`.
 - **Returning citizens / contamination by proxy** (DOR):
   `ezr-009-001-holy-seed-mingled`, `hag-002-011-contagious-uncleanness`.
+- **The city/field assault statute** (FPA): `deu-022-023-cry-out-rule` —
+  the state's own exculpatory rule for Laura's exact fact pattern, never
+  applied.
+- **Amendment I / the female-disenfranchisement mechanism** (DFO/NDS):
+  `Constitution.md`, Amendments Since Ratification; StateDoctrine §8a
+  (the Rebekah Corps), §8b (how the Amendment was sold and ratcheted),
+  §8c (the economic backfill).
 - **Governance the play assumes:** `StateDoctrine.md` in full, especially
-  §2a, §8, §10a, §10b, §10c (new this revision).
+  §2a, §8/§8a/§8b/§8c, §10a, §10b, §10c.
 - **Legal reasoning over any scene:** `CaseLaw.md` — CASE-001 (necessity
   hypothetical), CASE-002 (Mark's climax, updated), CASE-003 (Chris's
   tribunal), CASE-004 (Laura's arrest), CASE-005 (Laura's death), CASE-006
-  (Able's report and the Sanctity Environment Finding). Run
+  (Able's report and the Sanctity Environment Finding), CASE-007 (Laura's
+  assault under the state's own unused exculpatory rule). Run
   `/adjudicate-case` on any beat to generate charges, defenses,
   denominational split, and a predicted ruling.
 
@@ -512,7 +567,7 @@ out, run `/adjudicate-case` and log the result in `CaseLaw.md`.*
 - **Scenes:** SCENE-001 The Ordeal (Laura) · SCENE-002 The Cookies ·
   SCENE-003 Referendum Night · SCENE-004 The Tribunal (Chris).
   *Next free: SCENE-005.*
-- **Beats:** B1.1–B1.4 · B5.1–B5.8 · B10.1–B10.4.
+- **Beats:** B1.1–B1.4 · B5.0–B5.8 · B10.1–B10.4.
 
 ---
 
@@ -556,3 +611,11 @@ out, run `/adjudicate-case` and log the result in `CaseLaw.md`.*
   informant character? May land harder as one figure than two thin ones.
 - **OT-11** — Names needed: CH-10 (the girl Laura kissed) and CH-11 (the
   reporting classmate), and (carried from OT-3) CH-08.
+- **OT-12** — Whether Mark would grant Laura the Guardian Travel Consent
+  she'd need to leave the country (StateDoctrine §8), had it come to
+  that, is **deliberately left open** by the author — not a gap to fill.
+  Do not resolve this in either direction without a deliberate choice;
+  the ambiguity (does he refuse her, or does the question simply never
+  arise before the camp does) is itself dramatically useful and may be
+  worth dramatizing as an unresolved tension rather than a plot point
+  with an answer.
