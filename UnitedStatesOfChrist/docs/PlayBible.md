@@ -5,7 +5,7 @@ describes the fixed world), this document is **built to change**: scenes and
 characters will be added and revised constantly. It is structured so that
 updates are easy and every update is dated and tracked.*
 
-**Status:** v0.4 — draft · **Last updated:** 2026-07-09
+**Status:** v0.5 — draft · **Last updated:** 2026-07-09
 
 ---
 
@@ -45,6 +45,7 @@ minting a new one.
 | 2026-07-09 | v0.2 | New capability: `/adjudicate-case` skill + `CaseLaw.md` reporter. SCENE-002 bumped seed→draft with a full legal brief (CASE-002) and a comparison hypothetical (CASE-001). Companion addition to `StateDoctrine.md` §10a (household-informant exception, Deut 13:8-9) formalizing why the two-witness rule doesn't save the father. |
 | 2026-07-09 | v0.3 | **Named cast + full timeline revision.** Father→**Mark** (a Law Enforcement Officer), Mother→**Constance** (teacher), Teenage Son→**Chris** (ROTC/national pilgrimage), Teenage Daughter→**Laura** (debate captain/valedictorian), Youngest Son→**Able**. New characters CH-10 (the girl Laura kissed) and CH-11 (the classmate who recorded/reported them). Beat sheet rewritten as a causal Year-5 cascade. Three new grounded doctrines added to `StateDoctrine.md` (§2a Returning Citizens, §10b Juvenile Sanctity Emergency Custody, §10c the Sanctity Environment Finding) and three new deep law records (Ezra 9-10, Haggai 2:11-13, Romans 1:26). Four new case memos (`CaseLaw.md` CASE-003…006) plus an update to CASE-002. SCENE-001 corrected to match the authoritative character dossier (Laura dies at 7 months **pregnant**, not after a live birth; her note quotes Judges 19). New SCENE-004 (Chris's tribunal). Resolved: "letter of concern" → **Remonstrance**; recommended Able's Act-3 age → **16**, with 11 kept as a flagged alternate. |
 | 2026-07-09 | v0.4 | **Amendment I and the female-disenfranchisement engine.** New `Constitution.md` amendment (post-ratification, Year 5) stripping the female franchise nationwide, sold as protection and ratcheted against repeal — full mechanics (the local-office-first pattern, the scapegoat, the bottom-up faith buy-in) in new `StateDoctrine.md` §8a (the Rebekah Corps — compulsory female civic conscription with no leadership ceiling to rise past), §8b (the sell), §8c (the economic backfill). New beat **B5.0**: the Amendment's passage, staged to land before Laura's personal arc so the political wound precedes the personal one. Laura's and Constance's dossiers updated: Laura's civic ambition (closed by the Rebekah Corps ceiling) is now established as the *first* wound, predating the camp; Constance's own foreclosed teaching ambition is tied explicitly to the same Amendment. New deep law record `deu-022-023-cry-out-rule` (Deut 22:23-29) and new case memo CASE-007, reasoning that the state's own field-assault statute would clear Laura outright and is never asked to. New Open Thread OT-12 (Mark's Guardian Travel Consent — deliberately left open, not to be resolved casually). Fixed a numbering-drift bug: Article II/III section references across `ConstitutionalHistory.md`, `ConstitutionalModel.md`, and `Agencies.md` corrected to match Constitution.md's restructured section numbers. |
+| 2026-07-09 | v0.5 | **The Port Question — a landlocked nation's western border.** New `Constitution.md` Art. V §4 (Admission of New Tribes: a petition track grounded in Num 32's Reuben and Gad, and a treaty track grounded in Josh 9's Gibeonites); new `FederalCode.md` Title I §5.1, the Covenant Admission Act, drafted from the author's own proposed language — a two-thirds county-by-county referendum that quietly absorbs willing rural counties of the neighboring former states and stops cold at the edge of the coast. New `StateDoctrine.md` §1a: the Snake-Columbia waterway the founding Tribes already touch, the landlocked salient this produces by Year 5, the Council's internal three/four-way split on closing the last mile (petition vs. treaty vs. force), and a live international complication (an inherited water treaty with Canada over the Columbia's headwaters). Deliberately left open at Year 10, matching `ConstitutionalHistory.md`'s existing inflection. Chris's dossier lightly refined: the coastal corridor he crosses is now an actual patrolled frontier, not a lax internal Tribe, with California as the further, safer, more mythic destination beyond it. |
 
 ---
 
@@ -141,8 +142,15 @@ Year-10 cookies Mark bakes are hers.
 ROTC, and about to leave on a national "pilgrimage" — a state-sanctioned
 missionary service circuit spreading the word across the country (ties to
 the Ministry of Covenant Defense and the National Devotion Service). He
-falls for an immigrant girl (CH-08) and, at the end of Act 1, leaves for
-California, the "bastion of sin," and cannot come back. **Act 2:** the
+falls for an immigrant girl (CH-08) and, at the end of Act 1, crosses the
+actual, patrolled border into the unannexed coastal corridor and on to
+California, the "bastion of sin," and cannot come back. *(Geography note,
+StateDoctrine §1a: the nearer coastal strip — the unratified remainder of
+Oregon and Washington the Covenant Admission Act never reached — is a
+real contested borderland, not a lax internal Tribe; California beyond
+it is the safer, more mythic destination the family imagines. Chris's
+crossing should read as crossing an actual frontier, not a lifestyle
+choice.)* **Act 2:** the
 family petitions for his return at a courthouse tribunal; because he has
 resided among "the heathen nations," he is held to be **contaminated by
 proxy** (StateDoctrine §2a — grounded in Ezra 9-10 and Haggai 2:11-13, not
@@ -541,6 +549,10 @@ records and USOC-implementation notes:
   `Constitution.md`, Amendments Since Ratification; StateDoctrine §8a
   (the Rebekah Corps), §8b (how the Amendment was sold and ratcheted),
   §8c (the economic backfill).
+- **The Port Question / the western border** (DOR/MCD):
+  `Constitution.md` Art. V §4; `FederalCode.md` Title I §5.1 (the
+  Covenant Admission Act); `StateDoctrine.md` §1a — why Chris's crossing
+  is a real, patrolled frontier and not a lax internal Tribe.
 - **Governance the play assumes:** `StateDoctrine.md` in full, especially
   §2a, §8/§8a/§8b/§8c, §10a, §10b, §10c.
 - **Legal reasoning over any scene:** `CaseLaw.md` — CASE-001 (necessity

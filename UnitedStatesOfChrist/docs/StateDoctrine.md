@@ -54,9 +54,113 @@ divides like this:
 from:**
 - Intensity of purity enforcement (BRC), education specifics, licensing
   regimes, the local moral-credit multipliers.
-- Some Tribes are lenient border zones; the **west-coast Tribes are the
-  "bastion of sin"** — under-enforcing, media-porous, the place the son
-  flees. Their signal bleeds back over the Covenant Firewall.
+- The founding Tribes are landlocked and interior (Idaho, Wyoming, North
+  and South Dakota); the **Pacific coast is not USOC territory at all** —
+  it is the actual, foreign "bastion of sin," across a real, patrolled
+  border, the place the son flees *to*, not a lax Tribe within. What
+  looks like a single western frontier is really two very different
+  things at once: newly admitted **border Tribes**, rural and inland,
+  absorbed county by county and enforcing purity as strictly as anywhere
+  else (§1a) — and the untaken coastal strip beyond them, which is
+  simply not the Covenant's to enforce anything in yet. Their signal
+  bleeds back over the Covenant Firewall precisely because it is a real
+  international-style border, not an internal laxity.
+
+### 1a. Expansion — the Port Question
+
+The founding Tribes have no coast. This is not an oversight the regime
+is embarrassed by; it is the single most consequential fact about its
+geography, and the one that shapes a decade of otherwise-domestic
+politics.
+
+**The waterway already exists.** The Snake River, navigable by lock and
+dam, runs through the founding Tribes and joins the Columbia, which
+reaches the Pacific at the Oregon coast. A working grain port already
+sits at the head of this system, on the Tribes' own territory. The
+Covenant does not need to build a route to the sea. It needs the several
+hundred miles of river still running through land it does not hold.
+
+**The Covenant Admission Act (`FederalCode.md` Title I §5.1) closes most
+of that distance without a shot fired.** Rural, inland counties of the
+neighboring former states — sharing the Covenant's politics more than
+they share their own state capitals' — ratify by the Act's two-thirds
+county-by-county threshold and are absorbed, Tribe by Tribe, in the
+Years 2–5 window. This is not conquest; no state government need
+consent, no legislature need vote, and the mechanism is administered as
+routine election-law business rather than as annexation. It is also,
+by design, self-limiting (Act §5): a wave of willing counties confers no
+claim on an unwilling one, and the populous, coastal, overwhelmingly
+unwilling counties — where the actual ports sit — simply never ratify.
+
+**The result is a landlocked salient that can see the water and cannot
+touch it.** By Year 5, USOC territory wraps the interior of the former
+Oregon and Washington on three sides, reaching the river's near bank at
+several points, without ever holding the river's mouth. This is not a
+metaphor invented for the fiction — it is the same shape as Bolivia's
+century-old grievance against Chile over its lost Pacific coast, and of
+Ethiopia's present, live dispute with Eritrea over Assab and the Red
+Sea. A landlocked power that can see a port and cannot use one does not,
+historically, let the matter rest.
+
+**The Council is genuinely divided on what to do about the last mile,
+and the division runs along the familiar lines** (the wealth triangle,
+§4, and the Four Schools of `ConstitutionalModel.md`):
+
+- The **Evangelical bloc** favors pressing the petition track as far as
+  it will go and then some — populist annexation, a referendum campaign
+  even in hostile precincts, backed by the Ministry of Covenant Defense
+  if the vote fails to go the right way. They want the glory of
+  "completing the covenant land," and the Manna coverage that comes with
+  it.
+- The **Reformed bloc**, which does the certification math, is
+  privately appalled at the prospect: absorbing several hundred thousand
+  overwhelmingly non-communicant coastal citizens would dilute the very
+  apportionment formula (`DenominationalNotes.md`) that keeps the CSC in
+  their hands. They quietly prefer the **treaty track**
+  (`Constitution.md` Art. V §4, second branch) — a narrow, negotiated
+  transit corridor and port lease, Gibeonite in spirit: bind the
+  minimum territory necessary, take on as few of its people as
+  citizens as the bargain allows, and let the coast keep its own
+  government.
+- The **Magisterialists** are the likeliest to notice, and to say aloud,
+  that the treaty track's own scriptural warrant (Josh 9) is a league
+  struck without first asking what it was worth, and that Saul's later
+  violation of that exact league cost Israel three years of famine
+  (2 Sam 21:1-2) — a caution the Council reads as precedent for
+  *keeping* such bargains once struck, not for declining to strike them.
+- The **Old Republicans** want whatever happens to happen by the
+  Code's own published process, petition or treaty, and are the
+  loudest objectors on the rare occasions either track is quietly
+  skipped.
+
+**An international complication arrives for free.** The Columbia's
+headwaters rise in British Columbia, and the river's flow, flood
+control, and dam operations have long been governed by an actual treaty
+between Washington and Ottawa. The Covenant's admission of the river's
+American-side counties forces a live question no one in Ottawa or the
+old federal government ever anticipated having to answer: is the
+Covenant now a party, in whole or in part, to that treaty's American
+obligations and rights over the upper river — a successor state for
+water law purposes — or does the rump United States still hold that
+seat alone? Canada has not answered. Answering either way is itself a
+form of recognition the Covenant badly wants and the old union badly
+does not want to give.
+
+**This is deliberately left open.** Whether the last mile is closed by
+further petition, by a Gibeonite treaty, by force, or not at all by
+Year 10 is not resolved here — consistent with `ConstitutionalHistory.md`'s
+own Year-10 inflection, this is a live simmering question at the point
+the family's story is being told, not a settled war and not a settled
+peace. `PlayBible.md` should treat the coastal corridor as an actual,
+patrolled, contested border — nearer and more dangerous than the safely
+mythic "California" the family imagines — rather than just another lax
+Tribe.
+
+*Drives:* geography, not ideology, explains why the border the son
+crosses is a real one, guarded, mapped, and argued over in a treaty
+neither side asked to inherit — and why "the bastion of sin" is not a
+metaphor for moral laxity so much as the one stretch of land the
+Covenant has wanted for a decade and never quite gotten.
 
 *Drives:* the son escapes *west* because the law is federal but its
 *enforcement* is tribal. Geography is the only mercy the system has, and

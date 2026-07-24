@@ -263,6 +263,35 @@ manslayer and the tithe according to the Code.
 set apart for the communions (Num 35:2-5), tax-exempt to the surveyed
 cubit, whose lands shall not be sold (Lev 25:34).
 
+**Section 4. Admission of New Tribes.** A neighboring jurisdiction may be
+admitted as a Tribe of the United States of Christ by either of two
+ways, and no other:
+
+- By **petition**, where the people of that jurisdiction, being willing,
+  ratify the Covenant by such supermajority as the Code provides, in the
+  manner of Reuben and Gad, who asked for their inheritance on the near
+  side of Jordan, their cattle being many, and were granted it upon their
+  undertaking to go armed before their brethren until the whole land was
+  possessed (Num 32:1-5, 16-19); or
+- By **treaty**, where the Council, upon inquiry, makes a league with a
+  jurisdiction not of the Covenant to secure the passage, waters, or
+  safety of the nation, in the manner of the league sworn to the men of
+  Gibeon, which — though sworn upon a deception no counsel was first
+  taken on — bound Israel irrevocably even so, its violation a
+  generation later bringing three years of famine upon the land
+  (Josh 9:14-15, 23; 2 Sam 21:1-2).
+
+The particular thresholds, referenda, and instruments of admission are
+established in the Code and not restated here. *(The petition track is
+the honest one, and the one the Council prefers to be seen using. The
+treaty track binds the nation to a bargain struck without first asking
+what it was worth, which is precisely why it has never yet been
+invoked, and precisely why every Presidency since has kept the option
+open. See `FederalCode.md`, Title I, the Covenant Admission Act; and
+`StateDoctrine.md` §1a on why a nation with no coast reads Numbers 32
+and Joshua 9 more carefully than it reads almost anything else in the
+Book.)*
+
 ---
 
 ## Article VI — Citizenship and the Congregation
@@ -554,9 +583,12 @@ guilt clash (Preamble, Art. IV §7, Art. VI §3); the Jubilee deferral
 Mount (Art. III §5); the fugitive-slave entrenchment paradox
 (Art. X §3); Ruth v. the exclusion clauses (Art. VI §2); the veto that
 cannot survive re-certification (Art. II §5); the pardon that requires
-the concurrence of the body it would overrule (Art. II §6); and a
+the concurrence of the body it would overrule (Art. II §6); a
 Bill of Rights whose every clause cross-references its own narrowing
 (Art. IX §1); the symmetrical-in-form, asymmetrical-in-domain service
-clause (Art. IX §3); and Amendment I's ratchet, ratified in part by the
+clause (Art. IX §3); Amendment I's ratchet, ratified in part by the
 votes of the very citizens it then permanently disenfranchises
-(Amendment I §3).*
+(Amendment I §3); and the treaty track of admission (Art. V §4), which
+is honest that a binding league obtained without first asking what it
+cost still binds — a warning the nation reads as precedent, not as
+caution.*

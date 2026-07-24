@@ -152,6 +152,27 @@ what this made possible.)
 text. The drift was visible only to lawyers, who are the first to know and
 the last to be believed.
 
+**The one expansion of these years was territorial, not interpretive,
+and it was the quietest certification of all.** The founding Tribes —
+Idaho, Wyoming, North and South Dakota — have no coast, and a working
+grain waterway (the Snake, locking down into the Columbia to the
+Pacific) already touched their own territory at one end. The **Covenant
+Admission Act** (`FederalCode.md` Title I §5.1; `Constitution.md`
+Art. V §4) let rural counties of the neighboring former states ratify
+the Covenant by a two-thirds, county-by-county vote and be absorbed as
+new Tribes, no state legislature's consent required and none sought.
+Beginning in Year 2 and continuing past Year 5, this quietly walked the
+Covenant's border west, county by county, until it reached — and
+stopped at — the edge of the coastal population centers that would
+never ratify anything. What began as an administrative statute produced,
+within three years, a landlocked salient that could see a port and could
+not hold one. `StateDoctrine.md` §1a carries the geography, the internal
+factional split over what to do about the last mile, and the
+international complication (an inherited water treaty with Canada) that
+followed for free. Whether that gap ever closes — by further petition,
+by the treaty track's Gibeonite bargain, by force, or not at all — is
+not resolved by Year 10, and is not resolved here.
+
 ---
 
 ## Years 3–5 — The Supremacy Crisis
