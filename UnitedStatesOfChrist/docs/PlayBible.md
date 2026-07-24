@@ -5,7 +5,7 @@ describes the fixed world), this document is **built to change**: scenes and
 characters will be added and revised constantly. It is structured so that
 updates are easy and every update is dated and tracked.*
 
-**Status:** v0.5 — draft · **Last updated:** 2026-07-09
+**Status:** v0.6 — draft · **Last updated:** 2026-07-24
 
 ---
 
@@ -32,7 +32,8 @@ minting a new one.
 
 *Cross-references:* the world these people live in is defined in
 `StateDoctrine.md` (governance), `Constitution.md` (law),
-`ConstitutionalHistory.md` (the Brexit-to-drift timeline), `Agencies.md`
+`ConstitutionalHistory.md` (the Brexit-to-drift timeline), `TheMoscowModel.md`
+(the family's own hometown, before there was a nation), `Agencies.md`
 (the org chart), and the law records in `data/laws/` (linked by id).
 
 ---
@@ -46,6 +47,7 @@ minting a new one.
 | 2026-07-09 | v0.3 | **Named cast + full timeline revision.** Father→**Mark** (a Law Enforcement Officer), Mother→**Constance** (teacher), Teenage Son→**Chris** (ROTC/national pilgrimage), Teenage Daughter→**Laura** (debate captain/valedictorian), Youngest Son→**Able**. New characters CH-10 (the girl Laura kissed) and CH-11 (the classmate who recorded/reported them). Beat sheet rewritten as a causal Year-5 cascade. Three new grounded doctrines added to `StateDoctrine.md` (§2a Returning Citizens, §10b Juvenile Sanctity Emergency Custody, §10c the Sanctity Environment Finding) and three new deep law records (Ezra 9-10, Haggai 2:11-13, Romans 1:26). Four new case memos (`CaseLaw.md` CASE-003…006) plus an update to CASE-002. SCENE-001 corrected to match the authoritative character dossier (Laura dies at 7 months **pregnant**, not after a live birth; her note quotes Judges 19). New SCENE-004 (Chris's tribunal). Resolved: "letter of concern" → **Remonstrance**; recommended Able's Act-3 age → **16**, with 11 kept as a flagged alternate. |
 | 2026-07-09 | v0.4 | **Amendment I and the female-disenfranchisement engine.** New `Constitution.md` amendment (post-ratification, Year 5) stripping the female franchise nationwide, sold as protection and ratcheted against repeal — full mechanics (the local-office-first pattern, the scapegoat, the bottom-up faith buy-in) in new `StateDoctrine.md` §8a (the Rebekah Corps — compulsory female civic conscription with no leadership ceiling to rise past), §8b (the sell), §8c (the economic backfill). New beat **B5.0**: the Amendment's passage, staged to land before Laura's personal arc so the political wound precedes the personal one. Laura's and Constance's dossiers updated: Laura's civic ambition (closed by the Rebekah Corps ceiling) is now established as the *first* wound, predating the camp; Constance's own foreclosed teaching ambition is tied explicitly to the same Amendment. New deep law record `deu-022-023-cry-out-rule` (Deut 22:23-29) and new case memo CASE-007, reasoning that the state's own field-assault statute would clear Laura outright and is never asked to. New Open Thread OT-12 (Mark's Guardian Travel Consent — deliberately left open, not to be resolved casually). Fixed a numbering-drift bug: Article II/III section references across `ConstitutionalHistory.md`, `ConstitutionalModel.md`, and `Agencies.md` corrected to match Constitution.md's restructured section numbers. |
 | 2026-07-09 | v0.5 | **The Port Question — a landlocked nation's western border.** New `Constitution.md` Art. V §4 (Admission of New Tribes: a petition track grounded in Num 32's Reuben and Gad, and a treaty track grounded in Josh 9's Gibeonites); new `FederalCode.md` Title I §5.1, the Covenant Admission Act, drafted from the author's own proposed language — a two-thirds county-by-county referendum that quietly absorbs willing rural counties of the neighboring former states and stops cold at the edge of the coast. New `StateDoctrine.md` §1a: the Snake-Columbia waterway the founding Tribes already touch, the landlocked salient this produces by Year 5, the Council's internal three/four-way split on closing the last mile (petition vs. treaty vs. force), and a live international complication (an inherited water treaty with Canada over the Columbia's headwaters). Deliberately left open at Year 10, matching `ConstitutionalHistory.md`'s existing inflection. Chris's dossier lightly refined: the coastal corridor he crosses is now an actual patrolled frontier, not a lax internal Tribe, with California as the further, safer, more mythic destination beyond it. |
+| 2026-07-24 | v0.6 | **The family's hometown: Moscow, Latah County, Idaho.** New companion doc `TheMoscowModel.md` (the origin case study — how the fictional Covenant Kirk of the Palouse, Ezra College, and Threshing Floor Press proved the whole capture method a decade before the nation existed, per the author's direction: "the worst case of how [the real Moscow movement] would want it, and then it spreads and it's Brexit"). The family is now placed in Moscow itself — not an ordinary Tribe town but **the Cradle**, the place the method was first proven, meaning every beat in this document plays under one added layer of scrutiny: a community that has spent longer than anywhere else perfecting the performance of sincere, observed devotion, and a Kirk whose founding pastor's descendants and students quietly run both the college and the county. See §2 (setting note) and the doctrine cross-reference in §8. |
 
 ---
 
@@ -65,6 +67,22 @@ Referendum) and **could not afford to survive it** (§3, Degrees of
 Sanctity). The cruelty is lawful, procedural, and — until Act 2 — invisibly
 class-tiered: *they would have been fine with more money.* Mark's badge
 bought the family more time than they ever knew they were living on.
+
+**Setting: Moscow, Latah County, Idaho.** The family lives not in an
+ordinary Tribe town but in **the Cradle** (`TheMoscowModel.md`) — the
+actual place, a decade before the referendum, where a fictional
+congregation (the Covenant Kirk of the Palouse), its college (Ezra
+College), and its publishing arm (Threshing Floor Press) proved, in the
+open and without breaking a law, that a town could be quietly and
+completely reoriented around a single doctrine. Latah County needed no
+Covenant Admission Act petition; it was already Idaho, a founding Tribe,
+from Year 0. What living there adds to the family's story is not new law
+but new *pressure*: they are watched, and watch themselves, at a level a
+family in an ordinary Tribe town would not — the model home in the model
+town, expected to perform the devotion the rest of the nation is still
+only learning. Mark's badge and the Kirk's long institutional memory both
+cut the same way here: everyone already knows this family, which is
+protection until, all at once, it is exposure.
 
 ---
 
@@ -238,14 +256,18 @@ by:** §10c (taken years before any parent is charged with a crime) → §6
 he *becomes* the state.
 
 ### CH-06 · The Reverend Father (the Priest)
-*Added 2026-07-09 · Updated 2026-07-09 · Status: seed*
+*Added 2026-07-09 · Updated 2026-07-24 · Status: seed*
 The antagonist and the play's throughline of the regime. A Reformed-bloc
 cleric (StateDoctrine §4 — the faction that holds the CSC and sentences
 people): he **deports Constance**, **sentences Mark**, and at the end
 **takes Able as an acolyte** ("Now, tell me young man, what makes a good
-soldier for Christ?"). The human face of the church-state merge. **Note:**
-consider whether he profits (prosperity grift) or is a true ascetic
-believer — the choice sets the play's theory of evil (see OT-4).
+soldier for Christ?"). The human face of the church-state merge. Trained,
+plausibly, at **Ezra College** (`TheMoscowModel.md`) — the local
+institution that became the nation's de facto seminary — which is worth
+one quiet line rather than exposition: he does not need to explain the
+Cradle to a family that already lives in it. **Note:** consider whether he
+profits (prosperity grift) or is a true ascetic believer — the choice sets
+the play's theory of evil (see OT-4).
 
 ### CH-07 · Jeff (the Neighbor)
 *Added 2026-07-09 · Updated 2026-07-09 · Status: draft*
@@ -298,6 +320,10 @@ may land harder than two thin ones.*
 
 The play does not need to restate the world — it lives in these files:
 
+- **Where they live:** `TheMoscowModel.md` — Moscow, Latah County, Idaho,
+  the Cradle: the origin case study of the capture method that later scaled
+  into the nation itself. Establishes why this family lives under a heavier
+  ambient scrutiny than an ordinary Tribe town would apply.
 - **How power works / who rules:** `StateDoctrine.md` §4 (the wealth
   triangle: Evangelical cash+media / frozen Catholic assets / Reformed
   doctrinal veto). The Priest (CH-06) is Reformed; prosperity pastors are
@@ -553,6 +579,10 @@ records and USOC-implementation notes:
   `Constitution.md` Art. V §4; `FederalCode.md` Title I §5.1 (the
   Covenant Admission Act); `StateDoctrine.md` §1a — why Chris's crossing
   is a real, patrolled frontier and not a lax internal Tribe.
+- **The family's hometown** — `TheMoscowModel.md`: the origin case study
+  the Covenant Admission Act's method is drawn from, and the reason the
+  family's every act plays under the added scrutiny of living in the
+  Cradle rather than an ordinary Tribe town.
 - **Governance the play assumes:** `StateDoctrine.md` in full, especially
   §2a, §8/§8a/§8b/§8c, §10a, §10b, §10c.
 - **Legal reasoning over any scene:** `CaseLaw.md` — CASE-001 (necessity

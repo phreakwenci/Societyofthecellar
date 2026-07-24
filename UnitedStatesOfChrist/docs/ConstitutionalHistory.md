@@ -60,6 +60,21 @@ more than promised. None of it could be reversed, because reversal had
 already become heresy. The referendum is the regime's permanent,
 unanswerable card: **you voted for this.**
 
+**The Leave campaign did not win on scripture and slogans alone. It won
+because it could point to a place.** For a decade before the vote, a loose
+network of rural county seats across the interior West had already
+reorganized themselves around a single method — property acquisition,
+institutional capture, patient publication, no law broken — and had proof,
+in the form of towns actually governing themselves that way, that "Take
+Back the Nation for Christ" was not a wish but a completed local fact
+waiting to be scaled up. `TheMoscowModel.md` is that origin case study:
+the one town where the method was proven first, and the network of towns
+that ran the same playbook after seeing it work. The Covenant Admission
+Act (`FederalCode.md` Title I §5.1), which quietly walks the western
+border county by county in Years 1–3 below, is not a new invention of the
+founding Convention — it is that same network's method, formalized into
+statute once there was a nation to formalize it into.
+
 *This is the play's Year 0-minus.* The family cheered on referendum night.
 Everything the decade does to them, they chose — which is the wound nothing
 in the story ever heals.

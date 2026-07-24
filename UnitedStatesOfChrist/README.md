@@ -48,13 +48,16 @@ counsel). The status distribution is the regime's fingerprint.
 
 `docs/Constitution.md` is the full Constitution of the United States of
 Christ built on that corpus — every clause cites its scriptural warrant,
-with the contradictions deliberately embedded for dramatic use. Two
-companion docs analyze it: `docs/ConstitutionalModel.md` (what real
-traditions it's built from — American/Confederate form, Iranian clerical
-machinery, Puritan franchise, a Brexit-style referendum origin, and the
-four scholarly schools that fought over it) and `docs/ConstitutionalHistory.md` (how its
-meaning drifts toward clerical supremacy over the first decade without a
-word of the text changing).
+with the contradictions deliberately embedded for dramatic use. Companion
+docs analyze it: `docs/ConstitutionalModel.md` (what real traditions it's
+built from — American/Confederate form, Iranian clerical machinery,
+Puritan franchise, a Brexit-style referendum origin, and the four
+scholarly schools that fought over it), `docs/ConstitutionalHistory.md`
+(how its meaning drifts toward clerical supremacy over the first decade
+without a word of the text changing), and `docs/TheMoscowModel.md` (the
+origin case study — a real Idaho college town, with wholly fictional
+church/college/press, where the capture method the Referendum later ran
+nationally was first proven at the scale of a single county).
 
 Rebuild after editing catalog parts: `python3 tools/build_catalog.py`
 (fails unless the OT count is exactly 613).
