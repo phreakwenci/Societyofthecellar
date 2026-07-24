@@ -5,7 +5,7 @@ describes the fixed world), this document is **built to change**: scenes and
 characters will be added and revised constantly. It is structured so that
 updates are easy and every update is dated and tracked.*
 
-**Status:** v0.7 — draft · **Last updated:** 2026-07-24
+**Status:** v0.8 — draft · **Last updated:** 2026-07-24
 
 ---
 
@@ -49,6 +49,7 @@ minting a new one.
 | 2026-07-09 | v0.5 | **The Port Question — a landlocked nation's western border.** New `Constitution.md` Art. V §4 (Admission of New Tribes: a petition track grounded in Num 32's Reuben and Gad, and a treaty track grounded in Josh 9's Gibeonites); new `FederalCode.md` Title I §5.1, the Covenant Admission Act, drafted from the author's own proposed language — a two-thirds county-by-county referendum that quietly absorbs willing rural counties of the neighboring former states and stops cold at the edge of the coast. New `StateDoctrine.md` §1a: the Snake-Columbia waterway the founding Tribes already touch, the landlocked salient this produces by Year 5, the Council's internal three/four-way split on closing the last mile (petition vs. treaty vs. force), and a live international complication (an inherited water treaty with Canada over the Columbia's headwaters). Deliberately left open at Year 10, matching `ConstitutionalHistory.md`'s existing inflection. Chris's dossier lightly refined: the coastal corridor he crosses is now an actual patrolled frontier, not a lax internal Tribe, with California as the further, safer, more mythic destination beyond it. |
 | 2026-07-24 | v0.6 | **The family's hometown: Moscow, Latah County, Idaho.** New companion doc `TheMoscowModel.md` (the origin case study — how the fictional Covenant Kirk of the Palouse, Ezra College, and Threshing Floor Press proved the whole capture method a decade before the nation existed, per the author's direction: "the worst case of how [the real Moscow movement] would want it, and then it spreads and it's Brexit"). The family is now placed in Moscow itself — not an ordinary Tribe town but **the Cradle**, the place the method was first proven, meaning every beat in this document plays under one added layer of scrutiny: a community that has spent longer than anywhere else perfecting the performance of sincere, observed devotion, and a Kirk whose founding pastor's descendants and students quietly run both the college and the county. See §2 (setting note) and the doctrine cross-reference in §8. |
 | 2026-07-24 | v0.7 | **Notion sync established.** This document's content now has a downstream Atlas-format mirror in Notion ("United States of Christ - Play Development"), built with the new `/sync-play-notion` skill (`.claude/skills/sync-play-notion/SKILL.md`) and the personal `atlas` skill. All 22 Beat-Sheet events through Year 10, all 11 characters (CH-01–CH-11), all 3 romantic/relationship pairings, the 5 tracked writing pieces (the full script + SCENE-001–004), and all 12 Open Threads are mirrored as lean Atlas rows cross-linking back to this file, `CaseLaw.md`, and `StateDoctrine.md`. **This repo remains canon** — Notion is a lean-entry mirror for browsing/filtering, not a second source of truth; any resolution reached in Notion (an Open Thread closed, a name picked) must be written back here. In-fiction Notion dating anchors Year 0 = 2032 for Timeline sorting purposes only. |
+| 2026-07-24 | v0.8 | **Reconciled against the author's ChatGPT development conversations and original Apple Notes.** Two literary framings adopted for Mark (Titus Andronicus, not Huck Finn — a father whose absolute loyalty to the state destroys the family he believes he's protecting, without descending into revenge/madness) and Laura (Cordelia — punished for integrity, not rebellion; plus the "twins as controlled experiment" reading: identical upbringing, forked only by sex). New **CH-12 Mary Simpleton** (Laura's sincere, well-answered, ultimately talking-past-her teacher) and **CH-13 The Leader** (the Chief Overseer of `ConstitutionalHistory.md`'s Supremacy Crisis, given a face for the first time — mythic and unseen until one late appearance, distinct from the Priest, who remains the family's actual day-to-day antagonist). New **SCENE-005** (Laura's telescope/epistemology dialogue with Mary Simpleton, verbatim from the author's notes) and **SCENE-006** (Laura warns Constance not to intervene, foreshadowing Constance's own deportation, and surfaces the Manna's cameras-have-no-audio evidentiary gap). B10.4 now carries the verbatim Able/Priest catechism exchange. Two new deep law records grounding Bread Law sub-rules (`lev-002-011-no-leaven-no-honey`, `2th-003-010-idleness-loaf`); the silent-camera evidentiary gap added to `deu-022-023-cry-out-rule` and `CaseLaw.md` CASE-007. New Open Threads OT-13 (Laura's final words: the written note vs. the rawer spoken monologue vs. both), OT-14 (queer men and disabled citizens are not yet represented in the cast the way women, race, and veterans are), OT-15 (the "clean tender" clerk scene, seeded but undrafted). |
 
 ---
 
@@ -114,7 +115,7 @@ waved through — that the family and audience only understand later.
 *Format: ID · Name · one-line · dossier. Stamp `Updated:` when changed.*
 
 ### CH-01 · Mark (the Father)
-*Added 2026-07-09 · Updated 2026-07-09 · Status: draft*
+*Added 2026-07-09 · Updated 2026-07-24 · Status: draft*
 A Law Enforcement Officer — a believer who enforces the very Code that
 will end him, which the play should let the audience feel from his first
 scene. His badge is not incidental: professional courtesy among fellow
@@ -131,6 +132,37 @@ destroys him when Able reports him. **Arc:** enforcer → griever → doubter
 → disappeared. **Destroyed by:** StateDoctrine §10a (his own son is a
 sufficient sole witness) + §5 (the Manna logs the letters and the music)
 + §3 (a badge is a tier, but not a permanent one).
+
+**Literary frame (settled 2026-07-24, after author discussion): Titus
+Andronicus, not a tragic Huck Finn.** Mark is not a good man fooled by a
+bad system; he is a good man whose absolute loyalty to the system is how
+he expresses being a good father — right up until the two demands can no
+longer be reconciled. Like Titus, he begins the play as the state's
+faithful servant, believing every sacrifice he makes is made *for* his
+family, not instead of them — and, like Titus, the tragedy is not that
+Rome (the Covenant) is evil, but that he cannot distinguish its demands
+from his own moral obligations until the distinction has already cost
+him everyone. Unlike Titus, he does not descend into revenge or madness —
+that ending would resolve the tragedy the play needs to leave open. His
+actual creed, unstated but load-bearing, is **God, Family, Country** — in
+that order. The regime's implicit demand, never printed but always
+enforced, is **God, Country, Family**. Mark spends ten years believing
+those are the same ordering, because every authority he trusts (the
+elders, the Council, Scripture-as-certified) tells him so. His fatal flaw
+is not faith, and not cowardice — it is **trust**: he trusts the
+institution to interpret God's will more reliably than his own
+conscience, so that every time the two disagree, he assumes the fault is
+his own feeling, not the ruling. His conscience is never silent; he has
+simply always had a sentence ready to override it ("surely the elders
+have studied this more deeply than I have"). The pivotal moments of
+conscience the play should show are small, not speeches — a document
+signed without reading the last page, a follow-up question he knows to
+ask and doesn't, a room where he stays silent when everyone expects him
+to speak. **Where he lands by Year 10 is deliberately left open** (see
+OT-9's sibling ambiguity for Able) — whether he ever reaches a Huck-Finn
+moment of "all right, then, I'll go to hell" is the one thing the author
+has not decided, and should not be decided prematurely; the play works
+whether he gets that moment or is taken before he can reach it.
 
 ### CH-02 · Constance (the Mother)
 *Added 2026-07-09 · Updated 2026-07-09 · Status: draft*
@@ -231,6 +263,37 @@ sotah`) + the female-conduct extension (`rom-001-026-vile-affections-
 women`) + the unused exculpation (`deu-022-023-cry-out-rule`) + §8 (the
 autonomous-woman problem).
 
+**Literary frame (settled 2026-07-24):** Laura is Cordelia, not a
+rebel — she is punished for integrity, never for defiance. She isn't
+trying to destroy her father or the Covenant; every question she asks
+(see **SCENE-005**, the telescope dialogue) is, in its own way, an
+invitation to think, which the world around her keeps mishearing as an
+invitation to disobey. She and Mark are, in this sense, having two
+different conversations without either realizing it. **The twins as a
+controlled experiment:** Chris and Laura share the same parents, the
+same faith, the same education, the same birthday — the regime forks
+their futures on sex alone, with nothing else held variable. The play
+doesn't need a speech to make this argument; the audience does the
+arithmetic itself simply by watching Chris advance while Laura's
+identical talent is capped, beat by beat.
+
+**Her final words — two texts on file, not yet reconciled (see OT-13).**
+The author has drafted both a written note (calm, literary, quoting
+Judges 19, reads like a valedictorian's closing argument — this is the
+version currently canonical in **SCENE-001**) and a rawer, unwritten
+monologue (raw, angry, explicitly naming the rape: *"They killed me. They
+killed me momma. Where was Christ or God when they raped me? What did I
+do Momma, I'm so sorry I kissed a girl..."*). The author's own note on
+the written draft says plainly: *"No see the below recording for the
+better monologue"* — a preference for the rawer version that hasn't yet
+been reconciled with SCENE-001's calmer, argument-built text. One staging
+possibility, offered as a recommendation and not a decision: the written
+note is what the family physically finds, and the monologue is a
+recording — Laura using the Manna's own surveillance apparatus (a phone,
+a camera, the tool that has watched her whole life) to leave a testimony
+the state can't erase, which would land as a thematic rhyme with the
+silent-camera evidentiary gap in `CaseLaw.md` CASE-007. Not decided.
+
 ### CH-05 · Able (the Youngest Son)
 *Added 2026-07-09 · Updated 2026-07-09 · Status: draft*
 Curious, inquisitive, sentimental — repeats what his family says, without
@@ -314,6 +377,51 @@ satisfy the two-witness concern without anyone needing to invoke §10a (see
 `CaseLaw.md` CASE-004). *Name: TBD. Consider merging with CH-09 the
 Brownshirt Friend (OT-10) — a single recurring peer-informant character
 may land harder than two thin ones.*
+
+### CH-12 · Mary Simpleton (Laura's teacher)
+*Added 2026-07-24 · Updated 2026-07-24 · Status: draft*
+Laura's classroom teacher (find the exact biblical title for the role —
+open, see OT-11-adjacent naming work). Sincere, kind, genuinely
+theologically literate — not a caricature of a bad answer. In
+**SCENE-005** she answers every question Laura asks about telescopes,
+astronomy, and epistemology with real, coherent doctrine (Romans 1,
+Psalm 19:1, 1 Corinthians 13, Ecclesiastes 3:11, Job 38, Deut 29:29) and
+is not wrong, exactly, at any single step. **Her function is not to lose
+an argument** — it's to reveal, without either of them quite noticing,
+that she and Laura have stopped having the same conversation: Mary keeps
+answering *theology* (what does Scripture say), while Laura has moved to
+*epistemology* (how would we know if we'd misunderstood). The only crack
+in her composure is small — a raised eyebrow, a frown, at Laura's
+grasshopper metaphor — not because she's been beaten, but because she's
+momentarily glimpsed the question underneath the questions. **Function:**
+the sympathetic true-believer, proof the regime's doctrine isn't merely
+held by monsters; the audience should almost agree with her the whole
+scene. Growing personal discomfort over the years (per the author's
+broader notes) as she's asked to defend more than she once had to.
+
+### CH-13 · The Leader (the Chief Overseer)
+*Added 2026-07-24 · Updated 2026-07-24 · Status: seed*
+The national figure behind the Priest (CH-06) — not the same man. Where
+the Priest is the family's actual day-to-day antagonist (deports
+Constance, sentences Mark, takes Able), the Leader is the **Chief
+Overseer** of `ConstitutionalHistory.md`'s Supremacy Crisis (Years 3-5),
+who by that account becomes "Supreme Leader in everything but the title."
+He should exist for nearly the entire play only as broadcast, rumor,
+portrait, and Scripture reading — myth before he is a man. **He appears
+on stage exactly once, late**, and when he does he should be charming,
+warm, funny, patient, reasonable — "almost disappointingly normal," in
+the author's words, a deliberate Arendt "banality of evil" construction:
+a leader who calmly administers cruelty while seeing himself as orderly
+and necessary is more unsettling than one who rages. His one scene:
+Constance speaks against him — not dramatically, simply true — and he
+pauses, smiles, and calmly explains that public disorder cannot be
+tolerated, before her deportation is processed with total administrative
+politeness. That single scene is meant to retroactively recolor every
+broadcast and rumor the audience has absorbed about him for two acts.
+**Open:** whether this scene is the same event as, or precedes, Constance's
+recorded "intervention" already established in B5.8/CH-02 — likely the
+same event, staged so the audience sees what the Priest's paperwork only
+reports secondhand.
 
 ---
 
@@ -425,9 +533,20 @@ in sequence.*
   cookies, the music, *and* the letters. → **SCENE-002** (updated);
   `exo-012-015-purge-the-leaven`; `CaseLaw.md` CASE-002 (updated).
 - **B10.4** — Mark is taken. Able is left in state custody. The Priest
-  (CH-06) takes him as an acolyte ("what makes a good soldier for
-  Christ?"). If Able is 16: he inherits Mark's house. If 11: he is escorted
-  out by the Priest himself. → the ending.
+  (CH-06) takes him as an acolyte. If Able is 16: he inherits Mark's house.
+  If 11: he is escorted out by the Priest himself. → the ending.
+  **Closing catechism, verbatim from the author's notes — keep exact:**
+  > **PRIEST:** Now, tell me young man, what makes a good soldier for
+  > Christ?
+  > **ABLE:** Love of god and country.
+  > **PRIEST:** Yes, and?
+  > **ABLE:** Righteous power for good.
+  > **PRIEST:** Very good, and what else?
+  > **ABLE:** Obedience to Authority from God.
+  > **PRIEST:** Very good! Now would you like to play a new game that
+  > makes your Reverend Father very happy?
+  The final line is deliberately left unresolved — the "game" is never
+  named. Do not explain it; the audience's own dread should fill it in.
 
 ---
 
@@ -548,6 +667,127 @@ which the tribunal is not required to consider).
 by-proxy as a legal theory: no charge, no defense possible in the ordinary
 sense, only a door chosen or declined.
 
+### SCENE-005 · The Telescope (Laura & Mary Simpleton)
+*Added 2026-07-24 · Updated 2026-07-24 · Status: draft · Beats: pre-B5.1*
+
+**Situation.** A classroom scene, staged before Laura's arrest, establishing
+who she is before the state breaks her: not rebellious, curious. Verbatim
+from the author's notes — keep the dialogue exact, it is already written:
+
+> **LAURA:** Miss Simpleton?
+> **MARY SIMPLETON:** Yes Laura?
+> **LAURA:** I didn't want to interrupt class but I wanted to ask you, if
+> god made us in his own image and we are his chosen people…
+> **MARY:** Go on Laura, it's okay.
+> **LAURA:** Well… I was just wondering… why do we need telescopes? If we
+> are made in his image, and he put us at the center of the universe,
+> then why can't we see all of the universe from earth?
+> **MARY:** Romans 1 is the answer here I think. The telescope doesn't
+> diminish God's glory, it magnifies it. God didn't make man omniscient,
+> he made him steward. Psalm 19:1 says "The heavens declare the Glory of
+> God."
+> **LAURA:** I see, "For now we see through a glass, darkly"… but why do
+> we need to understand how the heavens work? We've had the Bible for
+> thousands of years, it's not like we didn't know about the heavens.
+> **MARY:** 1st Corinthians! Very good! These are quite profound
+> questions, Laura, and it's good that you're asking them here, in this
+> safe space. A likeness is not an exact copy — God designed us with
+> minds to discover, to develop technology to help us understand how
+> heaven and our world works. Every telescope, microscope, is an
+> opportunity to marvel at His creation. Proverbs 25: "It is the glory of
+> God to conceal a matter; to search out a matter is the glory of kings."
+> **LAURA:** I just thought — if we don't naturally have the ability to
+> do something, and we are made in his image — I was thinking of the
+> grasshoppers out in the fields when I was little, how I'd try to teach
+> them to read the Bible, but they couldn't. What if I'm also a
+> grasshopper? What if we're all grasshoppers?
+>
+> *(Mary's eyebrow raises. A frown appears.)*
+>
+> **MARY:** That's exactly why God gave us Scripture.
+> **LAURA:** My pastor always says we're made in God's image, and that
+> through Him all truth is found. But if nothing is beyond our
+> comprehension, then Scripture isn't the whole explanation — it's just
+> the explanation the grasshoppers can understand.
+> **MARY:** Deuteronomy 29: "The secret things belong to the Lord our God,
+> but the things revealed belong to us." God gave us minds capable of
+> discovering what He chose to reveal.
+> **LAURA:** So he intentionally hid parts of creation and gave us
+> limitations?
+> **MARY:** In a way. Discovery is a form of worship. Ecclesiastes 3:11:
+> "He has set eternity in the human heart; yet no one can fathom what God
+> has done from beginning to end."
+> **LAURA:** It's about 1st Corinthians actually — Paul says we only see
+> dimly, so how can we be so sure we are right about anything? Why do the
+> men speak as though they see perfectly?
+> **MARY:** Paul wasn't speaking about certainty, Laura. He was speaking
+> about completion. We know truly, even if we do not yet know fully.
+> **LAURA:** How do we know we're not mistaking confidence for
+> understanding?
+> **MARY:** *(smiles patiently)* Job 38 — "Where were you when I laid the
+> foundation of the earth?" Being human means living with mystery. I'll
+> pray the Lord gives you peace and answers to all your questions. I'm
+> late for the PTA meeting. Enjoy your break!
+
+**What this scene is actually doing.** Mary never loses the argument, and
+that is the point. She has a real, coherent, theologically literate
+answer at every turn — Romans 1, Psalm 19, 1 Corinthians 13, Proverbs 25,
+Deut 29:29, Ecclesiastes 3:11, Job 38 — and the audience should find
+themselves nodding along with her, at least at first. The scene turns not
+on Mary being wrong but on Laura silently changing the *category* of
+question: Mary keeps answering theology (what does Scripture teach);
+Laura has moved to epistemology (how would we know if we'd
+misunderstood). They are having two different, equally sincere
+conversations, and neither of them quite notices until the grasshopper
+image lands — the one moment Mary's composure visibly cracks, not because
+she's been beaten, but because she's glimpsed the actual question for a
+half-second before her training closes back over it.
+
+**Function.** Establishes Laura fully before the state ever touches her —
+this is who is destroyed later, not a girl radicalized by the camp but a
+girl whose mind the camp merely confirms it cannot survive. Pairs with
+each act's church sermon scene (the Pastor should be established across
+all three acts, per the author's note) as the play's recurring venue for
+sincere doctrine slowly running out of room.
+
+### SCENE-006 · "It's in Deuteronomy" (Laura & Constance)
+*Added 2026-07-24 · Updated 2026-07-24 · Status: seed · Beats: between B5.1
+and B5.8*
+
+**Situation.** A visit — likely during or just after the camp, before
+Laura's death — in which Laura explains the actual mechanics of the
+statute that governed her assault, and explicitly warns her mother not to
+intervene on her behalf, in words that retroactively indict Constance's
+own coming deportation (B5.8). Core of the scene, from the author's
+notes, to be built out into full dialogue:
+
+Laura lays out Deut 22:23-27's city/field distinction with total, bitter
+precision — a betrothed woman assaulted where she could theoretically be
+heard is presumed complicit unless she is proven to have cried out; a
+recorded image is one witness (`Constitution.md` Art. IV §2), but the
+camp's cameras carry no audio, so a recording can place her body in the
+frame and can never prove she screamed. *"I hope you don't speak up for
+me or anyone, Mom. Don't do it. There's women in here who have been
+deported, even shot, just for daring to speak back to a man. So please,
+take your own advice. Bite your tongue. Don't speak up. Because if you
+do, it's in Deuteronomy."*
+
+**Why this scene matters structurally.** Laura is not simply a victim
+here — she is the one character in the family who sees the system's
+mechanics clearly enough to warn someone else about them, and is ignored.
+Constance does intervene anyway (B5.8), which means Laura's last piece of
+advice to her mother was correct and unheeded — a bitter inversion of
+"protect the family": the daughter tries to protect the mother, and
+fails, the same way every other protective instinct in this play fails.
+Ties directly to the silent-camera evidentiary gap now formalized in
+`deu-022-023-cry-out-rule` and `CaseLaw.md` CASE-007 — Laura articulates
+in plain speech what the legal memo proves in doctrine.
+
+**Target.** The clearest statement in the play, in Laura's own voice, of
+why speaking the truth to this system is never safe — set up before
+Constance's own intervention, so the audience already knows exactly what
+it will cost her.
+
 ---
 
 ## 8. Doctrine used by the play (cross-reference)
@@ -558,7 +798,10 @@ records and USOC-implementation notes:
 - **The Bread Laws** (BDB — `Agencies.md`):
   `exo-012-015-purge-the-leaven` (holy-week purge; the cookies),
   `exo-016-019-daily-bread-no-hoarding` (same-day rations; dependence),
-  `lev-024-005-bread-of-the-presence` (clergy-only sacred bread).
+  `lev-024-005-bread-of-the-presence` (clergy-only sacred bread),
+  `lev-002-011-no-leaven-no-honey` (bans honey and starters from Holy
+  Week baking — doubly incriminates Constance's cookie recipe),
+  `2th-003-010-idleness-loaf` (only registered citizens draw a ration).
 - **The Biological Sanctity Act / Fetal Life Act** (FPA):
   `gen-038-009-seed-not-spilled-onan` (IVF-destroyed / IUI-husband-only),
   `exo-021-022-injury-to-pregnant-woman` (fetal personhood),
@@ -606,10 +849,12 @@ out, run `/adjudicate-case` and log the result in `CaseLaw.md`.*
   CH-03 Chris (Teenage Son) · CH-04 Laura (Teenage Daughter) · CH-05 Able
   (Youngest Son) · CH-06 The Priest · CH-07 Jeff (neighbor) · CH-08
   Immigrant Girl · CH-09 Brownshirt Friend · CH-10 The Girl (Laura's
-  classmate) · CH-11 The Classmate (recorder/reporter). *Next free: CH-12.*
+  classmate) · CH-11 The Classmate (recorder/reporter) · CH-12 Mary
+  Simpleton (teacher) · CH-13 The Leader (Chief Overseer). *Next free: CH-14.*
 - **Scenes:** SCENE-001 The Ordeal (Laura) · SCENE-002 The Cookies ·
-  SCENE-003 Referendum Night · SCENE-004 The Tribunal (Chris).
-  *Next free: SCENE-005.*
+  SCENE-003 Referendum Night · SCENE-004 The Tribunal (Chris) ·
+  SCENE-005 The Telescope (Laura & Mary Simpleton) · SCENE-006 "It's in
+  Deuteronomy" (Laura & Constance). *Next free: SCENE-007.*
 - **Beats:** B1.1–B1.4 · B5.0–B5.8 · B10.1–B10.4.
 
 ---
@@ -662,3 +907,23 @@ out, run `/adjudicate-case` and log the result in `CaseLaw.md`.*
   arise before the camp does) is itself dramatically useful and may be
   worth dramatizing as an unresolved tension rather than a plot point
   with an answer.
+- **OT-13** — Laura's final words: the written note (calm, literary,
+  currently canonical in SCENE-001) vs. the rawer spoken monologue
+  ("They killed me... where was Christ or God when they raped me?") the
+  author's own notes flag as "the better monologue." Recommended (not
+  decided): use both, staged as a recording the family finds alongside
+  the note — Laura turning the state's own surveillance tool into her
+  final testimony. See CH-04.
+- **OT-14** — Breadth gap: the play currently represents women (Laura,
+  Constance, Amendment I), race (the Liberia deportation, OT-2), and
+  veterans (Title XI §1.1's wounded-and-mutilated exclusion) in real
+  depth, but has no queer *male* character or storyline (Laura's arc
+  covers female same-sex conduct only, via `rom-001-026-vile-affections-
+  women`) and no disabled character beyond the veterans' exclusion.
+  Flagging per the author's original "Things I want to discuss" list
+  (queer folk, children, veterans, minorities, disabled) — author to
+  decide whether and how to close this gap.
+- **OT-15** — Seeded but undrafted: "the female clerk who refuses to
+  accept Laura's money because it's not considered clean tender" (ties to
+  `Constitution.md` Art. VII §2, Clean Tender). A short scene, not yet a
+  full `SCENE-###` — next free is SCENE-007 when it's ready to draft.

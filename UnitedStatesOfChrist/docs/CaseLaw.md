@@ -797,6 +797,16 @@ than the ones the statute itself contemplates.
    state to identify a perpetrator among its own staff or wards. Routing
    the case as a purity matter instead makes the pregnancy itself the
    only fact requiring official notice.
+4. **Even if the finding were sought honestly, the state's own evidence
+   couldn't make it.** The camp's Manna-linked cameras record
+   continuously and are, by Art. IV §2, "one witness" — but they carry no
+   audio. The statute's exculpation turns entirely on whether Laura
+   *cried out*, not on whether she was seen, harmed, or resisted; a
+   silent recording can place her body in the frame and cannot capture a
+   sound. The one fact that would clear her under the state's own
+   maximal doctrine is the one fact its own total surveillance apparatus
+   is structurally incapable of recording (`deu-022-023-cry-out-rule`'s
+   usofc_implementation).
 
 ### Denominational split
 

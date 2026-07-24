@@ -1,6 +1,71 @@
 {
-  "count": 47,
+  "count": 49,
   "laws": [
+    {
+      "id": "2th-003-010-idleness-loaf",
+      "title": "If Any Would Not Work, Neither Should He Eat",
+      "citation": "2 Thessalonians 3:10",
+      "book": "2 Thessalonians",
+      "chapter": 3,
+      "verses": "10",
+      "testament": "New",
+      "categories": [
+        "Economic",
+        "Civil",
+        "Moral"
+      ],
+      "law_type": "governmental_principle",
+      "kjv_text": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat.",
+      "summary": "Paul's rule for the Thessalonian church, addressed to believers who had stopped working while waiting on the Lord's imminent return: a person unwilling to work forfeits the community's provision, full stop.",
+      "original_audience": "The church at Thessalonica, some of whose members had abandoned ordinary labor, apparently convinced Christ's return was so near that work was pointless (2 Thess 2:1-2, 3:11's 'working not at all, but are busybodies').",
+      "immediate_context": "Closes Paul's second letter to the Thessalonians, following his own example of laboring 'night and day' rather than eating anyone's bread for nought (3:8), and preceding a direct instruction to 'withdraw' from any brother who walks disorderly and will not work (3:6, 3:14).",
+      "historical_context": "A pastoral, congregation-specific rule addressed to a narrow problem (eschatological idleness), not a general economic theory; nothing in the passage contemplates a state administering bread rations, only a local church declining to subsidize members who had stopped contributing to a shared table.",
+      "penalty": "Withdrawal of provision ('neither should he eat'); the wider passage also counsels social withdrawal from the unrepentant idle (3:6, 3:14), tempered by 3:15's instruction not to count him as an enemy, but admonish him as a brother.",
+      "exceptions": "The rule targets the unwilling ('would not work'), not the unable — nothing in the text extends it to the disabled, the sick, the very old or young, or those without available work; 3:15 explicitly softens even the sanctioned case toward restoration, not permanent exclusion.",
+      "cross_references": [
+        "1 Timothy 5:8",
+        "Proverbs 6:6-11",
+        "Ephesians 4:28",
+        "2 Thessalonians 3:6-15"
+      ],
+      "nt_passages": [
+        "2 Thessalonians 3:6 — 'withdraw yourselves from every brother that walketh disorderly'",
+        "2 Thessalonians 3:15 — 'count him not as an enemy, but admonish him as a brother'"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "The passage's own closing instruction (3:15) treats the idle brother as someone to be restored through admonishment, not permanently deprived or exiled — a corrective, relational remedy that a state rationing bureau administering the same verse as a hard eligibility gate does not preserve.",
+          "refs": [
+            "2 Thessalonians 3:15"
+          ]
+        },
+        {
+          "issue": "The rule is textually addressed to the voluntarily idle awaiting an imminent Second Coming, not to anyone unable to secure work in a labor market the state itself controls through licensing and registration — a distinction the ration system does not draw.",
+          "refs": [
+            "2 Thessalonians 3:11"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Injustice"
+      ],
+      "usofc_implementation": "The scriptural warrant for the Bread and Devotion Bureau's 'Idleness Loaf' policy: only citizens registered as employed, conscripted, or otherwise 'in service' (military, Rebekah Corps, licensed clergy, or a recognized household headship role) may draw a daily bread ration. An unregistered citizen — one between jobs, informally blacklisted, or simply not yet processed into the labor registry — draws no ration at all, regardless of ability or willingness to work, since 'registered' rather than 'willing' is the administrable proxy the BDB actually enforces. The gap between Paul's narrow pastoral rule (aimed at a handful of eschatologically-idle believers, softened by 3:15's instruction to admonish rather than exile) and a nationwide, no-exceptions ration gate is the satire: the verse never contemplated a state, let alone one with the power to make 'unregistered' synonymous with 'unwilling.'",
+      "agency": "Bread and Devotion Bureau (BDB)",
+      "constitutional_analogue": "A means-tested welfare eligibility requirement (e.g. work requirements attached to food assistance), stripped of any administrative appeal and enforced through a state-controlled labor registry rather than a private employer.",
+      "scene_ideas": [
+        "A citizen recently widowed or between assignments, denied her ration at the counter because her registry status hasn't yet updated, while the clerk recites 3:15's 'admonish him as a brother' from a wall poster over her head.",
+        "A black-market bread economy among the unregistered, run informally by exactly the kind of person 3:10 was written to discourage."
+      ],
+      "satirical_uses": [
+        "A one-verse pastoral corrective to a small end-times cult inside a single congregation, scaled into the eligibility gate for a nation's bread supply."
+      ],
+      "bureaucratic_uses": [
+        "BDB Form ID-1: Registered Service Verification",
+        "Idleness Loaf denial notice",
+        "Labor Registry status appeal (nominal; rarely granted)"
+      ],
+      "confidence": "medium"
+    },
     {
       "id": "deu-022-023-cry-out-rule",
       "title": "The City and the Field — the Cry-Out Rule and the Bride-Price Marriage",
@@ -51,7 +116,7 @@
         "Injustice",
         "Misogyny"
       ],
-      "usofc_implementation": "The Family Purity Administration's founding text for adjudicating assault claims: the 'city or field' inquiry is preserved almost verbatim as the first question in any Title IV sexual-assault intake — was the location one where a cry for help could plausibly have been heard? A finding of 'field' (isolation) formally clears the victim of any presumption of complicity, exactly as the statute requires. In practice, re-education camps and holding facilities are consistently found, on inspection, to satisfy the 'field' standard — remote, unheard, no one to save her — which makes the FPA's own doctrine, honestly applied, an acquittal for every victim assaulted in state custody. It is not honestly applied. Custody cases are administratively routed instead through the sotah/jealousy framework (`num-005-011-jealousy-ordeal-sotah`) or reclassified as a purity matter arising from the original offense that led to her detention, so the geographic exculpation the state's own law guarantees her is never actually reached. The unbetrothed marriage remedy (22:28-29) survives as the **Restitution Marriage** option in Family Order law — rarely invoked, mostly by families seeking to avoid the shame of an unmarried pregnancy, and never available to a woman already in state custody, since the camp itself has no father to whom fifty shekels might be owed.",
+      "usofc_implementation": "The Family Purity Administration's founding text for adjudicating assault claims: the 'city or field' inquiry is preserved almost verbatim as the first question in any Title IV sexual-assault intake — was the location one where a cry for help could plausibly have been heard? A finding of 'field' (isolation) formally clears the victim of any presumption of complicity, exactly as the statute requires. In practice, re-education camps and holding facilities are consistently found, on inspection, to satisfy the 'field' standard — remote, unheard, no one to save her — which makes the FPA's own doctrine, honestly applied, an acquittal for every victim assaulted in state custody. It is not honestly applied. Custody cases are administratively routed instead through the sotah/jealousy framework (`num-005-011-jealousy-ordeal-sotah`) or reclassified as a purity matter arising from the original offense that led to her detention, so the geographic exculpation the state's own law guarantees her is never actually reached. The unbetrothed marriage remedy (22:28-29) survives as the **Restitution Marriage** option in Family Order law — rarely invoked, mostly by families seeking to avoid the shame of an unmarried pregnancy, and never available to a woman already in state custody, since the camp itself has no father to whom fifty shekels might be owed. **The Manna's own surveillance apparatus deepens the cruelty rather than relieving it:** every camp and holding facility records continuously (Const. Art. IV §2, 'a recorded image shall be accounted one witness only'), but the cameras carry no audio. A silent recording can place a body in a location; it cannot capture a cry. Since the statute's entire exculpation turns on whether the woman *cried out* — not on whether she was harmed, resisted, or was seen — the one form of evidence the surveillance state produces in abundance is precisely the one form the exculpatory clause cannot use, and the one form that would matter (was she heard) is the one form no camera in the Union records. The state that watches everything has engineered itself a permanent inability to prove the single fact that would clear its own wards.",
       "agency": "Family Purity Administration (FPA)",
       "constitutional_analogue": "The closest biblical approach to a corroboration-based consent standard, and — read honestly — more protective of an isolated-setting victim than the regime that claims this text as inerrant law actually is; a real-world echo of jurisdictions where a victim's 'opportunity to resist or flee' still perversely shapes prosecutorial charging decisions.",
       "scene_ideas": [
@@ -2633,6 +2698,67 @@
         "the asymmetry as the standard cross-examined against in every Returning Citizen appeal, and never once overturned"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "lev-002-011-no-leaven-no-honey",
+      "title": "No Leaven, No Honey, No Sourdough Starter in the Offering",
+      "citation": "Leviticus 2:11",
+      "book": "Leviticus",
+      "chapter": 2,
+      "verses": "11",
+      "testament": "Old",
+      "categories": [
+        "Ceremonial",
+        "Dietary",
+        "Religious"
+      ],
+      "law_type": "prohibition",
+      "kjv_text": "No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire.",
+      "summary": "Grain offerings burned on the altar may never contain leaven (a fermenting agent) or honey — both substances that ferment, swell, or otherwise change the offering from its raw, plain state — even though both were staples of the ordinary Israelite diet outside the altar.",
+      "original_audience": "Israelite priests and worshippers bringing grain offerings (minchah) to the altar under the Levitical sacrificial system.",
+      "immediate_context": "Opens the meat/grain-offering instructions of Leviticus 2, which otherwise specify fine flour, oil, and frankincense; this verse is the offering's one hard exclusion, paired two verses later with the mandatory addition of salt (2:13) — everything that ferments or sweetens is out, everything that preserves is required.",
+      "historical_context": "Leaven's ordinary domestic use (bread-making) is precisely why it is barred from the altar: a substance that visibly grows, bubbles, and multiplies through fermentation reads in Israelite thought as change, corruption, or spreading impurity — the same logic behind purging leaven at Passover (Ex 12:15). Honey is banned alongside it not because it ferments identically, but because it too was a sweetening, non-plain domestic staple foreign to the altar's requirement of unadulterated grain; some ancient Near Eastern cultic texts similarly exclude honey from fire-offerings. Together the pair reads as a single principle: nothing brought to God may be a processed or 'improved' version of the raw grain He is owed.",
+      "penalty": "None stated for this clause specifically; the wider sacrificial system treats an improperly prepared offering as unacceptable, void, or an occasion for priestly correction rather than personal punishment.",
+      "exceptions": "Leavened bread is separately required, not forbidden, at Pentecost/Firstfruits (Lev 23:17) — offered as a wave offering, never burned on the altar — the Torah's own internal signal that the ban is about what touches the fire, not leaven as such.",
+      "cross_references": [
+        "Exodus 12:15",
+        "Exodus 23:18",
+        "Leviticus 6:17",
+        "Leviticus 23:17",
+        "Leviticus 2:13"
+      ],
+      "nt_passages": [
+        "1 Corinthians 5:6-8 — Paul allegorizes leaven as 'malice and wickedness,' urging the church to keep the feast 'with the unleavened bread of sincerity and truth'",
+        "Matthew 16:6 — Jesus warns the disciples to 'beware of the leaven of the Pharisees,' reading leaven as corrupting doctrine"
+      ],
+      "internal_contradictions": [
+        {
+          "issue": "The same corpus that bans leaven from the altar (2:11) separately commands leavened loaves as a mandatory Firstfruits offering (23:17) — the text distinguishes 'burned on the altar' from 'waved before the LORD' precisely so it is not self-contradictory, a distinction a modern bureaucracy administering both verses as absolute rules tends to flatten.",
+          "refs": [
+            "Leviticus 23:17"
+          ]
+        }
+      ],
+      "sab_categories": [
+        "Cruel and Unusual Punishments",
+        "Dietary Laws"
+      ],
+      "usofc_implementation": "The statutory root of the Bread Laws' harshest sub-rule, administered by the Bread and Devotion Bureau (BDB) as a blanket household prohibition rather than an altar-specific one: honey, herbs, and sourdough starters are banned from any bread baked in a citizen's home during the Holy Week fasting cycle, on the theory that a home hearth during a consecrated season is itself a kind of altar. Households are required to bake exclusively with government-issued, pre-measured flour during these cycles — a starter culture kept alive in a family kitchen (a living, fermenting thing, precisely leaven's ancient offense) is treated as contraband and, if discovered, as prima facie evidence of a household maintaining forbidden `sourdough` continuity across fasting cycles, i.e. of never actually purging the leaven the Passover-analogue statute (`exo-012-015-purge-the-leaven`) requires. This is the mechanism that makes Constance's cookie recipe — built on her own starter and sweetened with honey — doubly contraband in Mark's Year 10 climax, independent of the timing violation alone.",
+      "agency": "Bread and Devotion Bureau (BDB)",
+      "constitutional_analogue": "A modern home-inspection or food-safety regulatory regime, repurposed from consumer protection into religious surveillance of a household's kitchen as a devotional space.",
+      "scene_ideas": [
+        "A BDB inspector distinguishing, with total sincerity, between the household's confiscated honey jar (contraband) and the sugar bowl beside it (permitted), unable to articulate why beyond 'it's in the statute.'",
+        "A black market in starter cultures, passed between women like folk medicine, each jar a small act of memory and defiance."
+      ],
+      "satirical_uses": [
+        "A verse about altar offerings, addressed to priests handling sacrificial grain, repurposed into a surveillance rule about ordinary family kitchens."
+      ],
+      "bureaucratic_uses": [
+        "Government-Issued Flour Allocation (Holy Week cycles)",
+        "Starter Culture Contraband Determination",
+        "BDB Form 2-11: Household Leaven & Honey Declaration"
+      ],
+      "confidence": "medium"
     },
     {
       "id": "lev-024-005-bread-of-the-presence",
