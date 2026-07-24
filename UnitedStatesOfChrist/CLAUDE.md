@@ -49,6 +49,12 @@ Regenerate the corpus from a local EPUB:
 4. **`/adjudicate-case <fact pattern or SCENE-###>`** — legal reasoning
    over a hypothetical: charges, defenses, denominational split, class
    prediction, predicted ruling; output to `docs/CaseLaw.md`.
+5. **`/sync-play-notion`** — mirror play-development content (timeline,
+   characters, relationships, open threads, writing status) into the
+   project's Notion page, built on the Atlas methodology. Requires the
+   personal `atlas` skill for reference files. The repo docs remain
+   canon; Notion is a downstream, lean-entry mirror. See the skill file
+   for database IDs and schema deviations specific to this project.
 
 ## Record conventions
 

@@ -9,7 +9,8 @@ Two things live here:
    American-theocracy setting. Read `UnitedStatesOfChrist/CLAUDE.md`
    before working there. Project skills: `/extract-biblical-law`,
    `/convert-to-federal-law`, `/detect-contradictions`,
-   `/adjudicate-case`.
+   `/adjudicate-case`, `/sync-play-notion` (requires the personal `atlas`
+   skill).
 
 Copyright note: never commit the Skeptic's Annotated Bible EPUB or its
 commentary prose (`UnitedStatesOfChrist/data/sab_full/` is gitignored).
