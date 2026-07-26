@@ -107,6 +107,19 @@ came the way Britain left the European Union: **by referendum.** A single
 national vote, a propaganda campaign, a narrow margin, and then years of
 messy extraction whose real cost only became visible a decade on.
 
+**But a referendum needed a door to walk through first, and 1869's *Texas
+v. White* had nailed it shut.** `ConstitutionalHistory.md`'s "Before Year
+0" section supplies the legal precursor Brexit itself never needed
+(Britain always had an exit clause; America's Union was declared
+"indissoluble"): a coalition of rural states reads the real 2024
+overturning of the *Chevron* doctrine as reopening judicial review of the
+"consent of the States" language *Texas v. White* left dangling, tests it
+in a fictional consolidated case (*Idaho v. United States*, "the
+Renegotiation Ruling"), and wins nothing but standing — the right to
+*ask.* The Referendum is the asking. Brexit supplies the form the
+campaign takes; the Renegotiation Ruling supplies the reason anyone
+believed the campaign could possibly work.
+
 The Brexit playbook, feature for feature:
 
 - A **referendum**, not a convention first. The people were *asked* — "shall

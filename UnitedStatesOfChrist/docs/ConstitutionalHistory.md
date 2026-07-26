@@ -39,15 +39,108 @@ self-image running under all of it.
 
 ---
 
-## Before Year 0 — The Referendum and the Leave
+## Before Year 0 — The Renegotiation Ruling and the Leave
 
-The United States of Christ did not begin with a convention. It began with
-a **vote.** The Covenant Referendum asked the nation a single question —
-*shall the people return to God and leave the secular union?* — and the
-Leave campaign ran it the way Britain's ran Brexit: a sovereignty slogan
-(**"Take Back the Nation for Christ"**), a bus (the tithe "will fund every
-church and hospital"), a border poster (decline at the gates), and a
-"Project Fear" the faithful were catechized to dismiss.
+The United States of Christ did not begin with a convention, and it did
+not begin with a vote either. It began with a **court case** — because in
+the real constitutional order the Referendum eventually ran inside,
+secession was supposed to be *settled law.* **Texas v. White** (1869) held
+the Union "indissoluble," dissolvable by nothing "except through
+revolution, or through consent of the States" — a line every civics
+textbook read as a door nailed shut. What the movement lacked, going into
+the final years before Year 0, was not belief or organization but a
+**legal** reason a court might someday say the door had a hinge after all.
+
+**The hinge, when it came, was borrowed, not built.** In 2024, the real
+Supreme Court's *Loper Bright Enterprises v. Raimondo* overturned the
+*Chevron* doctrine, ending decades of judicial deference to federal
+agencies' interpretations of ambiguous statutes and returning that
+interpretive authority to the courts themselves. Nothing about that
+ruling touched secession — it was an administrative-law case about fishing
+regulators — but the movement's legal wing read it correctly as a
+**structural opening, not a target**: if federal agencies no longer got
+the last word on what an ambiguous federal question meant, then the
+"consent of the States" clause *Texas v. White* itself left open — never
+litigated, because no one had seriously asked — was now an ambiguous
+federal question a *court*, not an agency, would have to answer fresh.
+
+**The test case.** A coalition of state attorneys general, Idaho lead
+among them, filed what became ***Idaho v. United States*** — not a claim
+of a unilateral right to secede, which *Texas v. White* plainly forecloses,
+but a narrower, stranger petition: recognition of a **right to petition
+for a negotiated, mutual withdrawal**, on the theory that a compact
+entered by consent can, by the same logic, be *renegotiated* by consent,
+and that only an agency's now-defunct interpretive gatekeeping had ever
+stood in the way of a court simply saying so. It was a needle, not a
+door — and it threaded. The ruling (colloquially, **the Renegotiation
+Ruling**) granted nothing but standing: states wishing to pursue a
+negotiated exit could petition Congress and the Executive to begin the
+process, and courts would no longer defer to any executive determination
+that the question was non-justiciable. **No state seceded that day.** What
+happened was smaller and, in the end, far more dangerous: for the first
+time since 1869, a federal court had said the door existed. Everything
+after — the Referendum, the Leave campaign, the Convention — was the
+argument over who would walk through it.
+
+**How they got there.** The years before the ruling were not spent in
+courtrooms alone. Idaho, Wyoming, and the Dakotas — the same rural
+interior the Kirk-town network (`TheMoscowModel.md`) had spent a decade
+threading — built the escalation ladder a lawsuit alone could never have
+supported: coordinated tax-remittance slowdowns testing federal
+enforcement's appetite for a fight with popular state governments;
+parallel state-court rulings on "conscience" statutes engineered to
+generate a circuit split; a string of "sanctuary state" declarations
+refusing cooperation with federal mandates, the same rhetorical apparatus
+used against the movement a generation earlier, turned around and reused
+for a very different constituency; and a quiet, formalizing trade and
+mutual-aid compact among the four states — the same interdependence that,
+after Year 0, becomes the founding Tribes' economic core. Each step was,
+individually, unremarkable and defensible in the ordinary politics of
+federalism. Together, they built a coalition too economically and
+politically entangled to prosecute piecemeal, and too obviously popular in
+its home states for Washington to move against without confirming every
+persecution narrative the movement had spent a decade rehearsing.
+
+*A note on sourcing, for the writer:* nothing above claims the real 2024
+*Loper Bright* decision was actually about secession, or that any real
+official, living person, or institution took the actions described — the
+fictional coalition's *reading* of a real, unrelated case is the
+invention, in the same spirit as `TheMoscowModel.md`'s fictionalized
+institutions layered onto a real place. **A brief, deliberately
+unspecific note on foreign involvement:** the coalition drew quiet
+sympathy — mostly media amplification and trade overtures, nothing
+resembling material or military support — from a handful of foreign
+governments with their own interest in a fractured and distracted United
+States. Left unnamed, unconfirmed, and always denied, exactly the
+ambiguity such a relationship would in fact have. This is a footnote, not
+a subplot, unless there's a specific dramatic reason to develop it
+further.
+
+**The Leave campaign did not win on the ruling and scripture alone. It
+also won because it could point to a place.** For a decade before the
+vote, a loose network of rural county seats across the interior West had
+already reorganized themselves around a single method — property
+acquisition, institutional capture, patient publication, no law broken —
+and had proof, in the form of towns actually governing themselves that
+way, that "Take Back the Nation for Christ" was not a wish but a completed
+local fact waiting to be scaled up. `TheMoscowModel.md` is that origin
+case study: the one town where the method was proven first, and the
+network of towns that ran the same playbook after seeing it work. The
+Covenant Admission Act (`FederalCode.md` Title I §5.1), which quietly
+walks the western border county by county in Years 1–3 below, is not a
+new invention of the founding Convention — it is that same network's
+method, formalized into statute once there was a nation to formalize it
+into. Between the Renegotiation Ruling's legal opening and the Kirk-town
+network's proof of concept, the Leave campaign had, for the first time,
+both an argument and an exhibit.
+
+Then, and only then, came the **vote.** The Covenant Referendum asked the
+nation a single question — *shall the people return to God and leave the
+secular union?* — and the Leave campaign ran it the way Britain's ran
+Brexit: a sovereignty slogan (**"Take Back the Nation for Christ"**), a
+bus (the tithe "will fund every church and hospital"), a border poster
+(decline at the gates), and a "Project Fear" the faithful were catechized
+to dismiss.
 
 It won by a **margin, not a mandate** — roughly 52–48. And where Brexit
 split by region, this split by *belief*: the line ran through
@@ -59,21 +152,6 @@ bus had not mentioned; and a growing, unsayable suspicion that it had cost
 more than promised. None of it could be reversed, because reversal had
 already become heresy. The referendum is the regime's permanent,
 unanswerable card: **you voted for this.**
-
-**The Leave campaign did not win on scripture and slogans alone. It won
-because it could point to a place.** For a decade before the vote, a loose
-network of rural county seats across the interior West had already
-reorganized themselves around a single method — property acquisition,
-institutional capture, patient publication, no law broken — and had proof,
-in the form of towns actually governing themselves that way, that "Take
-Back the Nation for Christ" was not a wish but a completed local fact
-waiting to be scaled up. `TheMoscowModel.md` is that origin case study:
-the one town where the method was proven first, and the network of towns
-that ran the same playbook after seeing it work. The Covenant Admission
-Act (`FederalCode.md` Title I §5.1), which quietly walks the western
-border county by county in Years 1–3 below, is not a new invention of the
-founding Convention — it is that same network's method, formalized into
-statute once there was a nation to formalize it into.
 
 *This is the play's Year 0-minus.* The family cheered on referendum night.
 Everything the decade does to them, they chose — which is the wound nothing

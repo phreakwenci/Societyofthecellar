@@ -118,3 +118,18 @@ and one telling institutional detail.
   memorization quotas, public confession assemblies.
 - **The Propaganda organ: *The Daily Manna*** — state media. Masthead
   verse rotates; Romans 13:1 appears more often than statistically likely.
+- **Office of External Communion (OEC)** — the USofC's foreign ministry in
+  everything but name; reports to the Council of Overseers, not the
+  Presidency, which tells you who actually sets foreign policy. Its
+  mandate abroad is the mirror of the Nicaea-on-Potomac fiction at home:
+  present the nation as speaking for "the whole Body of Christ"
+  (1 Cor 12:12-27) to court sympathetic foreign patrons, congregations,
+  and nationalist movements of every denomination, while every actual
+  agreement it signs — media partnerships, trade concessions, quiet
+  intelligence-sharing — serves the Evangelical bloc's media empire and
+  the Reformed bloc's doctrinal export first. Its staff are disproportion-
+  ately Evangelical (the bloc with the media infrastructure to run a
+  charm offensive) under Reformed doctrinal sign-off (nothing it promises
+  abroad may contradict a CSC harmony). Officially symmetrical; in practice
+  the department every foreign visitor meets is not the department that
+  decides what they're offered. See `StateDoctrine.md` §4a.

@@ -285,6 +285,83 @@ family caught between them.
 
 ---
 
+## 4a. The appearance of neutrality — governing an inter-Christian nation
+
+The USofC is constitutionally, deliberately **non-denominational** —
+Article VI's citizenship gate names no sect, Article III's Council seats
+are apportioned by formula, not creed, and no clause anywhere says "the
+Reformed reading governs." That silence is not an oversight. It is the
+whole design: a nation that never has to say which Christianity is
+correct can claim to represent all of it, right up until the moment that
+stops being useful. Five institutions carry the fiction, each differently:
+
+- **Citizens.** Article VI's gate is genuinely ecumenical on its face:
+  the covenant sign, a baptismal record, an annual Declaration of Sole
+  Worship — any Trinitarian communion the Department of Worship
+  recognizes qualifies you, not a specific one. An ordinary citizen can
+  live an entire life never learning which bloc actually decided the
+  ruling that changed his. This is the level at which the fiction is
+  most true and most stable — see §2, the covenant sign as the gate.
+- **Legislators.** The Council of Overseers is genuinely apportioned by
+  the Formula of Nicaea-on-Potomac, a recurring weighted census of
+  "communicants in good standing" (`DenominationalNotes.md`). This is the
+  system's best evidence for itself — an actually mixed body, actually
+  elected by actual denominational weight. It is also, by design, not the
+  body that harmonizes doctrine (below).
+- **The courts, and the room behind them.** The Committee on Scriptural
+  Consistency — appointed by the Council, not elected, files sealed
+  ninety-nine years — is where "harmonization" actually happens, and it
+  has been Reformed-bloc-controlled since its first appointment at the
+  founding session (`DenominationalNotes.md`'s apportionment problem,
+  point 2). The Covenant Courts are packed toward the same reading over
+  the following years (`ConstitutionalHistory.md`, "Certification
+  Creep"). A citizen who wants to know who really runs the interpretive
+  machine has to know to ask a different question than the Constitution
+  itself invites him to ask.
+- **Diplomats.** The Office of External Communion (`Agencies.md`)
+  performs the identical fiction abroad: it presents the USofC as
+  speaking for "the whole Body of Christ" (1 Cor 12:12-27 — "many
+  members, yet but one body" is the OEC's unofficial motto and its most
+  cynical citation in the whole corpus) to court foreign patrons and
+  sympathetic movements of every denomination, while its actual
+  agreements are staffed and vetted to serve the Evangelical media
+  empire and the Reformed doctrinal export specifically. Foreign
+  visitors meet the ecumenical face; the terms they're offered were set
+  somewhere they never see.
+- **Propaganda.** The Manna (§5) runs "One Table" programming —
+  interdenominational testimony segments, joint prayer broadcasts, a
+  rotating cast of clergy from every recognized bloc — produced and owned
+  by Evangelical media interests specifically. The unity it broadcasts is
+  real footage of real clergy; the ownership and editorial control behind
+  the broadcast is not the neutral thing the footage implies.
+
+**How long the fiction lasts, and why it's already answered elsewhere:**
+`ConstitutionalHistory.md` is, among other things, a clock for exactly
+this question. Years 1–3 ("Certification Creep") are the fiction at its
+most convincing — the country still looks like the founding text, and the
+drift is visible only to lawyers. By Years 3–5 (the Supremacy Crisis) it
+is cracking in public: a Chief Overseer who is, by bloc, unmistakably
+Reformed becomes "Supreme Leader in all but the title," and the
+Evangelicals who built the elected Presidency discover exactly what they
+handed away. By Years 5–7 (the Theonomist Schism) the fiction fails even
+the faction it protected: the Reformed bloc's own logic — that Scripture,
+not any human document, is supreme — turns against the "neutral"
+Constitution that had been laundering their control for it, and the
+schism asks in public what everyone had been forbidden to ask in private.
+**Roughly three years of genuine-looking pluralism, a visible crack by
+five, total public exposure by seven** — a fiction with a shelf life, not
+a permanent architecture, which is the honest answer to "how long would
+that last."
+
+*Drives:* every scene with the Priest (CH-06, Reformed) should let the
+audience feel the gap between what the Constitution claims about him
+(one overseer among many, formula-apportioned, unremarkable) and what he
+actually is (the interpretive machine's local face) — the family should
+believe the fiction fully in Act 1 and understand it was never true only
+once it's too late to matter to them personally.
+
+---
+
 ## 5. Media — "the Manna" (techno-feudalism)
 
 Because the Evangelicals hold the cash and the platforms, **public media is

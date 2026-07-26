@@ -8,9 +8,42 @@ committee.
 ## The apportionment problem
 
 The Council of Overseers' twelve seats are allocated by the **Formula of
-Nicaea-on-Potomac**, a weighted census of "communicants in good standing."
-Every denomination games the definition of communicant. Current bloc
-politics:
+Nicaea-on-Potomac**, a weighted census of "communicants in good standing" —
+retaken every Tribal census cycle, not frozen at founding, which is
+precisely why it stays a live fight rather than a settled one. On paper
+this is the whole system's proof of fairness: no denomination is named in
+the Constitution, no sect is preferred by law, and any communicant of any
+Trinitarian body recognized by the Department of Worship can, in
+principle, sit on the Council that governs everyone. **Three things make
+that fairness a surface, not a floor:**
+
+1. **"Communicant in good standing" is not self-defining.** DOW
+   credentialing rules decide whether a given congregation's membership
+   counts toward its bloc's census weight at all — which means the body
+   that certifies "good standing" (Liturgical-controlled, per below) has a
+   permanent thumb on every other bloc's seat count.
+2. **A formula-balanced legislature does not produce a formula-balanced
+   bureaucracy.** The Council's first substantive act at every session is
+   *appointing* the doctrinal agencies — the CSC chief among them
+   (`Constitution.md` Art. II §3, "the President's nomination is not
+   required") — and appointment is a majority vote, not a proportional
+   one. A disciplined, single-issue bloc that shows up organized beats a
+   numerically larger but internally divided one at exactly the votes
+   that matter; the Theonomist/Reformed bloc has done this since the
+   founding session and has never had to relinquish the seats it won that
+   first year, because incumbency in a body that seats for life is not
+   contestable the way census weight is.
+3. **The visible body and the real one are different bodies.** The
+   Council itself is genuinely apportioned, genuinely mixed, and a
+   plausible advertisement for the system's fairness — it is also, per
+   Art. II §3, not the body that actually harmonizes doctrine. That's the
+   CSC, whose files are sealed ninety-nine years and whose composition the
+   public cannot audit even in principle. The state's honest answer to
+   "which sect runs the country" is "no one sect, look at the Council";
+   its true answer is in a room the Council appointed once and never has
+   to justify again.
+
+Current bloc politics:
 
 - **The Reformed bloc** controls the Committee on Scriptural Consistency —
   hence the state's love of Romans 13 and predestinarian fatalism in
