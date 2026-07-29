@@ -1,0 +1,61 @@
+{
+ "book": "Obadiah",
+ "annotations": [
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con153",
+     "title": "153 How should the Edomites be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  }
+ ]
+}

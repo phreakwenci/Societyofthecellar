@@ -1,0 +1,6 @@
+# Copyrighted source material — never commit.
+# The Skeptic's Annotated Bible commentary is © Steve Wells / SAB Books LLC.
+# Only the public-domain KJV text (data/books/) and the factual annotation
+# index (data/sab/) are committed. Full commentary prose stays local.
+data/sab_full/
+*.epub

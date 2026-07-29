@@ -1,0 +1,191 @@
+{
+ "book": "Titus",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1-4",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con139",
+     "title": "139 Does God lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.6",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con15",
+     "title": "15 Did \u201cPaul\u201d change his mind about marriage?"
+    },
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.7-8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.10-11",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.12",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.14",
+   "categories": [
+    "Absurdity",
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.4-5",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.6",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.7",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.9-10",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    },
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1-2",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.5",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.9",
+   "categories": [
+    "Absurdity",
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.10-11",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  }
+ ]
+}

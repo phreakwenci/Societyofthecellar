@@ -1,0 +1,1111 @@
+{
+ "book": "2 Samuel",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.8-10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con182",
+     "title": "182 Did Saul and Samuel kill all the Amalekites?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.15",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.26",
+   "categories": [
+    "Homosexuality",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8-9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con198",
+     "title": "198 Did Saul\u2019s family die with him?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.14",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.23",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    },
+    {
+     "id": "con199",
+     "title": "199 Who were the sons of David that were born in Hebron?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con191",
+     "title": "191 How many Philistine foreskins did David buy his first wife with?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.16",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.27",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.29",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.31",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.6-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.12",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con200",
+     "title": "200 When did Absalom rebel against David?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.8",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.13",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con201",
+     "title": "201 Who were David\u2019s sons?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.19-25",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con173",
+     "title": "173 How long was the ark of the covenant at Abinadab\u2019s house?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.6-7",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con202",
+     "title": "202 Where did God kill Uzza?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.14-23",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con100",
+     "title": "100 Is dancing a sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con203",
+     "title": "203 How many children did Michal have?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.9",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.13,16",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con139",
+     "title": "139 Does God lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.1-2",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con204",
+     "title": "204 How many horsemen did David take?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.5-6",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con194",
+     "title": "194 Was Abiathar the father or the son of Ahimelech?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con205",
+     "title": "205 How many did David kill?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.2-5",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.15",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.27",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.7-8",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.11",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.13",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14-18",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.20",
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": null,
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con206",
+     "title": "206 Was Solomon David\u2019s second or fourth son by Bathsheba?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.31",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.1-22",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.28-29",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.31",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.26",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con207",
+     "title": "207 How many sons did Absalom have?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con200",
+     "title": "200 When did Absalom rebel against David?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.16",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.5-7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.10-11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.21-22",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.14",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.23",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con208",
+     "title": "208 Who was Amasa\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.7-8",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.14-15",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con207",
+     "title": "207 How many sons did Absalom have?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.3",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.10-12",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.16-22",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.1",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.6",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con198",
+     "title": "198 Did all of Saul\u2019s family die with him?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con1",
+     "title": "203 How many children did Michal have?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.9",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con66",
+     "title": "66 Does God approve of human sacrifice?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con197",
+     "title": "197 How did Saul die?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.13-14",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.16-22",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con189",
+     "title": "189 Who killed Goliath?"
+    },
+    {
+     "id": "con209",
+     "title": "209 Whom did Elhanan kill?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.8-16",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    },
+    {
+     "id": "con210",
+     "title": "210 Did David sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.22-49",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con210",
+     "title": "210 Did David sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    },
+    {
+     "id": "con210",
+     "title": "210 Did David sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.8-21",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con211",
+     "title": "211 How many men did the chief of David\u2019s captains kill?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.15-16",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.39",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.1",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con212",
+     "title": "212 Who tempted David?"
+    },
+    {
+     "id": "con65",
+     "title": "65 Has God ever tempted anyone?"
+    },
+    {
+     "id": "con213",
+     "title": "213 Is it OK to take a census?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.9",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con214",
+     "title": "214 How many soldiers did Israel have?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con210",
+     "title": "210 Did David sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.13",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con215",
+     "title": "215 How many years of famine?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.15",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.17",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con216",
+     "title": "216 For how much did David buy the threshing floor?"
+    }
+   ]
+  }
+ ]
+}

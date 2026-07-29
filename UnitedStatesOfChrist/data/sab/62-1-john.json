@@ -1,0 +1,395 @@
+{
+ "book": "1 John",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.7",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.8, 10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con229",
+     "title": "229 Do Christians sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con168",
+     "title": "168 Does God forgive sins?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.9-11",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con108",
+     "title": "108 Is it OK to call someone father?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.15",
+   "categories": [
+    "Absurdity",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.18",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.19",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.22",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.28",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.2",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.6-10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con229",
+     "title": "229 Do Christians sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.11",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con127",
+     "title": "127 Should we love or hate our brother?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con308",
+     "title": "308 Should we believe everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con417",
+     "title": "417 Are those who believe Jesus is the Christ of God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.3",
+   "categories": [
+    "Absurdity",
+    "False Prophecy",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.7",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.8",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con131",
+     "title": "131 Does God love everyone?"
+    },
+    {
+     "id": "con294",
+     "title": "294 Is God the creator of evil?"
+    },
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con28",
+     "title": "28 Was Jesus God\u2019s only son?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Has anyone seen God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con417",
+     "title": "417 Are those who believe Jesus is the Christ of God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.16",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.20-21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con127",
+     "title": "127 Should we love or hate our brother?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con417",
+     "title": "417 Are those who believe Jesus is the Christ of God?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.12",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.16, 17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con229",
+     "title": "229 Do Christians sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.19",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  }
+ ]
+}

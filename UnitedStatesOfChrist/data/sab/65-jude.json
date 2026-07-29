@@ -1,0 +1,141 @@
+{
+ "book": "Jude",
+ "annotations": [
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con158",
+     "title": "158 Do humans have free will?"
+    }
+   ]
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con287",
+     "title": "287 Is the devil free to roam?"
+    },
+    {
+     "id": "con29",
+     "title": "29 Do angels have sex?"
+    }
+   ]
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Homosexuality",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con472",
+     "title": "472 What was Sodom\u2019s sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con27",
+     "title": "27 Was Enoch the seventh from Adam?"
+    }
+   ]
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 0,
+   "ref": null,
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  }
+ ]
+}

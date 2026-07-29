@@ -1,0 +1,80 @@
+{
+ "book": "Ruth",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con152",
+     "title": "152 Has any Moabite ever entered the congregation of the Lord?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.3-4",
+   "categories": [
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.7-9",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.11-14",
+   "categories": [
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "4.10",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "4.13",
+   "categories": [
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "4.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "4.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con152",
+     "title": "152 Has any Moabite ever entered the congregation of the Lord?"
+    }
+   ]
+  }
+ ]
+}

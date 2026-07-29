@@ -1,0 +1,623 @@
+{
+ "book": "Hebrews",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1-2",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.10",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con147",
+     "title": "147 Will the earth last forever?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con329",
+     "title": "329 Was Joseph the father of Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1-3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con160",
+     "title": "160 Who was the greatest prophet?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.4-6",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con442",
+     "title": "442 Is it possible to fall from grace?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.8",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con63",
+     "title": "63 Is it OK to swear?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con59",
+     "title": "59 Can God do anything?"
+    },
+    {
+     "id": "con139",
+     "title": "139 Does God lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.1-4",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.1",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con19",
+     "title": "19 Is everyone descended from Adam?"
+    },
+    {
+     "id": "con24",
+     "title": "24 Must everyone die?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.6-7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con299",
+     "title": "299 Is the law of God perfect?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con226",
+     "title": "226 What was in the Ark of the Covenant?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.13-22",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.26",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con24",
+     "title": "24 Must everyone die?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.4-11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.24",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.25",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.27",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.28-31",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.37",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.38",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con35",
+     "title": "35 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con26",
+     "title": "26 Has anyone ever ascended into heaven?"
+    },
+    {
+     "id": "con24",
+     "title": "24 Must everyone die?"
+    },
+    {
+     "id": "con25",
+     "title": "25 Did Enoch die?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.6",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.7",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con58",
+     "title": "58 Did Sarah have faith that she would conceive?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.17",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con53",
+     "title": "53 How many sons did Abraham have?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.24-27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con87",
+     "title": "87 Did Moses fear the king?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.28",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.31",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con471",
+     "title": "471 Was Rahab saved by faith or works?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.32",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.35",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con310",
+     "title": "310 Do bad things happen to good people?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.7",
+   "categories": [
+    "Absurdity",
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.8",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.20",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.22-24",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.26",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.1",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.2",
+   "categories": [
+    "Absurdity",
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.4",
+   "categories": [
+    "Language"
+   ],
+   "contradictions": [
+    {
+     "id": "con15",
+     "title": "15 Is marriage a good thing?"
+    },
+    {
+     "id": "con110",
+     "title": "110 Is it wrong to commit adultery?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.5",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.9",
+   "categories": [
+    "Absurdity",
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con99",
+     "title": "99 Is God warlike or peaceful?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.23",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  }
+ ]
+}

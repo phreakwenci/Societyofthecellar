@@ -1,0 +1,429 @@
+{
+ "book": "Hosea",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.2-3",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Language",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con110",
+     "title": "110 Is it wrong to commit adultery?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con245",
+     "title": "245 Did God commend or condemn Jehu for the killings at Jezreel?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.9",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2-3",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Language",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.4-5",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Language",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.10",
+   "categories": [
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.13",
+   "categories": [
+    "Absurdity",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1-2",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con110",
+     "title": "110 Is it wrong to commit adultery?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.3",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.10-12",
+   "categories": [
+    "Language",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.13",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Language",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.14-18",
+   "categories": [
+    "Language",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.3-4",
+   "categories": [
+    "Language",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con176",
+     "title": "176 Does God help in times of need?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.7",
+   "categories": [
+    "Family Values",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.9-15",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.2",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.5",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.6",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    },
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.9-10",
+   "categories": [
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.8-16",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con18",
+     "title": "18 Does God know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.11-13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con323",
+     "title": "323 Will Ephraim return to Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.14",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1",
+   "categories": [
+    "Language",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con323",
+     "title": "323 Will Ephraim return to Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.7",
+   "categories": [
+    "Absurdity",
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.12-16",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con131",
+     "title": "131 Does God love everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.14",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.3-5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con323",
+     "title": "323 Will Ephraim return to Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "11.1",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "11.6",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "13.7-8",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "11.10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "13.14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.16",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  }
+ ]
+}

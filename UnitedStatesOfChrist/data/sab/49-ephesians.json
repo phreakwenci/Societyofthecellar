@@ -1,0 +1,296 @@
+{
+ "book": "Ephesians",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.4-5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con158",
+     "title": "158 Do humans have free will?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.7",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.11",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.2",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.3",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8-9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christians obey Old Testament laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.3",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.8",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.14",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con365",
+     "title": "365 Is it good to be childish?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.25-32",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it wrong to lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con91",
+     "title": "91 Is it wrong to steal?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.2",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con111",
+     "title": "111 Is it OK to covet?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.5-7",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": null,
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.15-17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con295",
+     "title": "295 Is it good to be foolish?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.22-24",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con464",
+     "title": "464 Should women have the same rights as men?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.25-28",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.33",
+   "categories": [
+    "Good Stuff",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is Polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.2",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con107",
+     "title": "107 How should parents be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.5",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con336",
+     "title": "336 Should we serve God alone?"
+    },
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con21",
+     "title": "21 Does God respect anyone?"
+    }
+   ]
+  }
+ ]
+}

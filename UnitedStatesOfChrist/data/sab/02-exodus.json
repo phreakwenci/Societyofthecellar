@@ -1,0 +1,2227 @@
+{
+ "book": "Exodus",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.5-7",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con83",
+     "title": "83 How many were in Jacob\u2019s family when they came into Egypt?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.18-20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it OK to lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.3",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.11-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.14-15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con87",
+     "title": "87 Did Moses fear the Pharaoh?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con88",
+     "title": "88 Who was Moses\u2019 father-in-law?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con21",
+     "title": "21 Does God respect anyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con88",
+     "title": "88 Who was Moses\u2019 father-in-law?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.2-4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con89",
+     "title": "89 Who appeared to Moses in the burning bush?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con90",
+     "title": "90 What is God\u2019s name?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Has anyone ever seen God?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.20",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con91",
+     "title": "91 Is it wrong to steal?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.2-9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con92",
+     "title": "92 Is magic OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con93",
+     "title": "93 Was Moses a good speaker?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.11",
+   "categories": [
+    "Injustice",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con94",
+     "title": "94 Who makes people deaf and blind?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.14-16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con93",
+     "title": "93 Was Moses a good speaker?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con88",
+     "title": "88 Who was Moses\u2019 father-in-law?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.21",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.23",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.3",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.1",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Has anyone ever seen God?"
+    },
+    {
+     "id": "con90",
+     "title": "90 What is God\u2019s name?"
+    },
+    {
+     "id": "con67",
+     "title": "67 Did Abraham know God\u2019s name?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.12, 30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con93",
+     "title": "93 Was Moses a good speaker?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.16-20",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": null,
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": [
+    {
+     "id": "con55",
+     "title": "55 Is incest forbidden?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.3",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.4-5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.9-12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.13-14",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.15-24",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.1-14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.16-19",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.20-21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.22-24",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con96",
+     "title": "96 Did God command the Israelites to make burnt offerings?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.32",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.3-6",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con97",
+     "title": "97 Did God kill all the Egyptian cattle in the sixth plague?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.8-11",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.12",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.14",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.15-16",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.18-26",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con97",
+     "title": "97 Did God kill all the Egyptian cattle in the sixth plague?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.29",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con51",
+     "title": "51 Who owns the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.34",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.1",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.2",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.4-15",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.20",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.21-23",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con96",
+     "title": "96 Did God command the Israelites to make him burnt offerings?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.27",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.2",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con91",
+     "title": "91 Is it wrong to steal?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.4-6",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.7",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.9",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.10",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.3-13",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14, 17, 24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con56",
+     "title": "56 Must Christian obey Old Testament laws?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con98",
+     "title": "98 How many days is unleaven bread to be eaten during Passover?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.29-30",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con97",
+     "title": "97 Did God kill all the Egyptian cattle in the sixth plague?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.35-36",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con91",
+     "title": "91 Is it OK to steal?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.37",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.40",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con52",
+     "title": "52 How long was the Egyptian Captivity?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.43-48",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.44",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Is slavery OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.17",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.4-31",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.3",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con99",
+     "title": "99 Is God warlike or peaceful?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con100",
+     "title": "100 Is dancing a sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.26",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.8",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.10-12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.14-15",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.29",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the Sabbath?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.35",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con102",
+     "title": "102 Where did Moses get water from a rock?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.2-7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con103",
+     "title": "103 Can God be tempted?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con104",
+     "title": "104 How did God tell Moses to get water from a rock?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con103",
+     "title": "103 Can God be tempted?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.13-16",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con88",
+     "title": "88 Who was Moses\u2019 father-in-law?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con88",
+     "title": "88 Who was Moses\u2019 father-in-law?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.6",
+   "categories": [
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": null,
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con51",
+     "title": "51 Who owns the earth?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.12-13",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.15",
+   "categories": [
+    "Absurdity",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.16-21",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con105",
+     "title": "105 Who gave the law to Moses?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.3",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con106",
+     "title": "106 Is it OK to make images?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the Sabbath?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.11",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.12-16",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con107",
+     "title": "107 How should parents be treated?>"
+    },
+    {
+     "id": "con108",
+     "title": "108 Is it OK to call your father (or anyone else) father?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con109",
+     "title": "109 To kill or not to kill"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con110",
+     "title": "110 Is it wrong to commit adultery?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con91",
+     "title": "91 Is it wrong to steal?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.17",
+   "categories": [
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con111",
+     "title": "111 Is it OK to covet?"
+    },
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con105",
+     "title": "105 Who gave the law to Moses?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.24",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    },
+    {
+     "id": "con96",
+     "title": "96 Did God command the Israelites to make burnt offerings?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.26",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.2-6",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.7-8",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.10",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?."
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.15, 17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con23",
+     "title": "23 Does God approve of capital punishment?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.16",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.20-27",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.28-32",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.32",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.3",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.16-17",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.18",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con23",
+     "title": "23 Does God approve of capital punishment?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.19",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.20",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.21-22",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con112",
+     "title": "112 How should strangers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.24",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.28",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.29",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Interpretation"
+   ],
+   "contradictions": [
+    {
+     "id": "con66",
+     "title": "66 Does God approve of human sacrifice?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con113",
+     "title": "113 Is only God holy?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "23.1-11",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it OK to lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.4-5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con114",
+     "title": "114 How should we treat our enemies?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it OK to lie?"
+    },
+    {
+     "id": "con109",
+     "title": "109 Is it OK to kill?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con112",
+     "title": "112 How should strangers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.13",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con98",
+     "title": "98 How many days is unleavened bread to be eaten?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.17",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.19",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.24",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.27",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.28",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.32-33",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.5-8",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 24,
+   "ref": "24.9-11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con106",
+     "title": "106 Is it OK to make graven images?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.2-43",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.11-18",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": [
+    {
+     "id": "con20",
+     "title": "20 Does God desire animal sacrifices?"
+    },
+    {
+     "id": "con96",
+     "title": "96 Did God command the Israelites to make burnt offerings?"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "ref": "29.20-21",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.22-26",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.27-31",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.33",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.36-42",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.15",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.20-21",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.31-33",
+   "categories": [
+    "Absurdity",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.37-38",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.13-16",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the sabbath?"
+    },
+    {
+     "id": "con115",
+     "title": "115 How should Sabbath-breakers be punished?"
+    },
+    {
+     "id": "con23",
+     "title": "23 Does God approve of capital punishment?"
+    }
+   ]
+  },
+  {
+   "chapter": 31,
+   "ref": "31.17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con116",
+     "title": "116 Does God ever tire?"
+    }
+   ]
+  },
+  {
+   "chapter": 31,
+   "ref": "31.18",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con117",
+     "title": "117 Where did Moses receive the ten commandments?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.1-4",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.9-14",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.19-20",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con100",
+     "title": "100 Is dancing a sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.21-22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.24",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.25",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 32,
+   "ref": "32.26-28",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con109",
+     "title": "109 To kill or not to kill."
+    }
+   ]
+  },
+  {
+   "chapter": 32,
+   "ref": "32.35",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 33,
+   "ref": "33.2",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 33,
+   "ref": "33.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    },
+    {
+     "id": "con17",
+     "title": "17 Does God have a body?"
+    },
+    {
+     "id": "con118",
+     "title": "118 Did Moses see God face to face?"
+    }
+   ]
+  },
+  {
+   "chapter": 33,
+   "ref": "33.20",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con118",
+     "title": "118 Did Moses see God face to face?"
+    },
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 33,
+   "ref": "33.22-23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con17",
+     "title": "17 Does God have a body?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con119",
+     "title": "119 Who wrote the ten commandments?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con117",
+     "title": "117 Where did Moses receive the ten commandments?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.7",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.11",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.13-14",
+   "categories": [
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con90",
+     "title": "90 What is God\u2019s name?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.16",
+   "categories": [
+    "Language",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con80",
+     "title": "80 Will God destroy those that intermarry?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.17",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.20",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the Sabbath?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.23",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.26",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con119",
+     "title": "119 Who wrote the (second set of) ten commandments?"
+    }
+   ]
+  },
+  {
+   "chapter": 34,
+   "ref": "34.28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.30-33",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 34,
+   "ref": "34.32",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con117",
+     "title": "117 Where did Moses receive the ten commandments?"
+    }
+   ]
+  },
+  {
+   "chapter": 35,
+   "ref": "35.2-3",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con101",
+     "title": "101 Is it necessary to keep the Sabbath?"
+    },
+    {
+     "id": "con115",
+     "title": "115 How should Sabbath-breakers be punished?"
+    },
+    {
+     "id": "con23",
+     "title": "23 Does God approve of capital punishment?"
+    }
+   ]
+  },
+  {
+   "chapter": 37,
+   "ref": "37.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con121",
+     "title": "121 Who made the ark of the covenant?"
+    }
+   ]
+  },
+  {
+   "chapter": 38,
+   "ref": "38.26",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  }
+ ]
+}

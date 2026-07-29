@@ -1,0 +1,1254 @@
+{
+ "book": "1 Kings",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.1-4",
+   "categories": [
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.40",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.1-9",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.25",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.29-46",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.4",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12-14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con217",
+     "title": "217 Who was the greatest?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con210",
+     "title": "210 Did David sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.15",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con218",
+     "title": "218 How many stalls did Solomon have?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.29",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con219",
+     "title": "219 Who was Heman\u2019s father?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.32",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con220",
+     "title": "220 What did Solomon give to Hiram?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con221",
+     "title": "221 How many temple overseers did Solomon have?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con222",
+     "title": "222 When did Solomon\u2019s reign begin?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.1-2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.13-14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con223",
+     "title": "223 Which tribe was Hiram from?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con224",
+     "title": "224 How high were the pillars of brass?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.23",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con225",
+     "title": "225 What was the volume of the molten sea in Solomon\u2019s temple?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.5",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con226",
+     "title": "226 What was in the Ark of the Covenant?"
+    },
+    {
+     "id": "con117",
+     "title": "117 Where did Moses receive the ten commandments?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.10-11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con227",
+     "title": "227 Does God dwell in darkness or in light?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con228",
+     "title": "228 Does God dwell in temples?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.35",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.46",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con229",
+     "title": "229 Is everyone a sinner?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.63",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.2-3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con210",
+     "title": "210 Did David sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con230",
+     "title": "230 How many officers did Solomon have to rule over the people?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.28",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con231",
+     "title": "231 How many talents of gold did Hiram send Solomon?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.10",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.14",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.27",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    },
+    {
+     "id": "con80",
+     "title": "80 Will God destroy those that intermarry?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.3",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Intolerance",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.12",
+   "categories": [
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.14",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.15",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.23",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.30-31",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.33",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.36",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.38",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.40",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con66",
+     "title": "66 Does God approve of human sacrifices?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.3, 5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.4-6",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.11-28",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.26",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con210",
+     "title": "210 Did David sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.10-11",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.12-17",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.24",
+   "categories": [
+    "Homosexuality",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con232",
+     "title": "232 Who was Abijam\u2019s mother?"
+    },
+    {
+     "id": "con233",
+     "title": "233 How were Abijam and Asa related?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.3",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con210",
+     "title": "210 Did David sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.10",
+   "categories": [
+    "Absurdity",
+    "Family Values"
+   ],
+   "contradictions": [
+    {
+     "id": "con233",
+     "title": "233 How were Abijam and Asa related?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.12",
+   "categories": [
+    "Homosexuality",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con130",
+     "title": "130 How should homosexuals be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con234",
+     "title": "234 Did Asa remove the high places?"
+    },
+    {
+     "id": "con235",
+     "title": "235 Was Asa perfect?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.29",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.3-4",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.7",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con236",
+     "title": "236 When did Baasha die?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.11-12",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.18-19",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.33",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.34",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.1",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con237",
+     "title": "237 How long was Elijah\u2019s drought?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con196",
+     "title": "196 Was Jesus the first to rise from the dead?"
+    },
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.22-40",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con148",
+     "title": "148 Is it OK to test God?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.38",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.39",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.46",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.11-12",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con238",
+     "title": "238 Was Jehu the son or grandson of Nimshi?"
+    }
+   ]
+  },
+  {
+   "chapter": 19,
+   "ref": "19.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con239",
+     "title": "239 When did Elisha receive the Elijah\u2019s mantle?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.13",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.20-21",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.28-30",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.34",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.35-36",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.42",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.19",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.21",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.22-24",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Language",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.27",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.29",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are children punished for the sins of their fathers?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.19",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.20",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.22-23",
+   "categories": [
+    "False Prophecy",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it wrong to lie?"
+    },
+    {
+     "id": "con139",
+     "title": "139 Does God lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.24",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.35",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.43",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con240",
+     "title": "240 Did Jehoshaphat remove the high places?"
+    }
+   ]
+  },
+  {
+   "chapter": 22,
+   "ref": "22.46",
+   "categories": [
+    "Homosexuality",
+    "Injustice",
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": []
+  }
+ ]
+}

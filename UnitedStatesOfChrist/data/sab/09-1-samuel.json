@@ -1,0 +1,1477 @@
+{
+ "book": "1 Samuel",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.2",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con16",
+     "title": "16 Is polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.5",
+   "categories": [
+    "Absurdity",
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con133",
+     "title": "133 Is it OK for men to have long hair?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.19",
+   "categories": [
+    "Absurdity",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.6",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con172",
+     "title": "172 What is the earth set upon?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.10",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.21",
+   "categories": [
+    "Absurdity",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.22",
+   "categories": [
+    "Family Values",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.25",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.27-33",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.34",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.4-10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.13",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con41",
+     "title": "41 Are we punished for the sins of others?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18",
+   "categories": [
+    "Absurdity",
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.11",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.18-20",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.2-5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.6-12",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.4-5",
+   "categories": [
+    "Absurdity",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con95",
+     "title": "95 Who hardened the Pharaoh\u2019s heart?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.7-12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.19",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con173",
+     "title": "173 How long was the ark of the covenant at Abinadab\u2019s house?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.9",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": [
+    {
+     "id": "con125",
+     "title": "125 Who may offer sacrifices to God?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.10",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con174",
+     "title": "174 Were the Philistines subdued all the days of Samuel?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con175",
+     "title": "175 Who was Samuel\u2019s firstborn son?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con176",
+     "title": "176 Does God help in times of need?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con177",
+     "title": "177 Who was the father of Kish?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.17",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.19-20",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con178",
+     "title": "178 When did \u201cIs Saul among the prophets?\u201d become a proverb?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.19-21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con141",
+     "title": "141 Does the Bible condemn gambling?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.27",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.6-7",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.11",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.13",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.18",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con132",
+     "title": "132 Should we fear God?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con179",
+     "title": "179 What was Jonathan\u2019s first slaughter?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.5-10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con174",
+     "title": "174 Were the Philistines subdued all the days of Samuel?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.9",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": [
+    {
+     "id": "con180",
+     "title": "180 Why did God reject Saul as king?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con180",
+     "title": "180 Why did God reject Saul as king?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con179",
+     "title": "179 What was Jonathan\u2019s first slaughter"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.15",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.16-23",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.24-43",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.31",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.36",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.49",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con181",
+     "title": "181 Who were Saul\u2019s sons?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.2-3",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con109",
+     "title": "109 To kill or not to kill"
+    },
+    {
+     "id": "con120",
+     "title": "120 Is God merciful?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.7-26",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con182",
+     "title": "182 Did Saul and Samuel kill all the Amalekites?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.18-19",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.23, 26",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con180",
+     "title": "180 Why did God reject Saul as king?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.27",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.29",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    },
+    {
+     "id": "con139",
+     "title": "139 Does God lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.33",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con182",
+     "title": "182 Did Saul and Samuel kill all the Amalekites?"
+    },
+    {
+     "id": "con183",
+     "title": "183 Was Haman an Agagite?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con184",
+     "title": "184 When was the last time that Samuel saw Saul?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con32",
+     "title": "32 Does God repent?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.10-11",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con185",
+     "title": "185 How many sons did Jesse have?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.13",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.14-16, 23",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con186",
+     "title": "186 Was David a man of war?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con187",
+     "title": "187 When did Saul meet David?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.4",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con185",
+     "title": "185 How man sons did Jesse have?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.33",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con186",
+     "title": "186 Was David a man of war?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.49",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con188",
+     "title": "188 How did David kill Goliath? With a sling (verse 50) or a sword (verse 51)? Or did he kill him twice?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.50",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con189",
+     "title": "189 Who killed Goliath?"
+    }
+   ]
+  },
+  {
+   "chapter": 17,
+   "ref": "17.51",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 17,
+   "ref": "17.55",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con187",
+     "title": "187 When did Saul meet David?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.1-4",
+   "categories": [
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.5",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.7",
+   "categories": [
+    "Cruelty and Violence",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con190",
+     "title": "190 When did Saul become David\u2019s enemy?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.10",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.27",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con191",
+     "title": "191 How many Philistine foreskins did David buy his first wife with?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 18,
+   "ref": "18.29",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con190",
+     "title": "190 When did Saul become David\u2019s enemy?"
+    }
+   ]
+  },
+  {
+   "chapter": 18,
+   "ref": "18.30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.2",
+   "categories": [
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.8",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.9",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.20-23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 19,
+   "ref": "19.24",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con184",
+     "title": "184 When was the last time that Samuel saw Saul?"
+    },
+    {
+     "id": "con178",
+     "title": "178 When did \u201cIs Saul among the prophets?\u201d become a proverb?"
+    }
+   ]
+  },
+  {
+   "chapter": 20,
+   "ref": "20.30",
+   "categories": [
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": "20.33",
+   "categories": [
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 20,
+   "ref": null,
+   "categories": [
+    "Homosexuality"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con192",
+     "title": "192 What was the priest\u2019s name?"
+    },
+    {
+     "id": "con193",
+     "title": "193 Was David alone when he came to Nob?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con86",
+     "title": "86 Is it OK to lie?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.5",
+   "categories": [
+    "Misogyny",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con189",
+     "title": "189 Who killed Goliath?"
+    }
+   ]
+  },
+  {
+   "chapter": 21,
+   "ref": "21.11",
+   "categories": [
+    "Cruelty and Violence",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 21,
+   "ref": "21.12-13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.18-19",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 22,
+   "ref": "22.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con194",
+     "title": "194 Was Abiathar the father or the son of Ahimelech?"
+    }
+   ]
+  },
+  {
+   "chapter": 23,
+   "ref": "23.2-5",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 23,
+   "ref": "23.6",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con194",
+     "title": "194 Was Abiathar the father or the son of Ahimelech?"
+    }
+   ]
+  },
+  {
+   "chapter": 24,
+   "ref": "24.4",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.2-35",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.38",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.39",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 25,
+   "ref": "25.42-43",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 26,
+   "ref": "26.12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 27,
+   "ref": "27.8",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con182",
+     "title": "182 Did Saul and Samuel kill all the Amalekites?"
+    }
+   ]
+  },
+  {
+   "chapter": 27,
+   "ref": "27.9",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 28,
+   "ref": "28.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con195",
+     "title": "195 Did Saul inquire of the Lord?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.8-19",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con196",
+     "title": "196 Was Jesus the first to rise from the dead?"
+    }
+   ]
+  },
+  {
+   "chapter": 28,
+   "ref": "28.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 29,
+   "ref": "29.5",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 29,
+   "ref": "29.8",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.1",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.1-2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.6",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con194",
+     "title": "194 Was Abiathar the father or the son of Ahimelech?"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "ref": "30.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 30,
+   "ref": "30.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con182",
+     "title": "182 Did Saul and Samuel kill all the Amalekites?"
+    }
+   ]
+  },
+  {
+   "chapter": 30,
+   "ref": "30.18",
+   "categories": [
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.1",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.2",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con197",
+     "title": "197 How did Saul die?"
+    }
+   ]
+  },
+  {
+   "chapter": 31,
+   "ref": "31.6",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 31,
+   "ref": "31.9-10",
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  }
+ ]
+}

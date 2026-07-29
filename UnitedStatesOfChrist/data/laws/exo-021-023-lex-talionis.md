@@ -1,0 +1,91 @@
+# Life for Life, Eye for Eye
+
+> *And if any mischief follow, then thou shalt give life for life, Eye for eye, tooth for tooth, hand for hand, foot for foot, Burning for burning, wound for wound, stripe for stripe.*  
+> — Exodus 21:23-25 (KJV)
+
+| Field | Value |
+|---|---|
+| **ID** | exo-021-023-lex-talionis |
+| **Citation** | Exodus 21:23-25 |
+| **Book** | Exodus |
+| **Chapter** | 21 |
+| **Verses** | 23-25 |
+| **Testament** | Old |
+| **Categories** | • Judicial<br>• Civil |
+| **Law Type** | judicial_instruction |
+| **Summary** | The lex talionis: where lasting harm follows, the penalty mirrors the injury exactly — life, eye, tooth, hand, foot, burn, wound, stripe. |
+| **Original Audience** | Israelite judges; a sentencing formula, not a license for private revenge. |
+| **Immediate Context** | The escalation clause of the pregnant-woman case, stating the code's master principle of proportion. |
+| **Historical Context** | Shared verbatim with Hammurabi 196-201 — but Hammurabi applies talion only between social equals (an eye of a commoner is a fine). Biblical talion's flat application was, in context, egalitarian: everyone's eye costs the same. Rabbinic law converted it entirely to monetary damages (Bava Kamma 83b-84a) roughly two millennia ago; literal enforcement is a modern fantasy no historical Jewish court practiced. |
+| **Penalty** | Mirror injury (or its monetary equivalent, per the entire subsequent legal tradition). |
+| **Exceptions** | The very next verses (26-27) convert slave-maiming to manumission, not mirror injury — talion bends immediately. |
+| **Cross References** | • Leviticus 24:17-22<br>• Deuteronomy 19:21<br>• Exodus 21:26-27 |
+| **Related NT Passages** | • Matthew 5:38-39 — 'ye have heard... an eye for an eye: but I say... turn to him the other cheek' — Jesus's direct repeal, the CSC's hardest problem<br>• Romans 12:19 — vengeance deferred to God |
+| **Internal Contradictions** | • Jesus explicitly countermands talion (Matt 5:38-39); the USofC enforces the verse its own Lord suspended — the contradiction is the regime's load-bearing hypocrisy. [Matthew 5:38-39, Deuteronomy 19:21] |
+| **SAB Categories** | — |
+| **USofC Implementation** | CSC ruling 1-02 ('eschatological counsel') keeps Matthew 5 out of the courtroom, and Title IV sentences maiming by Equivalence Tables: certified actuarial conversion of eyes, hands, and stripes into damages and, for aggravated cases, 'mirrored incapacitation' — surgical, anesthetized, filmed, and cited by the regime as humane because the rabbis' money-damages reading is 'liberal glossing.' |
+| **Agency** | Covenant Courts |
+| **Constitutional Analogue** | Eighth Amendment's cruel-and-unusual bar, deliberately inverted; proportionality doctrine made literal. |
+| **Scene Ideas** | • An Equivalence Table hearing pricing a pianist's finger against a laborer's — the flat biblical rate against every human instinct in the room.<br>• The anesthesiologist who staffs mirrored-incapacitation procedures and reads Matthew 5 in the parking garage first.<br>• A defense lawyer citing the rabbis; the prosecutor objecting to 'foreign law.' |
+| **Satirical Uses** | • The regime rejects two thousand years of Jewish jurisprudence for being too merciful, while calling itself Judeo-Christian. |
+| **Bureaucratic Uses** | • Equivalence Tables (revised annually for inflation)<br>• Mirrored-incapacitation medical protocols |
+| **Confidence** | high |
+
+```json
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "chapter": 21,
+  "id": "exo-021-023-lex-talionis",
+  "title": "Life for Life, Eye for Eye",
+  "citation": "Exodus 21:23-25",
+  "verses": "23-25",
+  "categories": [
+    "Judicial",
+    "Civil"
+  ],
+  "law_type": "judicial_instruction",
+  "kjv_text": "And if any mischief follow, then thou shalt give life for life, Eye for eye, tooth for tooth, hand for hand, foot for foot, Burning for burning, wound for wound, stripe for stripe.",
+  "summary": "The lex talionis: where lasting harm follows, the penalty mirrors the injury exactly — life, eye, tooth, hand, foot, burn, wound, stripe.",
+  "original_audience": "Israelite judges; a sentencing formula, not a license for private revenge.",
+  "immediate_context": "The escalation clause of the pregnant-woman case, stating the code's master principle of proportion.",
+  "historical_context": "Shared verbatim with Hammurabi 196-201 — but Hammurabi applies talion only between social equals (an eye of a commoner is a fine). Biblical talion's flat application was, in context, egalitarian: everyone's eye costs the same. Rabbinic law converted it entirely to monetary damages (Bava Kamma 83b-84a) roughly two millennia ago; literal enforcement is a modern fantasy no historical Jewish court practiced.",
+  "penalty": "Mirror injury (or its monetary equivalent, per the entire subsequent legal tradition).",
+  "exceptions": "The very next verses (26-27) convert slave-maiming to manumission, not mirror injury — talion bends immediately.",
+  "cross_references": [
+    "Leviticus 24:17-22",
+    "Deuteronomy 19:21",
+    "Exodus 21:26-27"
+  ],
+  "nt_passages": [
+    "Matthew 5:38-39 — 'ye have heard... an eye for an eye: but I say... turn to him the other cheek' — Jesus's direct repeal, the CSC's hardest problem",
+    "Romans 12:19 — vengeance deferred to God"
+  ],
+  "internal_contradictions": [
+    {
+      "issue": "Jesus explicitly countermands talion (Matt 5:38-39); the USofC enforces the verse its own Lord suspended — the contradiction is the regime's load-bearing hypocrisy.",
+      "refs": [
+        "Matthew 5:38-39",
+        "Deuteronomy 19:21"
+      ]
+    }
+  ],
+  "sab_categories": [],
+  "usofc_implementation": "CSC ruling 1-02 ('eschatological counsel') keeps Matthew 5 out of the courtroom, and Title IV sentences maiming by Equivalence Tables: certified actuarial conversion of eyes, hands, and stripes into damages and, for aggravated cases, 'mirrored incapacitation' — surgical, anesthetized, filmed, and cited by the regime as humane because the rabbis' money-damages reading is 'liberal glossing.'",
+  "agency": "Covenant Courts",
+  "constitutional_analogue": "Eighth Amendment's cruel-and-unusual bar, deliberately inverted; proportionality doctrine made literal.",
+  "scene_ideas": [
+    "An Equivalence Table hearing pricing a pianist's finger against a laborer's — the flat biblical rate against every human instinct in the room.",
+    "The anesthesiologist who staffs mirrored-incapacitation procedures and reads Matthew 5 in the parking garage first.",
+    "A defense lawyer citing the rabbis; the prosecutor objecting to 'foreign law.'"
+  ],
+  "satirical_uses": [
+    "The regime rejects two thousand years of Jewish jurisprudence for being too merciful, while calling itself Judeo-Christian."
+  ],
+  "bureaucratic_uses": [
+    "Equivalence Tables (revised annually for inflation)",
+    "Mirrored-incapacitation medical protocols"
+  ],
+  "confidence": "high"
+}
+```

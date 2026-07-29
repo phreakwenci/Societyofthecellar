@@ -1,0 +1,82 @@
+# The Open Pit: Digger Pays for the Fallen Beast
+
+> *And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein; The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.*  
+> — Exodus 21:33-34 (KJV)
+
+| Field | Value |
+|---|---|
+| **ID** | exo-021-033-open-pit-liability |
+| **Citation** | Exodus 21:33-34 |
+| **Book** | Exodus |
+| **Chapter** | 21 |
+| **Verses** | 33-34 |
+| **Testament** | Old |
+| **Categories** | • Civil<br>• Property |
+| **Law Type** | statute |
+| **Summary** | Whoever opens or digs a pit and leaves it uncovered pays the owner of any ox or ass that falls in; the carcass belongs to the payer. |
+| **Original Audience** | Israelite farmers digging cisterns and storage pits in shared terrain. |
+| **Immediate Context** | First of the pure property torts; negligence liability without any human victim. |
+| **Historical Context** | The foundational premises-liability rule: creating a hazard creates a duty. Rabbinic law spun an entire tort category ('the pit') from these verses. The carcass-to-payer clause is sophisticated salvage law — compensation transfers ownership of the loss. |
+| **Penalty** | Full value compensation to the animal's owner; salvage to the payer. |
+| **Exceptions** | None stated; rabbinic law excused adequately covered pits (due care defeats liability). |
+| **Cross References** | • Exodus 21:35-36<br>• Deuteronomy 22:8 (parapet duty)<br>• Luke 14:5 |
+| **Related NT Passages** | • Luke 14:5 — 'which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?' — Jesus arguing Sabbath law from pit law<br>• Matthew 15:14 — the blind leading the blind into the ditch, the tort as parable |
+| **Internal Contradictions** | — |
+| **SAB Categories** | — |
+| **USofC Implementation** | The Uncovered Hazard Code: premises liability administered by RA schedule — trench, pool, stairwell, server vulnerability ('a pit is any created condition into which value may fall,' the most-cited definition in USofC law). Salvage-to-payer produced a scavenger industry that buys judgments for the carcasses, literal and digital. |
+| **Agency** | Restitution Administration (RA) |
+| **Constitutional Analogue** | Ordinary premises liability / attractive nuisance doctrine; the USofC version is strict, scheduled, and lawyer-light — infuriating exactly one profession. |
+| **Scene Ideas** | • A data-breach hearing where opposing counsel argue whether a firewall gap is 'a pit' — the judge, a former farmer, rules that it is.<br>• The judgment-scavenger who owns ten thousand dead oxen and three bankrupt startups. |
+| **Satirical Uses** | • Tort reform arrived via Bronze Age case law, and it mostly worked — the regime's least dystopian achievement, cited to excuse the rest. |
+| **Bureaucratic Uses** | • Hazard registry with cover-certification<br>• Salvage transfer deeds |
+| **Confidence** | high |
+
+```json
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "chapter": 21,
+  "id": "exo-021-033-open-pit-liability",
+  "title": "The Open Pit: Digger Pays for the Fallen Beast",
+  "citation": "Exodus 21:33-34",
+  "verses": "33-34",
+  "categories": [
+    "Civil",
+    "Property"
+  ],
+  "law_type": "statute",
+  "kjv_text": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein; The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.",
+  "summary": "Whoever opens or digs a pit and leaves it uncovered pays the owner of any ox or ass that falls in; the carcass belongs to the payer.",
+  "original_audience": "Israelite farmers digging cisterns and storage pits in shared terrain.",
+  "immediate_context": "First of the pure property torts; negligence liability without any human victim.",
+  "historical_context": "The foundational premises-liability rule: creating a hazard creates a duty. Rabbinic law spun an entire tort category ('the pit') from these verses. The carcass-to-payer clause is sophisticated salvage law — compensation transfers ownership of the loss.",
+  "penalty": "Full value compensation to the animal's owner; salvage to the payer.",
+  "exceptions": "None stated; rabbinic law excused adequately covered pits (due care defeats liability).",
+  "cross_references": [
+    "Exodus 21:35-36",
+    "Deuteronomy 22:8 (parapet duty)",
+    "Luke 14:5"
+  ],
+  "nt_passages": [
+    "Luke 14:5 — 'which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?' — Jesus arguing Sabbath law from pit law",
+    "Matthew 15:14 — the blind leading the blind into the ditch, the tort as parable"
+  ],
+  "internal_contradictions": [],
+  "sab_categories": [],
+  "usofc_implementation": "The Uncovered Hazard Code: premises liability administered by RA schedule — trench, pool, stairwell, server vulnerability ('a pit is any created condition into which value may fall,' the most-cited definition in USofC law). Salvage-to-payer produced a scavenger industry that buys judgments for the carcasses, literal and digital.",
+  "agency": "Restitution Administration (RA)",
+  "constitutional_analogue": "Ordinary premises liability / attractive nuisance doctrine; the USofC version is strict, scheduled, and lawyer-light — infuriating exactly one profession.",
+  "scene_ideas": [
+    "A data-breach hearing where opposing counsel argue whether a firewall gap is 'a pit' — the judge, a former farmer, rules that it is.",
+    "The judgment-scavenger who owns ten thousand dead oxen and three bankrupt startups."
+  ],
+  "satirical_uses": [
+    "Tort reform arrived via Bronze Age case law, and it mostly worked — the regime's least dystopian achievement, cited to excuse the rest."
+  ],
+  "bureaucratic_uses": [
+    "Hazard registry with cover-certification",
+    "Salvage transfer deeds"
+  ],
+  "confidence": "high"
+}
+```

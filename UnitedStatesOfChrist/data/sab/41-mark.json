@@ -1,0 +1,1691 @@
+{
+ "book": "Mark",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.2",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con333",
+     "title": "333 Where did John baptize?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con335",
+     "title": "335 How did God address Jesus at his baptism?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.12-13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con415",
+     "title": "415 What did Jesus do after his baptism?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.14-17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con337",
+     "title": "337 Which came first: the calling of Peter and Andrew or the imprisonment of John the Baptist?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.21, 29",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con416",
+     "title": "416 Where did Peter and Andrew live?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.23-26",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.23-24",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con417",
+     "title": "417 Are those who believe that Jesus is the Christ \u201cof God\u201d?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.30-31",
+   "categories": [
+    "Absurdity",
+    "Interpretation",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.32-34",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.39",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.3-12",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.25-26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con193",
+     "title": "193 Was David alone when he asked for the holy bread at Nob?"
+    },
+    {
+     "id": "con192",
+     "title": "192 When David fled to Nob, what was the priest\u2019s name?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.1-5",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.11-12",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con417",
+     "title": "417 Are those who believe that Jesus is the Christ \u201cof God\u201d?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.14-15",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con351",
+     "title": "351 Who were the apostles?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.21",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.22",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.29",
+   "categories": [
+    "Absurdity",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con358",
+     "title": "358 Is there an unforgivable sin?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.31-34",
+   "categories": [
+    "Family Values",
+    "Misogyny"
+   ],
+   "contradictions": [
+    {
+     "id": "con107",
+     "title": "107 How should parents be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "ref": "4.10-12",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.25",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.31",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 4,
+   "ref": "4.39",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.2",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con348",
+     "title": "348 How many men were possessed with devils?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con417",
+     "title": "417 Are those who believe Jesus is the Christ of God?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.8-10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.10",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con418",
+     "title": "418 Where did the devils ask not to go?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.11-17",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con350",
+     "title": "350 Was Jairus\u2019 daughter alive when Jesus was approached?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.25-42",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.30",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con346",
+     "title": "346 Did Jesus know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "ref": "5.34",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 5,
+   "ref": "5.42",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con167",
+     "title": "167 Is death final?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": null,
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": null,
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con369",
+     "title": "369 How much power did Jesus have?"
+    },
+    {
+     "id": "con59",
+     "title": "59 Can God do anything?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.8-9",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con353",
+     "title": "353 Did Jesus tell his apostles to go barefoot and without a staff?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.11",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.13",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.16",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con362",
+     "title": "362 Did Herod think Jesus was John the Baptist?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "ref": "6.34-44",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.48-51",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 6,
+   "ref": "6.56",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.5-10",
+   "categories": [
+    "Cruelty and Violence",
+    "Family Values",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.18",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con13",
+     "title": "13 What should we eat?"
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "ref": "7.22-23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.24",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.25-30",
+   "categories": [
+    "Injustice",
+    "Intolerance",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 7,
+   "ref": "7.32-35",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.1-9",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.11-12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con360",
+     "title": "360 Did Jesus perform any signs and wonders?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.22-25",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.22",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con429",
+     "title": "429 Where did Jesus cure the blind man?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con419",
+     "title": "419 How did Jesus cure the blind man?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.27-28",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con367",
+     "title": "367 Did Jesus forewarn the apostles of his death and resurrection?"
+    }
+   ]
+  },
+  {
+   "chapter": 8,
+   "ref": "8.32-33",
+   "categories": [
+    "Absurdity",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 8,
+   "ref": "8.38",
+   "categories": [
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.1",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con420",
+     "title": "420 When was the transfiguration?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.3-7",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.9-10",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con356",
+     "title": "356 Was John the Baptist Elijah?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.17-19",
+   "categories": [
+    "Injustice",
+    "Language"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.23",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.25-26",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": [
+    {
+     "id": "con94",
+     "title": "94 Who makes people deaf and blind?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.31-32",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.35",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 9,
+   "ref": "9.38",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con344",
+     "title": "344 Who can cast out devils in the name of Jesus?"
+    },
+    {
+     "id": "con421",
+     "title": "421 Is casting out devils a sign of a true Christian?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.40",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con357",
+     "title": "357 Who is for or against Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.43-48",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con157",
+     "title": "157 Does Hell exist?"
+    }
+   ]
+  },
+  {
+   "chapter": 9,
+   "ref": "9.44, 46, 48",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.6",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.9-12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con154",
+     "title": "154 Is divorce ever permissible?"
+    },
+    {
+     "id": "con16",
+     "title": "16 Is Polygamy OK?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con365",
+     "title": "365 Is it good to be childish?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.18",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con318",
+     "title": "318 Is anyone good?"
+    },
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.19",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con366",
+     "title": "366 What was Jesus\u2019 sixth commandment?"
+    },
+    {
+     "id": "con109",
+     "title": "109 To kill or not to kill"
+    },
+    {
+     "id": "con91",
+     "title": "91 Is it OK to steal?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.23-25",
+   "categories": [
+    "Absurdity",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.27",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con59",
+     "title": "59 Can God do anything?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.29-30",
+   "categories": [
+    "Family Values",
+    "Injustice",
+    "Misogyny"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 10,
+   "ref": "10.33-34",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con367",
+     "title": "367 Did Jesus tell the disciples about his death and resurrection?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.35-37",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con368",
+     "title": "368 Who asked Jesus for the best seats in heaven?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.42-43",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con42",
+     "title": "42 Does God approve of slavery?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.45",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con370",
+     "title": "370 Was Jesus a ransom for many or for all?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.46",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con371",
+     "title": "371 How many blind men were healed near Jericho?"
+    },
+    {
+     "id": "con372",
+     "title": "372 When was the man (or men) healed?"
+    }
+   ]
+  },
+  {
+   "chapter": 10,
+   "ref": "10.52",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con374",
+     "title": "374 On what did Jesus ride into Jerusalem?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con422",
+     "title": "422 When did Jesus curse the fig tree?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.13-14",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 11,
+   "ref": "11.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con373",
+     "title": "373 When did Jesus\u2019 temple tantrum occur?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con375",
+     "title": "375 When did the cursed fig tree die?"
+    }
+   ]
+  },
+  {
+   "chapter": 11,
+   "ref": "11.23-24",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.1-9",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.14-17",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.18-25",
+   "categories": [
+    "Family Values",
+    "Interpretation",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con29",
+     "title": "29 Do angels have sex?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con89",
+     "title": "89 Who appeared to Moses in the burning bush?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.29",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con9",
+     "title": "9 How many gods are there?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.31",
+   "categories": [
+    "Good Stuff"
+   ],
+   "contradictions": [
+    {
+     "id": "con128",
+     "title": "128 How should nonbelievers be treated?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.35-37",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con376",
+     "title": "376 Was Jesus the son of David?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.36",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con431",
+     "title": "431 When was the Holy Ghost given?"
+    }
+   ]
+  },
+  {
+   "chapter": 12,
+   "ref": "12.38-40",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 12,
+   "ref": "12.41-44",
+   "categories": [
+    "Good Stuff",
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.4-32",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "False Prophecy",
+    "Injustice",
+    "Interpretation",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 13,
+   "ref": "13.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con377",
+     "title": "377 Will Jesus\u2019 second coming be visible to all?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.31",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con147",
+     "title": "147 Will the earth last forever?"
+    }
+   ]
+  },
+  {
+   "chapter": 13,
+   "ref": "13.32",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con346",
+     "title": "346 Did Jesus know everything?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.3-7",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.12",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con423",
+     "title": "423 Was Jesus crucified the day before or the day after the Passover meal?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.22-24",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.25",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.28",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con367",
+     "title": "367 Did Jesus forewarn the apostles about his death and resurrection?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.30",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con379",
+     "title": "379 Did Jesus say before the cock crow or before the cock crow twice?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.35-36",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con381",
+     "title": "381 Did Jesus ask God to save him from crucifixion?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.43-45",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con382",
+     "title": "382 Did Judas identify Jesus with a kiss?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.51-52",
+   "categories": [
+    "Absurdity",
+    "Homosexuality",
+    "Sex"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 14,
+   "ref": "14.53",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con383",
+     "title": "383 Was Jesus taken to Caiaphas or Annas first?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.57-58",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con384",
+     "title": "384 Did Jesus say, \u201cDestroy this temple, and in three days I will raise it up\u201d?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.61-62",
+   "categories": [
+    "False Prophecy"
+   ],
+   "contradictions": [
+    {
+     "id": "con385",
+     "title": "385 How did Jesus respond when questioned by the high priest?"
+    }
+   ]
+  },
+  {
+   "chapter": 14,
+   "ref": "14.66-72",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con386",
+     "title": "386 To whom did Peter deny knowing Jesus?"
+    },
+    {
+     "id": "con380",
+     "title": "380 Did the cock crow before or after Peter\u2019s denial?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.3-5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con390",
+     "title": "390 Was Jesus silent during his trial?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.15-17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con391",
+     "title": "391 Who put the robe on Jesus?"
+    },
+    {
+     "id": "con392",
+     "title": "392 What color was Jesus\u2019 robe?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.21",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con393",
+     "title": "393 Who carried Jesus\u2019 cross?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.23",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con394",
+     "title": "394 What did the soldiers give Jesus to drink?"
+    },
+    {
+     "id": "con424",
+     "title": "424 Did Jesus drink from the cross?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.25",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con425",
+     "title": "425 When (at what hour) was Jesus crucified?"
+    },
+    {
+     "id": "con423",
+     "title": "423 Was Jesus crucified the day before or the day after the Passover meal?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.26",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con395",
+     "title": "395 What did the sign over Jesus say?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.32",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con396",
+     "title": "396 Did both thieves revile Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.33",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 15,
+   "ref": "15.34",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.37-38",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con398",
+     "title": "398 When did the Temple curtain rip?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.39",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con399",
+     "title": "399 What did the Centurion call Jesus when he died?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.40",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con400",
+     "title": "400 From where were the women watching?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.43-46",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con401",
+     "title": "401 Who buried Jesus?"
+    }
+   ]
+  },
+  {
+   "chapter": 15,
+   "ref": "15.44",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.1",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con402",
+     "title": "402 How many women came to the sepulchre?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con403",
+     "title": "403 When did the women (or woman) arrive?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con405",
+     "title": "405 Was the tomb opened or closed when the women arrived?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.5",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con406",
+     "title": "406 Was the young man (men or angels) inside or outside?"
+    },
+    {
+     "id": "con426",
+     "title": "426 Was the man (men, angel or angels) sitting or standing?"
+    },
+    {
+     "id": "con404",
+     "title": "404 Whom did the women see?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.7",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con412",
+     "title": "412 Where did Jesus tell his disciples to go?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.8",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con407",
+     "title": "407 Did the women immediately tell the disciples?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.9-20",
+   "categories": [
+    "Interpretation"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": null,
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con408",
+     "title": "408 To whom did Jesus first appear?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.9-11",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.12-13",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": [
+    {
+     "id": "con427",
+     "title": "427 Did the eleven disciples believe the two men?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.14",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con413",
+     "title": "413 How many disciples did Jesus appear to in his first post resurrection appearance?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con352",
+     "title": "352 Should the gospel be preached to everyone?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.16",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": [
+    {
+     "id": "con304",
+     "title": "304 Is Salvation by faith alone?"
+    },
+    {
+     "id": "con359",
+     "title": "359 How are people judged by God?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.17-18",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 16,
+   "ref": "16.17",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con344",
+     "title": "344 Who can cast out devils in the name of Jesus?"
+    },
+    {
+     "id": "con421",
+     "title": "421 Is casting out devils a sign of a true Christian?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con428",
+     "title": "428 When did Jesus ascend into heaven?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": null,
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con349",
+     "title": "349 Is Jesus God?"
+    }
+   ]
+  },
+  {
+   "chapter": 16,
+   "ref": "16.20",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con360",
+     "title": "360 Did Jesus perform any signs?"
+    }
+   ]
+  }
+ ]
+}

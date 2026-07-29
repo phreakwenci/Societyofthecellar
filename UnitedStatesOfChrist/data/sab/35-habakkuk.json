@@ -1,0 +1,191 @@
+{
+ "book": "Habakkuk",
+ "annotations": [
+  {
+   "chapter": 1,
+   "ref": "1.2",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con176",
+     "title": "176 Does God help in time of need?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con310",
+     "title": "310 Do bad things happen to good people?"
+    },
+    {
+     "id": "con310",
+     "title": "310 Has there ever been a righteous person?"
+    }
+   ]
+  },
+  {
+   "chapter": 1,
+   "ref": "1.6",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.8",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.12",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 1,
+   "ref": "1.13",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con310",
+     "title": "310 Do bad things happen to good people?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.4",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con33",
+     "title": "33 Has the ever been a just person?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.8",
+   "categories": [
+    "Injustice"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 2,
+   "ref": "2.15",
+   "categories": [],
+   "contradictions": [
+    {
+     "id": "con71",
+     "title": "71 Is it OK to drink alcohol?"
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "ref": "2.16",
+   "categories": [
+    "Language",
+    "Sex"
+   ],
+   "contradictions": [
+    {
+     "id": "con250",
+     "title": "250 Is every word of God pure?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": "3.3-5",
+   "categories": [
+    "Absurdity",
+    "Cruelty and Violence",
+    "Injustice"
+   ],
+   "contradictions": [
+    {
+     "id": "con49",
+     "title": "49 Can God be seen?"
+    },
+    {
+     "id": "con17",
+     "title": "17 Does God have a body?"
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": null,
+   "categories": [
+    "Cruelty and Violence"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.10",
+   "categories": [
+    "Absurdity",
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.11",
+   "categories": [
+    "Science and History"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.12-14",
+   "categories": [
+    "Cruelty and Violence",
+    "Injustice",
+    "Intolerance"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.15",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  },
+  {
+   "chapter": 3,
+   "ref": "3.16",
+   "categories": [
+    "Absurdity"
+   ],
+   "contradictions": []
+  }
+ ]
+}

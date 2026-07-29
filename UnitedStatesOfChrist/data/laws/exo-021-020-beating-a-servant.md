@@ -1,0 +1,94 @@
+# Beating a Servant: Punished Only If Death Is Swift
+
+> *And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished. Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.*  
+> — Exodus 21:20-21 (KJV)
+
+| Field | Value |
+|---|---|
+| **ID** | exo-021-020-beating-a-servant |
+| **Citation** | Exodus 21:20-21 |
+| **Book** | Exodus |
+| **Chapter** | 21 |
+| **Verses** | 20-21 |
+| **Testament** | Old |
+| **Categories** | • Civil<br>• Judicial<br>• Economic |
+| **Law Type** | statute |
+| **Summary** | A master who beats a slave to immediate death is punished; if the slave lingers a day or two before dying, there is no penalty — 'for he is his money.' |
+| **Original Audience** | Israelite slaveholders; the rod is the presumed instrument of lawful discipline. |
+| **Immediate Context** | Sits between free-man assault (vv.18-19) and the pregnant-woman case (v.22), calibrating the value of persons by status. |
+| **Historical Context** | The 'he is his money' rationale is the ancient logic stated with unbearable clarity: the master's financial loss is deemed punishment enough. Note the asymmetries the code itself creates: the slave who survives maiming goes free (vv.26-27), and killing a free man is death regardless of timing. Apologetic readings ('punished' might mean death; the delay implies unintended outcome) exist and were argued in every American slavery debate — this verse was the confederacy of proof-texts' cornerstone. |
+| **Penalty** | Unspecified punishment ('avenged') for immediate death; nothing if death is delayed. |
+| **Exceptions** | Maiming triggers manumission (vv.26-27) — the eye and the tooth are worth more than the life, procedurally. |
+| **Cross References** | • Exodus 21:26-27<br>• Leviticus 25:44-46<br>• Exodus 21:12 |
+| **Related NT Passages** | • Luke 12:47-48 — the servant beaten with many or few stripes, as a parable's furniture<br>• Colossians 4:1 — 'give unto your servants that which is just and equal'<br>• Ephesians 6:9 — masters, forbear threatening |
+| **Internal Contradictions** | • 'Surely punished' here vs. 'surely put to death' for killing a free man (v.12) — the code prices lives by status in adjacent verses. [Exodus 21:12] |
+| **SAB Categories** | • Injustice |
+| **USofC Implementation** | Never codified — the one verse every USofC catechism, court, and textbook simply omits. But its ghost governs: covenant-labor discipline deaths are investigated under a 'survivability window' doctrine no statute names, and prosecutors quietly decline cases where the laborer lingered. The verse is the regime's id: unprintable, operative. |
+| **Agency** | Office of Servitude Oversight (OSO) |
+| **Constitutional Analogue** | The antebellum slave codes' 'moderate correction' doctrine; State v. Mann (1829) is this verse in a North Carolina accent. |
+| **Scene Ideas** | • A coroner who has started recording exact time-of-death to the minute, and the supervisor who asks her why.<br>• A seminary student finding the verse missing from the official lectionary concordance — the search returns 'no results,' which is itself the result.<br>• A prosecutor's declination memo that never cites the verse and paraphrases it exactly. |
+| **Satirical Uses** | • The state that engraves the Decalogue on every courthouse has one verse it has never once printed. |
+| **Bureaucratic Uses** | • The unnamed survivability-window declination practice<br>• Labor-discipline incident forms with a 'duration until expiry' field no regulation explains |
+| **Confidence** | high |
+
+```json
+{
+  "book": "Exodus",
+  "testament": "Old",
+  "chapter": 21,
+  "id": "exo-021-020-beating-a-servant",
+  "title": "Beating a Servant: Punished Only If Death Is Swift",
+  "citation": "Exodus 21:20-21",
+  "verses": "20-21",
+  "categories": [
+    "Civil",
+    "Judicial",
+    "Economic"
+  ],
+  "law_type": "statute",
+  "kjv_text": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished. Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.",
+  "summary": "A master who beats a slave to immediate death is punished; if the slave lingers a day or two before dying, there is no penalty — 'for he is his money.'",
+  "original_audience": "Israelite slaveholders; the rod is the presumed instrument of lawful discipline.",
+  "immediate_context": "Sits between free-man assault (vv.18-19) and the pregnant-woman case (v.22), calibrating the value of persons by status.",
+  "historical_context": "The 'he is his money' rationale is the ancient logic stated with unbearable clarity: the master's financial loss is deemed punishment enough. Note the asymmetries the code itself creates: the slave who survives maiming goes free (vv.26-27), and killing a free man is death regardless of timing. Apologetic readings ('punished' might mean death; the delay implies unintended outcome) exist and were argued in every American slavery debate — this verse was the confederacy of proof-texts' cornerstone.",
+  "penalty": "Unspecified punishment ('avenged') for immediate death; nothing if death is delayed.",
+  "exceptions": "Maiming triggers manumission (vv.26-27) — the eye and the tooth are worth more than the life, procedurally.",
+  "cross_references": [
+    "Exodus 21:26-27",
+    "Leviticus 25:44-46",
+    "Exodus 21:12"
+  ],
+  "nt_passages": [
+    "Luke 12:47-48 — the servant beaten with many or few stripes, as a parable's furniture",
+    "Colossians 4:1 — 'give unto your servants that which is just and equal'",
+    "Ephesians 6:9 — masters, forbear threatening"
+  ],
+  "internal_contradictions": [
+    {
+      "issue": "'Surely punished' here vs. 'surely put to death' for killing a free man (v.12) — the code prices lives by status in adjacent verses.",
+      "refs": [
+        "Exodus 21:12"
+      ]
+    }
+  ],
+  "sab_categories": [
+    "Injustice"
+  ],
+  "usofc_implementation": "Never codified — the one verse every USofC catechism, court, and textbook simply omits. But its ghost governs: covenant-labor discipline deaths are investigated under a 'survivability window' doctrine no statute names, and prosecutors quietly decline cases where the laborer lingered. The verse is the regime's id: unprintable, operative.",
+  "agency": "Office of Servitude Oversight (OSO)",
+  "constitutional_analogue": "The antebellum slave codes' 'moderate correction' doctrine; State v. Mann (1829) is this verse in a North Carolina accent.",
+  "scene_ideas": [
+    "A coroner who has started recording exact time-of-death to the minute, and the supervisor who asks her why.",
+    "A seminary student finding the verse missing from the official lectionary concordance — the search returns 'no results,' which is itself the result.",
+    "A prosecutor's declination memo that never cites the verse and paraphrases it exactly."
+  ],
+  "satirical_uses": [
+    "The state that engraves the Decalogue on every courthouse has one verse it has never once printed."
+  ],
+  "bureaucratic_uses": [
+    "The unnamed survivability-window declination practice",
+    "Labor-discipline incident forms with a 'duration until expiry' field no regulation explains"
+  ],
+  "confidence": "high"
+}
+```

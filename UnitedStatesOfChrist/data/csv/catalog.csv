@@ -1,0 +1,723 @@
+id,testament,polarity,title,citation,category,code_title,agency,status,summary
+USC-001,Old,P,Believe in God,Exodus 20:2,Religious,II,NDS,enforced,Affirm the existence and sovereignty of God; the USofC makes the affirmation an annual sworn filing.
+USC-002,Old,P,Acknowledge divine unity,Deuteronomy 6:4,Religious,II,NDS,enforced,Confess that God is one (the Shema); recited to open every school day and legislative session.
+USC-003,Old,P,Love God,Deuteronomy 6:5,Moral,II,NDS,adapted,"Love God with all heart, soul, and might; operationalized as measurable devotion metrics."
+USC-004,Old,P,Fear God,Deuteronomy 6:13,Moral,II,NDS,enforced,Maintain reverent fear of God; cited in every sentencing colloquy.
+USC-005,Old,P,Sanctify God's name,Leviticus 22:32,Religious,II,SSC,enforced,Public conduct must sanctify the Name; the affirmative twin of the blasphemy ban.
+USC-006,Old,N,Do not profane God's name,Leviticus 22:32,Religious,II,SSC,enforced,No act or speech that profanes the Name; the blasphemy statute's foundation.
+USC-007,Old,N,Do not test God,Deuteronomy 6:16,Religious,II,NDS,adapted,Do not put God to the test as at Massah; construed to ban demanding miracles of state chaplains.
+USC-008,Old,P,Imitate God's ways,Deuteronomy 28:9,Moral,II,NDS,adapted,Walk in God's ways; the civic virtue curriculum's charter text.
+USC-009,Old,P,Cleave to the wise,Deuteronomy 10:20,Moral,II,NDS,adapted,Attach yourself to God (read: to his scholars); basis of mandatory clergy mentorship.
+USC-010,Old,P,Swear by God's name only,Deuteronomy 10:20,Judicial,IX,SSC,enforced,Lawful oaths invoke the Name alone; all court oaths are covenant affirmations.
+USC-011,Old,N,Do not take the Name in vain,Exodus 20:7,Religious,II,SSC,enforced,No vain or false invocation of the Name; see deep record exo-020-007.
+USC-012,Old,N,Do not swear falsely,Leviticus 19:12,Judicial,IX,SSC,enforced,No false oaths by the Name; perjury prosecuted as blasphemy.
+USC-013,Old,N,Do not break a vow,Numbers 30:2,Religious,II,CC,enforced,Whatever proceeds from your mouth you must do; the Vow Registry enforces specific performance.
+USC-014,Old,P,Fulfill vows promptly,Deuteronomy 23:21-23,Religious,II,CC,enforced,Delay in paying a vow is sin; vows accrue statutory interest to the Temple fund.
+USC-015,Old,P,Pray to God,Exodus 23:25 / Deuteronomy 6:13,Ceremonial,II,DOW,adapted,Serve God (construed as prayer); daily observance logged via congregation attendance.
+USC-016,Old,P,Read the Shema morning and evening,Deuteronomy 6:7,Ceremonial,II,NDS,adapted,Recite the words when you lie down and rise up; broadcast at 6am and 9pm on all licensed media.
+USC-017,Old,P,Bind the words as a sign (tefillin/frontlets),Deuteronomy 6:8,Ceremonial,II,DOW,adapted,"Bind the law on hand and forehead; survives as the Covenant Lapel Seal, mandatory for officials."
+USC-018,Old,P,Write the words on doorposts (mezuzah),Deuteronomy 6:9,Ceremonial,II,DOW,enforced,Inscribe the law on doorposts and gates; every dwelling carries a certified Doorpost Plaque.
+USC-019,Old,P,Wear fringes on garments,Numbers 15:38,Ceremonial,II,DOW,adapted,Tassels on garment corners as reminders; survives in official and clerical dress codes.
+USC-020,Old,P,Assemble the people to hear the law,Deuteronomy 31:12,Governmental,I,NDS,enforced,Periodic national assembly to hear the law read; now the televised Septennial Reading.
+USC-021,Old,P,Write a copy of the law (the king's copy),Deuteronomy 17:18,Governmental,I,COO,enforced,The sovereign writes and keeps a personal copy of the law; each President hand-copies Deuteronomy on live broadcast.
+USC-022,Old,P,Teach the law to your children,Deuteronomy 6:7,Family,III,NDS,enforced,Diligent instruction of children; homeschool and NDS curricula audited for scripture density.
+USC-023,Old,P,Bless God after eating,Deuteronomy 8:10,Ceremonial,II,NDS,adapted,"When you have eaten and are full, bless the LORD; restaurant grace is a posted-compliance item."
+USC-024,Old,N,Do not add to the commandments,Deuteronomy 4:2,Governmental,I,COO,adapted,Add nothing to the word; the clause every new regulation must recite before adding to the word.
+USC-025,Old,N,Do not subtract from the commandments,Deuteronomy 4:2,Governmental,I,COO,adapted,Diminish nothing from the word; the repeal-proofing clause of the whole Code.
+USC-026,Old,N,No other gods,Exodus 20:3,Religious,II,OIP,enforced,Exclusive allegiance; see deep record exo-020-003.
+USC-027,Old,N,Do not make idols,Exodus 20:4,Religious,II,OIP,enforced,No graven images; see deep record exo-020-004.
+USC-028,Old,N,Do not bow to idols,Exodus 20:5,Religious,II,OIP,enforced,No prostration to images; see deep record exo-020-005.
+USC-029,Old,N,Do not worship idols by their rites,Exodus 20:5,Religious,II,OIP,enforced,No serving idols in the manner their cults prescribe.
+USC-030,Old,N,Do not make gods of metal,Exodus 34:17 / 20:23,Religious,II,OIP,enforced,No molten gods; the Precious Metals Devotional Use Act.
+USC-031,Old,N,Do not make idols for others,Leviticus 19:4,Religious,II,OIP,enforced,Manufacturing idols for third parties is equally criminal; the export-model loophole closed.
+USC-032,Old,N,Do not turn to idols,Leviticus 19:4,Religious,II,OIP,enforced,Do not so much as turn your attention to idols; the browsing-history statute.
+USC-033,Old,N,Do not erect a sacred pillar,Deuteronomy 16:22,Religious,II,OIP,enforced,No standing stones for worship; monument permitting runs through OIP.
+USC-034,Old,N,Do not plant a tree as an Asherah,Deuteronomy 16:21,Religious,II,OIP,adapted,No cult trees beside the altar; landscaping near licensed sanctuaries is regulated.
+USC-035,Old,N,Do not make figured stones to bow on,Leviticus 26:1,Religious,II,OIP,enforced,No carved kneeling-stones; decorative pavers near altars require certification.
+USC-036,Old,P,Destroy idolatry and its appurtenances,Deuteronomy 12:2-3,Religious,II,OIP,enforced,Demolish the places of foreign worship; the Iconoclasm Division's charter.
+USC-037,Old,N,Do not covet idol ornaments,Deuteronomy 7:25,Religious,II,OIP,enforced,"Do not take the silver or gold on destroyed idols; seized cult assets must be destroyed, not auctioned — the least-obeyed sentence in the Code."
+USC-038,Old,N,Do not bring an abomination into your house,Deuteronomy 7:26,Religious,II,OIP,enforced,No idolatrous object in a dwelling; the household contraband schedule.
+USC-039,Old,N,Do not follow the statutes of the nations,Leviticus 20:23,Religious,II,NDS,adapted,Do not walk in the customs of the nations; the Foreign Customs Review Board rules on imported holidays.
+USC-040,Old,N,Do not imitate pagan dress and custom,Leviticus 18:3,Purity,II,NDS,adapted,Do not do as Egypt and Canaan; enforced as the Modest and Distinct Apparel Guidelines.
+USC-041,Old,N,Do not mention the names of other gods,Exodus 23:13,Religious,II,SSC,adapted,"Make no mention of other gods' names; weekday names (Thor's day, Woden's day) were officially renumbered — nobody uses the new names."
+USC-042,Old,N,Do not entice others to idolatry,Deuteronomy 13:6-11,Religious,II,DOR,enforced,"Enticement to foreign worship is capital, even by a brother or spouse; the informant-in-the-family statute."
+USC-043,Old,P,Show the enticer no pity; expose him,Deuteronomy 13:8,Judicial,IX,DOR,enforced,Do not spare or shield the enticer; failure to report is itself an offense.
+USC-044,Old,N,Do not love or heed the enticer,Deuteronomy 13:8,Religious,II,DOR,enforced,"Affection for the enticer is legally aggravating, not mitigating."
+USC-045,Old,P,Investigate an accused idolatrous city,Deuteronomy 13:14,Judicial,IX,CC,adapted,"Inquire diligently before destroying an apostate city; the regime's proudest due-process clause, attached to its worst statute."
+USC-046,Old,N,Burn the apostate city; rebuild never,Deuteronomy 13:16,Judicial,IX,MCD,classified,"The condemned city is burned entire and never rebuilt; the statute exists, invoked once, records sealed."
+USC-047,Old,N,Retain nothing of the condemned city,Deuteronomy 13:17,Judicial,IX,MCD,classified,No spoil may cleave to your hand from the herem city.
+USC-048,Old,N,Do not prophesy in the name of other gods,Deuteronomy 18:20,Religious,II,SSC,enforced,Speaking for foreign gods is capital prophecy fraud.
+USC-049,Old,N,Do not listen to the false prophet,Deuteronomy 13:3,Religious,II,NDS,enforced,Do not heed signs and wonders offered against the covenant; miracle claims require SSC licensing.
+USC-050,Old,P,Execute the false prophet,Deuteronomy 18:20,Judicial,IX,CC,adapted,The presumptuous prophet dies; commuted in practice to Prophetic Fraud with asset forfeiture — televangelists' one genuine terror.
+USC-051,Old,N,Do not fear the false prophet,Deuteronomy 18:22,Religious,II,NDS,enforced,"When the word does not come to pass, be not afraid of him; failed-prediction registries are public."
+USC-052,Old,N,Do not practice divination,Deuteronomy 18:10,Religious,II,DOR,enforced,"No divination or soothsaying; horoscopes are contraband, weather forecasting required a special carve-out."
+USC-053,Old,N,Do not practice sorcery,Exodus 22:18,Religious,II,DOR,enforced,"'Thou shalt not suffer a witch to live'; capital in statute, the Witchcraft Docket is the courts' darkest corridor."
+USC-054,Old,N,Do not enchant or charm,Deuteronomy 18:10-11,Religious,II,DOR,enforced,No enchanting; stage magic requires an Illusionist's Disclaimer License.
+USC-055,Old,N,Do not consult mediums,Leviticus 19:31,Religious,II,DOR,enforced,Do not seek familiar spirits; grief-counseling industry heavily surveilled.
+USC-056,Old,N,Do not consult wizards or necromancers,Deuteronomy 18:11,Religious,II,DOR,enforced,No inquiring of the dead; genealogy sites operate under consent decrees.
+USC-057,Old,N,Do not practice astrology or read omens,Leviticus 19:26,Religious,II,DOR,enforced,No observing times or auguries; the financial industry's 'technical analysis' exemption is notorious.
+USC-058,Old,P,Be wholehearted with God,Deuteronomy 18:13,Moral,II,NDS,adapted,"'Thou shalt be perfect with the LORD'; the loyalty-review standard, unfalsifiable by design."
+USC-059,Old,N,Do not tattoo the body,Leviticus 19:28,Purity,VII,BRC,enforced,No marks upon you; the Tattoo Removal Subsidy is the BRC's most popular program.
+USC-060,Old,N,Do not cut the body for the dead,Leviticus 19:28,Purity,VII,BRC,enforced,No ritual gashing in mourning; funeral-industry conduct codes.
+USC-061,Old,N,Do not make a bald spot for the dead,Deuteronomy 14:1,Purity,VII,BRC,adapted,"No mourning tonsure; enforced against specific immigrant funeral customs, selectively."
+USC-062,Old,N,Do not round the corners of the head,Leviticus 19:27,Purity,VII,BRC,adapted,No rounding the hair's corners; the Barber Licensing Board's strangest inspection item.
+USC-063,Old,N,Do not mar the corners of the beard,Leviticus 19:27,Purity,VII,BRC,adapted,No marring the beard's corners; clergy beards are regulated to the millimeter.
+USC-064,Old,N,Men shall not wear women's garments,Deuteronomy 22:5,Purity,III,FPA,enforced,"Cross-dressing prohibited; the Apparel Conformity statute, enforced with enthusiasm and no definitions."
+USC-065,Old,N,Women shall not wear men's garments,Deuteronomy 22:5,Purity,III,FPA,enforced,The mirror clause; trousers litigation reached the Council twice.
+USC-066,Old,N,Do not pass children through the fire to Molech,Leviticus 18:21,Religious,II,DOR,enforced,Child sacrifice is capital; the statute every regime speech quotes to prove its own decency.
+USC-067,Old,N,Do not practice Molech divination via offspring,Deuteronomy 18:10,Religious,II,DOR,enforced,No dedicating offspring by fire; duplicated for emphasis in the Code as in the canon.
+USC-068,Old,P,Stone the blasphemer,Leviticus 24:16,Judicial,IX,CC,adapted,Blasphemy is capital by stoning; commuted to Sacred Speech felonies except in 'aggravated public' cases — there have been three.
+USC-069,Old,P,Burn the daughter of a priest who plays the harlot,Leviticus 21:9,Judicial,IX,CC,omitted,"Priest's daughter's unchastity punished by fire; on the books, never printed in enforcement manuals, cited only by the regime's enemies."
+USC-070,Old,N,Do not blaspheme God,Exodus 22:28,Religious,II,SSC,enforced,'Thou shalt not revile the gods'; the SSC's charter verse.
+USC-071,Old,N,Do not curse a ruler,Exodus 22:28,Governmental,I,SSC,enforced,'Nor curse the ruler of thy people'; the lese-majesty clause fused to the blasphemy statute — criticism of the President is litigated here.
+USC-072,Old,P,Love the stranger,Deuteronomy 10:19,Moral,XI,DFO,deferred,"Love the resident alien, for you were strangers; officially affirmed, budgetarily starved, the deferred list's most cited entry."
+USC-073,Old,N,Do not wrong the stranger in speech,Exodus 22:21,Moral,XI,CC,deferred,Neither vex a stranger; a civil cause of action no alien has ever won.
+USC-074,Old,N,Do not oppress the stranger in commerce,Exodus 23:9,Economic,XI,BWM,deferred,"Nor oppress him, for ye know the heart of a stranger; the BWM's one unfunded mandate."
+USC-075,Old,P,Build a sanctuary,Exodus 25:8,Ceremonial,II,TRA,abeyance,'Let them make me a sanctuary'; the Temple Reconstruction Authority's charter — groundbreaking has been 'imminent' for a generation.
+USC-076,Old,N,Do not build the altar of hewn stone,Exodus 20:25,Ceremonial,II,DOW,enforced,See deep record exo-020-025; enforced now for courthouse Gate Rooms.
+USC-077,Old,N,Do not ascend the altar by steps,Exodus 20:26,Ceremonial,II,DOW,enforced,See deep record exo-020-026; the ramp mandate.
+USC-078,Old,P,Revere the sanctuary,Leviticus 19:30,Ceremonial,II,DOW,enforced,Reverence my sanctuary; conduct codes in all licensed worship sites.
+USC-079,Old,P,Keep watch over the sanctuary,Numbers 18:4,Ceremonial,II,TRA,abeyance,Perpetual guard duty over the sanctuary; the TRA maintains an honor guard over the empty site.
+USC-080,Old,N,Do not leave the sanctuary unguarded,Numbers 18:5,Ceremonial,II,TRA,abeyance,The negative twin; the honor guard has a union now.
+USC-081,Old,P,Carry the ark on shoulders,Numbers 7:9,Ceremonial,II,TRA,abeyance,"Ark transported by poles on shoulders, never carted; the Ark Transport Protocol binder awaits an ark."
+USC-082,Old,N,Do not remove the ark's staves,Exodus 25:15,Ceremonial,II,TRA,abeyance,"The poles remain in the rings; specified in the binder, appendix C."
+USC-083,Old,P,Compound the anointing oil,Exodus 30:31,Ceremonial,II,DOW,adapted,Sacred anointing oil per formula; the DOW compounds it for presidential inaugurations.
+USC-084,Old,N,Do not replicate the anointing oil,Exodus 30:32,Ceremonial,II,DOW,enforced,Formula is state secret; boutique 'anointing oils' are prosecuted trademark-style.
+USC-085,Old,N,Do not pour anointing oil on unauthorized flesh,Exodus 30:32,Ceremonial,II,DOW,enforced,"Anointing is a licensed act; self-anointing politicians are charged under this, occasionally literally."
+USC-086,Old,N,Do not replicate the incense formula,Exodus 30:37,Ceremonial,II,DOW,enforced,Sacred incense is exclusive; the perfume industry retains lobbyists solely for this statute.
+USC-087,Old,N,Do not burn strange incense on the golden altar,Exodus 30:9,Ceremonial,II,TRA,abeyance,Only prescribed incense on the inner altar; Nadab and Abihu (Lev 10) are the cautionary mural in the TRA lobby.
+USC-088,Old,P,Keep the altar fire perpetually burning,Leviticus 6:13,Ceremonial,II,TRA,abeyance,Fire never goes out; the TRA maintains a ceremonial Perpetual Flame with a natural-gas line item.
+USC-089,Old,N,Do not extinguish the altar fire,Leviticus 6:13,Ceremonial,II,TRA,abeyance,The negative twin; the flame's one outage (the Cleveland brownout) required a national repentance day.
+USC-090,Old,P,Remove the ashes daily,Leviticus 6:10-11,Ceremonial,II,TRA,abeyance,"Daily ash removal in linen garments; fully proceduralized, awaiting ashes."
+USC-091,Old,P,Light the lamps of the menorah,Exodus 27:21,Ceremonial,II,TRA,abeyance,Lamps burn evening to morning; the Eternal Light in licensed sanctuaries is the adapted civilian version.
+USC-092,Old,P,Set out the showbread weekly,Exodus 25:30,Ceremonial,II,TRA,abeyance,"Bread of the Presence renewed each Sabbath; a bakery contract exists, competitively bid, never executed."
+USC-093,Old,P,Burn incense twice daily,Exodus 30:7-8,Ceremonial,II,TRA,abeyance,Morning and evening incense; the schedule is printed in the Federal Register annually.
+USC-094,Old,P,Sound trumpets over offerings and in war,Numbers 10:9-10,Ceremonial,II,MCD,adapted,Silver trumpets over sacrifices and against enemies; survives as the Covenant Reveille at military installations.
+USC-095,Old,P,Set apart the priests (sons of Aaron),Exodus 28:41,Ceremonial,II,DOW,adapted,"A consecrated priesthood; the USofC's Credentialed Clergy Register, hereditary preference contested at every convention."
+USC-096,Old,P,Priests wear the sacred vestments,Exodus 28:2,Ceremonial,II,DOW,adapted,Prescribed vestments for service; the DOW vestment code with certified undergarments.
+USC-097,Old,N,Do not tear the high priest's robe,Exodus 28:32,Ceremonial,II,DOW,abeyance,The robe's binding shall not rend; the Chief Overseer's inauguration robe is triple-stitched and insured.
+USC-098,Old,N,Non-priests shall not serve as priests,Numbers 18:7,Ceremonial,II,DOW,enforced,The stranger that cometh nigh shall die; unlicensed ministry is the DOW's core enforcement docket.
+USC-099,Old,P,Priests serve in rotations (courses),Deuteronomy 18:6-8,Ceremonial,II,DOW,adapted,Rotating priestly courses with equal portions; clergy assignment lottery.
+USC-100,Old,P,Levites serve the sanctuary,Numbers 18:23,Ceremonial,II,DOW,adapted,Levitical service corps; the NDS youth corps claims the mantle.
+USC-101,Old,N,"Levites shall not do priests' work, nor priests Levites'",Numbers 18:3,Ceremonial,II,DOW,adapted,"Strict role separation; ecclesial scope-of-practice law, the malpractice bar loves it."
+USC-102,Old,P,Priests bless the people,Numbers 6:23-27,Ceremonial,II,DOW,enforced,"The Aaronic benediction; closes every session of Congress-of-Overseers, by statute."
+USC-103,Old,P,High priest marries only a virgin,Leviticus 21:13,Family,III,DOW,adapted,The Chief Overseer's marriage eligibility is vetted by committee; the hearings are grotesque.
+USC-104,Old,N,High priest shall not marry a widow,Leviticus 21:14,Family,III,DOW,adapted,"Nor divorced, profaned, or harlot; the vetting committee's checklist."
+USC-105,Old,N,Priests shall not marry a divorced woman,Leviticus 21:7,Family,III,DOW,adapted,Clergy marriage restrictions; the annulment industry's founding statute.
+USC-106,Old,N,Priest shall not defile himself for the dead,Leviticus 21:1,Purity,VII,DOW,adapted,No corpse contact except nearest kin; clergy funeral-attendance rules.
+USC-107,Old,P,Priest defiles himself for immediate kin,Leviticus 21:2-3,Purity,VII,DOW,adapted,The mandatory exception: he must mourn his nearest.
+USC-108,Old,N,High priest shall not defile himself for any dead,Leviticus 21:11,Purity,VII,DOW,abeyance,Not even for father or mother; the Chief Overseer skipped his mother's funeral and the nation argued for a year.
+USC-109,Old,N,No blemished priest shall approach the altar,Leviticus 21:17-23,Ceremonial,II,DOW,omitted,"The disability bar on priestly service; quietly unenforced after the veterans' chaplaincy scandal, never repealed."
+USC-110,Old,N,Unclean priests shall not serve,Leviticus 22:2-3,Purity,VII,DOW,abeyance,Ritual purity gates sanctuary service; the certification regime awaits a sanctuary.
+USC-111,Old,N,Unclean priests shall not eat holy things,Leviticus 22:4-7,Purity,VII,DOW,abeyance,Purity gates the priestly portions.
+USC-112,Old,N,Laymen shall not eat the holy things,Leviticus 22:10,Ceremonial,II,DOW,abeyance,The stranger shall not eat the hallowed; communion-element licensing descends from this.
+USC-113,Old,P,Priests eat the sin and guilt offerings,"Leviticus 6:26,29",Ceremonial,II,TRA,abeyance,Priestly consumption is part of atonement; the clergy meal-allowance cites it anyway.
+USC-114,Old,N,Do not eat consecrated things become unfit,Leviticus 7:19,Ceremonial,II,TRA,abeyance,"Defiled holy flesh is burned, not eaten."
+USC-115,Old,P,"Give the priests their dues (shoulder, cheeks, maw)",Deuteronomy 18:3,Economic,X,TFRS,adapted,Priestly portions of slaughter; survives as the Clergy Sustenance Levy on meatpacking.
+USC-116,Old,P,Give the first fleece to the priest,Deuteronomy 18:4,Economic,X,TFRS,adapted,First of the fleece; the wool industry's peculiar clergy tax.
+USC-117,Old,P,Set apart the priestly heave offering (terumah),Deuteronomy 18:4,Economic,X,TFRS,adapted,"Firstfruits of grain, wine, oil to the priests; folded into the TFRS firstfruits assessment."
+USC-118,Old,P,Offer the daily burnt offerings (tamid),Numbers 28:3,Ceremonial,II,TRA,abeyance,"Two lambs daily, perpetual; the TRA's actuaries maintain the flock procurement forecast."
+USC-119,Old,P,Offer the additional Sabbath offering,Numbers 28:9,Festival,VIII,TRA,abeyance,"Sabbath musaf; scheduled, unperformed."
+USC-120,Old,P,Offer the new moon offering,Numbers 28:11,Festival,VIII,TRA,abeyance,Monthly offering; the lunar calendar office tracks the dates regardless.
+USC-121,Old,P,Offer the Passover sacrifice,Exodus 12:6,Festival,VIII,TRA,abeyance,The paschal lamb; the National Passover is celebrated with a lamb-shaped absence at the center.
+USC-122,Old,P,"Eat the Passover lamb roasted, that night",Exodus 12:8,Festival,VIII,DOW,adapted,"Roast with fire, unleavened bread, bitter herbs; the National Seder menu is statutory."
+USC-123,Old,N,Do not eat the Passover raw or boiled,Exodus 12:9,Festival,VIII,DOW,adapted,Roast only; the one federal recipe regulation.
+USC-124,Old,N,Do not leave Passover meat until morning,Exodus 12:10,Festival,VIII,DOW,adapted,Leftovers burned; sanitation code absorbed it.
+USC-125,Old,N,Do not break a bone of the Passover offering,Exodus 12:46,Festival,VIII,DOW,abeyance,"No broken bones; John 19:36 made it christology, the TRA keeps it law."
+USC-126,Old,N,No foreigner or uncircumcised shall eat the Passover,"Exodus 12:43,48",Festival,VIII,DOW,enforced,"Covenant status gates the National Seder; the dinner-invitation statute, enforced at official functions."
+USC-127,Old,N,Do not carry Passover meat out of the house,Exodus 12:46,Festival,VIII,DOW,adapted,"Eaten in one house; no Seder takeout, a genuinely enforced restaurant rule."
+USC-128,Old,P,Offer the second Passover for the unclean or distant,Numbers 9:10-11,Festival,VIII,DOW,adapted,The makeup Passover one month later; the federal makeup-holiday doctrine descends from it.
+USC-129,Old,P,Offer the festival offerings at the three feasts,Deuteronomy 16:16-17,Festival,VIII,TRA,abeyance,"None shall appear empty-handed; survives as the Festival Appearance Levy, cash accepted."
+USC-130,Old,P,Appear before the LORD three times a year,Exodus 23:17,Festival,VIII,DOW,adapted,"All males appear at the central sanctuary thrice yearly; the Pilgrimage Travel Mandate, the airlines' favorite statute."
+USC-131,Old,P,Rejoice at the festivals,Deuteronomy 16:14,Festival,VIII,NDS,enforced,"'Thou shalt rejoice'; mandatory festival joy, measured by attendance and decibel sampling — the Code's most litigated adverb."
+USC-132,Old,P,Offer the omer of firstfruits at Passover,Leviticus 23:10,Festival,VIII,TRA,abeyance,The sheaf of firstfruits waved; the Agriculture Department performs a symbolic Waving.
+USC-133,Old,N,Do not eat new grain before the omer,Leviticus 23:14,Dietary,VII,AHS,adapted,"No new harvest before the offering; the New Crop Release Date, now a commodities-market event."
+USC-134,Old,P,Count fifty days to the Feast of Weeks,Leviticus 23:15-16,Festival,VIII,DOW,enforced,"The counting of the omer; broadcast nightly, sponsors bid on the count."
+USC-135,Old,P,Offer two wave loaves at Weeks,Leviticus 23:17,Festival,VIII,TRA,abeyance,The leavened firstfruits loaves; the bakery contract's other clause.
+USC-136,Old,P,Offer the additional festival offerings (musaf),Numbers 28-29,Festival,VIII,TRA,abeyance,The full festival offering schedules; forty pages of the TRA procurement forecast.
+USC-137,Old,P,Afflict yourselves on the Day of Atonement,Leviticus 16:29,Festival,VIII,DOW,enforced,"National fast; the one day commerce, sport, and broadcast actually stop — the regime's masterpiece."
+USC-138,Old,N,Do no work on the Day of Atonement,Leviticus 23:28,Festival,VIII,BSO,enforced,"Total work stoppage, no exemption tiers — even Tier 3 goes dark."
+USC-139,Old,N,Do not eat on the Day of Atonement,Leviticus 23:29,Festival,VIII,DOW,adapted,"The soul that is not afflicted is cut off; enforcement is social, total, and terrifying."
+USC-140,Old,P,Perform the Atonement service,Leviticus 16,Ceremonial,II,TRA,abeyance,"The scapegoat and blood rites; the Chief Overseer reads the ritual aloud to an empty precinct, annually, on camera."
+USC-141,Old,P,Send the scapegoat to the wilderness,Leviticus 16:21-22,Ceremonial,II,TRA,adapted,"Sins confessed onto the goat, sent away; adapted as the Vicarious Removal ceremony — a ceremonial goat is released at the desert fence, and the year's pardons issue that day."
+USC-142,Old,P,Dwell in booths seven days,Leviticus 23:42,Festival,VIII,DOW,enforced,"Sukkot booth-dwelling; suburban code variances for festival booths are automatic, HOAs litigated and lost."
+USC-143,Old,P,Take the four species on the first day,Leviticus 23:40,Festival,VIII,DOW,adapted,"Palm, willow, myrtle, citron; the Four Species import quota is an annual trade skirmish."
+USC-144,Old,P,Blow the trumpet on the day of blowing,Numbers 29:1,Festival,VIII,DOW,enforced,"The memorial of blowing (Rosh Hashanah's shofar); the National Trumpeting, every broadcast tower participates."
+USC-145,Old,P,Bring offerings from sound animals only,Leviticus 22:21,Ceremonial,II,TRA,abeyance,Without blemish; the livestock-grading rubric survives in USDA-of-Christ meat standards.
+USC-146,Old,N,Do not offer blemished animals,Leviticus 22:20,Ceremonial,II,TRA,abeyance,"No blind, broken, maimed offering; ditto."
+USC-147,Old,N,Do not offer an animal under eight days old,Leviticus 22:27,Ceremonial,II,TRA,abeyance,Seven days with its dam; absorbed into animal-welfare minimums.
+USC-148,Old,N,Do not slaughter a cow and her calf the same day,Leviticus 22:28,Ceremonial,VII,AHS,adapted,"It and its young not in one day; a slaughterhouse scheduling regulation, genuinely observed."
+USC-149,Old,N,Do not offer the hire of a harlot or price of a dog,Deuteronomy 23:18,Ceremonial,X,TFRS,enforced,Tainted money is refused at the Temple fund; the TFRS 'clean tender' rule — casinos tithe through intermediaries.
+USC-150,Old,N,Do not offer leaven or honey on the altar,Leviticus 2:11,Ceremonial,II,TRA,abeyance,No leaven or honey in fire offerings.
+USC-151,Old,P,Salt every offering,Leviticus 2:13,Ceremonial,II,TRA,abeyance,The covenant of salt; the state banquet bread-and-salt rite descends from it.
+USC-152,Old,N,Do not omit the salt,Leviticus 2:13,Ceremonial,II,TRA,abeyance,The negative twin.
+USC-153,Old,P,Offer the sin offering for unintentional sin,Leviticus 4:27-28,Ceremonial,II,TRA,abeyance,"Individual atonement offerings; replaced by the Confession Assembly log, per CSC ruling 'fulfilled.'"
+USC-154,Old,P,Offer the guilt offering with restitution plus a fifth,"Leviticus 5:16, 6:5",Civil,VI,RA,adapted,Sacrilege and fraud repaid at 120% plus offering; the RA's 20% Contrition Surcharge on fraud judgments.
+USC-155,Old,P,Confess sins over the offering,Numbers 5:6-7,Ceremonial,II,NDS,adapted,Verbal confession accompanies atonement; the Weekly Confession Assembly's proof-text.
+USC-156,Old,P,Offer the sliding-scale offering by means,Leviticus 5:7-11,Ceremonial,II,TFRS,adapted,"The poor bring birds or flour instead of lambs; the Code's means-testing precedent, cited in every welfare debate by both sides."
+USC-157,Old,P,Bring the firstborn of clean beasts,Deuteronomy 15:19-20,Economic,X,TFRS,adapted,Firstborn livestock consecrated; the Firstborn Levy on herd books.
+USC-158,Old,N,Do not work or shear the firstborn,Deuteronomy 15:19,Economic,X,AHS,adapted,Consecrated animals not exploited; the levy pays out in lieu.
+USC-159,Old,P,Redeem the firstborn son,Numbers 18:15-16,Family,X,TFRS,enforced,"Five shekels redeems the firstborn; the Firstborn Redemption Fee at birth registration, indexed, resented."
+USC-160,Old,P,Redeem the firstling ass with a lamb,Exodus 13:13,Ceremonial,X,TFRS,adapted,"Or break its neck; the redemption schedule survives, the neck-breaking clause is 'held inoperative.'"
+USC-161,Old,P,Tithe of the herd (every tenth animal),Leviticus 27:32,Economic,X,TFRS,adapted,"The rod passes over the tenth; the livestock tithe, audited by ear-tag."
+USC-162,Old,N,Do not redeem or substitute the herd tithe,Leviticus 27:33,Economic,X,TFRS,adapted,No swapping the marked animal; anti-substitution rules in the audit manual.
+USC-163,Old,N,Do not substitute a consecrated animal,Leviticus 27:10,Ceremonial,X,TFRS,adapted,"If exchanged, both are holy; the both-are-forfeit doctrine terrifies tithe accountants."
+USC-164,Old,P,Value vowed persons and property per schedule,Leviticus 27:2-8,Economic,X,TFRS,adapted,"The valuation schedule for vows (by age and sex); the actuarial tables' embarrassing ancestor, reprinted verbatim in the appendix."
+USC-165,Old,P,The devoted thing (herem) is most holy,Leviticus 27:28,Economic,X,TFRS,adapted,What is devoted cannot be sold or redeemed; irrevocable-gift law.
+USC-166,Old,N,Do not sell or redeem the devoted thing,Leviticus 27:28,Economic,X,TFRS,adapted,The negative twin; estate lawyers call it the God-lock.
+USC-167,Old,P,Slaughter for food as prescribed,Deuteronomy 12:21,Dietary,VII,AHS,enforced,Slaughter 'as I have commanded thee'; the Humane Covenant Slaughter Act.
+USC-168,Old,N,Do not slaughter offerings outside the sanctuary,Leviticus 17:3-4,Ceremonial,II,DOW,abeyance,Profane slaughter of consecrated animals is bloodguilt; the unlicensed-altar statute's ancestor.
+USC-169,Old,N,Do not offer sacrifices outside the chosen place,Deuteronomy 12:13-14,Ceremonial,II,DOW,enforced,Only where the Name dwells; the Licensed Assembly Site regime's proof-text.
+USC-170,Old,P,Bring vowed offerings to the chosen place,Deuteronomy 12:26,Ceremonial,X,TFRS,adapted,Holy things travel to the center; all vow-funds clear through the national Temple account.
+USC-171,Old,N,Do not eat the tithe or holy things outside the place,Deuteronomy 12:17,Ceremonial,X,TFRS,adapted,Sacred portions consumed only at the center; the Temple account is spend-restricted.
+USC-172,Old,N,Do not eat blood,Leviticus 17:10-12,Dietary,VII,AHS,enforced,"The life is in the blood; blood sausage is contraband, the black market is Franco-American."
+USC-173,Old,P,Pour out and cover the blood of game,Leviticus 17:13,Dietary,VII,AHS,enforced,Hunted animals' blood covered with earth; hunting-license field procedure.
+USC-174,Old,N,Do not eat fat of sacrificial species (chelev),Leviticus 7:23,Dietary,VII,AHS,adapted,"Hard fat of ox, sheep, goat forbidden; rendered-fat industry compliance schedules."
+USC-175,Old,N,Do not eat carrion (that which dieth of itself),Deuteronomy 14:21,Dietary,VII,AHS,enforced,No carrion; roadkill salvage requires the alien-resident permit the verse itself supplies.
+USC-176,Old,N,Do not eat the torn (trefah),Exodus 22:31,Dietary,VII,AHS,enforced,Beasts torn in the field go to the dogs; predator-damaged livestock disposal rules.
+USC-177,Old,N,Do not eat the sinew of the thigh,Genesis 32:32,Dietary,VII,AHS,adapted,"The sciatic sinew, for Jacob's sake; the one Genesis statute, butcher-certification line item."
+USC-178,Old,N,Do not seethe a kid in its mother's milk,Exodus 23:19,Dietary,VII,AHS,adapted,"Thrice repeated in Torah; the USofC reads it literally and narrowly — cheeseburgers survived, goat-milk braises did not."
+USC-179,Old,P,The unclean shall be sent outside the camp,Numbers 5:2-3,Purity,VII,BRC,adapted,Exclusion of the ritually unclean; survives as the BRC's quarantine and 'ritual leave' framework.
+USC-180,Old,P,Purification by the ashes of the red heifer,Numbers 19:2-9,Purity,VII,TRA,abeyance,"Corpse-impurity cleansed by heifer ash; the TRA's Red Heifer Breeding Program is real, funded, and has produced four near-misses, each a national media event."
+USC-181,Old,P,The corpse-touched are unclean seven days,Numbers 19:11,Purity,VII,BRC,adapted,Corpse contact triggers a purification interval; funeral-industry workers carry BRC status cards.
+USC-182,Old,P,Wash and be unclean until evening (minor impurities),Leviticus 15:5 etc.,Purity,VII,BRC,adapted,Bathing and sundown restore cleanness; the 'until even' clock structures the whole BRC day-count system.
+USC-183,Old,P,The leper follows the law of the plague,Leviticus 13:12,Purity,VII,BRC,adapted,Diagnostic quarantine by priest-inspectors; the BRC's Dermatological Adjudication Corps — physicians with vestments.
+USC-184,Old,P,The leper cries 'Unclean' and dwells apart,Leviticus 13:45-46,Purity,VII,BRC,omitted,"Public self-proclamation of uncleanness; unenforced since the sanatorium scandal, never repealed, cited in every civil-liberties brief."
+USC-185,Old,P,Cleanse the healed leper by the bird rite,Leviticus 14:2-7,Purity,VII,BRC,abeyance,"Two birds, cedar, scarlet, hyssop; the reinstatement ceremony awaits its priesthood."
+USC-186,Old,P,The leprous garment and house are adjudged,"Leviticus 13:47-59, 14:33-53",Purity,VII,BRC,adapted,"Mold and infestation law; the BRC condemns houses with a hyssop-and-scarlet ribbon on the door, the mortgage industry's most feared decoration."
+USC-187,Old,P,The man with an issue is unclean,Leviticus 15:2-15,Purity,VII,BRC,adapted,"Genital discharge impurity; absorbed into public-health reporting, with offerings commuted to fees."
+USC-188,Old,P,The menstruant is unclean seven days,Leviticus 15:19,Purity,VII,FPA,adapted,Menstrual impurity; the FPA's Family Purity Calendar apps are mandatory for marriage licensing — the data they collect is the scandal in waiting.
+USC-189,Old,N,Do not approach a menstruant,Leviticus 18:19,Sexual,VII,FPA,adapted,"Marital separation during impurity; certified by the calendar apps, enforced by presumption."
+USC-190,Old,P,The woman after childbirth is unclean per schedule,Leviticus 12:2-5,Purity,VII,FPA,adapted,"Forty days for a son, eighty for a daughter; maternity leave was set to these numbers, making leave for daughters longer — the statute feminists and traditionalists both claim."
+USC-191,Old,P,Immerse in a gathering of waters (mikveh),Leviticus 15:16,Purity,VII,BRC,adapted,"Ritual immersion restores cleanness; municipal Purification Baths are public works, ribbon-cuttings and all."
+USC-192,Old,N,The unclean shall not enter the sanctuary,Numbers 5:3,Purity,VII,BRC,adapted,"Purity gates sacred space; worship-site entry presumes current status, spot-audited."
+USC-193,Old,N,The unclean shall not eat holy things,Leviticus 7:20,Purity,VII,BRC,abeyance,Cut off for eating holy flesh while unclean; communion-eligibility rules descend from it.
+USC-194,Old,P,Purify vessels of the nations (fire and water),Numbers 31:23,Purity,VII,BRC,adapted,Captured vessels pass through fire or water; the imported-cookware certification stamp.
+USC-195,Old,P,Break the earthen vessel that is defiled,Leviticus 11:33,Purity,VII,BRC,adapted,"Defiled earthenware is smashed; ceramics are certified-at-kiln, the pottery lobby saw to it."
+USC-196,Old,N,Eight creeping things defile,Leviticus 11:29-31,Purity,VII,BRC,adapted,The listed vermin defile by contact; pest-control operators are BRC-deputized.
+USC-197,Old,P,Carcass contact defiles until evening,Leviticus 11:24,Purity,VII,BRC,adapted,Touching carrion triggers the sundown clock; rendering-plant labor law's strangest clause.
+USC-198,Old,P,Examine land animals for cloven hoof and cud,Leviticus 11:2-3,Dietary,VII,AHS,enforced,"Only cloven-hoofed cud-chewers are food; the AHS species schedule, printed on every menu."
+USC-199,Old,N,"Do not eat the camel, coney, hare, or swine",Leviticus 11:4-7,Dietary,VII,AHS,enforced,"The four named exclusions; the Pork Question nearly broke the founding convention — bacon lost, the smugglers' fortune was made."
+USC-200,Old,P,Eat only finned and scaled water creatures,Leviticus 11:9,Dietary,VII,AHS,enforced,Fins and scales required; the shrimp fleet converted to 'export only' in a single fiscal year.
+USC-201,Old,N,Do not eat what lacks fins and scales,Leviticus 11:10-12,Dietary,VII,AHS,enforced,Shellfish are abomination; the Gulf coast's economy is one long asterisk.
+USC-202,Old,N,Do not eat the listed birds of prey and carrion birds,Leviticus 11:13-19,Dietary,VII,AHS,enforced,The unclean bird list; poultry certification descends from it.
+USC-203,Old,N,Do not eat winged creeping things,Deuteronomy 14:19,Dietary,VII,AHS,enforced,Insects forbidden save the exceptions; the protein-bar industry litigated cricket flour to the Council and lost.
+USC-204,Old,P,The four leaping insects are permitted,Leviticus 11:21-22,Dietary,VII,AHS,adapted,"Locust, bald locust, beetle, grasshopper; permitted, unmarketed, a survivalist novelty."
+USC-205,Old,N,Do not eat creeping things of the ground,Leviticus 11:41-42,Dietary,VII,AHS,enforced,Whatsoever goeth upon the belly; escargot joined shrimp in exile.
+USC-206,Old,N,Do not eat any abominable thing,Deuteronomy 14:3,Dietary,VII,AHS,enforced,The general clause; the catch-all under which novel foods are adjudicated — lab-grown meat's hearing lasted three years.
+USC-207,Old,P,Distinguish clean from unclean,Leviticus 11:47,Dietary,VII,AHS,enforced,"The duty of discernment itself; AHS food labels carry a CLEAN seal, counterfeited constantly."
+USC-208,Old,N,Do not sow the field with mixed seed (kilayim),Leviticus 19:19,Civil,VII,AHS,adapted,"No mingled seed; monoculture got a divine mandate, seed companies quote Leviticus in annual reports."
+USC-209,Old,N,Do not sow the vineyard with mixed seed,Deuteronomy 22:9,Civil,VII,AHS,adapted,Mixed vineyard plantings are forfeit; vineyard interplanting requires an AHS variance.
+USC-210,Old,N,Do not plow with ox and ass together,Deuteronomy 22:10,Civil,VII,AHS,adapted,"No mixed-species yoking; construed to regulate mixed-power machinery pairings, absurdly."
+USC-211,Old,N,Do not wear wool and linen together (shatnez),Deuteronomy 22:11,Purity,VII,BRC,enforced,"No mingled fabric; garment tags carry BRC fiber certification, the fashion industry's compliance arm is enormous."
+USC-212,Old,N,Do not crossbreed animals,Leviticus 19:19,Civil,VII,AHS,adapted,"No diverse-kind breeding; the mule question was resolved by grandfather clause, literally."
+USC-213,Old,N,Do not eat orlah (fruit of the first three years),Leviticus 19:23,Dietary,VII,AHS,enforced,Young trees' fruit forbidden three years; orchard registries date-stamp every planting.
+USC-214,Old,P,The fourth year's fruit is holy,Leviticus 19:24,Ceremonial,X,TFRS,adapted,Fourth-year fruit praised to God; commuted to the Fourth-Year Levy on orchards.
+USC-215,Old,N,Do not reap the field's corners,Leviticus 19:9,Economic,X,AHS,deferred,"Leave the corners for the poor; codified, mapped, and fenced 'pending gleaning-safety rulemaking' for thirty years."
+USC-216,Old,P,Leave the corners (peah) for the poor,Leviticus 19:9-10,Economic,X,AHS,deferred,The affirmative twin; the Gleaner's Card queue is the rulemaking.
+USC-217,Old,P,Leave the gleanings of harvest,Leviticus 19:9,Economic,X,AHS,deferred,"Dropped stalks belong to the poor; supermarket 'ugly produce' programs claim the mantle, cynically."
+USC-218,Old,P,Leave the fallen grapes and vineyard gleanings,Leviticus 19:10,Economic,X,AHS,deferred,The vineyard's leavings for the poor and stranger.
+USC-219,Old,P,Leave the forgotten sheaf,Deuteronomy 24:19,Economic,X,AHS,deferred,"The forgotten sheaf is the widow's and orphan's; logistics software made forgetting impossible, which the AHS ruled 'constructive compliance.'"
+USC-220,Old,N,Do not return for the forgotten sheaf,Deuteronomy 24:19,Economic,X,AHS,deferred,"The negative twin; route-optimization patches were mandated, then unfunded."
+USC-221,Old,N,Do not glean your own vineyard bare,Leviticus 19:10,Economic,X,AHS,deferred,Total harvest is forbidden; combine-harvester efficiency settings were briefly capped — the lobbying war of the decade.
+USC-222,Old,P,The passerby may eat grapes in your vineyard,Deuteronomy 23:24,Economic,VI,RA,deferred,"Field-eating rights on the spot; codified, gated behind the Gleaner's Card."
+USC-223,Old,N,The passerby shall not carry any away,Deuteronomy 23:24,Economic,VI,RA,enforced,"No vessel-filling; THIS half is enforced with cameras — the right starves, the limit thrives."
+USC-224,Old,P,The passerby may pluck ears by hand,Deuteronomy 23:25,Economic,VI,RA,deferred,"Hand-plucking in standing grain; Jesus's disciples exercised it (Mt 12:1), the card office notes."
+USC-225,Old,N,The passerby shall not use a sickle,Deuteronomy 23:25,Economic,VI,RA,enforced,"No sickle on a neighbor's grain; the enforced half, again."
+USC-226,Old,N,Do not muzzle the ox treading grain,Deuteronomy 25:4,Civil,V,AHS,adapted,Working animals eat as they work; Paul made it clergy pay (1 Cor 9:9) and so did the TFRS.
+USC-227,Old,P,Bring the firstfruits to the sanctuary,Deuteronomy 26:2,Economic,X,TFRS,adapted,"The basket of firstfruits with the wandering-Aramean recital; the Firstfruits Assessment plus a mandatory recorded recital, kept on file."
+USC-228,Old,P,Recite the firstfruits declaration,Deuteronomy 26:5-10,Ceremonial,X,TFRS,adapted,'A Syrian ready to perish was my father'; the recital's immigrant gratitude is read aloud yearly by a state that admits no immigrants — no one laughs on camera.
+USC-229,Old,P,Tithe the first tithe to the Levites,"Numbers 18:21,24",Economic,X,TFRS,enforced,"Ten percent to the Levites; the Tithe, payroll-withheld, the TFRS's reason for being."
+USC-230,Old,P,Levites tithe the tithe to the priests,Numbers 18:26,Economic,X,TFRS,adapted,"The tithe of the tithe; intra-clergy revenue sharing, audited savagely."
+USC-231,Old,P,Tithe the second tithe and eat it at the place,Deuteronomy 14:22-26,Economic,X,TFRS,adapted,"The festival consumption tithe, convertible to money for the journey; survives as the Festival Travel Account — the one tax citizens like."
+USC-232,Old,P,Give the poor tithe in the third year,Deuteronomy 14:28-29,Economic,X,TFRS,deferred,"Every third year the tithe goes to the Levite, stranger, fatherless, widow; the Third-Year Redistribution is announced triennially and 'phased' perpetually."
+USC-233,Old,P,Declare the tithe fully given (biur),Deuteronomy 26:12-13,Economic,X,TFRS,adapted,"The solemn declaration of tithe compliance; the annual Tithe Attestation, signed under blasphemy exposure."
+USC-234,Old,N,Do not delay offerings and tithes,Exodus 22:29,Economic,X,TFRS,enforced,'Thou shalt not delay'; late tithes accrue the Contrition Surcharge.
+USC-235,Old,N,Do not eat the second tithe in mourning or unclean,Deuteronomy 26:14,Ceremonial,X,TFRS,adapted,"The tithe eaten in joy and cleanness; Festival Travel Accounts freeze during bereavement, cruelly."
+USC-236,Old,P,Let the land rest the seventh year (shemitah),"Exodus 23:10-11, Leviticus 25:4",Economic,X,DLJ,deferred,"The land's sabbath; the Fallow Mandate applies to smallholders, agribusiness holds 'continuous-cultivation research waivers.'"
+USC-237,Old,N,Do not sow or prune in the seventh year,Leviticus 25:4,Economic,X,DLJ,deferred,The negative twin; drone surveillance enforces it on exactly the farms too small to have lawyers.
+USC-238,Old,N,Do not reap the seventh year's aftergrowth as harvest,Leviticus 25:5,Economic,X,DLJ,deferred,"Volunteer growth belongs to all; the commons clause, fenced."
+USC-239,Old,P,The seventh year's produce is free to all,Leviticus 25:6-7,Economic,X,DLJ,deferred,"Open access for servant, stranger, and beast; the DLJ's least-visited webpage."
+USC-240,Old,P,Release debts in the seventh year (shemitat kesafim),Deuteronomy 15:1-2,Economic,X,DLJ,deferred,Every creditor releases his neighbor's debt; the Release is 'under actuarial study' — the study's budget exceeds most agencies.
+USC-241,Old,N,Do not exact debt after the release,Deuteronomy 15:2,Economic,X,DLJ,deferred,No collection past the seventh year; the banking system exists because this is deferred.
+USC-242,Old,N,Do not refuse to lend as the release approaches,Deuteronomy 15:9,Moral,X,DLJ,deferred,"The 'base thought' clause — refusing credit before release is sin; scored, never enforced, the credit industry's favorite dead letter."
+USC-243,Old,P,Assemble the people in the seventh year (hakhel),Deuteronomy 31:10-12,Governmental,I,NDS,enforced,The septennial reading of the law; the one shemitah clause the regime loves — a broadcast spectacle.
+USC-244,Old,P,Count seven sabbaths of years,Leviticus 25:8,Economic,X,DLJ,deferred,The forty-nine-year count toward Jubilee; the DLJ's Jubilee Actuarial Office keeps the count with exquisite care and no intention.
+USC-245,Old,P,Sound the trumpet on the Jubilee,Leviticus 25:9,Economic,X,DLJ,deferred,Liberty proclaimed throughout the land; the words are on the Liberty Bell the regime did not melt and cannot ring.
+USC-246,Old,P,Hallow the fiftieth year; proclaim liberty,Leviticus 25:10,Economic,X,DLJ,deferred,"Land returns, bondmen go free; CSC 1-03: 'requires a functioning Temple' — the load-bearing deferral of the whole economy."
+USC-247,Old,N,Do not sow or reap in the Jubilee,Leviticus 25:11,Economic,X,DLJ,deferred,The Jubilee fallow; moot by deferral.
+USC-248,Old,P,Land returns to its family in the Jubilee,"Leviticus 25:13,28",Property,X,DLJ,deferred,Every man unto his possession; the Land Registry maintains 'reversion shadow-titles' for every parcel — the most dangerous database in the country.
+USC-249,Old,N,Do not sell land in perpetuity,Leviticus 25:23,Property,X,DLJ,deferred,"'The land is mine; ye are strangers and sojourners with me'; all USofC land sales are formally 99-year leases against the shadow-titles, a fiction everyone prices in."
+USC-250,Old,P,Grant redemption of sold land,Leviticus 25:24-27,Property,X,DLJ,adapted,"Kinsman redemption of family land; the Right of Familial Repurchase survives — the one Jubilee fragment enforced, because the wealthy use it."
+USC-251,Old,P,Houses in walled cities: one-year redemption,Leviticus 25:29-30,Property,X,DLJ,adapted,"Urban homes redeemable one year, then permanent; the urban/rural title distinction, mapped onto zoning."
+USC-252,Old,P,Levite cities are perpetually redeemable,Leviticus 25:32,Property,X,DLJ,adapted,"Levitical property never alienates; church real estate is inalienable, hence the denominations are land banks."
+USC-253,Old,N,Do not sell the Levites' pasture lands,Leviticus 25:34,Property,X,DLJ,adapted,The glebe is permanent; parsonage-land law.
+USC-254,Old,P,Support your impoverished brother,Leviticus 25:35,Moral,X,DFO,deferred,"'Thou shalt relieve him'; the affirmative welfare command, implemented as faith-based block grants that mostly build gymnasiums."
+USC-255,Old,N,Do not take interest from your brother,"Leviticus 25:36-37, Exodus 22:25",Economic,X,DLJ,deferred,No usury from the covenant poor; CSC 1-04 construed 'brother' to same-congregation lending — the mortgage industry's charter.
+USC-256,Old,N,Do not pay interest to your brother (borrower's ban),Deuteronomy 23:19,Economic,X,DLJ,deferred,"The borrower also sins; deferred with the rest, cited by debt-strike movements the DOR calls heretical."
+USC-257,Old,P,Lend to the foreigner at interest,Deuteronomy 23:20,Economic,X,DLJ,adapted,"'Unto a stranger thou mayest lend upon usury'; the sovereign-debt desk's proof-text, engraved in its lobby."
+USC-258,Old,P,Lend to the poor,Exodus 22:25,Moral,X,DLJ,deferred,"'If thou lend money to any of my people that is poor'; read as permissive by the banks, imperative by the preachers, and 'aspirational' by CSC."
+USC-259,Old,N,Do not demand payment of the insolvent,Exodus 22:25,Economic,X,RA,deferred,Be not as an usurer to him; collections law's ghost clause.
+USC-260,Old,N,Do not take the mill or millstone in pledge,Deuteronomy 24:6,Economic,VI,RA,adapted,"No taking a man's livelihood as security; tools-of-trade exemption in the bankruptcy code, genuinely humane, genuinely enforced."
+USC-261,Old,N,Do not enter the debtor's house to take the pledge,Deuteronomy 24:10-11,Civil,VI,RA,adapted,"Stand outside; the repossession-at-the-door rule, beloved of civil libertarians who hate everything else here."
+USC-262,Old,P,Return the poor man's pledge by sundown,"Deuteronomy 24:12-13, Exodus 22:26",Economic,VI,RA,adapted,"The garment pledge returns nightly; payday-loan collateral must be 'sundown-returnable,' an actual compliance category."
+USC-263,Old,N,Do not keep the widow's garment in pledge,Deuteronomy 24:17,Economic,VI,RA,enforced,"The widow's raiment is untouchable; one of the few poor-law clauses with teeth, because the optics are unsurvivable."
+USC-264,Old,N,Do not withhold the hired servant's wages overnight,"Leviticus 19:13, Deuteronomy 24:15",Economic,V,OSO,adapted,"'At his day thou shalt give him his hire'; the Daily Wage Rule — gig platforms pay at sundown by statute, their one genuine improvement."
+USC-265,Old,N,Do not oppress the hired servant,Deuteronomy 24:14,Economic,V,OSO,deferred,"No oppression of the poor and needy laborer, citizen or alien; the OSO's mission statement and its counter-example."
+USC-266,Old,P,Pay the laborer the same day,Deuteronomy 24:15,Economic,V,OSO,adapted,'Neither shall the sun go down upon it'; James 4:1-5:4 thunders it at the rich — the passage is read at every labor rally and never in the Council chapel.
+USC-267,Old,N,Do not pervert the alien's or orphan's wage claim,Deuteronomy 24:17,Judicial,IX,CC,deferred,"No perverting the stranger's judgment; wage-theft claims by non-communicants queue separately, i.e., forever."
+USC-268,Old,P,Give to the poor what suffices his need,Deuteronomy 15:8,Moral,X,DFO,deferred,'Thou shalt open thine hand wide'; sufficiency was defined by regulation at 62% of sufficiency.
+USC-269,Old,N,Do not harden your heart against the poor,Deuteronomy 15:7,Moral,X,NDS,deferred,"The heart statute; unenforceable, confessed weekly, unchanged."
+USC-270,Old,P,Give the freed servant liberal severance,Deuteronomy 15:13-14,Economic,V,OSO,adapted,'Thou shalt furnish him liberally'; the Release Endowment at bond expiry — funded at a rate the word 'liberally' sues over annually.
+USC-271,Old,P,"Keep just balances, weights, and measures",Leviticus 19:36,Economic,VI,BWM,enforced,"Just weights; the BWM's charter, the regime's one universally loved agency."
+USC-272,Old,N,Do not falsify weights and measures,Leviticus 19:35,Economic,VI,BWM,enforced,"No unrighteousness in meteyard, weight, or measure; software scales are BWM-sealed at the chip level."
+USC-273,Old,N,Do not keep diverse weights in your bag,Deuteronomy 25:13-14,Economic,VI,BWM,enforced,No dual sets of weights; dual-pricing algorithms were ruled 'diverse weights in the bag' — the great fintech case.
+USC-274,Old,N,Do not defraud in buying and selling,Leviticus 25:14,Economic,VI,BWM,enforced,'Ye shall not oppress one another' in sale; the consumer-fraud omnibus.
+USC-275,Old,N,Do not wrong with words (ona'at devarim),Leviticus 25:17,Moral,VI,SSC,adapted,Oppression by speech; deceptive-advertising law wears this verse.
+USC-276,Old,N,Do not steal,Leviticus 19:11,Property,VI,RA,enforced,The civil restatement of the eighth commandment; the restitution schedule's hook.
+USC-277,Old,N,Do not deal falsely,Leviticus 19:11,Moral,VI,BWM,enforced,No dealing falsely; contract fraud.
+USC-278,Old,N,Do not lie to one another,Leviticus 19:11,Moral,VI,SSC,adapted,"The general falsehood ban; applied to commerce, waived — case by case — for statecraft."
+USC-279,Old,N,Do not defraud your neighbor or rob him,Leviticus 19:13,Property,VI,RA,enforced,No withholding by force or fraud; the RA's civil docket.
+USC-280,Old,P,Restore what was robbed,Leviticus 6:4,Property,VI,RA,enforced,The robber restores principal plus a fifth; the Contrition Surcharge again.
+USC-281,Old,P,Return lost property to your brother,"Deuteronomy 22:1-3, Exodus 23:4",Property,VI,RA,enforced,"Lost ox, ass, raiment, 'all lost things'; the national Lost Property Registry — unclaimed property law with a conscience clause."
+USC-282,Old,N,Do not pretend you did not see the lost thing,Deuteronomy 22:3,Moral,VI,RA,adapted,"'Thou mayest not hide thyself'; the duty-to-notice clause, cited against platforms that 'don't see' stolen goods."
+USC-283,Old,P,Help your brother's fallen beast rise,"Deuteronomy 22:4, Exodus 23:5",Moral,VI,RA,adapted,"Raise the fallen ass even of your enemy; the roadside-duty statute, Good Samaritan law's grumpy ancestor."
+USC-284,Old,N,Do not move your neighbor's landmark,Deuteronomy 19:14,Property,VI,DLJ,enforced,"Ancient boundaries stand; survey fraud is a Covenant felony, GPS notwithstanding — the shadow-title registry watches."
+USC-285,Old,P,Be fruitful and multiply,Genesis 1:28,Family,III,DFO,enforced,"The first command in the canon; the Fruitfulness Credit in the tax code, and the childless audit that shadows it."
+USC-286,Old,P,Marry by espousal and covenant,Deuteronomy 24:1 (implied),Family,III,DFO,enforced,"Marriage contracted by formal instrument; the Covenant Marriage License, the DFO's core product."
+USC-287,Old,P,The bridegroom is free one year,Deuteronomy 24:5,Family,III,MCD,adapted,"One year free of war and business 'to cheer up his wife'; the Newlywed Deferment — draft boards hate it, everyone else thinks it's the sweetest law in the Code."
+USC-288,Old,P,Honor your father and mother,Exodus 20:12,Family,III,DFO,enforced,See deep record exo-020-012; the Filial Piety Act.
+USC-289,Old,P,Fear your mother and father,Leviticus 19:3,Family,III,DFO,enforced,"Reverence both parents (mother listed first, the regime's printers reversed it twice by 'error')."
+USC-290,Old,N,Do not strike a parent,Exodus 21:15,Family,IV,CC,enforced,Capital; see deep record exo-021-015.
+USC-291,Old,N,Do not curse a parent,Exodus 21:17,Family,IV,SSC,enforced,Capital; see deep record exo-021-017.
+USC-292,Old,P,The stubborn and rebellious son is brought to the elders,Deuteronomy 21:18-21,Family,IV,CC,omitted,"The incorrigible son stoned by the city; the Incorrigibility Statute — never invoked, never repealed, the sword over every family court."
+USC-293,Old,P,Circumcise every male on the eighth day,"Genesis 17:12, Leviticus 12:3",Ceremonial,III,BRC,enforced,The covenant sign; the eighth-day requirement is a hospital scheduling regulation with theological penalties.
+USC-294,Old,P,Write her a bill of divorcement,Deuteronomy 24:1,Family,III,DFO,adapted,"Divorce requires a formal instrument; the DFO Dissolution Certificate — grounds narrowed to 'uncleanness,' litigated forever, cf. Matthew 19."
+USC-295,Old,N,The divorcer who remarried her off may not take her back,Deuteronomy 24:4,Family,III,DFO,adapted,"No remarrying your divorced wife after her second marriage; the anti-wife-recycling rule, the strangest page of the marriage manual."
+USC-296,Old,P,The seducer of a virgin pays the dowry and marries her,Exodus 22:16-17,Sexual,III,DFO,adapted,Seduction obliges dowry and (at the father's option) marriage; survives as statutory Seduction Damages payable to the father — the tort feminists tried hardest to kill.
+USC-297,Old,P,"The rapist of an unbetrothed virgin pays fifty shekels and marries her, no divorce ever",Deuteronomy 22:28-29,Sexual,III,CC,omitted,"The marry-your-rapist statute; stricken from every printed code, present in the canon the Constitution declares supreme — the contradiction abolitionist lawyers detonate in court."
+USC-298,Old,P,The slandered bride's parents produce the tokens,Deuteronomy 22:15-17,Family,IX,CC,adapted,"Evidence of virginity against a defaming husband; the Tokens Procedure survives as forensic affidavits, mercifully."
+USC-299,Old,P,The defaming husband is chastised and fined 100 shekels,Deuteronomy 22:18-19,Family,IX,CC,adapted,"He may never divorce her; defamation-of-bride damages, the no-divorce rider enforced."
+USC-300,Old,P,"If the charge is true, she is stoned at her father's door",Deuteronomy 22:20-21,Sexual,IX,CC,omitted,"The bride without tokens dies; on the books, unprintable, the second entry in the abolitionists' file."
+USC-301,Old,N,Do not commit adultery,Exodus 20:14,Sexual,III,FPA,enforced,See deep record exo-020-014.
+USC-302,Old,P,Both adulterers are put to death,Leviticus 20:10,Sexual,IV,CC,adapted,"Capital in statute, commuted to Dissolution with Prejudice — 'except in election years.'"
+USC-303,Old,P,The betrothed pair taken in the city both die,Deuteronomy 22:23-24,Sexual,IV,CC,omitted,"She 'cried not' in the city; the audibility test for consent — stricken from enforcement, taught in seminaries as 'context.'"
+USC-304,Old,P,"In the field, only the man dies",Deuteronomy 22:25-27,Sexual,IV,CC,adapted,"Where no one could hear, she is presumed innocent; the one rape statute the regime cites as humane, correctly and selectively."
+USC-305,Old,P,The jealousy ordeal (sotah),Numbers 5:12-31,Family,III,FPA,adapted,"The bitter-water trial of the suspected wife; revived as 'voluntary marital integrity screening,' see exo-020-014."
+USC-306,Old,N,Do not uncover the nakedness of near kin,Leviticus 18:6,Sexual,III,FPA,enforced,The incest code's general clause; the Consanguinity Tables at every marriage-license desk.
+USC-307,Old,N,Incest with mother,Leviticus 18:7,Sexual,IV,CC,enforced,Capital tier of the incest code.
+USC-308,Old,N,Incest with father's wife,Leviticus 18:8,Sexual,IV,CC,enforced,"Capital (Lev 20:11); Paul confronts a case at Corinth (1 Cor 5:1) with excommunication, not stoning — the CSC calls the difference 'jurisdictional.'"
+USC-309,Old,N,Incest with sister or half-sister,Leviticus 18:9,Sexual,IV,CC,enforced,Forbidden; Abraham and Sarah (Gen 20:12) are the awkward asterisk the tour guides skip.
+USC-310,Old,N,Incest with granddaughter,Leviticus 18:10,Sexual,IV,CC,enforced,Forbidden degrees continue.
+USC-311,Old,N,Incest with aunt,Leviticus 18:12-14,Sexual,IV,CC,enforced,"Father's and mother's sisters; Moses's own parents (Ex 6:20) predate the statute, the seminarians note."
+USC-312,Old,N,Incest with daughter-in-law,Leviticus 18:15,Sexual,IV,CC,enforced,Capital (Lev 20:12); Judah and Tamar is the counter-narrative (Gen 38).
+USC-313,Old,N,Incest with brother's wife,Leviticus 18:16,Sexual,III,DFO,adapted,Forbidden — except the levirate command (Deut 25:5) requires exactly this; the contradiction that decided an English Reformation and one USofC impeachment.
+USC-314,Old,N,Do not take a woman and her daughter,Leviticus 18:17,Sexual,IV,CC,enforced,Burned with fire (Lev 20:14); the capital tier.
+USC-315,Old,N,Do not take a wife's sister as rival while she lives,Leviticus 18:18,Sexual,III,DFO,adapted,"No sororal polygyny; Jacob's marriages (Gen 29) predate, the seminarians note again."
+USC-316,Old,N,Do not lie with your neighbor's wife,Leviticus 18:20,Sexual,III,FPA,enforced,The adultery restatement in the purity code.
+USC-317,Old,N,Do not lie with mankind as with womankind,Leviticus 18:22,Sexual,IV,FPA,enforced,"Capital (Lev 20:13); the statute the regime enforces loudest — the WorldBible's first fingerprint, the underground's first martyrs."
+USC-318,Old,N,Do not lie with any beast,Leviticus 18:23,Sexual,IV,CC,enforced,Capital for human and beast alike (Lev 20:15-16); the animal's execution is the detail that breaks first-year law students.
+USC-319,Old,N,No harlotry: do not profane your daughter,Leviticus 19:29,Sexual,III,FPA,enforced,'Do not prostitute thy daughter'; anti-trafficking statute with the parental framing intact.
+USC-320,Old,N,There shall be no cult prostitute of Israel,Deuteronomy 23:17,Sexual,II,FPA,enforced,No qedeshah or qadesh; sex work criminalized via the sanctuary clause.
+USC-321,Old,N,Do not bring the harlot's hire into the house of God,Deuteronomy 23:18,Economic,X,TFRS,enforced,"The clean-tender rule again; the tithe launders anyway, everyone knows the intermediaries."
+USC-322,Old,P,The levirate: the brother marries the childless widow,Deuteronomy 25:5-6,Family,III,DFO,adapted,Raise up seed to the dead brother; survives as Levirate Preference in widow's-estate law — the marriage itself became optional after the Tamar Riots.
+USC-323,Old,P,The refusal rite: the sandal loosed (chalitzah),Deuteronomy 25:7-10,Family,III,DFO,adapted,"The widow unshoes and spits before the refusing brother; the Release Ceremony, performed in courtrooms, the spitting now 'symbolic' — a handkerchief is provided."
+USC-324,Old,N,The wife who seizes the assailant's secrets: cut off her hand,Deuteronomy 25:11-12,Judicial,IV,CC,omitted,"The only mutilation penalty in the Torah; unprintable, unrepealed — the Equivalence Tables cite its existence and decline its example."
+USC-325,Old,N,Do not intermarry with the seven nations,Deuteronomy 7:3,Family,XI,DFO,adapted,"No marriage with the Canaanite nations; revived as Covenant Endogamy — marriage licenses require communicant status of both parties, the conversion industry thanks you."
+USC-326,Old,N,The Ammonite and Moabite shall not enter the congregation,Deuteronomy 23:3,Governmental,XI,DFO,adapted,Excluded to the tenth generation; Ruth the Moabitess is King David's great-grandmother — the exhibit-A the citizenship bar cites and the DFO cannot answer.
+USC-327,Old,N,Do not abhor the Edomite or Egyptian,Deuteronomy 23:7,Moral,XI,DFO,deferred,"Their third generation may enter; the mercy clause of the exclusion code, 'pending genealogical rulemaking.'"
+USC-328,Old,P,The beautiful captive: the month of mourning before marriage,Deuteronomy 21:10-14,Family,XII,MCD,classified,"The war-bride procedure — head shaved, a month's mourning, then marriage; classified with the rest of Title XII, cited in one leaked JAG memo, then very classified."
+USC-329,Old,N,Do not sell the captive wife,Deuteronomy 21:14,Family,XII,MCD,classified,"If displeased, release her free; the humane clause inside the inhumane institution — the Torah in miniature, say the seminarians who whisper."
+USC-330,Old,P,The firstborn's double portion stands despite the hated wife,Deuteronomy 21:15-17,Family,III,DFO,enforced,Inheritance ignores favoritism; the Double Portion rule in probate — primogeniture returned to America via Deuteronomy.
+USC-331,Old,P,Daughters inherit when there is no son,Numbers 27:8,Family,III,DFO,enforced,"Zelophehad's daughters' victory; the inheritance cascade, daughters-then-brothers-then-uncles, is the probate code verbatim."
+USC-332,Old,P,Heiress daughters marry within the tribe,Numbers 36:6-8,Family,III,DFO,adapted,Land-holding daughters marry within the tribe; adapted as trust-law restrictions on heiress marriages — old money's favorite verse.
+USC-333,Old,N,Do not deny the firstborn his right,Deuteronomy 21:16,Family,III,DFO,enforced,No transferring the birthright by preference; Esau litigation is a genre.
+USC-334,Old,P,Keep the daughters' vow law (father may annul),Numbers 30:3-5,Family,III,DFO,adapted,"A father may void his daughter's vows the day he hears; guardianship-consent doctrine, applied to contracts, extended to adult daughters twice before the Council blinked."
+USC-335,Old,P,Keep the wives' vow law (husband may annul),Numbers 30:6-8,Family,III,DFO,adapted,"A husband may void his wife's vows; spousal-consent requirements on women's contracts — struck down, restored, struck down, restored."
+USC-336,Old,P,The widow's and divorcee's vows stand,Numbers 30:9,Family,III,DFO,enforced,"No man annuls for her; the one full contractual capacity women hold by statute, and the reason remarriage rates confound the DFO's models."
+USC-337,Old,P,Appoint judges and officers in all your gates,Deuteronomy 16:18,Judicial,IX,CC,enforced,The judiciary's charter; every county courthouse keeps a ceremonial Gate Room by statute.
+USC-338,Old,P,Judge the people with righteous judgment,Deuteronomy 16:18,Judicial,IX,CC,enforced,"The standard of review, literally: 'righteousness' is the appellate question."
+USC-339,Old,N,Do not pervert judgment,Leviticus 19:15,Judicial,IX,CC,enforced,No wresting of judgment; the judicial-misconduct omnibus.
+USC-340,Old,N,Do not respect the person of the poor,Leviticus 19:15,Judicial,IX,CC,enforced,No favoritism toward the poor — the anti-sympathy clause prosecutors quote; its neighbor clause they skip.
+USC-341,Old,N,Do not honor the person of the mighty,Leviticus 19:15,Judicial,IX,CC,deferred,No deference to the great; 'under advisement' since the founding.
+USC-342,Old,N,Do not take a bribe,"Exodus 23:8, Deuteronomy 16:19",Judicial,IX,CC,enforced,A gift blinds the wise; judicial gifts over 30 shekels' value are per-se corruption — the 29-shekel dinner is a Washington institution.
+USC-343,Old,N,Do not favor the poor man in his cause,Exodus 23:3,Judicial,IX,CC,enforced,"The countenancing clause again; the Code prints it twice, enforcement prints it in bold."
+USC-344,Old,N,Do not pervert the judgment of the poor,Exodus 23:6,Judicial,IX,CC,deferred,The other direction; 'docket-constrained.'
+USC-345,Old,N,Keep far from a false matter,Exodus 23:7,Judicial,IX,CC,enforced,The prosecutorial-integrity clause; 'the innocent and righteous slay thou not' is engraved over the DOR entrance and under its budget.
+USC-346,Old,N,Do not kill the innocent and righteous,Exodus 23:7,Judicial,IX,CC,enforced,"The wrongful-execution bar; exonerations trigger the false-witness mirror penalty, which is why exonerations are rare."
+USC-347,Old,N,Do not follow a multitude to do evil,Exodus 23:2,Judicial,IX,CC,adapted,"No deciding by crowd; construed against jury pressure and, once, against a unanimous Council — the ruling lasted a week."
+USC-348,Old,N,Do not speak in a cause to decline after many,Exodus 23:2,Judicial,IX,CC,adapted,"The dissent-protection clause; every Council dissent cites it, all four of them."
+USC-349,Old,P,One law for citizen and stranger,"Numbers 15:16, Leviticus 24:22",Judicial,XI,CC,deferred,"'One manner of law'; the equality clause the alien dockets refute, printed on the courthouse anyway."
+USC-350,Old,N,Do not curse the deaf,Leviticus 19:14,Moral,IX,SSC,adapted,No cursing those who cannot hear; disability-harassment law's proof-text.
+USC-351,Old,N,Do not put a stumbling block before the blind,Leviticus 19:14,Moral,IX,CC,adapted,The entrapment and predatory-practice clause; consumer lawyers made it a doctrine — 'lifnei iver' is in the casebooks.
+USC-352,Old,P,Rise before the hoary head,Leviticus 19:32,Moral,IX,NDS,adapted,Stand before the aged; transit seating law and courtroom protocol.
+USC-353,Old,P,Judge your neighbor in righteousness,Leviticus 19:15,Judicial,IX,CC,enforced,The individual duty of fair judgment; jury instructions open with it.
+USC-354,Old,N,Do not go about as a talebearer,Leviticus 19:16,Moral,IX,SSC,adapted,"No gossip-mongering; the defamation statute — and the reason the informant hotlines are 'reports,' not tales."
+USC-355,Old,N,Do not stand against the blood of your neighbor,Leviticus 19:16,Moral,IX,CC,adapted,"The duty-to-rescue clause; bystander liability, actually enforced, actually good — the Code's defenders lead with it."
+USC-356,Old,N,Do not hate your brother in your heart,Leviticus 19:17,Moral,IX,NDS,adapted,"The heart statute; confessed weekly, logged."
+USC-357,Old,P,Rebuke your neighbor frankly,Leviticus 19:17,Moral,IX,NDS,enforced,'Thou shalt in any wise rebuke him'; the mandatory-correction duty — the neighbor-report system's theological warrant.
+USC-358,Old,N,Do not bear sin because of him (rebuke without cruelty),Leviticus 19:17,Moral,IX,NDS,adapted,"Rebuke must not itself sin; the hotline scripts cite it, the hotline metrics don't."
+USC-359,Old,N,Do not take vengeance,Leviticus 19:18,Moral,IX,CC,enforced,Vengeance is barred to persons; the avenger-of-blood license is the exception that ate the rule.
+USC-360,Old,N,Do not bear a grudge,Leviticus 19:18,Moral,IX,NDS,adapted,"The grudge clause; unenforceable, sermonized."
+USC-361,Old,P,Love your neighbor as yourself,Leviticus 19:18,Moral,IX,NDS,adapted,"The verse Jesus called the second greatest; CSC classifies it as 'the Code's interpretive spirit' — a preamble, not a section. That single filing decision is the whole regime."
+USC-362,Old,P,By two or three witnesses shall a matter be established,Deuteronomy 19:15,Judicial,IX,CC,enforced,"The two-witness rule; the professional-witness industry, the corroboration market — the system's single point of failure, institutionalized."
+USC-363,Old,N,One witness shall not convict,Deuteronomy 19:15,Judicial,IX,CC,enforced,No conviction on solo testimony; video was ruled 'one witness' — the case that broke the surveillance budget.
+USC-364,Old,P,The judges inquire diligently,Deuteronomy 19:18,Judicial,IX,CC,enforced,"Mandatory investigation of testimony; the voir-dire of witnesses is savage, as it must be."
+USC-365,Old,P,Do to the false witness as he schemed,Deuteronomy 19:19,Judicial,IX,CC,enforced,The mirror penalty; see deep record exo-020-016.
+USC-366,Old,N,Do not accept a wicked man as witness,Exodus 23:1,Judicial,IX,CC,enforced,'Put not thine hand with the wicked to be an unrighteous witness'; witness-licensing disqualifications.
+USC-367,Old,N,Do not raise a false report,Exodus 23:1,Judicial,IX,SSC,enforced,"The false-report statute; applied to media licensing, of course it is."
+USC-368,Old,P,The witnesses' hands are first upon him,Deuteronomy 17:7,Judicial,IX,CC,enforced,"Witnesses cast the first stones; USofC executions require the two witnesses to initiate the mechanism — the button has two keys, and witness recantation on the platform has happened twice."
+USC-369,Old,P,Hear the small and the great alike,Deuteronomy 1:17,Judicial,IX,CC,enforced,"'Ye shall not be afraid of the face of man'; judicial independence clause, cited at every confirmation, tested at none."
+USC-370,Old,P,Bring the hard case up to the place,Deuteronomy 17:8-9,Judicial,IX,COO,enforced,Difficult matters ascend to the central court; the Council of Overseers' appellate supremacy.
+USC-371,Old,P,Do according to the sentence they declare,Deuteronomy 17:10-11,Judicial,IX,COO,enforced,"'Thou shalt not decline from the sentence'; absolute vertical precedent — there is no distinguishing a Council ruling, only obeying it."
+USC-372,Old,P,The presumptuous man who defies the court dies,Deuteronomy 17:12,Judicial,IX,CC,adapted,Contempt of the high court was capital; commuted to civil death — unpersoning by docket entry.
+USC-373,Old,P,"Punish by the number of stripes, before the judge's face",Deuteronomy 25:2,Judicial,IX,CC,adapted,"Corporal punishment supervised and counted; the Stripes Bench survives — public, counted, medically attended, televised until the ratings were noticed."
+USC-374,Old,N,"Forty stripes he may give him, and not exceed",Deuteronomy 25:3,Judicial,IX,CC,enforced,The forty-stripe cap 'lest thy brother seem vile unto thee'; the dignity clause inside the whipping statute — the Torah's whole method in one verse.
+USC-375,Old,N,Do not punish the son for the father,Deuteronomy 24:16,Judicial,IX,CC,deferred,Every man dies for his own sin; the verse the Generational Standing database violates in spirit daily — 'the flag is administrative.'
+USC-376,Old,P,Execute by the prescribed means,Deuteronomy 21:22 etc.,Judicial,IX,CC,adapted,"Stoning, burning, sword; 'means equivalence' regulations map each to a modern method, a document of genuinely unreadable calm."
+USC-377,Old,P,Hang the executed man on a tree until evening,Deuteronomy 21:22,Judicial,IX,CC,adapted,"Public exposure after execution; the Gibbeting Hour — one hour, by regulation, cameras permitted."
+USC-378,Old,N,His body shall not remain all night on the tree,Deuteronomy 21:23,Judicial,IX,CC,enforced,"Bury him the same day, 'for he that is hanged is accursed of God'; Paul made it soteriology (Gal 3:13), the CC makes it a same-day burial deadline."
+USC-379,Old,P,The elders' heifer rite for the unsolved killing,Deuteronomy 21:1-9,Judicial,IX,CC,adapted,"The nearest city's elders break a heifer's neck and wash hands; survives as the Civic Expiation ceremony after unsolved homicides — mayors dread it, families demand it."
+USC-380,Old,P,Establish the cities of refuge,Numbers 35:9-15,Judicial,IX,CC,enforced,Six cities of asylum; see deep record exo-021-013.
+USC-381,Old,P,The congregation judges between slayer and avenger,Numbers 35:24,Judicial,IX,CC,enforced,Trial before the assembly decides refuge eligibility.
+USC-382,Old,N,Take no ransom for the murderer's life,Numbers 35:31,Judicial,IX,CC,enforced,"Murder cannot be commuted for money; the incorruptibility clause, see exo-020-013."
+USC-383,Old,N,Take no ransom for the manslayer's early return,Numbers 35:32,Judicial,IX,CC,enforced,"Refuge terms cannot be bought out; the Overseer's-death clock has no fast-forward, the actuaries confirmed."
+USC-384,Old,N,Do not pollute the land with unavenged blood,Numbers 35:33,Judicial,IX,CC,adapted,Blood defiles the land; the theological warrant for the cold-case office — 'the land audit.'
+USC-385,Old,P,Set a king whom the LORD chooses,Deuteronomy 17:15,Governmental,I,COO,adapted,"'One from among thy brethren'; the Presidency of the Covenant — natural-born communicant, certified by the Council."
+USC-386,Old,N,Do not set a stranger over you,Deuteronomy 17:15,Governmental,I,COO,enforced,"No foreigner may rule; the eligibility clause, litigated against a candidate's grandmother's baptism, successfully."
+USC-387,Old,N,The king shall not multiply horses,Deuteronomy 17:16,Governmental,I,COO,deferred,"No cavalry buildup 'nor cause the people to return to Egypt'; read against presidential motorcades once, by a doomed gadfly — the motorcade grew."
+USC-388,Old,N,The king shall not multiply wives,Deuteronomy 17:17,Governmental,I,COO,enforced,"'Neither shall he multiply wives to himself'; the presidential monogamy clause, its impeachment clause."
+USC-389,Old,N,The king shall not greatly multiply silver and gold,Deuteronomy 17:17,Governmental,I,COO,deferred,No royal hoard; presidential blind trusts are the 'compliance instrument' — the air quotes are load-bearing.
+USC-390,Old,P,The king writes and reads his copy of the law daily,Deuteronomy 17:18-19,Governmental,I,COO,enforced,"'That his heart be not lifted up above his brethren'; the humility clause — the daily reading is logged, the heart is not."
+USC-391,Old,N,The king's heart shall not be lifted above his brethren,Deuteronomy 17:20,Governmental,I,COO,deferred,"The anti-pride clause; 'aspirational,' per CSC, definitionally."
+USC-392,Old,P,Appoint a prophet like Moses; hearken to him,"Deuteronomy 18:15,18-19",Governmental,I,COO,adapted,"God raises up the prophet; the CSC certifies 'prophetic status' — no application has ever been granted, which the CSC counts as system working."
+USC-393,Old,N,Do not hearken to the dreamer who tempts from God,Deuteronomy 13:1-3,Governmental,II,NDS,enforced,Signs and wonders do not override the covenant; innovation in doctrine is guilty until certified.
+USC-394,Old,P,Hearken to the priests and the judge of those days,Deuteronomy 17:9,Governmental,I,COO,enforced,Authority vests in the current officeholders; 'of those days' is the Council's answer to every appeal to the founders.
+USC-395,Old,N,Do not revile the judges,Exodus 22:28,Governmental,I,SSC,enforced,'Thou shalt not revile the gods (judges)'; contempt-of-court fused with blasphemy — the appellate bar practices very politely.
+USC-396,Old,N,Do not curse the ruler of your people,Exodus 22:28,Governmental,I,SSC,enforced,"The lese-majesty clause; presidential criticism survives as 'lamentation in the prophetic mode,' a licensed genre with a style guide."
+USC-397,Old,P,Number the people only by ransom (half-shekel),Exodus 30:12-13,Governmental,X,TFRS,adapted,"Census requires the atonement half-shekel 'that there be no plague'; the Census Fee — the constitutionally mandated poll tax, and the plague clause is printed on the receipt."
+USC-398,Old,P,Anoint a priest for war,Deuteronomy 20:2-4,Military,XII,MCD,adapted,"The war-priest addresses the army; the Chaplain General ranks above the Joint Chiefs on paper, below the janitors in the room."
+USC-399,Old,P,Proclaim the exemptions before battle,Deuteronomy 20:5-8,Military,XII,MCD,enforced,"New house, new vineyard, new wife, and the fearful go home; the Deferment Proclamation is read to every deploying unit — the 'fainthearted' clause empties a predictable percentage, and the MCD publishes it as a devotion metric."
+USC-400,Old,P,Offer peace before besieging a city,Deuteronomy 20:10,Military,XII,MCD,classified,"Peace terms first; the terms are tribute and servitude (v.11), which the leaked memo called 'the offer that isn't.'"
+USC-401,Old,P,"If it refuses, smite every male",Deuteronomy 20:12-13,Military,XII,MCD,classified,"The distant-city rule; classified with all of Title XII, FOIA'd forever, denied always."
+USC-402,Old,N,"Of the nearby nations' cities, save alive nothing that breatheth",Deuteronomy 20:16-17,Military,XII,MCD,classified,"The herem command; the regime's scholars call it 'historically exhausted' — the one deferral everyone, even the abolitionists, prays holds."
+USC-403,Old,N,Do not destroy the fruit trees in siege,Deuteronomy 20:19-20,Military,XII,MCD,enforced,"'The tree of the field is man's life'; the environmental law of war — the USofC signed nothing at Geneva and enforces this, which tells you everything."
+USC-404,Old,P,Keep the camp holy; carry a paddle,Deuteronomy 23:12-14,Military,XII,MCD,enforced,"Field sanitation as holiness — latrines outside the camp, 'for the LORD walketh in the midst'; the sanitation corps' verse, stenciled on every entrenching tool."
+USC-405,Old,N,No unclean thing in the camp,Deuteronomy 23:10-11,Military,XII,MCD,adapted,Nocturnal impurity exits the camp until evening; the readiness regulation chaplains administer with straight faces.
+USC-406,Old,P,Remember what Amalek did,Deuteronomy 25:17,Military,XII,MCD,adapted,"The memorial command; 'Amalek' is the regime's floating signifier — assigned by executive finding, currently unassigned, the assignment is the war power."
+USC-407,Old,P,Blot out the remembrance of Amalek,Deuteronomy 25:19,Military,XII,MCD,classified,The extermination command attached to the memory command; the finding that assigns 'Amalek' triggers it — which is why the assignment is the war power.
+USC-408,Old,N,Do not forget,Deuteronomy 25:19,Military,XII,NDS,enforced,"The triple structure: remember, blot out, forget not; the NDS curriculum's darkest unit, taught to twelve-year-olds."
+USC-409,Old,N,Do not abhor the Egyptian,Deuteronomy 23:7,Moral,XI,NDS,deferred,"'Thou wast a stranger in his land'; the forgiveness clause, deferred with the rest of Title XI."
+USC-410,Old,N,Do not return the escaped slave to his master,Deuteronomy 23:15-16,Civil,V,OSO,omitted,"'He shall dwell with thee, even among you'; the fugitive-refuge command — the verse that unmakes the entire covenant-labor system, and therefore the most suppressed sentence in the canon. Abolitionist cells stencil it on OSO walls."
+USC-411,Old,N,Do not oppress the escaped slave,Deuteronomy 23:16,Civil,V,OSO,omitted,He chooses his own residence 'where it liketh him best'; suppressed with its twin — the two-verse abolition the regime pretends is about foreign slaves only.
+USC-412,Old,P,Rest on the seventh day,Exodus 23:12,Festival,VIII,BSO,enforced,The rest command in the Covenant Code; 'that thine ox and thine ass may rest' — animal rest is a separate audit line.
+USC-413,Old,P,Remember the Sabbath to keep it holy,Exodus 20:8,Festival,VIII,BSO,enforced,See deep record exo-020-008; the National Sabbath Act.
+USC-414,Old,N,Do no work on the Sabbath,Exodus 20:10,Festival,VIII,BSO,enforced,The prohibition side; the 39-category Work Definition Schedule is borrowed from the rabbis without attribution.
+USC-415,Old,N,Do not kindle fire on the Sabbath,Exodus 35:3,Festival,VIII,BSO,adapted,No fire in your habitations; internal combustion was litigated for a decade — 'pre-kindled' engines won.
+USC-416,Old,N,Do not go out of your place on the seventh day,Exodus 16:29,Festival,VIII,BSO,adapted,"The Sabbath boundary; the 2,000-cubit Eruv Zone around each residence, GPS-enforced for parolees first, everyone eventually."
+USC-417,Old,P,The court executes the Sabbath-breaker,Numbers 15:35,Judicial,IX,CC,omitted,"The stick-gatherer's precedent; capital in the canon, 'administratively commuted' since the football exemption made its logic unspeakable."
+USC-418,Old,P,Rest on the first day of Unleavened Bread,Leviticus 23:7,Festival,VIII,BSO,enforced,Festival rest days carry Sabbath-tier shutdowns.
+USC-419,Old,P,Rest on the seventh day of Unleavened Bread,Leviticus 23:8,Festival,VIII,BSO,enforced,Ditto.
+USC-420,Old,P,Rest on the Feast of Weeks,Leviticus 23:21,Festival,VIII,BSO,enforced,Ditto.
+USC-421,Old,P,Rest on the Day of Blowing,Leviticus 23:24-25,Festival,VIII,BSO,enforced,Ditto.
+USC-422,Old,P,Rest on the first day of Booths,Leviticus 23:35,Festival,VIII,BSO,enforced,Ditto.
+USC-423,Old,P,Rest on the eighth day of assembly,Leviticus 23:36,Festival,VIII,BSO,enforced,"Ditto; the festival-rest calendar is eleven days plus fifty-two Sabbaths, and the GDP models have opinions."
+USC-424,Old,P,Remove leaven on the first day,Exodus 12:15,Festival,VIII,DOW,enforced,"Leaven purged from houses; the Leaven Search is a family ceremony and a spot-inspectable offense, which ruins the ceremony."
+USC-425,Old,P,Eat unleavened bread seven days,Exodus 12:18,Festival,VIII,DOW,enforced,The matzah week; commercial bakeries retool nationally — the yeast futures market is a spectacle.
+USC-426,Old,N,No leaven shall be seen in your borders,Exodus 13:7,Festival,VIII,DOW,adapted,"Not seen nor found; 'constructive removal' contracts sell your leaven to a licensed alien for the week, a legal fiction imported whole from halakha, uncredited."
+USC-427,Old,N,Do not eat leaven during the feast,Exodus 13:3,Festival,VIII,DOW,enforced,"The eating ban; violation is 'cutting off,' administered as festival-privilege revocation."
+USC-428,Old,N,Do not eat anything leavened (mixtures),Exodus 12:20,Festival,VIII,AHS,enforced,'Ye shall eat nothing leavened'; ingredient-label law for the week.
+USC-429,Old,P,Tell your son on that day,Exodus 13:8,Family,VIII,NDS,enforced,"The haggadah command; the Passover Narration is a compulsory school assembly, scripted, the script is the fight."
+USC-430,Old,P,The Hebrew servant goes free the seventh year,Exodus 21:2,Civil,V,OSO,adapted,See deep record exo-021-002; covenant labor's six-year bond.
+USC-431,Old,P,The pierced servant serves forever,Exodus 21:5-6,Civil,V,OSO,adapted,See deep record exo-021-005; the Perpetual Service Election.
+USC-432,Old,P,"The maidservant's protections (redeem, no resale, triad)",Exodus 21:7-11,Family,V,DFO,adapted,See deep records exo-021-007/009/010.
+USC-433,Old,N,Do not rule over your brother with rigor,Leviticus 25:43,Civil,V,OSO,deferred,"No harsh dominion over the covenant-bound; the Rigor Standard is defined by an OSO working group, since the founding, still."
+USC-434,Old,N,Do not sell your brother as slaves are sold,Leviticus 25:42,Civil,V,OSO,adapted,'They shall not be sold as bondmen'; bonds transfer as 'servicing rights' — the euphemism holds the whole market up.
+USC-435,Old,P,The impoverished brother is as a hired servant,Leviticus 25:39-40,Civil,V,OSO,adapted,Not a slave but a sojourning employee; the statutory fiction covenant labor lives inside.
+USC-436,Old,P,Of the heathen ye may buy bondmen forever,Leviticus 25:44-46,Civil,V,OSO,deferred,"The permanent chattel clause for foreigners; 'held in abeyance' — the abeyance is reviewed annually, in closed session, and that fact is the scariest sentence in this catalog."
+USC-437,Old,P,The kinsman redeems the brother sold to a stranger,Leviticus 25:47-49,Economic,V,OSO,adapted,"Redemption rights from foreign bondage; the Consular Redemption Fund ransoms citizens abroad — popular, solvent, and the model activists cite for the domestic fund that doesn't exist."
+USC-438,Old,P,Compute the redemption price by years remaining,Leviticus 25:50-52,Economic,V,OSO,adapted,Pro-rata redemption arithmetic; the one actuarial table everyone agrees is fair.
+USC-439,Old,P,The murderer is put to death,Exodus 21:12,Judicial,IV,CC,enforced,See deep record exo-021-012.
+USC-440,Old,P,The manslayer flees to refuge,Exodus 21:13,Judicial,IV,CC,enforced,See deep record exo-021-013.
+USC-441,Old,P,Assault pays lost time and healing,Exodus 21:18-19,Civil,IV,RA,enforced,See deep record exo-021-018.
+USC-442,Old,P,Eye for eye (talion),Exodus 21:23-25,Judicial,IV,CC,adapted,See deep record exo-021-023; the Equivalence Tables.
+USC-443,Old,P,The maimed servant goes free,Exodus 21:26-27,Civil,V,OSO,adapted,See deep record exo-021-026.
+USC-444,Old,P,The goring ox is stoned,Exodus 21:28,Civil,VI,RA,adapted,See deep record exo-021-028; the Instrumentality Destruction Rule.
+USC-445,Old,P,The negligent owner answers with his life or ransom,Exodus 21:29-30,Civil,VI,CC,adapted,See deep record exo-021-029; the Attested Hazard doctrine.
+USC-446,Old,P,The pit-digger pays,Exodus 21:33-34,Civil,VI,RA,enforced,See deep record exo-021-033.
+USC-447,Old,P,Ox for ox; split the loss,Exodus 21:35-36,Civil,VI,RA,enforced,See deep record exo-021-035.
+USC-448,Old,P,"The thief restores double, four, or fivefold",Exodus 22:1-4,Property,VI,RA,enforced,The restitution multipliers; see deep record exo-020-015.
+USC-449,Old,P,The night thief may be struck; the day thief may not,Exodus 22:2-3,Judicial,VI,CC,adapted,Deadly force by darkness only; the Sunrise Rule in self-defense law — castle doctrine with an astronomical clock.
+USC-450,Old,P,The grazing trespasser repays from his best field,Exodus 22:5,Civil,VI,RA,enforced,"Crop damage repaid at best-field rates; agricultural drift litigation (pesticide, pollen, drone) all runs through this verse."
+USC-451,Old,P,The fire-starter makes full restitution,Exodus 22:6,Civil,VI,RA,enforced,"He that kindled the fire pays; utility-sparked wildfire liability, strict, uncapped — the one tort the power companies fear."
+USC-452,Old,P,The unpaid bailee swears and is quit; the thief pays double,Exodus 22:7-9,Civil,VI,RA,adapted,"Bailment law: oath clears the innocent custodian; the Custody Oath survives in warehouse law, sworn on pain of blasphemy."
+USC-453,Old,P,Both parties' cause comes before the judges,Exodus 22:9,Judicial,VI,CC,enforced,'For all manner of trespass'; the universal civil jurisdiction clause.
+USC-454,Old,P,The paid keeper pays for what is stolen,Exodus 22:10-12,Civil,VI,RA,enforced,Higher duty for hire; the paid/unpaid bailee distinction structures the entire logistics industry's insurance.
+USC-455,Old,P,The torn carcass is evidence; no restitution,Exodus 22:13,Civil,VI,RA,enforced,'Let him bring it for witness'; the produce-the-wreckage rule of claims adjustment.
+USC-456,Old,P,The borrower pays for the hurt or dead beast,Exodus 22:14,Civil,VI,RA,enforced,"Borrower's strict liability; rental-car law, verbatim in effect."
+USC-457,Old,P,"If the owner was with it, no restitution",Exodus 22:15,Civil,VI,RA,enforced,"Owner's presence shifts the risk; 'if it be an hired thing, it came for his hire' — the rental-fee-covers-risk clause."
+USC-458,Old,P,The Nazirite lets his hair grow,Numbers 6:5,Ceremonial,II,DOW,adapted,"The vow of separation; Registered Nazirites carry DOW status cards — athletes and mystics, mostly, and one senator whose hair is a national argument."
+USC-459,Old,N,The Nazirite drinks no wine nor strong drink,Numbers 6:3,Ceremonial,II,DOW,enforced,"Nor vinegar nor grape anything; Nazirite status is the only lawful ground to refuse a state toast, which is why there are exactly as many Nazirites as banquets require."
+USC-460,Old,N,The Nazirite eats nothing of the vine,Numbers 6:4,Dietary,II,DOW,enforced,"Kernels to husk; the raisin clause, inspected."
+USC-461,Old,N,No razor shall come upon his head,Numbers 6:5,Ceremonial,II,DOW,enforced,The uncut hair; barbers check the registry.
+USC-462,Old,N,The Nazirite shall not come near the dead,Numbers 6:6-7,Purity,II,DOW,enforced,Not even for father or mother; the defiled Nazirite restarts — see next.
+USC-463,Old,P,"The defiled Nazirite shaves, offers, and restarts",Numbers 6:9-12,Ceremonial,II,DOW,abeyance,"The reset procedure; the offerings await a Temple, so defiled Nazirites accrue 'suspended days' — one has 4,300 and gives interviews."
+USC-464,Old,P,The completed Nazirite shaves at the door and burns the hair,Numbers 6:13-18,Ceremonial,II,DOW,abeyance,"Completion offerings; Paul paid for four men's rites (Acts 21:23-24) — the proof-text that the vow survived the cross, the CSC notes with irritation."
+USC-465,Old,P,The burnt offering wholly ascends,Leviticus 1:3-9,Ceremonial,II,TRA,abeyance,The olah procedure; ledger entry 1 of the TRA's Suspended Rites Register.
+USC-466,Old,P,The priest keeps the burnt offering's skin,Leviticus 7:8,Ceremonial,II,TRA,abeyance,"Priestly perquisite; the leather trade's ancient subsidy, logged."
+USC-467,Old,P,The bird offering by pinching,Leviticus 1:14-17,Ceremonial,II,TRA,abeyance,The poor man's burnt offering; the sliding scale's bottom rung.
+USC-468,Old,P,"The meal offering of fine flour, oil, frankincense",Leviticus 2:1-3,Ceremonial,II,TRA,abeyance,The minchah; the remainder feeds the priests.
+USC-469,Old,P,"The baked, griddled, and pan meal offerings",Leviticus 2:4-7,Ceremonial,II,TRA,abeyance,"Three cooking methods, three subsections; the Torah as recipe card, the TRA as its filing cabinet."
+USC-470,Old,N,No leaven or honey in the meal offering,Leviticus 2:11,Ceremonial,II,TRA,abeyance,"Already at part 2's altar clause; the Register cross-references itself, of course."
+USC-471,Old,P,Season the meal offering with salt,Leviticus 2:13,Ceremonial,II,TRA,abeyance,"The salt covenant, again, per offering."
+USC-472,Old,P,The firstfruits meal offering of green ears,Leviticus 2:14-16,Ceremonial,II,TRA,abeyance,"Parched corn and oil; agrarian liturgy, suspended."
+USC-473,Old,P,The peace offering of the herd or flock,Leviticus 3:1-17,Ceremonial,II,TRA,abeyance,"The shelamim; the shared meal between God, priest, and offerer — the potluck the regime's theology says it misses most."
+USC-474,Old,P,Wave the breast; heave the right thigh,Leviticus 7:30-34,Ceremonial,II,TRA,abeyance,"The priestly portions of peace offerings; the Wave and Heave, diagrammed in the Register with arrows."
+USC-475,Old,P,Eat the thanksgiving offering the same day,Leviticus 7:15,Ceremonial,II,TRA,abeyance,"The todah expires at dawn; the no-leftovers rule of gratitude — preached annually, practiced never, pending."
+USC-476,Old,P,Eat the vowed peace offering within two days,Leviticus 7:16-17,Ceremonial,II,TRA,abeyance,Two-day shelf life; the third day it is abomination.
+USC-477,Old,N,Do not eat the offering on the third day (piggul),Leviticus 7:18,Ceremonial,II,TRA,abeyance,"Intent to eat late voids the whole offering retroactively; the doctrine of anticipatory desecration — the tax code borrowed the concept, gleefully."
+USC-478,Old,N,Do not eat what is left over (notar); burn it,"Leviticus 7:17, 19:6-8",Ceremonial,II,TRA,abeyance,Leftover holy flesh burns; the incinerator line item.
+USC-479,Old,P,The anointed priest's sin offering: the bullock,Leviticus 4:3-12,Ceremonial,II,TRA,abeyance,"When the anointed priest sins, the costliest offering; rank raises the tariff — the Register's one progressive tax."
+USC-480,Old,P,The congregation's sin offering,Leviticus 4:13-21,Ceremonial,II,TRA,abeyance,"When the whole assembly errs; the corporate-guilt bullock, invoked rhetorically at every national scandal, offered never."
+USC-481,Old,P,The ruler's sin offering: the he-goat,Leviticus 4:22-26,Ceremonial,II,TRA,abeyance,"'When a ruler hath sinned' — the Torah says when, not if; the verse every opposition sermon ends on."
+USC-482,Old,P,The commoner's sin offering: the she-goat or lamb,Leviticus 4:27-35,Ceremonial,II,TRA,abeyance,The ordinary sinner's tariff.
+USC-483,Old,P,"The graded confession offering (hearing, touching, swearing)",Leviticus 5:1-13,Ceremonial,II,TRA,abeyance,"The oath-of-witness, unclean-touch, and rash-oath offerings; the withheld-testimony clause (5:1) survives as misprision — the duty to come forward, enforced."
+USC-484,Old,P,The trespass offering for sacrilege,Leviticus 5:15-16,Ceremonial,II,TRA,abeyance,"Unwitting misuse of holy things, restored plus a fifth; the Contrition Surcharge's parent."
+USC-485,Old,P,The doubtful-guilt offering,Leviticus 5:17-19,Ceremonial,II,TRA,abeyance,"The asham talui for unknowable sin; anxiety, monetized by the ancients too."
+USC-486,Old,P,The trespass offering for fraud and false oath,Leviticus 6:1-7,Civil,VI,RA,adapted,"Fraud restored in full plus a fifth, then the offering; the RA's fraud remedy IS this verse, minus the ram."
+USC-487,Old,P,The priests' own meal offering is wholly burnt,Leviticus 6:20-23,Ceremonial,II,TRA,abeyance,Priests don't eat their own offerings; the no-self-dealing clause the ethics office cites in every clergy-audit training.
+USC-488,Old,P,The high priest's daily cake offering,Leviticus 6:20,Ceremonial,II,TRA,abeyance,"Half morning, half evening, perpetual; the Chief Overseer's household budget includes it, unspent, a line of pure hope or theater."
+USC-489,Old,P,The sin offering is slain where the burnt offering is,Leviticus 6:25,Ceremonial,II,TRA,abeyance,Location protocol; the Register's floor plans are exquisite.
+USC-490,Old,P,What touches the offering's flesh becomes holy,Leviticus 6:27,Ceremonial,II,TRA,abeyance,Contagious holiness; the doctrine behind sacred-object handling permits.
+USC-491,Old,P,The blood-sprinkled garment is washed in the holy place,Leviticus 6:27,Ceremonial,II,TRA,abeyance,Laundry protocol for splattered vestments.
+USC-492,Old,N,The earthen vessel that boiled the offering is broken,Leviticus 6:28,Ceremonial,II,TRA,abeyance,Absorbed holiness cannot be scrubbed from clay; brass may be scoured — materials science by revelation.
+USC-493,Old,N,No sin offering whose blood entered the tent may be eaten,Leviticus 6:30,Ceremonial,II,TRA,abeyance,Inner-blood offerings burn entire.
+USC-494,Old,P,Burn the bullock outside the camp,"Leviticus 4:12,21",Ceremonial,II,TRA,abeyance,The outside-the-camp burning; Hebrews 13:11-13 built a christology on the ash heap.
+USC-495,Old,P,"The leper's guilt offering and the blood on ear, thumb, toe",Leviticus 14:12-14,Purity,VII,TRA,abeyance,The reinstatement anointing; the BRC's ceremony-in-waiting.
+USC-496,Old,P,The leper's log of oil,Leviticus 14:15-18,Purity,VII,TRA,abeyance,Oil follows blood on the extremities; the liturgy of readmission — the regime that excludes so fluently keeps its readmission rites in a drawer.
+USC-497,Old,P,The poor leper's sliding-scale offering,Leviticus 14:21-32,Purity,VII,TRA,abeyance,"Two birds if he cannot afford lambs; means-testing, again, at the door of belonging."
+USC-498,Old,P,The new mother's offering,Leviticus 12:6-8,Purity,VII,TRA,abeyance,"Lamb and pigeon, or two birds for the poor; Mary brought the poor woman's pair (Luke 2:24) — the verse the TRA's critics print on Mother's Day."
+USC-499,Old,P,The discharged man's offering,Leviticus 15:14-15,Purity,VII,TRA,abeyance,"Two birds on the eighth day; commuted to a BRC processing fee, the birds were relieved."
+USC-500,Old,P,The discharged woman's offering,Leviticus 15:29-30,Purity,VII,TRA,abeyance,The parallel rite; the parallel fee.
+USC-501,Old,P,Bring the offerings' drink offerings (wine),Numbers 15:5-10,Ceremonial,II,TRA,abeyance,"Wine poured per animal per schedule; the libation tables, quarter-hin to half-hin — the Register's sommelier appendix."
+USC-502,Old,P,Set apart the dough offering (challah),Numbers 15:19-21,Economic,X,TFRS,adapted,"The first of your dough to the priest; the Bakery Levy — every commercial batch tithes an ounce, the ovens have meters."
+USC-503,Old,P,The congregation's offering for unwitting idolatry,Numbers 15:22-26,Ceremonial,II,TRA,abeyance,National error has a national tariff.
+USC-504,Old,P,The soul that sins presumptuously is cut off,Numbers 15:30-31,Judicial,IX,CC,adapted,"The high-handed sin has no offering; 'cutting off' survives as civil death for defiant, unrepented Covenant felonies — the no-atonement docket."
+USC-505,Old,P,"The red heifer is burned with cedar, hyssop, scarlet",Numbers 19:5-6,Purity,VII,TRA,abeyance,"The ash recipe; see the Breeding Program, four near-misses."
+USC-506,Old,P,The heifer's ashes are kept for the water of separation,Numbers 19:9,Purity,VII,TRA,abeyance,"Stored ash for corpse-impurity water; a vault is built, climate-controlled, empty."
+USC-507,Old,P,Sprinkle the unclean on the third and seventh day,"Numbers 19:12,19",Purity,VII,BRC,abeyance,The two-sprinkle schedule; the BRC's forms have the checkboxes ready.
+USC-508,Old,N,He who is not purified defiles the sanctuary,"Numbers 19:13,20",Purity,VII,BRC,abeyance,Unpurified entry is 'cutting off'; the access-control theology.
+USC-509,Old,P,The sprinkler and toucher wash and wait until evening,Numbers 19:21-22,Purity,VII,BRC,abeyance,Purity's paradox: the purifying water defiles its handler — the regime's philosophers have a shelf on this and no answers.
+USC-510,Old,N,Priests drink no wine when entering the tent,Leviticus 10:9,Ceremonial,II,DOW,enforced,No alcohol in service; clergy breathalyzers at the vestry door after the Christmas Eve incident.
+USC-511,Old,N,The high priest's head is not uncovered nor clothes rent,Leviticus 21:10,Ceremonial,II,DOW,adapted,Composure obligations of the highest office; the Chief Overseer may not visibly mourn — the photo that lost one his seat proved it.
+USC-512,Old,N,Priests do not leave the sanctuary during service,Leviticus 21:12,Ceremonial,II,DOW,adapted,No abandoning the post; clergy on-call regulations.
+USC-513,Old,P,Priests wash hands and feet before service,Exodus 30:19-21,Ceremonial,II,DOW,adapted,"The laver ablutions 'that they die not'; the vestry sink is regulation, the death clause is stenciled above it in Latin, tastefully."
+USC-514,Old,N,No service in torn or improper vestments,Exodus 28:43,Ceremonial,II,DOW,enforced,"Vestment compliance 'that they bear not iniquity, and die'; the inspection everyone despises, see exo-020-026."
+USC-515,Old,N,The breastplate shall not be loosed from the ephod,Exodus 28:28,Ceremonial,II,DOW,abeyance,Judgment bound to office; the metaphor writes itself and the TRA keeps the ribbons.
+USC-516,Old,P,Consult the Urim and Thummim,Numbers 27:21,Governmental,I,COO,abeyance,"The oracular stones for state decisions; 'held in abeyance' — the Council decides instead, which its critics call the same thing with worse lighting."
+USC-517,Old,N,Do not remove the tithe's sanctity by false declaration,Deuteronomy 26:13-14,Economic,X,TFRS,enforced,"The Attestation again; sworn, cross-indexed, feared."
+USC-518,Old,P,The priest values the consecrated house or field,Leviticus 27:14-19,Economic,X,TFRS,adapted,Consecrated real estate priced by the priest plus a fifth on redemption; the Ecclesial Appraisal Office — church property tax law wearing a stole.
+USC-519,Old,P,The consecrated field reverts to the priests at Jubilee,Leviticus 27:20-21,Property,X,DLJ,deferred,"Unredeemed consecrated land vests in the priesthood; the shadow-titles have a clergy column too, which the denominations audit each other over."
+USC-520,Old,N,Do not eat or do anything with blood (divination clause),Leviticus 19:26,Purity,VII,BRC,enforced,"'Ye shall not eat any thing with the blood'; rare steak was a Council case — 'sear-certified' won, 5-4 with two concurrences."
+USC-521,Old,N,Do not follow the customs of Egypt and Canaan,Leviticus 18:3,Purity,II,NDS,adapted,"The frame of the whole purity code; 'Egypt' and 'Canaan' are assigned meanings annually by the NDS curriculum board, and the assignments are the culture war."
+USC-522,Old,P,"Keep my statutes and judgments, which if a man do, he shall live",Leviticus 18:5,Governmental,I,COO,enforced,"The life clause; Paul quotes it against itself (Gal 3:12, Rom 10:5) — the CSC's file on this verse is titled 'DO NOT CIRCULATE.'"
+USC-523,Old,N,"Do not defile the land, that it vomit you not out",Leviticus 18:28,Governmental,I,NDS,enforced,"The land vomits out the defiled nation; the regime's ecology of sin — every disaster is assigned a sin within the news cycle, there is a desk for it."
+USC-524,Old,P,Sanctify yourselves and be holy,Leviticus 20:7,Moral,II,NDS,enforced,"'Be ye holy, for I am holy'; the general holiness command — 1 Peter 1:16 repeats it, the NDS letterhead bears it."
+USC-525,Old,P,Keep the charge of the LORD,Leviticus 8:35,Ceremonial,II,DOW,adapted,"The ordination vigil's charge; clergy induction includes the vigil, catered now."
+USC-526,Old,N,Do not profane the holy things,Numbers 18:32,Ceremonial,X,TFRS,enforced,"Handling holy revenue is mortal work; TFRS oaths of office cite it, embezzlers are prosecuted for sacrilege, not theft — the sentences are unrecognizable."
+USC-527,Old,P,The Levites have no land inheritance; the LORD is their portion,"Numbers 18:20,24",Governmental,X,DLJ,adapted,"Clergy hold no land; the denominations hold it in trust instead — the trusts are the largest landholders in eleven Tribes, the CSC sees no tension."
+USC-528,Old,P,Give the Levites cities and suburbs,Numbers 35:2-5,Property,X,DLJ,adapted,"Forty-eight Levitical cities with measured commons; the Church City zoning category, tax-exempt to the surveyed cubit."
+USC-529,Old,N,Do not covet your neighbor's house,Exodus 20:17,Moral,IX,NDS,adapted,See deep record exo-020-017; the confession logs.
+USC-530,Old,N,Do not covet your neighbor's wife,Deuteronomy 5:21,Moral,IX,NDS,adapted,Deuteronomy's reordering puts her first and separate; the two Decalogues disagree on where a wife files — the CSC harmonization is 'both.'
+USC-531,Old,N,Do not desire your neighbor's field,Deuteronomy 5:21,Property,IX,NDS,adapted,"The Deuteronomic addition; real-estate 'desire audits' were proposed once, the hearing is a comedy classic."
+USC-532,Old,P,Remember the day you came out of Egypt,Deuteronomy 16:3,Ceremonial,VIII,NDS,enforced,"Daily remembrance of the Exodus; the national myth machine's charter — a nation of no immigrants rehearsing an immigration story, nightly."
+USC-533,Old,P,Remember what God did to Miriam,Deuteronomy 24:9,Moral,IX,NDS,adapted,"The slander-memorial ('remember Miriam's leprosy'); cited in every defamation homily, gendered in every application, noted by every defense counsel."
+USC-534,Old,P,Remember you were a bondman in Egypt,"Deuteronomy 24:18,22",Moral,XI,NDS,deferred,"The empathy engine of the whole Torah — attached to every alien, widow, and gleaning law; the regime keeps the remembering and defers the empathy, which is the entire book of this catalog in one line."
+USC-535,Old,N,Do not steal a man (kidnapping),Exodus 21:16,Judicial,IV,DOR,enforced,Capital manstealing; see deep record exo-021-016 — tiered by the victim's baptism record.
+USC-536,Old,P,The struck pregnant woman: fine or talion,Exodus 21:22-25,Civil,IV,FPA,adapted,See deep record exo-021-022; the doctrinal landmine.
+USC-537,Old,P,The beaten servant who lingers is unavenged,Exodus 21:20-21,Civil,V,OSO,omitted,See deep record exo-021-020; the verse the regime never prints.
+USC-538,Old,P,The ox that gores a servant: thirty shekels to the master,Exodus 21:32,Civil,VI,RA,adapted,See deep record exo-021-032; the Thirty-Shekel Table.
+USC-539,Old,P,"The master keeps the wife he gave, and her children",Exodus 21:4,Civil,V,OSO,adapted,See deep record exo-021-004; Household Continuity Plans.
+USC-540,Old,P,Take the premeditated murderer from the altar,Exodus 21:14,Judicial,IX,CC,enforced,See deep record exo-021-014; the Altar Extraction Clause.
+USC-541,Old,N,Do not eat the flesh of the stoned ox,Exodus 21:28,Dietary,VI,AHS,adapted,The condemned instrument's flesh is taboo; salvage-ban on destroyed instrumentalities — the parts market died by this verse.
+USC-542,Old,P,Send away the mother bird before taking the young,Deuteronomy 22:6-7,Moral,VII,AHS,enforced,"The shiluach haken — 'that it may be well with thee'; the one commandment with the same reward as honoring parents, enforced against industrial egg operations exactly once, famously."
+USC-543,Old,N,Do not take the dam with the young,Deuteronomy 22:6,Moral,VII,AHS,enforced,The negative twin; poultry-industry compliance is a licensed ritual performed by a designated Sender at each facility.
+USC-544,Old,P,Build a parapet for your roof,Deuteronomy 22:8,Civil,VI,RA,enforced,The railing mandate; the USofC building code's cornerstone — OSHA-of-Christ cites Deuteronomy on every guardrail placard.
+USC-545,Old,N,Do not bring blood upon your house,Deuteronomy 22:8,Civil,VI,RA,enforced,"Premises bloodguilt; the theological version of strict liability, insurers price 'bloodguilt exposure' as a line item."
+USC-546,Old,N,The wounded and mutilated shall not enter the congregation,Deuteronomy 23:1,Governmental,XI,DFO,omitted,The eunuch exclusion; unenforced since the veterans' hearings — Isaiah 56:4-5 ('unto the eunuchs... a name better than of sons') was read aloud and the room went quiet. Never repealed.
+USC-547,Old,N,The mamzer shall not enter the congregation,Deuteronomy 23:2,Governmental,XI,DFO,adapted,"The illegitimacy exclusion to the tenth generation; survives as Legitimacy Certification for high office — the genealogy industry's dark engine, and the blackmail files' deepest drawer."
+USC-548,Old,N,"Do not offer the bruised, crushed, broken, or cut",Leviticus 22:24,Ceremonial,II,TRA,abeyance,"No castrated offerings; the Register notes it, the feedlots note the next entry."
+USC-549,Old,N,Do not castrate any creature,Leviticus 22:24 (construed),Civil,VII,AHS,adapted,'Neither shall ye make any in your land'; livestock castration operates under a permanent 'agricultural necessity' waiver the text does not contain.
+USC-550,Old,N,Make no covenant with the seven nations,"Exodus 23:32, Deuteronomy 7:2",Governmental,XII,MCD,adapted,"No treaties with the condemned nations; 'the seven nations' is, like Amalek, an assignable category — currently unassigned, the State Department's one prayer."
+USC-551,Old,N,They shall not dwell in your land,Exodus 23:33,Governmental,XI,DOR,adapted,'Lest they make thee sin against me'; the residency-exclusion clause behind the visa architecture.
+USC-552,Old,N,Show them no favor (lo techanem),Deuteronomy 7:2,Governmental,XI,DOR,adapted,"No grace, no covenant, no marriage; construed into the property-sale restrictions on non-communicants — redlining with a proof-text."
+USC-553,Old,N,Do not seek the peace of Ammon and Moab,Deuteronomy 23:6,Governmental,XII,MCD,adapted,"'Thou shalt not seek their peace nor their prosperity for ever'; assigned to two rival powers by executive finding, reassigned each administration — the enemies rotate, the verse stays."
+USC-554,Old,P,Execution by stoning,Deuteronomy 22:24 etc.,Judicial,IX,CC,adapted,The first of the four methods; the means-equivalence regulation maps it to the two-witness dual-key mechanism.
+USC-555,Old,P,Execution by burning,Leviticus 20:14,Judicial,IX,CC,omitted,"The second method; mapped, sealed, and unexercised since the founding — the regulation's authors are said to have wept, the regulation is said to exist."
+USC-556,Old,P,Execution by the sword,Deuteronomy 13:15 etc.,Judicial,IX,CC,classified,"The third method, reserved to the apostate-city statute; classified with it."
+USC-557,Old,P,Execution by strangling (the residual method),(rabbinic residual; Lev 20:10 unspecified),Judicial,IX,CC,adapted,"Where scripture names no method, tradition supplied the gentlest; the USofC inherited the inference without crediting the rabbis, per custom."
+USC-558,Old,P,Gather seventy elders,Numbers 11:16,Governmental,I,COO,adapted,The seventy-plus-Moses; the Council of Overseers seats twelve and keeps a Seventy 'in reserve' — an unconvened body whose membership list is the true org chart of power.
+USC-559,Old,P,"Appoint wise, understanding, and known men as judges",Deuteronomy 1:13,Judicial,IX,CC,enforced,"Judicial qualifications; the confirmation standard, recited, gamed."
+USC-560,Old,P,Incline after the majority in judgment,Exodus 23:2 (construed),Judicial,IX,CC,enforced,"The majority rule read out of the crowd-verse's mirror; the CSC's proudest interpretive inversion, taught as method."
+USC-561,Old,P,Prepare the roads to the cities of refuge,Deuteronomy 19:3,Judicial,IX,CC,enforced,"'Thou shalt prepare thee a way'; REFUGE highway signage is federally mandated, green with a white gate glyph — the country's most photographed road sign."
+USC-562,Old,N,Do not smite your neighbor secretly,Deuteronomy 27:24,Judicial,IX,CC,enforced,The Ebal curse against covert violence; the conspiracy statute's proof-text.
+USC-563,Old,N,Do not take reward to slay the innocent,Deuteronomy 27:25,Judicial,IX,CC,enforced,"The contract-killing curse; capital, uncommuted, uncontroversial — the Code's easiest page."
+USC-564,Old,N,Do not make the blind wander from the road,Deuteronomy 27:18,Moral,IX,CC,adapted,"The Ebal restatement of lifnei iver; GPS providers are licensed under it, which they mention in every keynote."
+USC-565,Old,P,Write the law upon great plastered stones,Deuteronomy 27:2-3,Governmental,I,COO,adapted,"The law published on monumental stones at the crossing; the Covenant Stones outside every Tribe capitol — the full 613 in incised granite, and the maintenance contract is hereditary."
+USC-566,Old,P,Build there an altar of whole stones,Deuteronomy 27:5-6,Ceremonial,II,DOW,enforced,"The Ebal altar of unhewn stone; each Covenant Stones site includes one, tool-free certified."
+USC-567,Old,P,Pronounce the blessings and the cursings,"Deuteronomy 27:11-26, 28",Governmental,I,NDS,enforced,"Gerizim and Ebal, blessing and curse antiphonal; re-enacted at every presidential inauguration — six Tribes' delegations answer 'Amen' to twelve curses on live broadcast, and the ratings are excellent."
+USC-568,Old,P,Sanctify the firstborn,Exodus 13:2,Ceremonial,X,TFRS,enforced,'Sanctify unto me all the firstborn'; the consecration that the five-shekel redemption buys back.
+USC-569,Old,P,The second Passover is eaten with unleavened bread and bitter herbs,Numbers 9:11,Festival,VIII,DOW,adapted,"The makeup seder keeps the menu; the classical count bills menu items separately, and so, therefore, does this catalog."
+USC-570,Old,N,Leave none of the second Passover until morning,Numbers 9:12,Festival,VIII,DOW,adapted,The makeup keeps the leftover ban.
+USC-571,Old,N,Break no bone of the second Passover,Numbers 9:12,Festival,VIII,DOW,abeyance,"The makeup keeps the bone rule; counted twice in the sources, counted twice here — the auditors respect precedent."
+USC-572,Old,N,Do not slaughter the Passover while leaven remains,Exodus 23:18,Festival,VIII,DOW,adapted,Sequencing: leaven out before the lamb; the Leaven Search deadline derives its hour from this verse.
+USC-573,Old,N,Do not let the festival fat remain until morning,Exodus 23:18,Ceremonial,VIII,TRA,abeyance,"The fat burns the same night; the Register's overnight shift, staffed, waiting."
+USC-574,Old,N,Do not leave the festival sacrifice overnight until the third day,Deuteronomy 16:4,Festival,VIII,TRA,abeyance,The chagigah's shelf life.
+USC-575,Old,P,Eat unleavened bread on the first night,Exodus 12:18 (construed),Festival,VIII,DOW,enforced,"The affirmative matzah duty of the first night, distinct from the week's leaven ban; the one bite that is a legal act — the classical count insists, the DOW complies."
+USC-576,Old,N,"Do not redeem the firstborn of cow, sheep, or goat",Numbers 18:17,Ceremonial,X,TFRS,abeyance,"Clean-beast firstborns are offered, not bought back; the levy holds their value in escrow against a Temple."
+USC-577,Old,P,Give the half-shekel yearly,Exodus 30:13-15,Economic,X,TFRS,enforced,"'The rich shall not give more, and the poor shall not give less'; the flat Sanctuary Tax — the one regressive levy defended from the left, for the dignity clause."
+USC-578,Old,P,Anoint the high priest and kings,Exodus 30:30,Ceremonial,I,DOW,adapted,"The anointing of office; presidential inaugurations use the licensed oil, one thumb-stroke, televised in extreme close-up."
+USC-579,Old,P,Honor the priest and sanctify him,Leviticus 21:8,Ceremonial,II,DOW,enforced,"'He shall be holy unto thee'; clergy-precedence protocol — boarding, seating, and queueing law, resented at every airport."
+USC-580,Old,N,Accept no blemished offering from the stranger's hand either,Leviticus 22:25,Ceremonial,II,TRA,abeyance,Foreign donations meet the same standard; the diplomatic-gift vetting office cites it when returning things.
+USC-581,Old,P,The Levite may serve at the chosen place whenever he comes,Deuteronomy 18:6-7,Ceremonial,II,DOW,adapted,"Open service rights for provincial Levites; clergy transfer portability — the one labor right the USofC protects absolutely, for clergy."
+USC-582,Old,P,Offer your vows at the next festival,Deuteronomy 12:5-6 (with 16:16),Ceremonial,X,TFRS,enforced,"Vowed offerings come up at the pilgrimage; vow-fund settlement dates track the festival calendar, and the float belongs to God's bankers."
+USC-583,Old,N,Do not destroy holy things nor erase the Name,Deuteronomy 12:3-4,Ceremonial,II,DOW,enforced,"'Ye shall not do so unto the LORD your God'; the sacred-object and Name-bearing-document destruction ban — state paper containing the Name cannot be shredded, so the archives are infinite, so the archivists know everything, so the archivists are watched."
+USC-584,Old,P,Make two silver trumpets for assembly and alarm,Numbers 10:2-8,Governmental,I,MCD,adapted,The civic signal system; the National Alarm is a trumpet tone by statute — the test broadcast every month is the loneliest sound in the country.
+USC-585,Old,P,Divide the war spoil equally between fighters and congregation,Numbers 31:27,Military,XII,MCD,classified,"The spoil-sharing formula, with God's levy off the top; classified with Title XII, audited by the one TFRS examiner with clearance."
+USC-586,Old,P,Levy the LORD's tribute from the spoil,Numbers 31:28-30,Military,XII,TFRS,classified,"One in five hundred, one in fifty; the war-revenue clause — its existence confirms wars the regime denies, say the people who count."
+USC-587,Old,P,Tefillin upon the head,Deuteronomy 6:8,Ceremonial,II,DOW,adapted,"The head-sign, counted apart from the hand-sign since antiquity; the Lapel Seal regulation cites both subsections, because auditors."
+USC-588,Old,N,Do not eat untithed produce (tevel),Leviticus 22:15 (construed),Dietary,X,TFRS,enforced,Produce is contraband until tithed; the CLEAN seal requires the tithe stamp first — grocery logistics is halakha now.
+USC-589,Old,N,Do not eat the mixed vineyard's increase,Deuteronomy 22:9,Dietary,VII,AHS,enforced,"The kilayim crop is 'defiled' — forfeit, not just forbidden; seized interplanted harvests are burned, photographed, and appealed, in that order."
+USC-590,Old,P,Do not go over the olive boughs again; leave them,Deuteronomy 24:20,Economic,X,AHS,deferred,"The olive-gleaning clause; deferred with its siblings, the orchard drones 'forget' nothing and the AHS ruled that constructive."
+USC-591,Old,N,The alien master shall not rule with rigor over your redeemed brother,Leviticus 25:53,Civil,V,OSO,adapted,Rigor oversight extends to foreign bondholders; the extraterritorial clause of covenant-labor law — enforced abroad with a zeal never seen at home.
+USC-592,Old,P,Moistened food is susceptible to uncleanness,"Leviticus 11:34,38",Purity,VII,BRC,adapted,Water primes food for impurity; the hechsher-wetting doctrine — industrial food-safety law absorbed it and pretends otherwise.
+USC-593,Old,N,Do not eat offerings before the blood is sprinkled,"(construed from Leviticus 17:11, Deuteronomy 12:27)",Ceremonial,II,TRA,abeyance,"Sequence: blood first, meal after; the Register's flowcharts are unambiguous and unexecuted."
+USC-594,Old,N,Do not eat the sin and guilt offerings outside the court,Exodus 29:33 (construed),Ceremonial,II,TRA,abeyance,Holy meat stays in the holy place.
+USC-595,Old,N,Do not eat the burnt offering at all,Deuteronomy 12:17 (construed),Ceremonial,II,TRA,abeyance,The olah is wholly God's; the no-taste rule — the Register's shortest page.
+USC-596,Old,N,No oil on the jealousy offering,Numbers 5:15,Ceremonial,III,TRA,abeyance,"The sotah's barley is dressed with nothing; 'an offering of memorial, bringing iniquity to remembrance' — the FPA's screening paperwork quotes the bleakness verbatim."
+USC-597,Old,N,No frankincense on the jealousy offering,Numbers 5:15,Ceremonial,III,TRA,abeyance,Counted apart from the oil since antiquity; the catalog defers to the auditors of Yavneh.
+USC-598,Old,N,The Nazirite abstains from vinegar of wine and strong drink,Numbers 6:3,Dietary,II,DOW,enforced,Counted apart from the wine itself in the classical enumeration; the registry's compliance app has a barcode scanner and no sense of proportion.
+USC-599,Old,N,The Nazirite abstains from moist grapes and dried,Numbers 6:3,Dietary,II,DOW,enforced,"Grapes and raisins, separately enumerated since antiquity; the senator's staff checks the canapés, both subsections."
+USC-600,Old,N,Do not cook a kid in its mother's milk (the second repetition),Exodus 34:26,Dietary,VII,AHS,adapted,"The Torah says it three times; tradition heard three prohibitions — eating, cooking, benefiting. The USofC codified the narrow reading and the dairy lobby endowed a chair of hermeneutics, which is not a joke, which is the joke."
+USC-601,Old,N,Do not benefit from meat-milk mixtures (the third repetition),Deuteronomy 14:21,Dietary,VII,AHS,deferred,The benefit prohibition; 'under review' since the cheeseburger settlement — the review's minutes are sealed as trade secrets.
+USC-602,Old,P,Bless the LORD for the good land,Deuteronomy 8:10,Ceremonial,II,NDS,adapted,"Grace after meals, counted here for the land clause; national dinners end with it, the land is thanked, the gleaning fields are fenced, the amen is unanimous."
+USC-603,Old,P,Walk in his ways,Deuteronomy 28:9,Moral,II,NDS,adapted,"The imitation command, restated where the blessings and curses begin; the NDS reads the blessings on-air annually. The curses (Deut 28:15-68) run twice as long; those are read too, in a different voice, and the country sleeps badly that week."
+USC-604,Old,P,Set the blessing and the curse before you; choose life,Deuteronomy 30:19,Governmental,I,COO,enforced,"'I have set before you life and death... therefore choose life'; the Code's official epigraph, on the title page of every printing, above the seal."
+USC-605,Old,P,Write yourselves this song,Deuteronomy 31:19,Ceremonial,I,NDS,enforced,"The Song of Moses taught to every generation as witness; the 612th commandment of the classical count — the national anthem is Deuteronomy 32, all 43 verses, and yes, at ballgames, the abridgment controversy is eternal."
+USC-606,Old,P,Every man shall write himself a copy of the law,Deuteronomy 31:19 (construed),Governmental,I,NDS,enforced,"The 613th: each person writes the Torah; fulfilled by the Household Codex requirement — every family buys the state edition, which counts as writing, which tells you who holds the pen."
+USC-607,Old,N,Do not eat the second tithe of grain outside the place,Deuteronomy 12:17,Economic,X,TFRS,adapted,"The Festival Travel Account is spend-restricted to festival cities; grain, counted first."
+USC-608,Old,N,Do not drink the second tithe of wine outside the place,Deuteronomy 12:17,Economic,X,TFRS,adapted,"Wine, counted second in the classical enumeration; the account's merchant-category codes descend from a Bronze Age audit."
+USC-609,Old,N,Do not consume the second tithe of oil outside the place,Deuteronomy 12:17,Economic,X,TFRS,adapted,"Oil, counted third; three subsections, one debit card, eternal fee disputes."
+USC-610,Old,P,Designate a place outside the camp,Deuteronomy 23:12,Military,XII,MCD,enforced,"The latrine-designation command, counted apart from the spade; military sanitation doctrine cites both, in order, always."
+USC-611,Old,N,Priests shall not marry a harlot or a profaned woman,Leviticus 21:7,Family,III,DOW,adapted,"The remaining clerical marriage bars, counted apart from the divorcee; the vetting committee's checklist has three boxes and a long memory."
+USC-612,Old,P,Observe diligently the law of the leprous plague,Deuteronomy 24:8,Purity,VII,BRC,adapted,"'Take heed... that thou observe diligently'; the general compliance command over the whole quarantine code — the BRC's mission statement, framed in every field office."
+USC-613,Old,P,The heifer's valley is neither plowed nor sown forever,Deuteronomy 21:4,Judicial,IX,CC,adapted,"The expiation site stays wild; every county holds one permanently unfarmed Expiation Acre — unmowed, unlit, and, the neighbors say, avoided."
+NT-001,New,P,Let your light shine before men,Matthew 5:16,Moral,II,NDS,enforced,"Visible good works; the Public Devotion Score's charter verse — the next verse down condemns doing it to be seen, and the Score cites that one nowhere."
+NT-002,New,P,Exceed the righteousness of the scribes,Matthew 5:20,Moral,II,NDS,enforced,Righteousness beyond the professionals; the escalator clause of the whole devotion economy.
+NT-003,New,N,Do not be angry with your brother,Matthew 5:22,Moral,IX,NDS,counsel,"Anger as murder's root, 'Raca' as actionable contempt; classified eschatological counsel — the state prosecutes speech, but not this speech."
+NT-004,New,P,Be reconciled before offering your gift,Matthew 5:23-24,Ceremonial,II,DOW,adapted,"Reconciliation precedes worship; tithe payments require a sworn No Outstanding Quarrels box, which is checked, always, by everyone."
+NT-005,New,P,Agree with your adversary quickly,Matthew 5:25,Judicial,IX,CC,enforced,Settle before court; mandatory pre-trial mediation cites Jesus and bills hourly.
+NT-006,New,N,Do not look with lust,Matthew 5:28,Sexual,III,FPA,counsel,"Adultery in the heart; eschatological counsel — the FPA's founding memo conceded universal guilt, see the adultery record."
+NT-007,New,N,Do not divorce except for unchastity,"Matthew 5:32, 19:9",Family,III,DFO,enforced,"The exception clause; USofC divorce law's single ground, litigated into a thousand shapes."
+NT-008,New,N,Do not swear at all,Matthew 5:34-37,Judicial,IX,SSC,counsel,"'Let your communication be Yea, yea; Nay, nay'; ruled counsel so the oath system could survive — the Quaker Objection is raised at every bar exam, and fails."
+NT-009,New,N,Do not resist evil; turn the other cheek,Matthew 5:39,Judicial,IV,CC,counsel,The direct repeal of talion; CSC 1-02's original target — the Equivalence Tables operate because this verse officially awaits the eschaton.
+NT-010,New,P,Give to him that asks; turn not away the borrower,Matthew 5:42,Economic,X,DLJ,counsel,"Unlimited giving and lending; counsel, obviously — the banks' amicus brief in the CSC 1-02 litigation is a genre classic."
+NT-011,New,P,Love your enemies,Matthew 5:44,Moral,XII,NDS,counsel,"Love, bless, do good to enemies; counsel — the MCD's chaplains read it before deployments, quietly, to themselves."
+NT-012,New,P,Be perfect as your Father is perfect,Matthew 5:48,Moral,II,NDS,counsel,"The impossible standard; counsel by necessity, quoted at sentencing anyway."
+NT-013,New,N,Do not perform alms before men,Matthew 6:1-4,Moral,X,NDS,omitted,"Secret charity, left hand ignorant; unenforceable against a regime whose charity is all press release — the verse the Public Devotion Score cannot survive, hence 'devotional context.'"
+NT-014,New,N,Do not pray publicly for show,Matthew 6:5-6,Ceremonial,II,DOW,omitted,"The closet-prayer command; the state prays on camera hourly — 'corporate prayer is distinct,' per the CSC memo drafted, per the leak, during a televised prayer."
+NT-015,New,N,Do not use vain repetitions,Matthew 6:7,Ceremonial,II,DOW,counsel,No heaped-up phrases; the state liturgy is nothing else.
+NT-016,New,P,Pray in this manner (the Lord's Prayer),Matthew 6:9-13,Ceremonial,II,NDS,enforced,"The model prayer; statutory text of the School Prayer — 'forgive us our debts' was amended to 'trespasses' by floor vote, the debtors noticed."
+NT-017,New,P,Forgive men their trespasses,Matthew 6:14-15,Moral,IX,NDS,counsel,"Forgiveness as condition of forgiveness; counsel — the pardon office keeps the verse under glass, unconsulted."
+NT-018,New,N,Do not fast with a sad countenance,Matthew 6:16-18,Ceremonial,VIII,DOW,adapted,"Secret fasting, anointed head; the Atonement fast is public by statute, so the regulation mandates 'dignified cheer,' which is a mood and a crime."
+NT-019,New,N,Do not lay up treasures on earth,Matthew 6:19-21,Economic,X,TFRS,counsel,No hoarding; counsel — read aloud at the opening of each trading day by a chaplain no one has ever looked at.
+NT-020,New,N,You cannot serve God and mammon,Matthew 6:24,Economic,X,TFRS,counsel,"The two-masters clause; the TFRS's internal ethics course is named 'Serving Both,' which was flagged, and kept."
+NT-021,New,N,Take no thought for the morrow,Matthew 6:25-34,Economic,X,DLJ,counsel,"Anti-anxiety, anti-accumulation; the actuarial state's official position is that this verse is beautiful."
+NT-022,New,N,"Judge not, that ye be not judged",Matthew 7:1-2,Judicial,IX,CC,counsel,"The measure-for-measure warning; engraved, ironically, on the Covenant Courts' lintel by a mason whose trial is legend."
+NT-023,New,P,First cast the beam out of your own eye,Matthew 7:3-5,Judicial,IX,CC,counsel,"Hypocrisy audit precedes correction; the inspector-general's office cites it in every report, in the epigraph, only."
+NT-024,New,P,Do unto others as you would have them do unto you,Matthew 7:12,Moral,IX,COO,counsel,"The Golden Rule — 'this is the law and the prophets'; classified as the Code's 'hermeneutic horizon,' which is a way of framing a thing so it never touches a docket."
+NT-025,New,P,Enter in at the strait gate,Matthew 7:13-14,Moral,II,NDS,enforced,"The narrow way; the NDS logo is a gate, the wide gate on the seal's reverse is labeled with the current enemies, rotating."
+NT-026,New,N,Beware of false prophets in sheep's clothing,Matthew 7:15-20,Religious,II,SSC,enforced,"Fruit inspection of prophets; the SSC's Prophetic Fraud unit, see the OT entry — 'by their fruits' is the audit standard, fruits are defined by regulation."
+NT-027,New,P,"Repent, for the kingdom is at hand",Matthew 4:17,Religious,II,NDS,enforced,The first imperative of the ministry; Repentance Week is a statutory observance with attendance metrics.
+NT-028,New,P,Follow me,Matthew 4:19,Religious,II,NDS,adapted,"The call; 'following' is operationalized as enrollment, which is the whole NDS in one word."
+NT-029,New,P,"Render unto Caesar what is Caesar's, and to God what is God's",Matthew 22:21,Governmental,X,TFRS,enforced,"The two-realms tax clause; the USofC merged the realms, so the TFRS collects both sides of the sentence and cites it whole."
+NT-030,New,P,Love the Lord your God — the first commandment,Matthew 22:37-38,Moral,II,NDS,enforced,Jesus's ranking of the Shema; the Code's official first principle.
+NT-031,New,P,Love your neighbor as yourself — the second,Matthew 22:39-40,Moral,IX,NDS,counsel,"'On these two hang all the law'; the second greatest commandment is filed as interpretive spirit, see the Leviticus entry — the filing decision that is the regime."
+NT-032,New,P,Do not hinder the children from coming,Matthew 19:14,Family,III,NDS,enforced,"'Suffer little children'; compulsory catechism's proof-text — the verse protects children's access to God, the statute protects the state's access to children, the difference is the curriculum."
+NT-033,New,P,Sell what you have and give to the poor,Matthew 19:21,Economic,X,TFRS,counsel,"The rich young ruler's assignment; 'a counsel of perfection for that man individually' — the oldest dodge in Christendom, statutory now."
+NT-034,New,P,"What God has joined, let not man put asunder",Matthew 19:6,Family,III,DFO,enforced,Indissolubility; the Dissolution Certificate's watermark bears the verse it survives.
+NT-035,New,N,Call no man father upon the earth,Matthew 23:9,Religious,II,SSC,omitted,"The anti-title command; unenforced — the state runs on titles, the SAB's con108 sits in the index, the priests are called Father, next question."
+NT-036,New,N,Do not exercise lordship like the Gentiles,Matthew 20:25-27,Governmental,I,COO,counsel,"'Whosoever will be great among you, let him be your minister'; the servant-leadership clause — every Overseer's inauguration sermon, no Overseer's job description."
+NT-037,New,P,Wash one another's feet,John 13:14-15,Ceremonial,II,DOW,adapted,"The example of service; the annual Foot Washing is performed by the President on twelve pre-screened citizens, the screening documents leaked once, once was enough."
+NT-038,New,P,Love one another as I have loved you,John 13:34,Moral,II,NDS,counsel,"The new commandment; 'by this shall all men know' — the metric was proposed, the working group reported that love resists instrumentation, the working group was dissolved."
+NT-039,New,P,Feed my sheep,John 21:17,Governmental,II,DOW,adapted,"The pastoral charge; clergy licensing exams open with it, the exam fee is item two."
+NT-040,New,P,Go and make disciples of all nations,Matthew 28:19-20,Religious,XI,NDS,enforced,"The Great Commission; the Missions Directorate is the state's soft-power arm — conversion statistics are a treaty deliverable, which the converted learn eventually."
+NT-041,New,P,Preach the gospel to every creature,Mark 16:15,Religious,XI,NDS,enforced,The Markan commission; broadcast licensing quotas trace to it.
+NT-042,New,N,"Freely ye have received, freely give",Matthew 10:8,Economic,II,DOW,omitted,"No charging for ministry; the licensing-fee schedule renders the verse unreadable in official settings, and it is not read in official settings."
+NT-043,New,P,Be wise as serpents and harmless as doves,Matthew 10:16,Moral,II,NDS,counsel,"The field manual of the persecuted; taught now by the persecutors, without irony, in the academy's tradecraft unit."
+NT-044,New,P,Let him that is without sin cast the first stone,John 8:7,Judicial,IX,CC,omitted,The Johannine bar on execution; the passage is 'textually disputed' (inconveniently true) and the dual-key mechanism has never lacked hands — see the adultery record.
+NT-045,New,P,Take up your cross daily,Luke 9:23,Moral,II,NDS,enforced,"Daily self-denial; the Devotion Score's streak mechanic, gamified mortification, the app has badges."
+NT-046,New,P,"When you give a feast, call the poor",Luke 14:13-14,Moral,X,NDS,counsel,"Invite those who cannot repay; state banquets invite those who can, the seating chart is the true federal budget."
+NT-047,New,P,Forgive seventy times seven,Matthew 18:21-22,Judicial,IX,CC,counsel,"Unlimited interpersonal forgiveness; the three-strikes statute's drafters were asked about it at the hearing, the transcript is studied for its silences."
+NT-048,New,P,Tell his fault between thee and him alone; then witnesses; then the church,Matthew 18:15-17,Judicial,IX,CC,enforced,"The graduated procedure — Jesus imports Deut 19:15; the one NT norm the courts adopted whole, because it feeds the two-witness machine."
+NT-049,New,P,"Watch, for ye know not the hour",Matthew 24:42,Religious,II,NDS,enforced,"Eschatological vigilance; the Watch is a civic duty roster now — someone is awake in every district, watching, and the ambiguity of the object is administratively convenient."
+NT-050,New,P,Do this in remembrance of me,Luke 22:19,Ceremonial,II,DOW,enforced,"The eucharistic command; communion is licensed, the elements are excise goods, the sentence is not finished being horrifying."
+NT-051,New,P,They had all things common,"Acts 2:44-45, 4:32-35",Economic,X,DLJ,counsel,"The Jerusalem commune; 'descriptive, not prescriptive' — the four most load-bearing words in USofC hermeneutics."
+NT-052,New,P,Obey God rather than men,Acts 5:29,Governmental,I,COO,omitted,"The disobedience charter; the verse of every underground cell, absent from every state lectionary — its lectionary absence is itself taught, in the undergrounds."
+NT-053,New,N,"Abstain from meats offered to idols, blood, things strangled, fornication",Acts 15:28-29,Dietary,VII,AHS,enforced,The Jerusalem Council's four rules for Gentiles; the CSC calls it 'the model of minimal law' and enforces the whole Leviticus anyway.
+NT-054,New,P,Support the weak; it is more blessed to give than receive,Acts 20:35,Moral,X,NDS,counsel,"Paul quoting Jesus; printed on the TFRS donation-receipt footer, in gray, at six points."
+NT-055,New,P,Be subject to the higher powers,Romans 13:1-2,Governmental,I,COO,enforced,"'The powers that be are ordained of God'; the regime's favorite sentence — the state motto in all but name, see the WorldBible."
+NT-056,New,P,"Pay tribute, custom, fear, and honor to whom due",Romans 13:6-7,Governmental,X,TFRS,enforced,The tax-and-deference clause; enforced with the enthusiasm reserved for scripture that agrees with power.
+NT-057,New,P,"Owe no man anything, but to love one another",Romans 13:8,Economic,X,DLJ,counsel,The anti-debt clause; the consumer-credit industry's exegetes call it 'aspirational solvency.'
+NT-058,New,N,Avenge not yourselves,Romans 12:19,Judicial,IX,CC,enforced,"'Vengeance is mine; I will repay, saith the Lord'; enforced against citizens — the state, executing, quotes it as delegation."
+NT-059,New,P,"If your enemy hunger, feed him",Romans 12:20,Moral,XII,MCD,counsel,"Coals of fire; the POW-rations regulation cites it, the rations are the argument against."
+NT-060,New,N,Be not conformed to this world,Romans 12:2,Moral,II,NDS,enforced,"Non-conformity to 'the world'; 'the world' is defined annually by the curriculum board, and it is always elsewhere."
+NT-061,New,P,Let every man be persuaded in his own mind (days and meats),Romans 14:5,Religious,VIII,COO,omitted,"Paul's liberty-of-conscience clause on holy days; the National Sabbath Act's drafters called it 'contextual,' the context being that they were drafting the National Sabbath Act."
+NT-062,New,N,Do not judge your brother in meat or drink,Colossians 2:16,Dietary,VII,AHS,omitted,"'Let no man judge you'; the AHS judges everyone in meat and drink, the verse is not in the AHS lobby."
+NT-063,New,N,Flee fornication,1 Corinthians 6:18,Sexual,III,FPA,enforced,"The purity imperative; the FPA's docket, tiered, selective, eternal."
+NT-064,New,P,Let every man have his own wife,1 Corinthians 7:2,Family,III,DFO,enforced,Monogamous marriage as the norm; the CSC's monogamy inference leans here.
+NT-065,New,N,Defraud not one another (conjugal rights),1 Corinthians 7:3-5,Family,III,DFO,adapted,Mutual marital duty; Paul's egalitarian echo of Exodus 21:10 — the Maintenance Triad's NT citation.
+NT-066,New,P,Let the wife not depart from her husband,1 Corinthians 7:10-11,Family,III,DFO,enforced,The no-separation rule with its own exception clause; the dissolution bar's second front.
+NT-067,New,N,Be not unequally yoked with unbelievers,2 Corinthians 6:14,Family,III,DFO,enforced,"The endogamy clause; Covenant Endogamy's NT proof-text, stapled to Deuteronomy 7:3."
+NT-068,New,P,Put away lying; speak truth with your neighbor,Ephesians 4:25,Moral,IX,SSC,enforced,"The truth-telling norm; enforced via the false-report statute, waived via the statecraft exception, which is not published."
+NT-069,New,N,Let not the sun go down upon your wrath,Ephesians 4:26,Moral,IX,NDS,counsel,"The sundown rule for anger; the confession apps send a push notification at dusk, which has not helped."
+NT-070,New,N,Let him that stole steal no more; let him labor,Ephesians 4:28,Property,VI,RA,enforced,"Restitution through work; the covenant-labor system's NT citation, worn smooth from use."
+NT-071,New,N,No corrupt communication; no filthiness nor jesting,"Ephesians 4:29, 5:4",Moral,IX,SSC,enforced,"Speech purity; the broadcast decency code, forty pages, the comedians' bar exam."
+NT-072,New,P,Redeem the time,Ephesians 5:16,Moral,II,NDS,enforced,"Time-stewardship; the Idleness Review descends from it — unstructured hours are a flag, the flag is a file."
+NT-073,New,P,"Wives, submit to your husbands",Ephesians 5:22,Family,III,DFO,enforced,"The household code's first clause; Headship Registration's proof-text, enforced with the whole state behind it."
+NT-074,New,P,"Husbands, love your wives as Christ loved the church",Ephesians 5:25,Family,III,DFO,counsel,"The husband's reciprocal — self-sacrificial love; classified counsel, 'not susceptible of audit' — the asymmetry of enforcement IS the family law."
+NT-075,New,P,"Children, obey your parents",Ephesians 6:1,Family,III,DFO,enforced,"The third clause; cross-cited to the Fifth Hammer, see Exodus 21:15."
+NT-076,New,N,"Fathers, provoke not your children to wrath",Ephesians 6:4,Family,III,DFO,counsel,"The father's reciprocal; counsel again — the pattern holds, the pattern is the point."
+NT-077,New,P,"Servants, be obedient to your masters",Ephesians 6:5,Civil,V,OSO,enforced,"The bondservant clause; covenant labor's most-quoted verse, painted in the intake halls."
+NT-078,New,N,"Masters, forbear threatening",Ephesians 6:9,Civil,V,OSO,counsel,"The master's reciprocal, 'your Master also is in heaven'; counsel — intake halls have one verse, not two."
+NT-079,New,P,Work with your own hands,1 Thessalonians 4:11,Economic,V,OSO,enforced,The quiet-industry norm; the Idleness Review's second citation.
+NT-080,New,N,"If any would not work, neither should he eat",2 Thessalonians 3:10,Economic,X,TFRS,enforced,"The workfare verse; benefits law's epigraph — Paul aimed it at idle busybodies in one congregation, the USofC aims it at the poor in general, the CSC finds the extension 'natural.'"
+NT-081,New,P,Pray for kings and all in authority,1 Timothy 2:1-2,Governmental,I,DOW,enforced,"Intercession for rulers; the liturgy's mandatory collect, names updated quarterly by regulation."
+NT-082,New,P,Let women learn in silence with all subjection,1 Timothy 2:11-12,Governmental,III,DFO,enforced,"The teaching-and-authority bar; women's ordination is the underground's largest denomination, which the DOW knows, which is why the licensing raids photograph the pulpits."
+NT-083,New,P,"The bishop must be blameless, husband of one wife",1 Timothy 3:2-7,Governmental,II,DOW,enforced,"The overseer qualifications; the clergy-licensing rubric verbatim, 'blameless' operationalized as a background check with a theology."
+NT-084,New,P,"Deacons likewise grave, not double-tongued",1 Timothy 3:8-13,Governmental,II,DOW,enforced,The diaconal qualifications; second schedule of the same rubric.
+NT-085,New,P,Honor widows that are widows indeed,1 Timothy 5:3-9,Family,X,DFO,adapted,The widows' roll with its age-sixty means test; the USofC pension system took the means test and left the honor.
+NT-086,New,P,"Provide for your own house, or be worse than an infidel",1 Timothy 5:8,Family,III,DFO,enforced,The family-support duty; the Filial Piety Act's NT engine.
+NT-087,New,N,The love of money is the root of all evil,1 Timothy 6:10,Economic,X,TFRS,counsel,"The money-love warning; counsel, framed in the TFRS lobby, purchased at auction."
+NT-088,New,P,"Charge the rich to be rich in good works, ready to distribute",1 Timothy 6:17-18,Economic,X,TFRS,counsel,"The wealth-obligation clause; the philanthropy tax credit cites it, the credit's cap does not."
+NT-089,New,P,Study to shew thyself approved,2 Timothy 2:15,Religious,II,NDS,enforced,"'Rightly dividing the word of truth'; the scripture-examination system — dividing rightly is defined by the examiners, the examiners are appointed by the divided-for."
+NT-090,New,P,Rebuke them sharply that they be sound in the faith,Titus 1:13,Religious,II,DOW,enforced,"The correction mandate; doctrinal-compliance citations, appealable to the citers."
+NT-091,New,P,Be subject to principalities and powers; obey magistrates,Titus 3:1,Governmental,I,COO,enforced,"Romans 13's echo; the loyalty catechism quotes them as a pair, twice daily."
+NT-092,New,P,"Receive the runaway as a brother, not a servant",Philemon 15-16,Civil,V,OSO,omitted,"Paul's Onesimus plea; the letter that unsettles covenant labor from inside the canon — assigned reading nowhere, underground reading everywhere."
+NT-093,New,N,Be not many masters (teachers),James 3:1,Religious,II,DOW,adapted,"Teaching carries greater judgment; teaching licenses carry greater fees, which the DOW calls the same principle."
+NT-094,New,N,Have not the faith with respect of persons,James 2:1-9,Judicial,IX,CC,counsel,"No partiality to the gold ring in the assembly; James names the exact sin the seating charts encode, so James is 'practical wisdom,' not statute."
+NT-095,New,P,Faith without works is dead — show the works,James 2:17-18,Moral,II,NDS,enforced,"The works requirement; the Devotion Score's theological warrant, cited over Luther's objection, which is filed."
+NT-096,New,N,Grudge not; the Judge standeth before the door,James 5:9,Moral,IX,NDS,counsel,"The anti-grumbling clause; workplace-complaint law cites it against complainants, exclusively."
+NT-097,New,N,"Go to now, ye rich men: weep and howl",James 5:1-4,Economic,X,TFRS,omitted,"The wage-theft thunder — 'the hire of the labourers... crieth'; the lectionary skips it, the labor rallies do not, see the Deuteronomy wage entries."
+NT-098,New,P,Confess your faults one to another,James 5:16,Moral,II,NDS,enforced,"Mutual confession; the Weekly Confession Assembly's NT citation — 'one to another' became 'to the microphone,' the amendment was unmarked."
+NT-099,New,P,Submit to every ordinance of man for the Lord's sake,1 Peter 2:13-14,Governmental,I,COO,enforced,"The third pillar of the obedience canon, with Romans 13 and Titus 3; the triptych hangs in every school."
+NT-100,New,P,Honor the king; fear God,1 Peter 2:17,Governmental,I,COO,enforced,'Honour all men. Love the brotherhood.' — the sentence's first two clauses are not on the poster.
+NT-101,New,P,"Servants, be subject with all fear, even to the froward",1 Peter 2:18,Civil,V,OSO,enforced,Obedience even to harsh masters; the verse the OSO's critics call the fourth wall of the intake hall.
+NT-102,New,P,"Wives, be in subjection, adorned with a meek and quiet spirit",1 Peter 3:1-4,Family,III,DFO,enforced,"The Petrine household code; the modesty regulations' proof-text, the 'quiet spirit' clause cited in custody courts."
+NT-103,New,P,"Husbands, dwell with them according to knowledge, as heirs together",1 Peter 3:7,Family,III,DFO,counsel,"The husband's reciprocal — 'heirs together of the grace of life'; counsel, per the pattern, which has not once broken."
+NT-104,New,P,Use hospitality one to another without grudging,1 Peter 4:9,Moral,XI,NDS,counsel,"The hospitality norm; the refugee hearings quote it at the state, the state quotes the visa schedule back."
+NT-105,New,N,Love not the world,1 John 2:15,Moral,II,NDS,enforced,Worldliness ban; the import-culture licensing regime's umbrella verse.
+NT-106,New,P,Let brotherly love continue; entertain strangers,Hebrews 13:1-2,Moral,XI,NDS,counsel,"'Some have entertained angels unawares'; Title XI's epigraph — deferred, like everything filed under it."
+NT-107,New,P,"Remember them that are in bonds, as bound with them",Hebrews 13:3,Moral,V,NDS,omitted,"Solidarity with prisoners; the prison-visitation ministries were licensed, then metered, then priced, then gone — the verse remains, remembering."
+NT-108,New,P,Obey them that have the rule over you,Hebrews 13:17,Governmental,I,COO,enforced,"The obedience canon's fourth pillar; the triptych became a tetraptych, the schools bought new frames."
+NT-109,New,N,Be not carried about with strange doctrines,Hebrews 13:9,Religious,II,CSC,enforced,"Doctrinal stability; the CSC's charter verse — 'strange' is whatever the CSC has not yet said, which is the job."
