@@ -15,7 +15,9 @@ and one telling institutional detail.
   certifies all legislation as "consonant with Scripture." The real
   supreme court. Seats are held for life, denominationally apportioned by
   a formula everyone disputes (see docs/DenominationalNotes.md). Modeled
-  on Iran's Guardian Council (see docs/ConstitutionalModel.md).
+  on Iran's Guardian Council (see docs/ConstitutionalModel.md). The 1 Tim
+  3:2 qualifications (Const. Art. III §2) are reviewed once, at
+  nomination, and never audited again for the remainder of a life term.
 - **The Chief Overseer** — presiding chair of the Council; head of the
   clerical apparatus. On paper a first-among-equals; in fact the office
   the Supremacy Crisis grew into a Supreme Leader in all but the title the

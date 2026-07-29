@@ -27,6 +27,36 @@ Code of Christ"). Chapters correspond to source books where practical.
 
 ## Title I — The Covenant
 
+### USC-C I.2.1 — The King's Standard (Presidential Conduct)
+
+*Source: `Constitution.md` Art. II §7 (the bare standard: the President's
+personal and financial conduct "shall meet the standard set for kings in
+Deuteronomy 17:16-17"). This statute, certified by CSC ruling 1-05
+(`DenominationalNotes.md`), defines what that standard requires.*
+
+**Section 1. Horses.** The President may not maintain a private military
+force, private security company, or armored transport fleet beyond what
+the Ministry of Covenant Defense provides for the office (Deut 17:16).
+Aircraft, naval vessels, and armored escorts operated by the Ministry of
+Covenant Defense in the ordinary course of national defense are not
+"multiplication" within the meaning of this Section.
+
+**Section 2. Wives.** The President may not, at any time during his
+term, be married to more than one living wife, nor maintain any other
+household resembling marriage (Deut 17:17). A finding of violation under
+this Section is conclusive and non-waivable; the Council's confirming
+power (Const. Art. III §1) attaches automatically upon certification of
+the finding, and no defense of intent, ignorance, or subsequent
+correction is available.
+
+**Section 3. Silver and Gold.** The President may not accumulate
+personal wealth beyond what the Code allows for a citizen of his
+sanctity tier (Deut 17:17). This requirement is satisfied only by a
+blind trust the Council has certified under its ordinary trust-
+certification authority (Const. Art. III §4).
+
+---
+
 ### USC-C I.5.1 — The Covenant Admission Act
 
 *Source: `Constitution.md` Art. V §4 (the bare admission clause, grounded
@@ -73,6 +103,56 @@ declines to reach — see `StateDoctrine.md` §1a.)*
 
 ---
 
+## Title X — Revenue
+
+### USC-C X.1.1 — The Ordinary Revenue Instruments
+
+*Source: `Constitution.md` Art. VII §1 (the bare grant: revenue includes
+the Tithe, Firstfruits Assessment, Half-Shekel, Bakery Levy, and Festival
+Appearance Levy). This statute implements each as a modern collection
+instrument.*
+
+**Section 1. The Tithe** (Num 18:21) is withheld from wages at the
+source by every employer of record, before the wage reaches the citizen,
+at the rate the Code fixes.
+
+**Section 2. The Firstfruits Assessment** (Deut 26:2) is levied annually
+on the increase of every estate — realized gains, in ordinary terms —
+and administered by the Tithe & Firstfruits Revenue Service (TFRS) on
+the same schedule as the Tithe.
+
+**Section 3. The Half-Shekel** (Ex 30:15) is collected as a flat annual
+citizenship-renewal fee, identical in amount for every citizen regardless
+of means.
+
+**Section 4. The Bakery Levy** (Num 15:20) is owed by every licensed
+baker on the first batch of each day's production, collected by the
+Bureau of Daily Bread.
+
+**Section 5. The Festival Appearance Levy** (Deut 16:16) is the fee for
+the travel permit required to attend the mandatory pilgrimage festivals
+(Const. Art. VIII §2).
+
+### USC-C X.1.2 — Clean Tender
+
+*Source: `Constitution.md` Art. VII §2 (the bare prohibition on bringing
+unclean tender into the church, Deut 23:18). This statute defines what
+other income the Treasury treats as tainted.*
+
+**Section 1.** In addition to the proceeds of prostitution (Deut 23:18),
+the following are tainted tender and may not be deposited, transferred,
+or tithed through any licensed financial institution: earnings from
+commercial sexual content; earnings from wagering and games of chance;
+earnings from the cultivation or sale of any substance Title VII
+forbids; and wages paid for labor rendered by a person without settled
+citizenship or registered-stranger status.
+
+**Section 2.** A citizen who receives tainted tender unknowingly and
+reports it within thirty days is not liable for its receipt, but the
+tender itself is forfeit.
+
+---
+
 ## Title XI — Aliens & Strangers
 
 ### USC-C XI.1.1 — Exclusions from the Congregation
@@ -104,13 +184,14 @@ registration and is lifted only by a genealogical rulemaking of the
 Department of Righteousness, reviewable by the Council under Article I,
 Section 2, and by no other body.
 
-*(First section actually drafted under this Title — see the parent note
-in `Constitution.md`'s closing apparatus on why the Constitution itself
-no longer states these classes directly.)*
+*(First section actually drafted under this Title. `Constitution.md`
+Art. VI §2 states the citizenship principle only and points here for the
+operative classes — see the project's standing rule: the Constitution
+defines institutions and powers, the Code defines what's illegal.)*
 
 ---
 
-*Otherwise, no sections drafted yet beyond Title I §5.1 and Title XI
-§1.1, above. Next candidates from the seed extraction:
+*Sections drafted so far: Title I §2.1 and §5.1; Title X §1.1 and §1.2;
+Title XI §1.1. Next candidates from the seed extraction:
 `exo-020-008-remember-the-sabbath` (Title II) and
 `exo-021-002-hebrew-servant-six-years` (Title V).*

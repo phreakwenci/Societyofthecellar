@@ -67,6 +67,72 @@ Current bloc politics:
 | CSC 1-02 | Sermon on the Mount vs. criminal code | "Eschatological counsel, not civil statute" | Every prosecutor |
 | CSC 1-03 | Jubilee (Lev 25) vs. banking | "Requires a functioning Temple; held in abeyance" | Every creditor |
 | CSC 1-04 | Usury ban (Ex 22:25) vs. mortgages | "Thy brother" construed as fellow communicant *of the same congregation* | Interstate banking |
+| CSC 1-05 | "Multiply horses/wives/gold" (Deut 17:16-17) vs. a modern presidency | Personal-possessive construction excludes state defense assets; wives clause is strict, zero-tolerance; wealth satisfied by certified blind trust | Lets the President command a national military without violating the horses clause; makes the wives clause the real removal mechanism |
+| CSC 1-06 | Silent video recordings vs. auditory-dependent statutes (e.g. Deut 22:23-27's cry-out rule) | A recording is a witness to presence, not to sound; supplies no evidence on an auditory question either way | Leaves the cry-out exculpation effectively impossible to invoke from camera evidence alone |
+
+## Full text of selected rulings
+
+*Reproduced in the Committee's own voice — dense theological reasoning,
+not administrative summary. Codified as statute in `FederalCode.md`;
+summarized above for quick reference.*
+
+### CSC 1-05 — Multiplication, Defined
+
+*Certified Year 2. Binding on all courts per `Constitution.md` Art. III
+§5; codified as `FederalCode.md` USC-C I.2.1.*
+
+**Question presented.** Does Deuteronomy 17:16's prohibition on the king
+multiplying horses to himself extend to a modern national defense
+apparatus — fleets, aircraft, armored transport — maintained by the state
+rather than by the king personally?
+
+**Holding.** No. The text specifies horses gathered "to himself" — a
+possessive construction denoting personal accumulation, not national
+provision. Solomon's violation (1 Kings 4:26; 10:26) was not that Israel
+possessed horses, but that the king built a private establishment
+answerable to his own household rather than to the nation's defense. The
+Ministry of Covenant Defense's assets are held by the Ministry, commanded
+by the President only in his official capacity, and revert to the
+Ministry upon his leaving office. They are therefore not "to himself"
+and fall outside the prohibition.
+
+**On wives.** 1 Kings 11:1-4 supplies the operative theology: Solomon's
+many wives "turned away his heart" — the prohibition targets divided
+loyalty, not a numerical technicality. The Committee finds no safe
+harbor short of full compliance, since divided loyalty is established the
+moment a second loyalty exists, not at some higher count. This ruling
+admits no case-by-case mitigation.
+
+**On silver and gold.** Deuteronomy 17:17's "greatly multiply" is a
+doubled Hebrew intensive construction — the prohibition is against
+active, ostentatious accumulation, not against holding wealth as such
+(cf. Job's restored fortune, Job 42:10, which Scripture treats as
+blessing, not sin). A blind trust — wealth held but not directed by its
+owner — satisfies the doubled intensive's demand that the king not
+actively pursue increase, provided the trust is genuinely blind.
+Certifying blindness is committed to the Council's ordinary trust-
+certification authority and is not further defined here.
+
+### CSC 1-06 — Recorded Evidence and the Two-Witness Rule
+
+*Certified Year 4. Binding on all courts per `Constitution.md` Art. III
+§5.*
+
+**Question presented.** Does a video recording without audio satisfy
+Exodus 20:16 and Deuteronomy 19:15's witness requirement, where the
+underlying statute's operative question is auditory rather than visual —
+for instance, Deuteronomy 22:23-27's cry-out rule, which turns on whether
+a woman was heard, not merely seen?
+
+**Holding.** A recorded image is a witness as to what it depicts —
+presence, location, physical acts — and no more (`Constitution.md` Art.
+IV §2). It is not a witness as to a sound it did not capture. Where a
+statute's operative question is auditory, a silent recording answers a
+different question than the one the statute asks, and may not be treated
+as resolving it. The Committee declines to hold that the absence of
+audio evidence supplies a negative inference either way; it supplies no
+evidence on the question at all, and the burden accordingly rests where
+the underlying statute places it.
 
 ## Contradiction analyses
 

@@ -228,6 +228,13 @@ had themselves written. The First Amendment was already gone by repeal
 (Art. X §2); now the *retained* protections began to hollow, not by
 deletion but by ruling.
 
+**The Presidential veto (Art. II §5) died the same quiet way.** The clause
+is real on its face — the President may decline to sign a certified act —
+but the Council's re-certification power was always going to outlast it,
+and did, every time it was tried. By the end of Year 3, no veto in the
+nation's history had survived a second certification. The office never
+lost the power on paper. It simply never once worked.
+
 **The quietest certification of these years touched no one's rights on
 paper at all.** Women's local and municipal offices — Tribal council
 seats, school boards, zoning and licensing boards — were certified out of
